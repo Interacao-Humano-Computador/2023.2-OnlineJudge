@@ -5,8 +5,15 @@ nav:
   - Primeira Entrega:
       - Planejamento do Projeto: primeira-entrega/planejamento-projeto.md
       - Equipe: primeira-entrega/equipe.md
-      - Lista dos sites avaliados: primeira-entrega/sites-avaliados.md
       - O site escolhido: primeira-entrega/site-escolhido.md
       - Ferramentas do Projeto: primeira-entrega/ferramentas.md
       - Processo de Design: primeira-entrega/processo-design.md
       - Cronograma das Atividades: primeira-entrega/cronograma-atividades.md
+      - Sites Avaliados: 
+          - Site Eric: primeira-entrega/sites-avaliados/site-eric.md
+          - Site Ester: primeira-entrega/sites-avaliados/site-ester.md
+          - Site Henrique: primeira-entrega/sites-avaliados/site-henrique.md
+          - Site Kallyne: primeira-entrega/sites-avaliados/site-kallyne.md
+          - Site Luana: primeira-entrega/sites-avaliados/site-luana.md
+          - Site Pablo: primeira-entrega/sites-avaliados/site-pablo.md
+          - Site Suzane: primeira-entrega/sites-avaliados/site-suzane.md
