@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Online-Judge
+
+nav:
+  - Sobre: index.md
+  - Primeira Entrega:
+      - Planejamento do Projeto: primeira-entrega/planejamento-projeto.md
+      - Equipe: primeira-entrega/equipe.md
+      - Lista dos sites avaliados: primeira-entrega/sites-avaliados.md
+      - O site escolhido: primeira-entrega/site-escolhido.md
+      - Ferramentas do Projeto: primeira-entrega/ferramentas.md
+      - Processo de Design: primeira-entrega/processo-design.md
+      - Cronograma das Atividades: primeira-entrega/cronograma-atividades.md
