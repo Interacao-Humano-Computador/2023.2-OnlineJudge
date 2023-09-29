@@ -27,12 +27,19 @@ O site em questão consiste em uma plataforma de juiz online chamada [Online Jud
 
 ## Instruções para colaborar com o projeto 
 
-Para realizar a configuração da documentação desse projeto é necessário instalar o mkdocs nas depedências locais do seu computador. Para isso, inicialmente basta rodar os seguintes comandos:
+1. Para realizar a configuração da documentação desse projeto é necessário instalar o python e o pip em sua máquina
+
+2. Posteriormente, também é necessário instalar o mkdocs nas depedências locais do seu computador. Para isso, basta rodar os seguintes comandos:
 
 ```bash
 pip install mkdocs
 pip install mkdocs-material
 ```
+3. Para executar a documentação localmente basta rodar 
+```bash
+mkdocs serve
+```
+
 ## Histórico de Versões 
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
