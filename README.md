@@ -39,6 +39,10 @@ pip install mkdocs-material
 ```bash
 mkdocs serve
 ```
+4. Para atualizar a documentação é necessário gerar um novo deploy através do comando
+```bash
+mkdocs gh-pages
+```
 
 ## Histórico de Versões 
 
