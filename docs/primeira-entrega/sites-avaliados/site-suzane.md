@@ -1,6 +1,6 @@
 # **Sites avaliados**
 
-## [_Alagoas.gov_]( https://alagoas.al.gov.br/ )
+## [_Alagoas.gov_](https://alagoas.al.gov.br/)
 
 > **_Aluno(a)_**: Suzane Alves Duarte  
 > **_Matricula_**: 211045196
@@ -9,11 +9,11 @@
 
 - Esclarecer quais os pontos de melhoria do site de referência
 - Determinar o quão fácil é para os usuários realizar as atividades
-específicas do site
+  específicas do site
 - Medir a eficiência das interações do usuário com a interface do sistema
 - Verificar se a interface é acessível a todos
 - Verificar se a interface segue os princípios de design de interação, como
-consistência, feedback claro, affordances e outros princípios de usabilidade
+  consistência, feedback claro, affordances e outros princípios de usabilidade
 
 ## **2. Questões cuja avaliação pretende responder**
 
@@ -27,7 +27,7 @@ consistência, feedback claro, affordances e outros princípios de usabilidade
 
 **C.** O site está otimizado para dispositivos móveis?
 
-- Não, os mesmos problemas, principalmente de design, encontrados na versão web também são encontrados na versão mobile.  
+- Não, os mesmos problemas, principalmente de design, encontrados na versão web também são encontrados na versão mobile.
 
 **D.** A estrutura de navegação do site é intuitiva?
 
@@ -40,11 +40,17 @@ consistência, feedback claro, affordances e outros princípios de usabilidade
 ## **3. Métodos e as técnicas utilizados**
 
 - Foi utilizado o método de Observação e Investigação. Durante minha análise foi
-possível realizar uma imersão no ambiente dos usuários por um certo período.Dessa forma, pude observar que o propósito do site não se assemelha com o que o usuário pretende encontrar ao utilizá-lo, uma vez que o site atualmente funciona
-como um “jornal” do governo de alagoas, e não como uma ferramenta para os cidadãos alagoenses buscarem para agilizar os serviços prestados pelo estado.
+  possível realizar uma imersão no ambiente dos usuários por um certo período.Dessa forma, pude observar que o propósito do site não se assemelha com o que o usuário pretende encontrar ao utilizá-lo, uma vez que o site atualmente funciona
+  como um “jornal” do governo de alagoas, e não como uma ferramenta para os cidadãos alagoenses buscarem para agilizar os serviços prestados pelo estado.
 
 ## **4. Conclusão**
 
 - A partir dos dados coletados, foi possível avaliar tendências sobre a ocorrência de problemas no site, principalmente gerados por conta de o site não ter se
-mostrado intuitivo e minimalista o suficiente. Além disso, o principal problema encontrado é que o site não se propõe a oferecer seus serviços de forma eficiente, uma vez que seu principal objetivo tem sido repassar informações advindas do
-governo (o que parece conflitar com o interesse do usuário).
+  mostrado intuitivo e minimalista o suficiente. Além disso, o principal problema encontrado é que o site não se propõe a oferecer seus serviços de forma eficiente, uma vez que seu principal objetivo tem sido repassar informações advindas do
+  governo (o que parece conflitar com o interesse do usuário).
+
+## Histórico de versão
+
+| Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
+| :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
+|  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | Pablo Guilherme, Ester Flores | Suzane Duarte |

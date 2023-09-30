@@ -29,3 +29,9 @@
 
 * Por fim, considerando a escala de Nielsen (MACIEL, NOGUEIRA et. al, 2004, p. 3) para classificar os problemas encontrados durante a inspeção da interface, observa-se que o site
 apresenta erros de usabilidade considerados, em sua maioria, simples (pode ser reparado, com baixa prioridade de correção) ou grave (deve ser reparado, com alta prioridade de correção).
+
+## Histórico de versão
+
+| Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
+| :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
+|  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | Pablo Guilherme, Ester Flores | Suzane Duarte |
