@@ -49,3 +49,4 @@ mkdocs gh-deploy
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
 | 29/09/2023| `1.0` | Versão inicial de documento de descrição do projeto | Suzane Alves Duarte| Luana Souza |
+| 30/09/2023| `1.1` | Atualização do comando do deploy | Pablo Guilherme| Ester Flores |
