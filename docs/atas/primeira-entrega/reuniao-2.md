@@ -59,4 +59,4 @@
 
 | Versão |    Data    |           Descrição            |          Responsáveis          |    Revisor    |
 | :----: | :--------: | :----------------------------: | :----------------------------: | :-----------: |
-|  1.0   | 01/10/2023 | Adicionando a ata no git pages | Pablo Guilherme, Suzane Duarte | Suzane Duarte |
+|  1.0   | 01/10/2023 | Adicionando a ata no git pages | [Pablo Guilherme](github.com/PabloGJBS), [Suzane Duarte](github.com/suzaneduarte) |  [Suzane Duarte](github.com/suzaneduarte) |

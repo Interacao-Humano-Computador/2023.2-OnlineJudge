@@ -12,7 +12,7 @@
 
 - No entanto, todas as demais reuniões previstas pelo Scrum, como o planejamento (planning), a revisão (review) e a retrospectiva (retro), serão conduzidas conforme o framework. Além disso, selecionaremos um dos membros da equipe para atuar como um Scrum Master, responsável por liderar e facilitar todas as reuniões e garantir a aplicação adequada do Scrum em nosso processo de desenvolvimento.
 
-- Por fim, é importante destacar que nosso projeto será estruturado em iterações chamadas de Sprints, com uma duração média de aproximadamente uma semana e meia. Essa abordagem nos permitirá estabelecer metas e objetivos específicos a serem alcançados em intervalos de tempo relativamente curtos, contribuindo para uma gestão mais eficaz e acompanhamento mais preciso do progresso do projeto.
+- Por fim, é importante destacar que nosso projeto será estruturado em iterações chamadas de Sprints, com uma duração média de aproximadamente uma semana e meia. Essa abordagem nos permitirá estabelecer metas e objetivos específicos a serem alcançados em intervalos de tempo relativamente curtos, contribuindo para uma gestão mais eficaz e acompanhamento mais preciso do progresso do projeto. As reuniões das Sprints serão definidas conforme o desimpedimento apresentado por cada participante da equipe no [heatmap de disponibilidade](https://i.snipboard.io/oXqm5p.jpg).
 
 ## **Kanban**
 
@@ -26,4 +26,5 @@
 
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :---------------------------: | :-----------: |
-|  1.0   | 01/10/2023 | Foi adicionado a página sobre as metodologias | Henrique Torres |  |
+|  1.1   | 01/10/2023 | Adição heatmap de disponibilidade | Kallyne Macedo | Ester Flores |
+|  1.0   | 01/10/2023 | Foi adicionado a página sobre as metodologias | Henrique Torres | Kallyne Macedo |

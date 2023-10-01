@@ -39,3 +39,20 @@
 | 2   | As ferramentas utilizadas serão: Teams, Whatsapp, Figma, Miro, Mkdocks, GitHub, Sheets, Youtube |
 | 3   | Análise dos ciclos de vida: Nielse,Mayhew(escolhido),Simples, Estrela                           |
 | 4   | Metodologia escolhida: Scrum Kamban                                                             |
+
+### **6. Compromissos**
+
+| N°  | Compromisso                                   | Responsável   | Data       |
+| --- | --------------------------------------------- | ------------- | ---------- |
+| 1   | Responsável pela ata                          | Eric          | 25/09/2023 |
+| 2   |Ferramentas                                    | Suzane        | 25/09/2023 |
+| 3   | Ciclo de vida                                 | Pablo e Ester | 25/09/2023 |
+| 4   |  Cronograma V0       | Kallyne e Luana | 25/09/2023 |
+| 5   |  Metodologia | Henrique       | 25/09/2023 |
+| 6   | Avaliação de sites           | Todos         | 25/09/2023 |
+
+### Histórico de Versão
+
+| Versão |    Data    |           Descrição            |          Responsáveis          |    Revisor    |
+| :----: | :--------: | :----------------------------: | :----------------------------: | :-----------: |
+|  1.0   | 01/10/2023 | Adicionando a ata no git pages | [Pablo Guilherme](github.com/PabloGJBS), [Suzane Duarte](github.com/suzaneduarte) |  [Suzane Duarte](github.com/suzaneduarte) |

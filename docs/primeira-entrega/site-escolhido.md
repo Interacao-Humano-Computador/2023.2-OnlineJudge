@@ -20,7 +20,7 @@
 
 #### **Escolher os métodos de avaliação a serem utilizados**
 
-- Serão utilizados os métodos de inspeção com avaliação heuristica, Observação. O método de inspeção nos fornecerá insights valiosos sobre as opiniões, expectativas e comportamentos dos usuários, enquanto o método de Observação nos permitirá identificar os desafios que os usuários reais enfrentam durante a interação com a página e avaliar a experiência de uso.
+- Será utilizado o método de inspeção com avaliação heuristica. O método de inspeção irá contribuir na busca por problemas de usabilidade. Os avaliadores irão inspecionar a interface e selecionar as partes que serão avaliadas.
 
 #### **Identificar e administrar as questões práticas da avaliação**
 
