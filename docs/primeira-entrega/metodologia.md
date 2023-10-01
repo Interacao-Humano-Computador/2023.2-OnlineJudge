@@ -26,5 +26,5 @@
 
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :---------------------------: | :-----------: |
-|  1.1   | 01/10/2023 | Adição heatmap de disponibilidade | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino) |
 |  1.0   | 01/10/2023 | Foi adicionado a página sobre as metodologias | [Henrique Torres](https://github.com/henriqtorresl) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.1   | 01/10/2023 | Adição heatmap de disponibilidade | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino) |
