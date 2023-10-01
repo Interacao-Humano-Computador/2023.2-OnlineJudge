@@ -6,26 +6,25 @@
 
 ## Cronograma geral
 
-<figcaption align="center">Tabela 1 - Cronograma geral da equipe.</figcaption>
+<br><figcaption align="center">Tabela 1 - Cronograma geral da equipe.</figcaption>
 
 | Etapa |                             Título                             |                                                                                                                                           Descrição                                                                                                                                           |  Entrega  | Apresentação |
 | :---: | :-------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :------------: |
-|   1   |                          Planejamento                          |                            `<p style="text-align: justify;">`Planejamento do Projeto, equipe, listas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades do projeto. `</p>`                            | 02/10/2023 |   03/10/2023   |
-|   2   |                       Perfil do usuário                       |                                                                             `<p style="text-align: justify;">` Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas e Análise de tarefas `</p>`                                                                             | 16/10/2023 |   17/10/2023   |
-|   3   |                  Princípios Gerais do Projeto                  |                                                                        `<p style="text-align: justify;">` Princípios Gerais de Projeto, Metas de usabilidade e Guia de Estilo (Fase:análise de requisitos). `</p>`                                                                        | 23/10/2023 |   24/10/2023   |
-|   4   | Planejamento da Avaliação do Storyboard e Análise de Tarefas | `<p style="text-align: justify;">`Planejamento da Avaliação do Storyboard, o Planejamento do relato dos resultados da avaliação do Storyboard, Planejamento da Avaliação do Análise de tarefas e o planejamento do relato dos resultados da avaliação do Análise de tarefas.`</p>` | 30/10/2023 |   31/10/2023   |
-|   5   |                      Relato dos resultados                      |                       `<p style="text-align: justify;">` Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel. `</p>`                       | 08/11/2023 |   09/11/2023   |
-|  6.1  |                 Verificação dos artefatos  I                 |                                                                                                           `<p style="text-align: justify;">` Verificação dos artefatos I `</p>`                                                                                                           | 15/11/2023 |   16/11/2023   |
-|   7   |          Relato dos resultados do Protótipo de Papel          |                       `<p style="text-align: justify;">` Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.`</p>`                       | 22/11/2023 |   23/11/2023   |
-|   8   |     Relatos dos resultados do protótipo de alta fidelidade     |                                                                                               `<p style="text-align: justify;">` Relato dos resultados do Protótipo de alta fidelidade.`</p>`                                                                                               | 27/11/2023 |   28/11/2023   |
-|  6.2  |                 Verificação dos artefatos II                 |                                                                                                           `<p style="text-align: justify;">` Verificação dos artefatos II `</p>`                                                                                                           | 29/11/2023 |   30/11/2023   |
-|   9   |                 Apresentação do projeto final                 |                                                                                                          `<p style="text-align: justify;">` Apresentação do projeto final. `</p>`                                                                                                          | 06/12/2023 |   07/12/2023   |
-
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+|   1   |                          Planejamento                          |                            Planejamento do Projeto, equipe, listas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades do projeto.                            | 02/10/2023 |   03/10/2023   |
+|   2   |                       Perfil do usuário                       |                                                                              Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas e Análise de tarefas                                                                              | 16/10/2023 |   17/10/2023   |
+|   3   |                  Princípios Gerais do Projeto                  |                                                                         Princípios Gerais de Projeto, Metas de usabilidade e Guia de Estilo (Fase:análise de requisitos).                                                                         | 23/10/2023 |   24/10/2023   |
+|   4   | Planejamento da Avaliação do Storyboard e Análise de Tarefas | Planejamento da Avaliação do Storyboard, o Planejamento do relato dos resultados da avaliação do Storyboard, Planejamento da Avaliação do Análise de tarefas e o planejamento do relato dos resultados da avaliação do Análise de tarefas. | 30/10/2023 |   31/10/2023   |
+|   5   |                      Relato dos resultados                      |                        Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel.                        | 08/11/2023 |   09/11/2023   |
+|  6.1  |                 Verificação dos artefatos  I                 |                                                                                                            Verificação dos artefatos I                                                                                                            | 15/11/2023 |   16/11/2023   |
+|   7   |          Relato dos resultados do Protótipo de Papel          |                        Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.                       | 22/11/2023 |   23/11/2023   |
+|   8   |     Relatos dos resultados do protótipo de alta fidelidade     |                                                                                                Relato dos resultados do Protótipo de alta fidelidade.                                                                                               | 27/11/2023 |   28/11/2023   |
+|  6.2  |                 Verificação dos artefatos II                 |                                                                                                            Verificação dos artefatos II                                                                                                            | 29/11/2023 |   30/11/2023   |
+|   9   |                 Apresentação do projeto final                 |                                                                                                           Apresentação do projeto final.                                                                                                           | 06/12/2023 |   07/12/2023   |
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br><br>
 
 ### Etapa 1 - Planejamento
 
-<figcaption align="center">Tabela 2 - Cronograma da equipe para a etapa 1.</figcaption>
+<br><figcaption align="center">Tabela 2 - Cronograma da equipe para a etapa 1.</figcaption>
 
 |                  Tarefa                  |                                       Responsáveis                                       | Data de Início | Data de Entrega |                     Revisor                     | Data de revisão | Início da Realização | Fim da Realização |
 | :---------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------: | :-------------: | :----------------------------------------------: | :--------------: | :---------------------: | :-----------------: |
@@ -38,11 +37,11 @@
 |         Atas das Reuniões 1 e 2         |                          [Eric Camargo](https://github.com/ericcs10)                          |      17/09      |      30/09      |   [Kallyne Macedo](https://github.com/kalipassos)   |      01/10      |          22/09          |        30/09        |
 |       Gravação da apresentação       |                                           Todos                                           |      30/09      |      01/10      |   [Pablo Guilherme](https://github.com/PabloGJBS)   |      01/10      |          01/10          |        01/10        |
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br>
 
 ### Etapa 2 - Perfil do Usuário
 
-<figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 2.</figcaption>
+<br><figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 2.</figcaption>
 
 |                        Tarefa                        |                                                            Responsáveis                                                            | Data de Início | Data de Entrega |                                           Revisor                                           | Data de Revisão | Início da Realização | Fim da Realização |
 | :--------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :------------------------------------------------------------------------------------------: | :--------------: | :---------------------: | :-----------------: |
@@ -55,11 +54,11 @@
 
 ---
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br>
 
 ### Etapa 3 - Princípios Gerais do Projeto
 
-<figcaption align="center">Tabela 4 - Cronograma da equipe para a etapa 3.</figcaption>
+<br><figcaption align="center">Tabela 4 - Cronograma da equipe para a etapa 3.</figcaption>
 
 |                    Tarefa                    |                                                               Responsáveis                                                               | Data de Início | Data de Entrega |                                           Revisor                                           | Data de Revisão | Início da Realização | Fim da Realização |
 | :-------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :-----------------------------------------------------------------------------------------: | :--------------: | :---------------------: | :-----------------: |
@@ -71,11 +70,11 @@
 |       Atualização das Páginas Fixas       |   [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos), [Eric Camargo](https://github.com/ericcs10)   |      20/10      |      22/10      |                      [Henrique Landin](https://github.com/henriqtorresl)                      |      22/10      |          -----          |        -----        |
 |         Gravação da apresentação         |                                                                   Todos                                                                   |      21/10      |      22/10      |                         [Ester Flores](https://github.com/esteerlino)                         |      22/10      |          -----          |        -----        |
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br>
 
 ### Etapa 4 - Planejamento da Avaliação do Storyboard
 
-<figcaption align="center">Tabela 5 - Cronograma da equipe para a etapa 4.</figcaption>
+<br><figcaption align="center">Tabela 5 - Cronograma da equipe para a etapa 4.</figcaption>
 
 |                                    Tarefa                                    |                                                            Responsáveis                                                            | Data de Início | Data de Entrega |                                           Revisor                                           | Data de Revisão | Início da Realização | Fim da Realização |
 | :--------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :-----------------------------------------------------------------------------------------: | :---------------: | :---------------------: | :-----------------: |
@@ -88,27 +87,27 @@
 |                       Atualização de Páginas Fixas                       | [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos), [Eric Camargo](https://github.com/ericcs10) |      27/10      |      28/10      |                         [Ester Flores](https://github.com/esteerlino)                         |       28/10       |          -----          |        -----        |
 |                         Gravação da apresentação                         |                                                                Todos                                                                |      28/10      |      29/10      |                      [Henrique Landin](https://github.com/henriqtorresl)                      |       29/10       |          -----          |        -----        |
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br><br>
 
 ### Etapa 5 - Relato dos resultados
 
-<figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 5.</figcaption>
+<br><figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 5.</figcaption>
 
 |                                   Tarefa                                   |                                                            Responsáveis                                                            | Data de Início | Data de Entrega |                                             Revisor                                             | Data de Revisão | Início da Realização | Fim da Realização |
 | :-------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :----------------------------------------------------------------------------------------------: | :--------------: | :---------------------: | :-----------------: |
 |                    Relato dos resultados do Story Board                    |                                            [Suzane Duarte](https://github.com/suzaneduarte)                                            |      31/10      |      03/11      |                            [Ester Flores](https://github.com/esteerlino)                            |      04/11      |          -----          |        -----        |
 |                Relato dos Resultados da Análise de tarefas                |                                             [Luana Torres](https://github.com/luanatorress)                                             |      31/10      |      03/11      |                             [Eric Camargo](https://github.com/ericcs10)                             |      04/11      |          -----          |        -----        |
-|             Planejamento da Avaliação do Protótipo de Papel             |      [[Ester Flores](https://github.com/esteerlino)](https://github.com/esteerlino), [Pablo Guilherme](https://github.com/PabloGJBS)      |      31/10      |      02/11      |     [Eric Camargo](https://github.com/ericcs10), [Kallyne Macedo](https://github.com/kalipassos)     |      03/11      |          -----          |        -----        |
+|             Planejamento da Avaliação do Protótipo de Papel             |      [Ester Flores](https://github.com/esteerlino), [Pablo Guilherme](https://github.com/PabloGJBS)      |      31/10      |      02/11      |     [Eric Camargo](https://github.com/ericcs10), [Kallyne Macedo](https://github.com/kalipassos)     |      03/11      |          -----          |        -----        |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |                      [Henrique Landin](https://github.com/henriqtorresl), [Eric Camargo](https://github.com/ericcs10)                      |      31/10      |      02/11      |   [Pablo Guilherme](https://github.com/PabloGJBS), [Luana Torres](https://github.com/luanatorress)   |      03/11      |          -----          |        -----        |
 |                             Protótipo de Papel                             |                      [Kallyne Macedo](https://github.com/kalipassos), [Pablo Guilherme](https://github.com/PabloGJBS)                      |      02/10      |      05/11      | [Suzane Duarte](https://github.com/suzaneduarte), [Henrique Landin](https://github.com/henriqtorresl) |      05/11      |          -----          |        -----        |
 |                      Atualização das Páginas Fixas                      | [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos), [Eric Camargo](https://github.com/ericcs10) |      05/11      |      06/11      |                           [Pablo Guilherme](https://github.com/PabloGJBS)                           |      06/11      |          -----          |        -----        |
 |                        Gravação da apresentação                        |                                                                Todos                                                                |      06/11      |      07/11      |                           [Luana Torres](https://github.com/luanatorress)                           |      07/11      |          -----          |        -----        |
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br>
 
 ### Etapa 6.1 - Verificação dos Artefatos I
 
-<figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 6.</figcaption>
+<br><figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 6.</figcaption>
 
 |              Tarefa              |                                                            Responsáveis                                                            | Data de Início | Data de Entrega |                                         Revisor                                         | Data de Revisão | Início da Realização | Fim da Realização |
 | :------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :-------------------------------------------------------------------------------------: | :--------------: | :---------------------: | :-----------------: |
@@ -116,11 +115,11 @@
 | Atualização das Páginas Fixas | [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos), [Eric Camargo](https://github.com/ericcs10) |      11/11      |      12/11      |                      [Suzane Duarte](https://github.com/suzaneduarte)                      |      12/11      |          -----          |        -----        |
 |   Gravação da apresentação   |                                                                Todos                                                                |      13/11      |      14/11      |                      [Kallyne Macedo](https://github.com/kalipassos)                      |      14/11      |          -----          |        ----        |
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br>
 
 ### Etapa 7 - Relato dos resultados do Protótipo de Papel
 
-<figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 7.</figcaption>
+<br><figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 7.</figcaption>
 
 |                                        Tarefa                                        |                                                              Responsáveis                                                              | Data de Início | Data de Entrega |                                         Revisor                                         | Data de Revisão | Início da Realização | Fim da Realização |
 | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :--------------------------------------------------------------------------------------: | :--------------: | :---------------------: | :-----------------: |
@@ -131,11 +130,11 @@
 |                           Atualização das Páginas Fixas                           |  [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos), [Eric Camargo](https://github.com/ericcs10)  |      18/11      |      20/11      |                      [Suzane Duarte](https://github.com/suzaneduarte)                      |      20/11      |          -----          |        -----        |
 |                             Gravação da apresentação                             |                                                                  Todos                                                                  |      20/11      |      21/11      |                      [Suzane Duarte](https://github.com/suzaneduarte)                      |      21/11      |          -----          |        -----        |
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br>
 
 ### Etapa 8 - Relato dos Resultados
 
-<figcaption align="center">Tabela 9 - Cronograma da equipe para a etapa 8.</figcaption>
+<br><figcaption align="center">Tabela 9 - Cronograma da equipe para a etapa 8.</figcaption>
 
 |                         Tarefa                         |                                                            Responsáveis                                                            | Data de Início | Data de Entrega |                                           Revisor                                           | Revisão | Início da Realização | Fim da Realização |
 | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :------------------------------------------------------------------------------------------: | :------: | :---------------------: | :-----------------: |
@@ -143,11 +142,11 @@
 |            Atualização das Páginas Fixas            | [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos), [Eric Camargo](https://github.com/ericcs10) |      24/11      |      25/11      |                          [Ester Flores](https://github.com/esteerlino)                          |  25/11  |          -----          |        -----        |
 |              Gravação da apresentação              |                                                                Todos                                                                |      25/11      |      26/11      |                         [Luana Torres](https://github.com/luanatorress)                         |  26/11  |          -----          |        -----        |
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br>
 
 ### Etapa 6.2 - Verificação dos Artefatos II
 
-<figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 6.</figcaption>
+<br><figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 6.</figcaption>
 
 |              Tarefa              |                                                            Responsáveis                                                            | Data de Início | Data de Entrega |                                            Revisor                                            | Data de Revisão | Início da Realização | Fim da Realização |
 | :------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | --------------- | :-------------: | :-------------------------------------------------------------------------------------------: | :--------------: | :---------------------: | :-----------------: |
@@ -155,17 +154,17 @@
 | Atualização das Páginas Fixas | [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos), [Eric Camargo](https://github.com/ericcs10) | 24/11           |      25/11      |                         [Pablo Guilherme](https://github.com/PabloGJBS)                         |      25/11      |         ------         |        -----        |
 |   Gravação da apresentação   |                                                                Todos                                                                | 25/11           |      26/11      |                         [Pablo Guilherme](https://github.com/PabloGJBS)                         |      26/11      |          -----          |        -----        |
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br>
 
 ### Etapa 9 - Apresentação do Projeto Final
 
-<figcaption align="center">Tabela 10 - Cronograma da equipe para a etapa 9.</figcaption>
+<br><figcaption align="center">Tabela 10 - Cronograma da equipe para a etapa 9.</figcaption>
 
 |             Tarefa             | Responsáveis | Entrega |                                                                Revisor                                                                | Revisão | Início da Realização | Fim da Realização |
 | :-----------------------------: | :-----------: | :-----: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------: | :---------------------: | :-----------------: |
 | Apresentação do projeto final |     Todos     |  -----  | [Pablo Guilherme](https://github.com/PabloGJBS), [Eric Camargo](https://github.com/ericcs10), [Luana Torres](https://github.com/luanatorress) |  -----  |            -            |          -          |
 
-<figcaption align="center">Autor: [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos)</figcaption>
+<figcaption align="center">Autores: <a href="https://github.com/kalipassos">Kallyne Macedo</a>, <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br><br>
 
 * A atividade de Atualização das Páginas Fixas inclui atualizar as páginas referentes ao cronograma, atas e reuniões com as novas informações pertencentes à etapa em que o projeto se encontra.
 
