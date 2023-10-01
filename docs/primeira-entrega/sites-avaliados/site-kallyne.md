@@ -34,4 +34,4 @@ apresenta erros de usabilidade considerados, em sua maioria, simples (pode ser r
 
 | Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
-|  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | Pablo Guilherme, Ester Flores | Suzane Duarte |
+|  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
