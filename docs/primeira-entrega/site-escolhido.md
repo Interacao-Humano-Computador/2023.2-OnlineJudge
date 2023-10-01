@@ -36,7 +36,7 @@
 
 - Com base nas avaliações de cada avalidor, deverá ser realizado uma reunião para discutir o dados coletados e entrar em consenço sobre os problemas possiveis do site.
 
-## **Avalição**
+## **Avaliação**
 
 ### **1. Perguntas**
 

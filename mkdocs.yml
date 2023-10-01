@@ -2,19 +2,50 @@ site_name: Online-Judge
 
 nav:
   - Sobre: index.md
+  - Atas:
+      - Primeira entrega:
+          - Ata primeira reunião: atas/primeira-entrega/reuniao-1.md
+          - Ata segunda reunião: atas/primeira-entrega/reuniao-2.md
   - Primeira Entrega:
-      - Planejamento do Projeto: primeira-entrega/planejamento-projeto.md
       - Equipe: primeira-entrega/equipe.md
       - O site escolhido: primeira-entrega/site-escolhido.md
       - Metodologia: primeira-entrega/metodologia.md
       - Ferramentas do Projeto: primeira-entrega/ferramentas.md
       - Processo de Design: primeira-entrega/processo-design.md
       - Cronograma das Atividades: primeira-entrega/cronograma-atividades.md
-      - Sites Avaliados: 
-          - Site Eric: primeira-entrega/sites-avaliados/site-eric.md
-          - Site Ester: primeira-entrega/sites-avaliados/site-ester.md
-          - Site Henrique: primeira-entrega/sites-avaliados/site-henrique.md
-          - Site Kallyne: primeira-entrega/sites-avaliados/site-kallyne.md
-          - Site Luana: primeira-entrega/sites-avaliados/site-luana.md
-          - Site Pablo: primeira-entrega/sites-avaliados/site-pablo.md
-          - Site Suzane: primeira-entrega/sites-avaliados/site-suzane.md
+      - Sites Avaliados:
+          - Escola Virtual: primeira-entrega/sites-avaliados/site-escola-virtual.md
+          - Ministério da Saúde: primeira-entrega/sites-avaliados/site-miniterio-saude.md
+          - Governo do Distrito Federal (Henrique): primeira-entrega/sites-avaliados/site-gdf-henrique.md
+          - Governo do Distrito Federal (Kayllyne): primeira-entrega/sites-avaliados/site-gdf-kallyne.md
+          - IBAMA: primeira-entrega/sites-avaliados/site-ibama.md
+          - Detran DF: primeira-entrega/sites-avaliados/site-detran-df.md
+          - Governo de Alagoas: primeira-entrega/sites-avaliados/site-governo-alagoas.md
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - toc.integrate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: amber
+      toggle:
+        icon: material/circle-half-full
+        name: Alterar para o modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      toggle:
+        icon: material/circle-half-full
+        name: Alterar para o modo claro
+
+  language: pt-BR
+  favicon: assets/images/onlinejudge-logo.png
+  logo: assets/images/onlinejudge-logo.png
