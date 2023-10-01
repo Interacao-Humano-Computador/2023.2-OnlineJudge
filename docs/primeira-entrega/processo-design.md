@@ -99,4 +99,4 @@ Após a introdução de um produto, dados devem ser coletados para avaliar o ret
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
- `1.0` | 21/09/2023 | Descrição da Metodologia | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino)|
+ `1.0` | 21/09/2023 | Descrição da Metodologia | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorress)

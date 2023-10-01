@@ -12,3 +12,10 @@ As ferramentas apresentadas a seguir são os softwares que foram selecionados pe
 |    <img src="../../assets/images/github.png" width="100">     | GitHub             | O GitHub será a ferramenta utilizada para hospedar o código-fonte do arquivo de documentação. De forma que todos os integrantes do grupo consigam colaborar e fazer mudanças pertinentes durante o desenvolver do projeto |
 |  <img src="../../assets/images/sheets-logo.png" width="100">  | Sheets             | O Sheets será utilizado para o desenvolvimento de planilhas on-line conforme necessidade do grupo, por exemplo, para criação do HeapMap do grupo                                                                          |
 | <img src="../../assets/images/youtube-logo.png" width="100">  | Youtube            | O Youtube será utilizado para hospedar a gravação dos vídeos de apresentação realizadas pelo grupo, além de também funcionar como ferramenta de estudo para os participantes                                              |
+
+
+## Histórico de versão
+
+| Versão |    Data    |             Descrição             |                                       Responsáveis                                       |                    Revisor                    |
+| :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
+| 1.0| 01/10/2023 | Criação página de ferramentas | Suzane Duarte | Kallyne Macedo
