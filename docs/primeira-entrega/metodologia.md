@@ -6,7 +6,7 @@
 > Nesta seção, exploraremos em detalhes como o Kanban e o Scrum serão aplicados neste projeto, destacando suas características e vantagens específicas para garantir o sucesso e a eficiência em nosso projeto.
 
 
-### **Scrum**
+## **Scrum**
 
 - Para facilitar a gestão e organização interna de nossa equipe, optamos por adotar o framework Scrum. Embora nossa intenção não seja aplicá-lo de forma rigorosa, é importante reconhecer que haverá necessidade de efetuar adaptações devido a conflitos de horários entre os membros do grupo. Como resultado dessas adaptações, não realizaremos as reuniões diárias (scrum daily) convencionais, mas asseguramos uma comunicação constante e eficaz entre todos os membros para manter todos sempre atualizados sobre o andamento do projeto.
 
@@ -14,7 +14,7 @@
 
 - Por fim, é importante destacar que nosso projeto será estruturado em iterações chamadas de Sprints, com uma duração média de aproximadamente uma semana e meia. Essa abordagem nos permitirá estabelecer metas e objetivos específicos a serem alcançados em intervalos de tempo relativamente curtos, contribuindo para uma gestão mais eficaz e acompanhamento mais preciso do progresso do projeto.
 
-### **Kanban**
+## **Kanban**
 
 - Para complementar a abordagem Scrum, vamos fazer o uso do método ágil Kanban em nosso processo de trabalho. O Kanban vai compor um papel fundamental na organização e acompanhamento de nossas tarefas, que serão representadas como cartões dispostos em um mural virtual. 
 
