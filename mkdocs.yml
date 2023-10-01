@@ -3,8 +3,10 @@ site_name: Online-Judge
 nav:
   - Sobre: index.md
   - Atas:
+      - Primeira entrega:
+          - Ata primeira reunião: atas/primeira-entrega/reuniao-1.md
+          - Ata segunda reunião: atas/primeira-entrega/reuniao-2.md
   - Primeira Entrega:
-      - Planejamento do Projeto: primeira-entrega/planejamento-projeto.md
       - Equipe: primeira-entrega/equipe.md
       - O site escolhido: primeira-entrega/site-escolhido.md
       - Metodologia: primeira-entrega/metodologia.md
