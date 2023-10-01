@@ -14,7 +14,7 @@
 
 - Por fim, é importante destacar que nosso projeto será estruturado em iterações chamadas de Sprints, com uma duração média de aproximadamente uma semana e meia. Essa abordagem nos permitirá estabelecer metas e objetivos específicos a serem alcançados em intervalos de tempo relativamente curtos, contribuindo para uma gestão mais eficaz e acompanhamento mais preciso do progresso do projeto.
 
-### **Scrum**
+### **Kanban**
 
 - Para complementar a abordagem Scrum, vamos fazer o uso do método ágil Kanban em nosso processo de trabalho. O Kanban vai compor um papel fundamental na organização e acompanhamento de nossas tarefas, que serão representadas como cartões dispostos em um mural virtual. 
 
