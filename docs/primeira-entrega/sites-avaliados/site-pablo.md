@@ -48,3 +48,9 @@
 ### **4. Conclusão**
 
 * Em suma o site do Detran-DF possui atualmente uma disponibilidade de recursos abrangente e uma interface acolhedora para diversos usuários, salvo o caso de usuários que necessitam de acessibilidade no site a qual não foi encontrada durante a avaliação, o site apresenta uma maneira facil de realizar as tarefas exigidas de maneira clara e de fácil aprendizado.
+
+## Histórico de versão
+
+| Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
+| :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
+|  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | Pablo Guilherme, Ester Flores | Suzane Duarte |

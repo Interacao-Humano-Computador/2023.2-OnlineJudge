@@ -40,3 +40,9 @@
 ### **4. Conclusão**
 
 * Em resumo, o site do Governo do Distrito Federal (GDF) oferece uma ampla gama de recursos e informações com uma interface relativamente amigável. No entanto, a falta de recursos de acessibilidade pode representar um obstáculo para usuários com deficiência visual. A organização geral do site é compreensível, mas melhorias na estrutura de menu e na busca de informações podem aprimorar a experiência do usuário. No geral, o site do GDF apresenta uma maneira razoavelmente clara e de fácil aprendizado de realizar tarefas e acessar informações governamentais.
+
+## Histórico de versão
+
+| Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
+| :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
+|  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | Pablo Guilherme, Ester Flores | Suzane Duarte |

@@ -7,8 +7,7 @@
 
 ### **1. Objetivos**
 
-* Avaliar a usabilidade e acessibilidade do site do Ministério da Saúde para grupos vulneráveis, identificando barreiras na busca por calendário de vacinação e informações de
-prevenção de doenças, visando melhorar o acesso a informações essenciais de saúde pública.
+* Avaliar a usabilidade e acessibilidade do site do Ministério da Saúde para grupos vulneráveis, identificando barreiras na busca por calendário de vacinação e informações de prevenção de doenças, visando melhorar o acesso a informações essenciais de saúde pública.
 
 ### **2. Perguntas**
 
@@ -61,3 +60,9 @@ prevenção de doenças, visando melhorar o acesso a informações essenciais de
 ### **7. Avaliação, interpretação e apresentação dos dados**
 
 * O site do Ministério da Saúde possui acessibilidade e por seguir um padrão, sua usabilidade é ótima. No entanto, levando em consideração perfis de usuários, como os idosos e os analfabetos digitais, pode ser que eles encontrem dificuldades para alcançar seus objetivos. Além disso, a fim de melhorar a avaliação e a qualidade dos resultados obtidos, é necessário realizar um teste de usabilidade, com o objetivo de observar a experiência dos usuários e identificar se os problemas aqui encontrados de fato prejudicam a usabilidade ou se existem outros aspectos que devem ser considerados.
+
+## Histórico de versão
+
+| Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
+| :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
+|  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | Pablo Guilherme, Ester Flores | Suzane Duarte |

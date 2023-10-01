@@ -62,3 +62,9 @@ a não prestação do serviço.
 ### **7. Avaliar, interpretar e apresentar os dados**
 
 * A coclusão desta avaliação é que o site apresenta problemas na interface. Entretanto, pode ser necessário realizar um teste de usabilidade, recrutando usuários para entender melhor o perfil do público-alvo do site e a apropriação a tecnologia.
+
+## Histórico de versão
+
+| Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
+| :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
+|  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | Pablo Guilherme, Ester Flores | Suzane Duarte |
