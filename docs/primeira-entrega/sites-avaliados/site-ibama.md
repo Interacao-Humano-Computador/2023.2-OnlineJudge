@@ -46,7 +46,7 @@ a não prestação do serviço.
 
 * Visibilidade do estado do sistema e prevenção de erros: Cadastro de usuário não fica claro no site. O uso da palavra formulário e o texto acima dizendo que o acesso também é possível pela conta gov.br, da a entender ao   usuário que para cadastrar-se pelo site do ibama diretamente é necessário preencher um formulário,     não pertencente ao site de fato.
 
-   ![Cadastro de usuário](/docs/assets/images/AvaliacaoLuana.png)
+   ![Cadastro de usuário](../../assets/images/AvaliacaoLuana.png)
 
   * Severidade: 2
   * Recomendação: Criar tela para cadastro inclusa no site próprio ou integrar diretamente ao gov.br.
@@ -68,3 +68,4 @@ a não prestação do serviço.
 | Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
 |  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 02/10/2023 | Correção de imagem | [Ester Lino](https://github.com/esteerlino) | [Kallyne Macedo](https://github.com/kalipassos) |

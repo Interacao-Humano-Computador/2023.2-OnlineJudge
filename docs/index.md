@@ -8,6 +8,6 @@ O projeto possui como objetivo realizar uma avaliação no site Online-Judge, o 
 
 |    Data    | Versão |                      Descrição                      |    Autor(es)    |   Revisor(es)   |
 | :--------: | :----: | :-------------------------------------------------: | :-------------: | :-------------: |
-| 29/09/2023 | `1.0`  | Versão inicial de documento de descrição do projeto |  Suzane Duarte  | Kallyne Passos  |
-| 30/09/2023 | `1.1`  |          Atualização do comando do deploy           | Pablo Guilherme |  Ester Flores   |
-| 01/10/2023 | `1.2`  |             Inserção do tema utilizado              |  Suzane Duarte  | Pablo Guilherme |
+| 29/09/2023 | `1.0`  | Versão inicial de documento de descrição do projeto | [Suzane Duarte](https://github.com/suzaneduarte) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 30/09/2023 | `1.1`  |          Atualização do comando do deploy           | [Pablo Guilherme](https://github.com/PabloGJBS) | [Ester Lino](https://github.com/esteerlino) |
+| 01/10/2023 | `1.2`  |             Inserção do tema utilizado              | [Suzane Duarte](https://github.com/suzaneduarte) | [Pablo Guilherme](https://github.com/PabloGJBS) |

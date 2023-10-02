@@ -53,7 +53,7 @@
 
 * Para realizar a avaliação é necessário recrutar avaliadores que serão os responsáveis por inspecionar o sistema, levantar possíveis problemas, estudar as diretrizes violadas, consolidar e relatar os resultados.
 
-### **6. Quesões Éticas**
+### **6. Questões Éticas**
 
 * Por não ser necessário o recrutamento de usuários, não foi preciso assinar termo de consentimento livre e esclarecido.
 

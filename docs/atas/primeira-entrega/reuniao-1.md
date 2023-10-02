@@ -8,8 +8,8 @@
 
 | Convocados                                | Presente | Área/Empresa | E-mail                                 |
 | ----------------------------------------- | -------- | ------------ | -------------------------------------- |
-| 1. Ester Flores Lino da Silva             | ❌       | Discente     | E-mail: <esteerlino@gmail.com>         |
-| 2. Eric Camargo da Silva                  | ✅       | Discente     | E-mail: <eric.camargo.silva@gmail.com> |
+| 1. Eric Camargo da Silva                  | ✅       | Discente     | E-mail: <eric.camargo.silva@gmail.com> |
+| 2. Ester Flores Lino da Silva             | ❌       | Discente     | E-mail: <esteerlino@gmail.com>         |
 | 3. Henrique Torres Landin                 | ✅       | Discente     | E-mail: <henriquetlandin@gmail.com>    |
 | 4. Kallyne Macedo Passos                  | ✅       | Discente     | E-mail: <kallyne.passos@aluno.unb.br>  |
 | 5. Luana Souza Silva Torres               | ✅       | Discente     | E-mail: <lulyluana53@hotmail.com>      |

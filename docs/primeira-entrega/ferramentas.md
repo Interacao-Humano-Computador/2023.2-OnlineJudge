@@ -18,4 +18,4 @@ As ferramentas apresentadas a seguir são os softwares que foram selecionados pe
 
 | Versão |    Data    |             Descrição             |                                       Responsáveis                                       |                    Revisor                    |
 | :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| 1.0| 01/10/2023 | Criação página de ferramentas | Suzane Duarte | Kallyne Macedo
+| 1.0| 01/10/2023 | Criação página de ferramentas | [Suzane Duarte](https://github.com/suzaneduarte) | [Kallyne Macedo](https://github.com/kalipassos) |

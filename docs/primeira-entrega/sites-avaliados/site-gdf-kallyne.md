@@ -9,7 +9,7 @@
 
 * Conforme Maciel, Nogueira et. al (2004), no texto Avaliação Heurística de Sítios na Web, os critérios de usabilidade de um site e as heurísticas que podem ser avaliadas são conforme as tabelas a seguir:
 
-![Avaliação Heurística](/docs/assets/images/AvaliacaoHeuristicaKallyne.png)
+![Avaliação Heurística](../../assets/images/AvaliacaoHeuristicaKallyne.png)
 
 * Em uma primeira navegação no site, observou-se um design minimalista, com cores conforme a identidade visual do Governo. Entretanto, o primeiro carrossel de imagens não oferece informações sobre as fotografias mostradas e o segundo carrossel da landing page exibe uma foto ou nenhuma foto, o que causa estranhamento ou confusão no usuário.
 
@@ -35,3 +35,4 @@ apresenta erros de usabilidade considerados, em sua maioria, simples (pode ser r
 | Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
 |  1.0   | 29/09/2023 | Padronização de todas as avaliações de sites | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 02/10/2023 | Correção de imagem | [Ester Lino](https://github.com/esteerlino) | [Kallyne Macedo](https://github.com/kalipassos) |
