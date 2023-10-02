@@ -7,12 +7,13 @@ nav:
           - Ata primeira reunião: atas/primeira-entrega/reuniao-1.md
           - Ata segunda reunião: atas/primeira-entrega/reuniao-2.md
   - Primeira Entrega:
+      - Apresentação: primeira-entrega/apresentacao.md
       - Equipe: primeira-entrega/equipe.md
       - Sites Avaliados:
           - Escola Virtual: primeira-entrega/sites-avaliados/site-escola-virtual.md
           - Ministério da Saúde: primeira-entrega/sites-avaliados/site-ministerio-saude.md
           - Governo do Distrito Federal (Henrique): primeira-entrega/sites-avaliados/site-gdf-henrique.md
-          - Governo do Distrito Federal (Kayllyne): primeira-entrega/sites-avaliados/site-gdf-kallyne.md
+          - Governo do Distrito Federal (Kallyne): primeira-entrega/sites-avaliados/site-gdf-kallyne.md
           - IBAMA: primeira-entrega/sites-avaliados/site-ibama.md
           - Detran DF: primeira-entrega/sites-avaliados/site-detran-df.md
           - Governo de Alagoas: primeira-entrega/sites-avaliados/site-governo-alagoas.md
