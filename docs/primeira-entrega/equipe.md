@@ -9,3 +9,9 @@
 | <img src="https://github.com/luanatorress.png" alt="Luana Souza" width="100">        | Luana Souza Silva Torres               | [luanatorress](https://github.com/luanatorress)   |
 | <img src="../../assets/images/pablo.jpg" alt="Pablo Guilherme" width="100">          | Pablo Guilherme de Jesus Batista Silva | [PabloGJBS](https://github.com/PabloGJBS)         |
 | <img src="https://github.com/suzaneduarte.png" alt="Suzane Duarte" width="100">      | Suzane Alves Duarte                    | [suzaneduarte](https://github.com/suzaneduarte)   |
+
+## Histórico de versão
+
+| Versão |    Data    |             Descrição             |                                       Responsáveis                                       |                    Revisor                    |
+| :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
+| 1.0| 01/10/2023 | Equipe Inicial | [Suzane Duarte](https://github.com/suzaneduarte) | [Kallyne Macedo](https://github.com/kalipassos) |
