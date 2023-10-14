@@ -2,34 +2,48 @@
 
 ## **Introdução**
 
-> Neste momento teremos uma breve descrição sobre os processos de desing assim como a explicação da escolha do processo de design do nosso grupo, o qual foi escolhido o modelo de Mayhew
+ Neste momento teremos uma breve descrição sobre os processos de desing assim como a explicação da escolha do processo de design do nosso grupo, o qual foi escolhido o modelo de Mayhew.
 
-### **Mayhew**
+### **Engenharia de Usabilidade de Mayhew**
 
-- Escolhemos este modelo em nosso projeto, uma vez que ele possui um maior detalhamento de um passo a passo a ser seguido deixando menos espaço para o erro e o engano, também levamos em consideração as recomendações do professor em sala de aula.
+- Escolhemos este modelo em nosso projeto, uma vez que ele possui um maior detalhamento de um passo a passo a ser seguido deixando menos espaço para o erro e o engano. Também levamos em consideração as recomendações do professor em sala de aula.
+
+<br><figcaption align="center">Figura 1 - Engenharia de Usabilidade de Mayhew.</figcaption>
 
 ![Modelo de Engenharia de Usabilidade de Mayhew](https://player.slideplayer.com.br/80/13462698/slides/slide_10.jpg)
 
+<figcaption align="center">Autores: Barbosa e Silva.</figcaption><br>
+
 - É um modelo que refere-se a um processo sistematico para o design e avaliação de sistemas, ele é um modelo de abordagem iterativa o que fornece a possibilidade de repetição das fases do processo o que garante a possibilidade de melhoria constante.
-- O modelo de Mayhew engloba três etapas que definem o cliclo de desenvolvimento:
+- O modelo de Mayhew engloba três etapas que definem o cliclo de desenvolvimento (Figura 1):
   - Análise de Requisitos de Usabilidade: Nesta fase, o foco está na compreensão das necessidades e expectativas dos usuários em relação ao sistema interativo. Isso envolve a coleta de informações sobre os usuários, suas tarefas e os ambientes em que o sistema será utilizado. O objetivo é estabelecer requisitos de usabilidade que orientarão o design e a avaliação posteriores.
 
   - Design de Usabilidade: Após a análise de requisitos, a fase de design se concentra na criação de soluções que atendam aos requisitos de usabilidade identificados. Isso inclui a criação de protótipos, o desenvolvimento de interfaces de usuário e a consideração de princípios de design de usabilidade para garantir que o sistema seja eficaz, eficiente e agradável de usar.
 
   - Avaliação de Usabilidade: Na fase de avaliação, o sistema interativo é testado com usuários reais para identificar problemas de usabilidade. Isso pode envolver testes de usabilidade, observações e coleta de feedback dos usuários. Com base nos resultados da avaliação, as melhorias são feitas no sistema para corrigir os problemas identificados.
 
-### **Cliclo de Vida simples**
+
+### **Ciclo de Vida Simples**
 
 - Proposto por Preece, Sharp e Rogers.
+- Este modelo é o mais simples ele é focado em design e redesign (Figura 2) aonde são sugeridas propostas de desing que se encaixem melhor nos requisitos e nas necessidades definidos na análise.
+
+<br><figcaption align="center">Figura 2 - Ciclo de Vida Simples.</figcaption>
+
 ![Ciclo de Vida Simples](https://player.slideplayer.com.br/80/13462698/slides/slide_7.jpg)
 
-- Este modelo é o mais simples ele é focado em design e redesign aonde são propostas propostas de desing que se encaixem melhor nos requisitos e nas necessidades defidos na análise.
+<figcaption align="center">Autores: Barbosa e Silva.</figcaption><br>
 
-### **Ciclo de vida em Estrela (Hix e Hartson, 1993)**
 
-Desenvolvido em 1990 por Hix e Hartson e é composto por *seis atividades*:
+### **Ciclo de Vida em Estrela (Hix e Hartson, 1993)**
+
+Desenvolvido em 1990 por Hix e Hartson e é composto por ***seis atividades*** (Figura 3):
+
+<br><figcaption align="center">Figura 3 - Ciclo de vida em Estrela.</figcaption>
 
 ![Ciclo de Vida em Estrela](https://player.slideplayer.com.br/80/13462698/slides/slide_8.jpg)
+
+<figcaption align="center">Autores: Barbosa e Silva.</figcaption><br>
 
 - **Implementação:** sistema final é desenvolvido.
 - **Prototipação:** criação de protótipos para as soluções a fim de avaliá-las.
@@ -44,7 +58,7 @@ O ciclo de vida em estrela não especifica a ordem que as atividades devem ser e
 
 ### **Engenharia de Usabilidade de Nielsen (Nielsen, 1994)**
 
->*Engenharia de usabilidade:* conjunto de atividades que ocorrem durante o ciclo de vida do produto, enfatizando a execução das etapas iniciais, antes da concepção da interface do usuário.
+***Engenharia de usabilidade:*** conjunto de atividades que ocorrem durante o ciclo de vida do produto, enfatizando a execução das etapas iniciais, antes da concepção da interface do usuário.
 
 As atividades propostas por Nielsen são:
 
@@ -89,7 +103,7 @@ As atividades propostas por Nielsen são:
 É importante deixar registrado quais foram as decisões tomadas, para evitar que as próximas comprometam as metas de usabilidade (design rationale).
 Após a introdução de um produto, dados devem ser coletados para avaliar o retorno sobre o investimento e planejar a próxima versão do produto.
 
-### **Referências**
+### **Bibliografia**
 
 1. JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homem-computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
 2. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador e Experiência do Usuário, 1a. Edição, Editora Campus, 2021.
@@ -97,6 +111,7 @@ Após a introdução de um produto, dados devem ser coletados para avaliar o ret
 
 ### **Histórico de Versões**
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
+| Versão  | Data | Descrição | Responsáveis | Revisor
 -------- | ------ | ------ | ---------- | ----------
- `1.0` | 21/09/2023 | Descrição da Metodologia | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorress)
+| 1.0 | 21/09/2023 | Descrição da Metodologia | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorress) |
+| 1.1 | 13/10/2023 | Inclusão de legnda, fonte e referências às imagens | [Luana Torres](https://github.com/luanatorress), [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |

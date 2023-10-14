@@ -8,4 +8,4 @@ Nessa página consta o vídeo de apresentação do conteúdo entregue na Etapa 0
 
 | Versão |    Data    |             Descrição             |                                       Responsáveis                                       |                    Revisor                    |
 | :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| 1.0| 02/10/2023 | Criação página de apresentação e adição apr. 01 | [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |
+| 1.0 | 02/10/2023 | Criação página de apresentação e adição apr. 01 | [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |

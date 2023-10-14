@@ -45,5 +45,5 @@
 
 | Versão |    Data    |             Descrição             |                                       Responsáveis                                       |                    Revisor                    |
 | :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| 1.0| 01/10/2023 | Criação página de ferramentas | [Suzane Duarte](https://github.com/suzaneduarte) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.1| 13/10/2023 | Padronização e Referências | [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
+| 1.0 | 01/10/2023 | Criação página de ferramentas | [Suzane Duarte](https://github.com/suzaneduarte) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.1 | 13/10/2023 | Padronização e Referências | [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |

@@ -14,4 +14,4 @@
 
 | Versão |    Data    |             Descrição             |                                       Responsáveis                                       |                    Revisor                    |
 | :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| 1.0| 01/10/2023 | Equipe Inicial | [Suzane Duarte](https://github.com/suzaneduarte) | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.0 | 01/10/2023 | Equipe Inicial | [Suzane Duarte](https://github.com/suzaneduarte) | [Kallyne Macedo](https://github.com/kalipassos) |

@@ -55,8 +55,13 @@
 | 5   | Github pages - implementação dos Github pages | Todos         | 25/09/2023 |
 | 6   | Gravação do video de apresentação             | Todos         | 25/09/2023 |
 
+### **7. Link da gravação**
+
+#### [_Reunião 02_](https://unbbr.sharepoint.com/:v:/s/IHC943/Ee_AQJO_zHdIsrGbWCRJeGoB-BGag7tkUU9zf9kSPXSfeA?e=A5lbaU)
+
 ### Histórico de Versão
 
 | Versão |    Data    |           Descrição            |          Responsáveis          |    Revisor    |
 | :----: | :--------: | :----------------------------: | :----------------------------: | :-----------: |
 |  1.0   | 01/10/2023 | Adicionando a ata no git pages | [Pablo Guilherme](github.com/PabloGJBS), [Suzane Duarte](github.com/suzaneduarte) |  [Suzane Duarte](github.com/suzaneduarte) |
+|  1.1  | 13/10/2023 | Adicionando o link da gravação da reunião | [Ester Lino](https://github.com/esteerlino), [Luana Torres](https://github.com/luanatorress) | [Kallyne Macedo](https://github.com/kalipassos) |

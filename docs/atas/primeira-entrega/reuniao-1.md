@@ -51,8 +51,13 @@
 | 5   |  Metodologia | Henrique       | 25/09/2023 |
 | 6   | Avaliação de sites           | Todos         | 25/09/2023 |
 
+### **7. Link da gravação**
+
+#### [_Reunião 01_](https://unbbr.sharepoint.com/:v:/s/IHC943/ESK6nAW_LS5PijvuO3yc__IB8UmFw1_YZq5PHhF8nRLzbw?e=rgk5Sm)
+
 ### Histórico de Versão
 
 | Versão |    Data    |           Descrição            |          Responsáveis          |    Revisor    |
 | :----: | :--------: | :----------------------------: | :----------------------------: | :-----------: |
 |  1.0   | 01/10/2023 | Adicionando a ata no git pages | [Pablo Guilherme](github.com/PabloGJBS), [Suzane Duarte](github.com/suzaneduarte) |  [Suzane Duarte](github.com/suzaneduarte) |
+|  1.1  | 13/10/2023 | Adicionando o link da gravação da reunião | [Ester Lino](https://github.com/esteerlino), [Luana Torres](https://github.com/luanatorress) | [Kallyne Macedo](https://github.com/kalipassos) |
