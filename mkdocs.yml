@@ -22,6 +22,10 @@ nav:
       - Ferramentas do Projeto: primeira-entrega/ferramentas.md
       - Processo de Design: primeira-entrega/processo-design.md
       - Cronograma das Atividades: primeira-entrega/cronograma-atividades.md
+  - Segunda Entrega:
+      - Análise de tarefas:
+          - Análise Hierárquica de Tarefas (HTA): segunda-entrega/analise-tarefas/HTA.md
+          - GOMS: segunda-entrega/analise-tarefas/GOMS.md
 
 theme:
   name: material
