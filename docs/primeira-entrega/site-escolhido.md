@@ -1,12 +1,16 @@
-# **Site Avaliado**
+# **Site Escolhido**
 
 ## [_Online Judge_](https://onlinejudge.org/)
+
+## Introdução
+
+Inicialmente, os integrantes do grupo realizaram avaliações de sites, utilizando o framework DECIDE para apresentar os problemas de usabilidade presentes em cada um. Durante a reunião 2, foi feita uma revisão das avaliações a fim de verificar se algum dos sites avaliados porderia ser o escolhido para o projeto. No entanto, após a discussão foi decidido que o sites eram estáticos, possuindo poucas funcionalidades a serem trabalhadas. Assim, o site Online Judge foi sugerido.
 
 ## **1. Planejamento com base no framework DECIDE**
 
 #### **Determinar os objetivos da Avaliação de IHC**
 
-> Avaliar a usabilidade e acessibilidade do site Online Judge, tal como sua estrutura de design com base nas heurísticas de Nielsen
+Avaliar a usabilidade e acessibilidade do site Online Judge, tal como sua estrutura de design com base nas heurísticas de Nielsen
 
 #### **Explorar perguntas a serem respondidas com a avaliação**
 
