@@ -113,7 +113,9 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 11 - Menu de ações e ferramentas do Online Judge.</figcaption>
 <center>
+
 ![Tela 2](../assets/images/judge2.png)
+
 </center>
 <figcaption align="center">Autores: Menu do Online Judge.</figcaption><br>
 
@@ -131,7 +133,9 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 13 - Tela de registro do Online Judge.</figcaption>
 <center>
+
 ![Tela 4](../assets/images/judge4.png)
+
 </center>
 <figcaption align="center">Autores: Tela de registro do Online Judge.</figcaption><br>
 
@@ -169,7 +173,9 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 17 - Campo Former UVa ID.</figcaption>
 <center>
+
 ![Tela 3](../assets/images/judge3.png)
+
 </center>
 <figcaption align="center">Autores: Campo Former UVa ID (Online Judge).</figcaption><br>
 
