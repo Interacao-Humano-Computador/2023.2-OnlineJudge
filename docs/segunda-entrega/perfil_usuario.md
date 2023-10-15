@@ -14,7 +14,7 @@ Para elaborar o perfil de usuário foram utilizadas duas técnicas: questionári
 
 <br><figcaption align="center">Figura 1 - Respostas da 1ª pergunta.</figcaption>
 
-![Pergunta 1](../../assets/images/pergunta_1.png)
+![Pergunta 1](../assets/images/pergunta_1.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -24,7 +24,7 @@ Ao analisar a Figura 1 é possível concluir que 44,6% possuem certa experiênci
 
 <br><figcaption align="center">Figura 2 - Respostas da 2ª pergunta.</figcaption>
 
-![Pergunta 2](../../assets/images/pergunta_2.png)
+![Pergunta 2](../assets/images/pergunta_2.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -34,7 +34,7 @@ A Figura 2 mostra que 69% dos participantes do questionário já utilizaram site
 
 <br><figcaption align="center">Figura 3 - Respostas da 3ª pergunta.</figcaption>
 
-![Pergunta 3](../../assets/images/pergunta_3.png)
+![Pergunta 3](../assets/images/pergunta_3.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -44,7 +44,7 @@ De acordo com a Figura 3, cerca de 89,7% dos participnates nunca usaram o Online
 
 <br><figcaption align="center">Figura 4 - Respostas da 4ª pergunta.</figcaption>
 
-![Pergunta 4](../../assets/images/pergunta_4.png)
+![Pergunta 4](../assets/images/pergunta_4.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -54,7 +54,7 @@ De acordo com a Figura 3, cerca de 89,7% dos participnates nunca usaram o Online
 
 <br><figcaption align="center">Figura 5 - Respostas da 5ª pergunta.</figcaption>
 
-![Pergunta 5](../../assets/images/pergunta_5.png)
+![Pergunta 5](../assets/images/pergunta_5.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -64,7 +64,7 @@ A quantidade de participantes do sexo feminino foi de 48,3% e do sexo masculino 
 
 <br><figcaption align="center">Figura 6 - Respostas da 6ª pergunta.</figcaption>
 
-![Pergunta 6](../../assets/images/pergunta_6.png)
+![Pergunta 6](../assets/images/pergunta_6.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -74,7 +74,7 @@ Cerca de 79,3% dos participantes possuem Ensino Superior Incompleto (Figura 6).
 
 <br><figcaption align="center">Figura 7 - Tela inicial do Online Judge.</figcaption>
 
-![Tela 1](../../assets/images/judge1.png)
+![Tela 1](../assets/images/judge1.png)
 
 <figcaption align="center">Autores: Página inicial do Online Judge.</figcaption><br>
 
@@ -82,7 +82,7 @@ Cerca de 79,3% dos participantes possuem Ensino Superior Incompleto (Figura 6).
 
 <br><figcaption align="center">Figura 8 - Respostas da 7ª pergunta.</figcaption>
 
-![Pergunta 7](../../assets/images/pergunta_7.png)
+![Pergunta 7](../assets/images/pergunta_7.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -92,7 +92,7 @@ Cerca de 79,3% dos participantes possuem Ensino Superior Incompleto (Figura 6).
 
 <br><figcaption align="center">Figura 9 - Respostas da 8ª pergunta.</figcaption>
 
-![Pergunta 8](../../assets/images/pergunta_8.png)
+![Pergunta 8](../assets/images/pergunta_8.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -103,7 +103,7 @@ Por exemplo: realizar o cadastro no site.
 
 <br><figcaption align="center">Figura 10 - Respostas da 9ª pergunta.</figcaption>
 
-![Pergunta 9](../../assets/images/pergunta_9.png)
+![Pergunta 9](../assets/images/pergunta_9.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -113,7 +113,7 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 11 - Menu de ações e ferramentas do Online Judge.</figcaption>
 <center>
-![Tela 2](../../assets/images/judge2.png)
+![Tela 2](../assets/images/judge2.png)
 </center>
 <figcaption align="center">Autores: Menu do Online Judge.</figcaption><br>
 
@@ -121,7 +121,7 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 12 - Respostas da 10ª pergunta.</figcaption>
 
-![Pergunta 10](../../assets/images/pergunta_10.png)
+![Pergunta 10](../assets/images/pergunta_10.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -131,7 +131,7 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 13 - Tela de registro do Online Judge.</figcaption>
 <center>
-![Tela 4](../../assets/images/judge4.png)
+![Tela 4](../assets/images/judge4.png)
 </center>
 <figcaption align="center">Autores: Tela de registro do Online Judge.</figcaption><br>
 
@@ -139,7 +139,7 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 14 - Respostas da 11ª pergunta.</figcaption>
 
-![Pergunta 11](../../assets/images/pergunta_11.png)
+![Pergunta 11](../assets/images/pergunta_11.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -149,7 +149,7 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 15 - Respostas da 12ª pergunta.</figcaption>
 
-![Pergunta 12](../../assets/images/pergunta_12.png)
+![Pergunta 12](../assets/images/pergunta_12.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -159,7 +159,7 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 16 - Respostas da 13ª pergunta.</figcaption>
 
-![Pergunta 13](../../assets/images/pergunta_13.png)
+![Pergunta 13](../assets/images/pergunta_13.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -169,7 +169,7 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 <br><figcaption align="center">Figura 17 - Campo Former UVa ID.</figcaption>
 <center>
-![Tela 3](../../assets/images/judge3.png)
+![Tela 3](../assets/images/judge3.png)
 </center>
 <figcaption align="center">Autores: Campo Former UVa ID (Online Judge).</figcaption><br>
 
@@ -179,7 +179,7 @@ Tradução do texto presente na Figura 17: Antigo UVa ID: O ID (incluindo o chec
 
 <br><figcaption align="center">Figura 18 - Respostas da 14ª pergunta.</figcaption>
 
-![Pergunta 14](../../assets/images/pergunta_14.png)
+![Pergunta 14](../assets/images/pergunta_14.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
@@ -189,7 +189,7 @@ Tradução do texto presente na Figura 17: Antigo UVa ID: O ID (incluindo o chec
 
 <br><figcaption align="center">Figura 19 - Respostas da 15ª pergunta.</figcaption>
 
-![Pergunta 15](../../assets/images/pergunta_15.png)
+![Pergunta 15](../assets/images/pergunta_15.png)
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
