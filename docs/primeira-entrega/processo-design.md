@@ -1,8 +1,8 @@
 # **Processo de design**
 
-## **Introdução**
+## Introdução
 
- Neste momento teremos uma breve descrição sobre os processos de desing assim como a explicação da escolha do processo de design do nosso grupo, o qual foi escolhido o modelo de Mayhew.
+Neste momento teremos uma breve descrição sobre os processos de desing assim como a explicação da escolha do processo de design do nosso grupo, o qual foi escolhido o modelo de Mayhew.
 
 ### **Engenharia de Usabilidade de Mayhew**
 
