@@ -68,6 +68,27 @@ Nesta tarefa, o objetivo do usuário é buscar um novo problema para solucionar 
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center> -->
 
+## Contatar Colaboradores
+
+Nesta tarefa o usuario tem o objetvo de contatar, colaboradores do site, seja sobre o resultado de submissões, ou para relatar algum problema, ou dar alguma sugestão, a figura 4 apresenta o diagrama HTA relativo a essa funcionalidade e a tabela 3 a mesma em forma de tabela
+
+<center>Figura 4 - Diagrama HTA para contato com colaboradores.</center>
+
+![](../../assets/images/contact-us.png)
+<center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
+
+<center>Tabela 3 - HTA de contato com colaboradores.</center>
+
+| Objetivo/Tarefa                            | Descrição, Recomendações e Problemas                                                                                                                                                                              |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|0. Enviar mensagem para colaborador |**Input:** click do usuário na aba "Contact us" <br> | 
+|1. Inserir nome | **Input:** nome <br> **Feedback:** usuário é direcionado para o campo seguinte|
+|2 Inserir E-mail do colaborador desajado | **Input:** email do colaborador<br> **Feedback:** após inserir o e-mail, o usuário é liberado para escrever a mensagem|
+|3 Escrever a Mensagem | **Input:** texto da mensagem<br> **Feedback:** usuário passa a ser capaz de enviar a mensagem|
+|4. Enviar |**Input:** enviar<br> **Feedback:** usuário recebe mensagem de sucesso na operação |
+
+<center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
+
 # Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
