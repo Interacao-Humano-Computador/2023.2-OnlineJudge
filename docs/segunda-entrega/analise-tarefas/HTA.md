@@ -52,17 +52,19 @@ Nesta tarefa, o objetivo do usuário é buscar um novo problema para solucionar 
 
 <center>Figura 3 - Diagrama HTA para procurar problemas.</center>
 
-![](../../assets/images/visualizacao-submissao.jpeg)
+![](../../assets/images/procurar-problema.jpeg)
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 
-<center>Tabela 2 - HTA de visualização de submissões.</center>
+<center>Tabela 2 - HTA de procurar um problema.</center>
 
-| Objetivo/Tarefa                      | Descrição, Recomendações e Problemas                                                                                                |
-| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 0. Visulizar minhas submissões       | **Plano:** Visualizar minhas submissões no site                                                                                     |
-| 1.1 Realizar login                   | **Input:** dados de login<br> **Feedback:** usuário redirecionado para a página "Home"<br> **Plano:** abrir página "My submissions" |
-| 2. Acessar área de minhas submissões | **Input:** click do usuário na aba "My submissions" <br>**FeedBack:** Usuário redirecionado para a página "My submissions"          |
+| Objetivo/Tarefa                            | Descrição, Recomendações e Problemas                                                                                                                                                                              |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Procurar problemas no Online Judge      | **Input:** click do usuário na aba "Browse Problems" <br> **Plano:** procurar um problema para resolver <br>**Feedback:** usuário redirecionado para a página com uma lista de pastas de problemas                |
+| 1. Acessar pasta de problemas disponíveis  | **Input:** click do usuário na pasta escolhida <br>**Feedback:** usuário redirecionado para uma página contendo uma lista de pastas de problemas<br> **Plano:** escolher uma das pastas de problemas disponíveis  |
+| 1.1 Escolher o volume do problema          | **Input:** click do usuário no volume escolhido <br>**FeedBack:** Usuário redirecionado para a página seguinte contendo os problemas de fato <br> **Plano:** visualizar um dos problemas desse determinado volume |
+| 1.2 Escolher o problema a ser resolvido    | **Input:** click do usuário no problema <br>**FeedBack:** Usuário redirecionado para a página seguinte contendo a descrição do problema <br> **Plano:** ler todas as demais informações do problema               |
+| 2. Obter informações do problema escolhido | **Plano:** através do PDF disponibilizado obter todas as informações necessárias para uma possível submissão                                                                                                      |
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center> -->
 
