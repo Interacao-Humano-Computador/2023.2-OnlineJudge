@@ -99,6 +99,7 @@ Nesta tarefa o objetivo é acessar a aba que permite ver todas as submissões.
     - Método 2: Clicar na submissão desejada
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, <a href="https://github.com/henriqtorresl">Henrique Torres</a></center>
+
 ## Contatar colaboradores
 
 Nesta tarefa o objetivo do usuário é contatar colaboradores do site
@@ -227,6 +228,55 @@ Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
 <center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 <br><br>
 
+## Forgot login?
+
+- Goal 0: Recuperar login
+  - Goal 1: Acessar página Forgot login?
+  - Regra de seleção: Usuário esqueceu seus dados de login e não consegue entrar no sistema
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor do mouse para a aba Forgot login?
+  - Método 2: Clicar na aba para abri-la
+  - Goal 2: Receber ajuda para recuperar username
+  - Regra de seleção: Usuário não lembra o seu username
+  - Operador 1: Hoaming
+  - Operador 2: Click na checkbox Lost Username
+  - Operador 3: Data Input
+  - Método 1: Mover o cursor do mouse para a checkbox Lost Username
+  - Método 2: Clicar no campo para selecioná-lo
+  - Método 3: Click na caixa de texto para digitar e-mail
+  - Método 4: Digitar e-mail
+  - Método 5: Click no botão Send Username/Password
+    - Goal 2.1: Receber ajuda para recuperar password
+    - Regra de seleção: Usuário não lembra o seu password
+    - Operador 1: Hoaming
+    - Operador 2: Click na checkbox Lost Password
+    - Operador 3: Data Input
+    - Método 1: Mover o cursor do mouse para a checkbox Lost Password
+    - Método 2: Clicar no campo para selecioná-lo
+    - Método 3: Click na caixa de texto para digitar e-mail
+    - Método 4: Digitar e-mail
+    - Método 5: Click na caixa de texto para digitar username
+    - Método 6: Digitar username
+    - Método 7: Click no botão Send Username/Password
+      - Goal 2.2: Receber ajuda para recuperar password e username
+      - Regra de seleção: Usuário não lembra o seu username e password
+      - Operador 1: Hoaming
+      - Operador 2: Click na checkbox Lost Password
+      - Operador 3: Click na checkbox Lost Username
+      - Operador 4: Data Input
+      - Método 1: Mover o cursor do mouse para a checkbox Lost Password
+      - Método 2: Clicar no campo para selecioná-lo
+      - Método 3: Mover o cursor do mouse para a checkbox Lost Username
+      - Método 4: Clicar no campo para selecioná-lo
+      - Método 5: Click na caixa de texto para digitar e-mail
+      - Método 6: Digitar e-mail
+      - Método 7: Click na caixa de texto para digitar username
+      - Método 8: Digitar username
+      - Método 9: Click no botão Send Username/Password
+
+<center><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a></center>
+<br><br>
 
 # Bibliografia
 
@@ -241,3 +291,4 @@ Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
 |  1.2   | 16/10/2023 | Adicionando análise de tarefa Visualizar minhas submissões | [Pablo Guilherme](https://github.com/PabloGJBS), [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.3   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.4   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System | [Pablo Guilherme](https://github.com/PabloGJBS), [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.5   | 16/10/2023 | Adicionando análise tarefa Recuperação de login (Forgot login?) | [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |
