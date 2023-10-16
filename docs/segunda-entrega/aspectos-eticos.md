@@ -1,6 +1,6 @@
 ## Introdução
 
-Em uma pesquisa eticamente justificável é dever da equipe de design proteger o bem-estar físico e psicológico dos participantes. 
+Em uma pesquisa eticamente justificável é dever da equipe de design proteger o bem-estar físico e psicológico dos participantes.
 O pesquisador deve explicar os objetivos da pesquisa, garantir a confidencialidade e a privacidade dos participantes, assim como, o anonimato destes ao divulgar a pesquisa.
 Através da [resolução nº 466/2012](./reso466.pdf) do Conselho Nacional de Saúde<a id="anchor_1" href="#REF1">^1^</a> regida no Brasil, o avaliador é orientado a lidar com as questões éticas de pesquisa envolvendo os seguintes princípios:
 
@@ -9,19 +9,17 @@ Através da [resolução nº 466/2012](./reso466.pdf) do Conselho Nacional de Sa
 - Princípio da não maleficência: busca garantir que danos previsíveis relacionados à pesquisa sejam evitados, tanto imediatos quanto tardios.
 - Princípio da justiça e equidade: está relacionado à relevância social da pesquisa, buscando vantagens significativas para os participantes e minimização do ônus para aqueles que são vulneráveis. É importante garantir a igual consideração dos interesses envolvidos em todas as etapas da pesquisa.
 
-
 ## Termo de Consentimento
 
 A participação na pesquisa deve ocorrer apenas com o consentimento livre e esclarecido dos participantes. Através do termo de consentimento são comunicadas aos participantes todas as informações pertinentes da pesquisa de modo a garantir a a decisão livre e consciente na participação desta. Como por exemplo, se necessário utilizar gravação de voz ou imagem do participante, faz-se necessário obter a permissão para gravar. Também é importante enfatizar que o participante tem o direito e liberdade de se recusar a participar ou retirar seu consentimento e abandonar o estudo em qualquer fase da pesquisa.
 Nesta disciplina, quando se trata de pesquisas envolvendo pessoas, o grupo utiliza-se deste de termo de consentimento presente na Figura 1 quando for necessário:
 
-<center>Figura 1 - Termo de Consentimento.</center>
+<center>Figura 1 - Termo de Consentimento.
 
-![](../assets/images/termo-consentimento.jpg)
-<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/ericcs10">Eric Camargo</a></center>
+![](../assets/images/termo-consentimento.jpg)<br>
+<b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/ericcs10">Eric Camargo</a></center></center>
 
 <br>
-
 
 ## Referências Bibliográficas
 
