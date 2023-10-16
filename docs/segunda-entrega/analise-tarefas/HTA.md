@@ -168,6 +168,31 @@ Nesta tarefa, o usuário tem como objetivo de visualizar as competições/concur
 |5. Contest ranking|**Input:** click do usuário na aba "Contest ranking" <br> **FeedBack:** usuário redirecionado para a página desejada.<br> |
 |5.1. Acessar área com o ranking dos participantes | **Plano:** ter acesso às informações dos participantes do s concursos. |
 
+## Acessar o "Forgot Login?" - Recuperação de login
+
+Nessa tarefa, o usuário tem como objetivo recuperar a senha ou o nome de usuário esquecido, para que possa acessar o sistema. A Figura 8 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 7 representa o mesmo HTA em formato de tabela.
+
+<center>Figura 7 - Diagrama HTA para visualização do sistema "Forgot login?".</center>
+
+![](../../assets/images/hta_login.png)
+
+<center><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a></center>
+
+<center> Tabela 1 - HTA de recuperação de login.</ center>
+
+| Objetivo/Tarefa | Descrição, Recomendações e Problemas|
+| ------------------------------ | -------------------------------------- |
+| 0. Recuperar login | |
+| 1. Acessar página "Forgot login?" | **Input :** click do usuário na aba "Forgot login?" <br> **Plano :** Encontrar página para recuperação de senha.<br> **Feedback :** usuário redirecionado para a página de recuperação de login.|
+| 1.1 Recuperar Username | **Input:** click do usuário na checkbox Lost Username<br> **Plano:** Solicitar recuperação de username por email<br> **Feedback:** Aparecer campo de preenchimento de e - mail |
+| 1.1.1 Informar E - mail | **Input:** click do usuário para digitar e - mail <br> **Plano:** Enviar e - mail para recuperar username<br> **Feedback:** E - mail enviado com sucesso |
+| 1.2 Recuperar Password | **Input:** click do usuário na checkbox Lost Password<br> **Plano:** Solicitar recuperação de senha por email<br> **Feedback :** Aparecer campo de preenchimento de e - mail e username |
+| 1.2.1 Informar Username e E - mail | **Input :** click do usuário para digitar username e - mail<br> **Plano:** Enviar e - mail para recuperar username e password<br> **Feedback:** E - mail enviado com sucesso |
+| 1.3 Recuperar Username e Password | **Input:** click do usuário na checkbox Lost Password e Lost Username<br> **Plano:** Solicitar recuperação de username e senha por email<br> **Feedback:** Aparecer campo de preenchimento de e - mail |
+| 2. Solicitar recuperação de login | **Input:** click do usuário no botão Send Username/Password <br> **Plano:**  envio das informações de login por e-mail <br> **Feedback:** envio realizado com sucesso. |  |
+
+<center><b> Fonte: </ b><a href = "https://github.com/kalipassos"> Kallyne Macedo</ a></ center>
+
 # Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -179,3 +204,4 @@ Nesta tarefa, o usuário tem como objetivo de visualizar as competições/concur
 |  1.0   | 01/10/2023 |              Introdução a Análise de Tarefas               |   [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.1   | 16/10/2023 | Adicionando análise de tarefa Visualizar minhas submissões | [Suzane Duarte](https://github.com/suzaneduarte), [Henrique Torres](https://github.com/henriqtorresl) | [Pablo Guilherme](https://github.com/PabloGJBS) |
 |  1.2   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System e editar perfil | [Ester Lino](https://github.com/esteerlino),[Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.3   | 16/10/2023 | Adicionando análise de tarefa acessar Forgot Login? | [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |
