@@ -6,6 +6,42 @@ Estabelecer um contexto de cenário é uma etapa fundamental na concepção de q
 ## **Cenário 1**
 **Persona:** João, o Estudante de Ciência da Computação.
 
+- Identidade:
+Nome e Sobrenome: João da Silva
+Idade e Dados Demográficos: 22 anos, estudante universitário de ciência da computação.
+Foto: [Inserir foto de João]
+Status: Estudante universitário, representando o usuário principal do sistema "Online Judge".
+
+- Objetivos:
+João busca aprimorar suas habilidades de programação.
+Ele deseja obter uma boa classificação na "Corrida de Programação" da universidade.
+Almeja ganhar reconhecimento entre seus pares e possivelmente atrair oportunidades de estágio ou emprego na área de tecnologia.
+
+- Habilidades:
+Está cursando o terceiro ano de Ciência da Computação.
+Possui habilidades em linguagens de programação como Python, C++ e Java.
+Tem conhecimento em algoritmos e estruturas de dados.
+
+- Tarefas:
+Resolver problemas de programação durante a "Corrida de Programação".
+Gerenciar o tempo para equilibrar a resolução de problemas dentro dos prazos.
+Depurar código e corrigir erros.
+Acompanhar o progresso e a classificação na competição.
+
+- Relacionamentos:
+João interage com outros estudantes participantes da "Corrida de Programação".
+Ele pode buscar a ajuda de professores ou colegas mais experientes quando encontra dificuldades em problemas específicos.
+
+- Requisitos:
+João precisa de um ambiente online estável e de fácil acesso para submeter suas soluções.
+Requer documentação clara sobre os problemas propostos.
+Deseja feedback imediato sobre a precisão de suas soluções e dicas sobre como melhorar seu código.
+
+- Expectativas:
+João espera que o sistema "Online Judge" seja intuitivo, com uma interface amigável.
+Ele organiza as informações dos problemas por nível de dificuldade, procurando desafios que se adequem ao seu conhecimento.
+Acredita que o sistema deve fornecer pontuações e classificações em tempo real para mantê-lo motivado durante a competição.
+
 **Cenário de Análise/Problema:** O Desafio da Corrida de Programação.
 
 João é um estudante de ciência da computação apaixonado por programação. Ele adora desafios e busca constantemente aprimorar suas habilidades. Recentemente, ele se inscreveu em um sistema chamado "Online Judge", um juiz online automatizado para problemas de programação. João se deparou com um novo desafio, a "Corrida de Programação".
@@ -16,13 +52,13 @@ O problema específico que João enfrenta é o seguinte: Ele tem 3 horas para re
 
 João enfrenta vários desafios nessa corrida de programação:
 
-Gestão de Tempo: Ele precisa equilibrar seu tempo entre os problemas, decidindo quais problemas abordar primeiro e quanto tempo dedicar a cada um.
+- Gestão de Tempo: Ele precisa equilibrar seu tempo entre os problemas, decidindo quais problemas abordar primeiro e quanto tempo dedicar a cada um.
 
-Tomada de Decisões Rápidas: Às vezes, ele precisa abandonar um problema que está tomando muito tempo para se concentrar em outro que pode ser resolvido mais rapidamente.
+- Tomada de Decisões Rápidas: Às vezes, ele precisa abandonar um problema que está tomando muito tempo para se concentrar em outro que pode ser resolvido mais rapidamente.
 
-Erros e Depuração: Às vezes, comete erros em seu código e precisa diagnosticá-los e corrigi-los rapidamente.
+- Erros e Depuração: Às vezes, comete erros em seu código e precisa diagnosticá-los e corrigi-los rapidamente.
 
-Competição com Outros Estudantes: João também está competindo com outros estudantes, o que aumenta a pressão para ter um bom desempenho.
+- Competição com Outros Estudantes: João também está competindo com outros estudantes, o que aumenta a pressão para ter um bom desempenho.
 
 Ele precisa usar suas habilidades de programação, algoritmos e estruturas de dados para ter sucesso na "Corrida de Programação" e garantir uma boa classificação. A competição é uma oportunidade para ele aprender e se desafiar, e aprimorar suas habilidades em um ambiente competitivo e colaborativo ao mesmo tempo.
 
