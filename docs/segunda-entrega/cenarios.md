@@ -7,40 +7,40 @@ Estabelecer um contexto de cenário é uma etapa fundamental na concepção de q
 **Persona:** João, o Estudante de Ciência da Computação.
 
 - Identidade:
-Nome e Sobrenome: João da Silva
-Idade e Dados Demográficos: 22 anos, estudante universitário de ciência da computação.
-Foto: [Inserir foto de João]
-Status: Estudante universitário, representando o usuário principal do sistema "Online Judge".
+    - Nome e Sobrenome: João da Silva Matos
+    - Idade e Dados Demográficos: 22 anos, estudante universitário de ciência da computação.
+    - Foto: (vai ser adicionado uma foto)
+    - Status: Estudante universitário, representando o usuário principal do sistema "Online Judge".
 
 - Objetivos:
-João busca aprimorar suas habilidades de programação.
-Ele deseja obter uma boa classificação na "Corrida de Programação" da universidade.
-Almeja ganhar reconhecimento entre seus pares e possivelmente atrair oportunidades de estágio ou emprego na área de tecnologia.
+    - João busca aprimorar suas habilidades de programação.
+    - Ele deseja obter uma boa classificação na "Corrida de Programação" da universidade.
+    - Almeja ganhar reconhecimento entre seus pares e possivelmente atrair oportunidades de estágio ou emprego na área de tecnologia.
 
 - Habilidades:
-Está cursando o terceiro ano de Ciência da Computação.
-Possui habilidades em linguagens de programação como Python, C++ e Java.
-Tem conhecimento em algoritmos e estruturas de dados.
+    - Está cursando o terceiro ano de Ciência da Computação.
+    - Possui habilidades em linguagens de programação como Python, C++ e Java.
+    - Tem conhecimento em algoritmos e estruturas de dados.
 
 - Tarefas:
-Resolver problemas de programação durante a "Corrida de Programação".
-Gerenciar o tempo para equilibrar a resolução de problemas dentro dos prazos.
-Depurar código e corrigir erros.
-Acompanhar o progresso e a classificação na competição.
+    - Resolver problemas de programação durante a "Corrida de Programação".
+    - Gerenciar o tempo para equilibrar a resolução de problemas dentro dos prazos.
+    - Depurar código e corrigir erros.
+    - Acompanhar o progresso e a classificação na competição.
 
 - Relacionamentos:
-João interage com outros estudantes participantes da "Corrida de Programação".
-Ele pode buscar a ajuda de professores ou colegas mais experientes quando encontra dificuldades em problemas específicos.
+    - João interage com outros estudantes participantes da "Corrida de Programação".
+    - Ele pode buscar a ajuda de professores ou colegas mais experientes quando encontra dificuldades em problemas específicos.
 
 - Requisitos:
-João precisa de um ambiente online estável e de fácil acesso para submeter suas soluções.
-Requer documentação clara sobre os problemas propostos.
-Deseja feedback imediato sobre a precisão de suas soluções e dicas sobre como melhorar seu código.
+    - João precisa de um ambiente online estável e de fácil acesso para submeter suas soluções.
+    - Requer documentação clara sobre os problemas propostos.
+    - Deseja feedback imediato sobre a precisão de suas soluções e dicas sobre como melhorar seu código.
 
 - Expectativas:
-João espera que o sistema "Online Judge" seja intuitivo, com uma interface amigável.
-Ele organiza as informações dos problemas por nível de dificuldade, procurando desafios que se adequem ao seu conhecimento.
-Acredita que o sistema deve fornecer pontuações e classificações em tempo real para mantê-lo motivado durante a competição.
+    - João espera que o sistema "Online Judge" seja intuitivo, com uma interface amigável.
+    - Ele organiza as informações dos problemas por nível de dificuldade, procurando desafios que se adequem ao seu conhecimento.
+    - Acredita que o sistema deve fornecer pontuações e classificações em tempo real para mantê-lo motivado durante a competição.
 
 **Cenário de Análise/Problema:** O Desafio da Corrida de Programação.
 
