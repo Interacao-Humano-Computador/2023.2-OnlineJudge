@@ -123,6 +123,44 @@ Nesta tarefa o objetivo do usuário é contatar colaboradores do site
 
 <center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
 
+## Acessar o Contest System
+
+Nesta tarefa o objetivo é acessar a aba de *Contest System*
+
+- Goal 0: Acessar a aba **_Contest System_**
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor do mouse para a aba **_Contest System_**
+  - Método 2: Clicar na aba para abri-la
+    - Goal 1: Acessar a aba **_Running contests_**
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para a aba **_Running contests_**
+      - Método 2: Clicar na aba para abri-la
+    - Goal 2: Acessar a aba **_Comming contests_**
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para a aba **_Comming contests_**
+      - Método 2: Clicar na aba para abri-la
+    - Goal 3: Acessar a aba **_Past Contests_**
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para a aba **_Past Contests_**
+      - Método 2: Clicar na aba para abri-la
+      - Goal 3.1: Acessar algum contest passado
+        - Operador 1: Hoaming
+        - Operador 2: Click
+        - Método 1: Mover o cursor do mouse para o contest desejado
+        - Método 2: Clicar no contest especifico para acessá-lo
+    - Goal 4: Acessar a aba **_Contest Ranking_**
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para a aba **_Contest Ranking_**
+      - Método 2: Clicar na aba para abri-la
+
+<center><b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Flores</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
+<br><br>
+
 # Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -134,3 +172,4 @@ Nesta tarefa o objetivo do usuário é contatar colaboradores do site
 |  1.0   | 01/10/2023 |              Introdução a Análise de Tarefas               |  [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos)  |
 |  1.1   | 16/10/2023 |     Adicionando análise de tarefa Procurar um problema     |  [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos)  |
 |  1.2   | 16/10/2023 | Adicionando análise de tarefa Visualizar minhas submissões | [Pablo Guilherme](https://github.com/PabloGJBS), [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.3   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |

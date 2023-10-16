@@ -98,7 +98,7 @@ Nesta tarefa, o usuário tem como objetivo editar sua conta de usuário. A Figur
 
 ![](../../assets/images/edicao-usuario.png)
 
-<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/esteerlino">Ester Flores</a></center>
+<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/esteerlino">Ester Lino</a></center>
 
 <br>
 
@@ -140,6 +140,34 @@ Nesta tarefa, o usuário tem como objetivo verificar as proprias subimissões de
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, <a href="https://github.com/henriqtorresl">Henrique Torres</a></center>
 
+## Acessar o Contest System
+
+Nesta tarefa, o usuário tem como objetivo de visualizar as competições/concursos que estão em execução, os próximos e os que já ocorreram. O diagrama HTA referente à essa tarefa está apresentado na Figura 7 e a Tabela 6 representa o mesmo HTA em formato de tabela.
+
+<center>Figura 7 - Diagrama HTA para visualização do Contest System.</center>
+
+![](../../assets/images/contest-system.png)
+
+<center><b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/luanatorress">Luana Torres</a></center>
+
+<center>Tabela 6 - HTA de visualização do Contest System.</center>
+
+ Objetivo/Tarefa | Descrição, Recomendações e Problemas|
+| ------------------------------ | -------------------------------------- |
+|0. Acessar o Contest System | **Input:** click do usuário na aba "Contests".<br> |
+|1. Acessar a aba "Contests | **Input:** click do usuário em uma das quatro opções disponíveis.<br> **Feedback:** usuário redirecionado para a página escolhida.<br>|
+|2. Running contest |**Input:** click do usuário na aba "Running contests".<br>**FeedBack:** usuário redirecionado para a página desejada.<br> |
+|2.1 Visualizar concursos em execução| **Plano:** ter acesso a todos os concursos em andamento.|
+|2.2 Resolver os problemas propostos|**Input:** click do usuário no concurso que está inscrito.<br> **FeedBack:** usuário redirecionado para a página com os problemas do concurso<br> **Plano:** realizar os exercícios do concurso.|
+|3. Coming contests|**Input:** click do usuário na aba "Coming contests" <br> **FeedBack:** usuário redirecionado para a página desejada.<br> |
+|3.1. Visualizar concursos futuros | **Plano:** ter acesso a todos os concursos futuros. |
+|3.2 Se increver em um concurso| **Input:** click do usuário no concurso que ele deseja se increver.<br> **Feedback:** usuário redirecionado para a página de incrição. |
+|4. Past contests|**Input:** click do usuário na aba "Past contests" <br> **FeedBack:** usuário redirecionado para a página desejada.<br> |
+|4.1. Visualizar concursos passados | **Plano:** ter acesso a todos os concursos passados. |
+|4.2 Acessar área de detalhes sobre o concurso.| **Input:** click do usuário no concurso que ele deseja se visualizar.<br> **Feedback:** usuário redirecionado para a página de visualização dos detalhes do concurso. |
+|5. Contest ranking|**Input:** click do usuário na aba "Contest ranking" <br> **FeedBack:** usuário redirecionado para a página desejada.<br> |
+|5.1. Acessar área com o ranking dos participantes | **Plano:** ter acesso às informações dos participantes do s concursos. |
+
 # Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -150,3 +178,4 @@ Nesta tarefa, o usuário tem como objetivo verificar as proprias subimissões de
 | :----: | :--------: | :--------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
 |  1.0   | 01/10/2023 |              Introdução a Análise de Tarefas               |   [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.1   | 16/10/2023 | Adicionando análise de tarefa Visualizar minhas submissões | [Suzane Duarte](https://github.com/suzaneduarte), [Henrique Torres](https://github.com/henriqtorresl) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+|  1.2   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System e editar perfil | [Ester Lino](https://github.com/esteerlino),[Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
