@@ -71,6 +71,6 @@ Os desafios que Geraldo enfrenta são:
 
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :---------------------------: | :-----------: |
-|  1.0   | 15/10/2023 | Inicialização da página de perfil de usuário | [Henrique Torres](https://github.com/henriqtorresl), [Pablo Guilherme](https://github.com/PabloGJBS) |  [Suzane Duarte](https://github.com/suzaneduarte)|
+|  1.0   | 15/10/2023 | Inicialização da página de cenários de análise/problema | [Henrique Torres](https://github.com/henriqtorresl), [Pablo Guilherme](https://github.com/PabloGJBS) |  [Suzane Duarte](https://github.com/suzaneduarte)|
 |  1.1   | 16/10/2023 | Atualização da pagina de cenários | [Pablo Guilherme](https://github.com/PabloGJBS) | [Suzane Duarte](https://github.com/suzaneduarte) |
 
