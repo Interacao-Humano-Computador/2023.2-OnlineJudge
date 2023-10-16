@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Definir o perfil de usuário é uma etapa essencial no desenvolvimento do projeto, porque possibilita compreender quem são os indivíduos que utilizam o sistema. Segundo Barbosa e Silva, esse perfil descreve as características dos usuários, possibilitando entender quais são os objetivos que o sistema deve atender ao ser projetado. Essa abordagem auxilia no entendimento das necessidades, preferências e requisitos dos usuários, contribuindo para o desenvolvimento de um sistema mais eficaz e voltado para atender às suas demandas. <a id="anchor_1" href="#REF1">1</a>.
+Definir o perfil de usuário é uma etapa essencial no desenvolvimento do projeto, visto que possibilita compreender quem são os indivíduos que utilizam o sistema. Segundo Barbosa e Silva, esse perfil descreve as características dos usuários, possibilitando entender quais são os objetivos que o sistema deve atender ao ser projetado. Essa abordagem auxilia no entendimento das necessidades, preferências e requisitos dos usuários, contribuindo para o desenvolvimento de um sistema mais eficaz e voltado para atender às suas demandas. <a id="anchor_1" href="#REF1">1</a>.
 
-## Metdologia
+## Metodologia
 
-Para elaborar o perfil de usuário foram utilizadas duas técnicas: questionário e entrevista. O questionário foi elaborado no Google Forms e possuía 15 questões que incluiam dados demográficos e informações sobre a experiência do usuário ao utilizar o site. O forms coletou respostas durante os dias 13/10/2023 e 15/10/2023. No artefato de aspectos éticos é apresentado o Termo de Consentimento. A entrevista foi realizada com dois usuários e conduzida pela integrante [Kallyne Macedo](https://github.com/kalipassos) é contava com 6 perguntas sobre a experiência com sites de juiz online e com o Online Judge.
+Para a elaboração do perfil de usuário foram utilizadas duas técnicas: questionário e entrevista. O questionário foi elaborado no Google Forms e possuía 15 questões que incluiam dados demográficos e informações sobre a experiência do usuário ao utilizar o site. O formulário coletou respostas durante os dias 13/10/2023 e 15/10/2023. No artefato de Aspectos Éticos é apresentado o Termo de Consentimento. A entrevista, conduzida pela integrante [Kallyne Macedo](https://github.com/kalipassos), foi realizada, em momentos distintos através da ferramenta de vídeo-chamada da plataforma WhatsApp, com três estudantes universitários de Engenharia de Software na Universidade de Brasília (UnB), do sexo masculino, identificados como E1, E2 e E3 (Entrevistado 1, 2 e 3) e contava com 6 perguntas sobre a experiência com sites de juiz online e com o Online Judge.
 
 ## Dados coletados pelo questionário
 
@@ -70,7 +70,7 @@ A quantidade de participantes do sexo feminino foi de 48,3% e do sexo masculino 
 
 Cerca de 79,3% dos participantes possuem Ensino Superior Incompleto (Figura 6).
 
-### **As perguntas 7, 8 e 9 se basearam na Figura 7, a qual mostra a tela inicial do site Online Judge.**
+**As perguntas 7, 8 e 9 se basearam na Figura 7, a qual mostra a tela inicial do site Online Judge.**
 
 <br><figcaption align="center">Figura 7 - Tela inicial do Online Judge.</figcaption>
 
@@ -107,9 +107,9 @@ Por exemplo: realizar o cadastro no site.
 
 <figcaption align="center">Autores: Página de resultados do Google Forms</figcaption><br>
 
-Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimação (Figura 10). 
+Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afirmação (Figura 10).
 
-### **A pergunta 10 se baseia na Figura 11, que mostra o menu de ações do site Online Judge.**
+**A pergunta 10 se baseia na Figura 11, que mostra o menu de ações do site Online Judge.**
 
 <br><figcaption align="center">Figura 11 - Menu de ações e ferramentas do Online Judge.</figcaption>
 <center>
@@ -129,7 +129,7 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 27,6% discordaram totalmente dessa afirmação (Figura 12).
 
-### **As perguntas 11, 12 e 13 se baseiam na Figura 13, que mostra a tela de registro do site Online Judge.**
+**As perguntas 11, 12 e 13 se baseiam na Figura 13, que mostra a tela de registro do site Online Judge.**
 
 <br><figcaption align="center">Figura 13 - Tela de registro do Online Judge.</figcaption>
 <center>
@@ -169,7 +169,7 @@ Cerca de 27,6% dos participantes tiveram uma opinião neutra sobre essa afrimaç
 
 31% dos participantes discordaram totalmente da afirmação da pergunta 13 (Figura 16).
 
-### **A pergunta 14 se baseia na Figura 17, que o campo Former UVa ID presente na tela de cadastro do site Online Judge.**
+**A pergunta 14 se baseia na Figura 17, que o campo Former UVa ID presente na tela de cadastro do site Online Judge.**
 
 <br><figcaption align="center">Figura 17 - Campo Former UVa ID.</figcaption>
 <center>
@@ -201,6 +201,46 @@ Tradução do texto presente na Figura 17: Antigo UVa ID: O ID (incluindo o chec
 
 Essa pergunta era opcional e tivemos duas respostas: "Não" e "Eu não usei, mas as imagens mostram algo ruim" (Figura 19).
 
+## Dados coletados pela entrevista
+
+**Pergunta 1:** Como você classifica sua experiência com programação? E computação?<br>
+E1: Experiente.<br>
+E2: Dentro do escopo da faculdade eu considero média/alta, pois já fiz grande parte das matérias de programação que a universidade oferece e me inseri em diversas iniciativas. E média/alta para computação também pelos mesmos motivos.<br>
+E3: Experiência média com programação, não programando com muita frequência. Com computação, baixa.<br>
+
+**Pergunta 2:** Que afinidade você tem com sites de júri online?<br>
+E1: Já utilizei bastante na faculdade, mas não utilizo para estudo próprio.<br>
+E2: Alta, eu utilizei ele em praticamente todas as matérias de programação até o presente momento.<br>
+E3: Utilizei poucas vezes para atividades da faculdade.<br>
+
+**Pergunta 3:** Qual sua primeira impressão do site OnlineJudge? Como ele se compara com outros sites de júri online que você conhece?<br>
+E1: Minha primeira impressão é que ele é bem velho e não tem uma interface intuitiva. Comparado a outros sites de juri online, o OnlineJudge fica atrás em quesitos de UI/UX.<br>
+E2: Ele é bem criterioso e muitas vezes leva em consideração alguns fatores que nem sempre são levados por outros juízes convencionais como o do URI on-line judge. <br>
+E3: Não gostei da interface. É estranho a notícia dos livros na página inicial. Os outros sites que conheço são mais modernos.<br>
+
+**Pergunta 4:** Notou algum erro ou ponto de destaque no site?<br>
+E1: O Site não tem um cabeçalho. <br>
+E2: O design dele é bem defasado e poderia ter algumas funcionalidades extras para orientar os alunos sobre o erro obtido. <br>
+E3: Login meio escondido, do lado esquerdo; Coluna de 'sponsors' sem preencher (--your name here--); Ter anúncios na página inicial, invés de uma introdução, é confuso para o usuário.<br>
+
+**Pergunta 5:** Que tarefas você realiza na página inicial do site?<br>
+E1: Login, cadastro, recuperar senha, acesso a livros, doar para os mantenedores do site.<br>
+E2: Login, acesso de lista, verificação de prazos das listas.<br>
+E3: Login, pesquisar no google.<br>
+
+**Pergunta 6:** O que você mudaria no site?<br>
+E1: Majoritariamente eu mudaria a interface. Ela está muito ultrapassada e não atende a muitos padrões de qualidade.<br>
+E2: O design pensando na usabilidade e também a questão de não conseguirmos verificar os erros obtidos e ficarmos dependentes de um bot de uma plataforma externa<br>
+E3: Deixaria mais claro o intuito do site para ficar mais fácil o primeiro acesso e a curva de aprendizagem.<br>
+
+## Conclusão
+
+Após a coleta e os estudos dos dados obtidos com o questionário e as entrevistas, é possível traçar um perfil objetivo para o usuário do site Online Judge. Dessa forma, observamos que o perfil majoritário de uso é de público misto (48% feminino e 52% masculino), entre 19 a 24 anos de idade, com escolaridade de Ensino Superior Incompleto, o que indica perfil universitário. A entrevista, conduzida com três alunos encaixados no perfil traçado para o público-alvo, possibilitou a visualização de diferentes pontos de atenção levantados acerca do site e identificou o usuário como apto e adaptado com o uso de tecnologia computacional. Assim, podemos definir os atributos do usuário:
+**• 1 - Idade:** Jovem<br>
+**• 2 - Experiência:** Intermediário à Especialista<br>
+**• 3 - Atitudes:** Tecnófilos<br>
+**• 4 - Tarefas Primárias:** Atividade acadêmica sem fins lucrativos. <br>
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -210,3 +250,4 @@ Essa pergunta era opcional e tivemos duas respostas: "Não" e "Eu não usei, mas
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :---------------------------: | :-----------: |
 |  1.0   | 15/10/2023 | Inicialização da página de perfil de usuário | [Ester Lino](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorress) |
+| 1.1    | 16/10/2023 | Entrevistas e conclusão | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino) |
