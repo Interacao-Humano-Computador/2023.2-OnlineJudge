@@ -12,7 +12,7 @@ A seguir estaram dispostas as fotos das personas e suas caracteristicas nas figu
 
 <center><b>Tabela 1</b> - Persona primária João da Silva Matos</center>
 
-|<center>**Figura 1** - Persona primária João da Silva Vitória<br><font><figure markdown>![João da Silva](../assets/images/persona1.png)<a id="imagem1"></a>|
+|<center>**Figura 1** - Persona primária João da Silva<br><font><figure markdown>![João da Silva](../assets/images/persona1.png)<a id="imagem1"></a>|
 |---|
 |**Status:** Estudante universitário, representando o usuário principal do sistema "Online Judge"|
 |**Nome:** João da Silva Matos|
