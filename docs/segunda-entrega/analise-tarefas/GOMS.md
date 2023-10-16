@@ -83,6 +83,29 @@ Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar d
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 <br><br>
 
+## Contatar colaboradores
+
+Nesta tarefa o objetivo do usuário é contatar colaboradores do site
+- Goal 0: Acessar a aba **_Contact Us_**
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor do mouse para a aba **_Contact Us_**
+  - Método 2: Clicar na aba para abri-la
+    - Goal 1: Navegar pelos campos de inserção
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para o campo nome
+      - Método 2: Inserir o nome
+      - Método 3: Inserir email do colaborador desejado
+      - Método 4: Inserir mensagem
+    - Goal 2: Enviar
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para o botão **_Send_**
+      - Método 2: Clicar no botão para enviar
+
+<center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
+
 # Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -92,5 +115,5 @@ Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar d
 | Versão |    Data    |            Descrição            |                                           Responsáveis                                            |                     Revisor                     |
 | :----: | :--------: | :-----------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------: |
 |  1.0   | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
-|  1.1   | 16/10/2023 | Adicionando análise de tarefa | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.1   | 16/10/2023 | Adicionando análise de tarefa | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) | [Eric Camargo](https://github.com/Ericcs10) |
 
