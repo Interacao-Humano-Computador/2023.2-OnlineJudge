@@ -99,6 +99,7 @@ Nesta tarefa o objetivo é acessar a aba que permite ver todas as submissões.
     - Método 2: Clicar na submissão desejada
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, <a href="https://github.com/henriqtorresl">Henrique Torres</a></center>
+
 ## Contatar colaboradores
 
 Nesta tarefa o objetivo do usuário é contatar colaboradores do site
@@ -123,6 +124,160 @@ Nesta tarefa o objetivo do usuário é contatar colaboradores do site
 
 <center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
 
+## Acessar o Contest System
+
+Nesta tarefa o objetivo é acessar a aba de *Contest System*
+
+- Goal 0: Acessar a aba **_Contest System_**
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor do mouse para a aba **_Contest System_**
+  - Método 2: Clicar na aba para abri-la
+    - Goal 1: Acessar a aba **_Running contests_**
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para a aba **_Running contests_**
+      - Método 2: Clicar na aba para abri-la
+    - Goal 2: Acessar a aba **_Comming contests_**
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para a aba **_Comming contests_**
+      - Método 2: Clicar na aba para abri-la
+    - Goal 3: Acessar a aba **_Past Contests_**
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para a aba **_Past Contests_**
+      - Método 2: Clicar na aba para abri-la
+      - Goal 3.1: Acessar algum contest passado
+        - Operador 1: Hoaming
+        - Operador 2: Click
+        - Método 1: Mover o cursor do mouse para o contest desejado
+        - Método 2: Clicar no contest especifico para acessá-lo
+    - Goal 4: Acessar a aba **_Contest Ranking_**
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para a aba **_Contest Ranking_**
+      - Método 2: Clicar na aba para abri-la
+
+<center><b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Flores</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
+<br><br>
+
+## My account (edit user)
+
+Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
+
+- Goal 0: Acessar a aba _My account_
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor do mouse para a aba _My account_
+  - Método 2: Clicar na aba para abri-la
+  - Goal 1: acessar a aba de edição do perfil
+    - Operador 1: Hoaming
+    - Operador 2: Click
+    - Método 1: Mover o cursor do mouse para o botão _Edit_
+      - Goal 1.1: Selecionar _Update Your Image_
+        - Operador 1: Hoaming
+        - Operador 2: Click
+        - Método 1: Mover o cursor do mouse para o botão _Update Your Image_
+        - Goal 1.1.1: Enviar uma imagem do computador:
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Método 1: Mover o cursor do mouse para o botão _Escolher Arquivo_
+          - Método 2: Selecionar o arquivo desejado
+          - Método 3: Clicar no botão _Confirm choice_
+        - Goal 1.1.2: Escolher um icone próprio do site
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Método 1: mover o cursor para a parte dos icones
+          - Método 2: selecionar 1 icone que o site oferece
+          - Método 3: Cliclar no botão _Confirm choice_
+      - Goal 1.2: Selecionar _Update Your Profile_
+        - Goal 1.2.1: Selecionar _Upload profile Image_
+        - Operador 1: Hoaming
+        - Operador 2: Click
+        - Método 1: Mover o cursor do mouse para a opção _Upload profile Image_
+        - Goal 1.2.1.1: Enviar uma imagem do computador:
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Método 1: Mover o cursor do mouse para o botão _Escolher Arquivo_
+          - Método 2: Selecionar o arquivo desejado
+          - Método 3: Clicar no botão _Update_
+        - Goal 1.2.1.2: Escolher um icone próprio do site
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Método 1: mover o cursor para a opção _Select image from gallery_
+          - Método 2: selecionar 1 icone que o site oferece
+          - Método 3: Cliclar no botão _Update_
+        - Goal 1.2.2: Alterar Contact Info
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Operador 3: Data Input
+          - Método 1: Mover o cursor para o campo desejado
+          - Método 2: clicar para selecionar o campo desejado
+          - Método 3: Alterar os dados
+          - Método 4: Clicar no botão update
+        - Goal 1.2.3: Alterar Geocoding
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Operador 3: Data Input
+          - Método 1: Mover o cursor para o campo desejado
+          - Método 2: clicar para selecionar o campo desejado
+          - Método 3: Alterar os dados
+          - Método 4: Clicar no botão update
+
+<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
+<br><br>
+
+## Forgot login?
+
+- Goal 0: Recuperar login
+  - Goal 1: Acessar página Forgot login?
+  - Regra de seleção: Usuário esqueceu seus dados de login e não consegue entrar no sistema
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor do mouse para a aba Forgot login?
+  - Método 2: Clicar na aba para abri-la
+  - Goal 2: Receber ajuda para recuperar username
+  - Regra de seleção: Usuário não lembra o seu username
+  - Operador 1: Hoaming
+  - Operador 2: Click na checkbox Lost Username
+  - Operador 3: Data Input
+  - Método 1: Mover o cursor do mouse para a checkbox Lost Username
+  - Método 2: Clicar no campo para selecioná-lo
+  - Método 3: Click na caixa de texto para digitar e-mail
+  - Método 4: Digitar e-mail
+  - Método 5: Click no botão Send Username/Password
+    - Goal 2.1: Receber ajuda para recuperar password
+    - Regra de seleção: Usuário não lembra o seu password
+    - Operador 1: Hoaming
+    - Operador 2: Click na checkbox Lost Password
+    - Operador 3: Data Input
+    - Método 1: Mover o cursor do mouse para a checkbox Lost Password
+    - Método 2: Clicar no campo para selecioná-lo
+    - Método 3: Click na caixa de texto para digitar e-mail
+    - Método 4: Digitar e-mail
+    - Método 5: Click na caixa de texto para digitar username
+    - Método 6: Digitar username
+    - Método 7: Click no botão Send Username/Password
+      - Goal 2.2: Receber ajuda para recuperar password e username
+      - Regra de seleção: Usuário não lembra o seu username e password
+      - Operador 1: Hoaming
+      - Operador 2: Click na checkbox Lost Password
+      - Operador 3: Click na checkbox Lost Username
+      - Operador 4: Data Input
+      - Método 1: Mover o cursor do mouse para a checkbox Lost Password
+      - Método 2: Clicar no campo para selecioná-lo
+      - Método 3: Mover o cursor do mouse para a checkbox Lost Username
+      - Método 4: Clicar no campo para selecioná-lo
+      - Método 5: Click na caixa de texto para digitar e-mail
+      - Método 6: Digitar e-mail
+      - Método 7: Click na caixa de texto para digitar username
+      - Método 8: Digitar username
+      - Método 9: Click no botão Send Username/Password
+
+<center><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a></center>
+<br><br>
+
 # Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -134,3 +289,6 @@ Nesta tarefa o objetivo do usuário é contatar colaboradores do site
 |  1.0   | 01/10/2023 |              Introdução a Análise de Tarefas               |  [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos)  |
 |  1.1   | 16/10/2023 |     Adicionando análise de tarefa Procurar um problema     |  [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos)  |
 |  1.2   | 16/10/2023 | Adicionando análise de tarefa Visualizar minhas submissões | [Pablo Guilherme](https://github.com/PabloGJBS), [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.3   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.4   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System | [Pablo Guilherme](https://github.com/PabloGJBS), [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.5   | 16/10/2023 | Adicionando análise tarefa Recuperação de login (Forgot login?) | [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |
