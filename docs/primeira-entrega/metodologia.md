@@ -22,6 +22,12 @@
 
 - Essa abordagem oferecerá suporte à nossa capacidade de monitorar com precisão as atividades pendentes e as já realizadas. Isso será essencial para que possamos alcançar os objetivos estabelecidos para cada uma das Sprints, em nosso projeto. A sincronização eficaz entre o Scrum e o Kanban será fundamental para garantir que nossa equipe seja altamente produtiva e atinja os resultados desejados rapidamente.
 
+
+### **Bibliografia**
+
+>1. What Is Agil Methodology. Disponível em: <<https://www.redhat.com/pt-br/devops/what-is-agile-methodology>>. Acesso em 01 de outubro de 2023.
+>2. Kanban. Disponível em: <<https://www.nomus.com.br/blog-industrial/kanban/?gad=1&gclid=CjwKCAjw-KipBhBtEiwAWjgwrHZG43Khs2gtiBBO8Mw-yWs1SCm2F80Oj7E9ndge2gFc3NHpctR8choCo40QAvD_BwE>>. Acesso em 01 de outubro de 2023.
+
 ## Histórico de versão
 
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |

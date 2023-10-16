@@ -31,9 +31,9 @@ _Fonte: [Eric Camargo](https://github.com/ericcs10), [Luana Torres](https://gith
 
 ## Bibliografia
 
-> Aspectos Éticos Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>>. Acesso em 14 de outubro de 2023.
+>1. Aspectos Éticos Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>>. Acesso em 14 de outubro de 2023.
 
-> BARBOSA, Simone; SILVA, Bruno. Interação humano-computador. Elsevier Brasil, 2010.>>
+>2. BARBOSA, Simone; SILVA, Bruno. Interação humano-computador. Elsevier Brasil, 2010.>>
 
 ## Histórico de Versões
 
