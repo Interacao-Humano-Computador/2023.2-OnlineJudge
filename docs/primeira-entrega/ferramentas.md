@@ -25,25 +25,25 @@
 
 ## Referências
 
-> <a id="FRM1" href="#anchor_1">1.</a> Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acesso em: 2 de outubro. de 2023.
+> <a id="FRM1" href="#anchor_1">1.</a> Microsoft Teams. Disponível em: [Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM2" href="#anchor_2">2.</a> WhatsApp. Disponível em: [https://www.whatsapp.com/?lang=pt_br](). Acesso em: 22 de outubro. de 2023.
+> <a id="FRM2" href="#anchor_2">2.</a> WhatsApp. Disponível em: [Whatsapp](https://www.whatsapp.com/?lang=pt_br). Acesso em: 22 de outubro. de 2023.
 >
-> <a id="FRM3" href="#anchor_3">3.</a> Miro. Disponível em: [https://miro.com/pt/](). Acesso em: 2 de outubro de 2023.
+> <a id="FRM3" href="#anchor_3">3.</a> Miro. Disponível em: [Miro](https://miro.com/pt/). Acesso em: 2 de outubro de 2023.
 >
-> <a id="FRM4" href="#anchor_4">4.</a> Figma. Disponível em: [https://www.figma.com/](). Acesso em: 2 de outubro. de 2023.
+> <a id="FRM4" href="#anchor_4">4.</a> Figma. Disponível em: [Figma](https://www.figma.com/). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM5" href="#anchor_5">5.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acesso em: 2 de outubro. de 2023.
+> <a id="FRM5" href="#anchor_5">5.</a> MkDocs. Disponível em: [MkDocs](https://www.mkdocs.org/). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM6" href="#anchor_6">6.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 2 de outubro. de 2023.
+> <a id="FRM6" href="#anchor_6">6.</a> GitHub. Disponível em: [GitHub](https://docs.github.com/pt). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM7" href="#anchor_7">7.</a> Google Sheets. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acesso em: 2 de outubro. de 2023.
+> <a id="FRM7" href="#anchor_7">7.</a> Google Sheets. Disponível em: [Google Sheets](https://www.google.com/intl/pt-BR/sheets/about/). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM8" href="#anchor_8">8.</a> YouTube. Disponível em: [https://about.youtube/](). Acesso em: 2 de outubro. de 2023.
+> <a id="FRM8" href="#anchor_8">8.</a> YouTube. Disponível em: [Youtube](https://www.youtube.com). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM9" href="#anchor_9">9.</a> This Person Doesn't Exist. Disponível em: [https://thispersondoesnotexist.com](). Acesso em: 16 de outubro de 2023.
+> <a id="FRM9" href="#anchor_9">9.</a> This Person Doesn't Exist. Disponível em: [This Person Doesn't Exist](https://thispersondoesnotexist.com). Acesso em: 16 de outubro de 2023.
 >
-> <a id="FRM10" href="#anchor_10">10.</a> LucidChart. Disponível em: [https://www.lucidchart.com](). Acesso em: 16 de outubro de 2023.
+> <a id="FRM10" href="#anchor_10">10.</a> LucidChart. Disponível em: [LucidChart](https://www.lucidchart.com). Acesso em: 16 de outubro de 2023.
 >
 
 ## Histórico de versão
