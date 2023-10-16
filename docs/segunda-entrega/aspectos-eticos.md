@@ -17,7 +17,7 @@ Nesta disciplina, quando se trata de pesquisas envolvendo pessoas, o grupo utili
 
 <center>Figura 1 - Termo de Consentimento.</center>
 
-![](../../assets/images/termo-consentimento.jpg)
+![](../assets/images/termo-consentimento.jpg)
 <center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/ericcs10">Eric Camargo</a></center>
 
 <br>
