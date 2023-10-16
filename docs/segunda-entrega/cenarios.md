@@ -1,46 +1,10 @@
 # **Cenários de Análise/Problema**
 
 ## Introdução
+
 Estabelecer um contexto de cenário é uma etapa fundamental na concepção de qualquer projeto, uma vez que viabiliza a criação de um ambiente que reflete de maneira precisa e abrangente as circunstâncias em que uma situação particular ocorre. De acordo com especialistas em design de cenários, essa representação ajuda a compreender os elementos e variáveis envolvidos, tornando-se uma ferramenta essencial na análise de diferentes eventos e cenários. Essa abordagem facilita a visualização das interações, comportamentos e possíveis desdobramentos, auxiliando na tomada de decisões informadas e no planejamento de ações adequadas para alcançar os objetivos estabelecidos.
 
 ## **Cenário 1**
-**Persona:** João, o Estudante de Ciência da Computação.
-
-- Identidade:
-    - Nome e Sobrenome: João da Silva Matos
-    - Idade e Dados Demográficos: 22 anos, estudante universitário de ciência da computação.
-    - Foto: (vai ser adicionado uma foto)
-    - Status: Estudante universitário, representando o usuário principal do sistema "Online Judge".
-
-- Objetivos:
-    - João busca aprimorar suas habilidades de programação.
-    - Ele deseja obter uma boa classificação na "Corrida de Programação" da universidade.
-    - Almeja ganhar reconhecimento entre seus pares e possivelmente atrair oportunidades de estágio ou emprego na área de tecnologia.
-
-- Habilidades:
-    - Está cursando o terceiro ano de Ciência da Computação.
-    - Possui habilidades em linguagens de programação como Python, C++ e Java.
-    - Tem conhecimento em algoritmos e estruturas de dados.
-
-- Tarefas:
-    - Resolver problemas de programação durante a "Corrida de Programação".
-    - Gerenciar o tempo para equilibrar a resolução de problemas dentro dos prazos.
-    - Depurar código e corrigir erros.
-    - Acompanhar o progresso e a classificação na competição.
-
-- Relacionamentos:
-    - João interage com outros estudantes participantes da "Corrida de Programação".
-    - Ele pode buscar a ajuda de professores ou colegas mais experientes quando encontra dificuldades em problemas específicos.
-
-- Requisitos:
-    - João precisa de um ambiente online estável e de fácil acesso para submeter suas soluções.
-    - Requer documentação clara sobre os problemas propostos.
-    - Deseja feedback imediato sobre a precisão de suas soluções e dicas sobre como melhorar seu código.
-
-- Expectativas:
-    - João espera que o sistema "Online Judge" seja intuitivo, com uma interface amigável.
-    - Ele organiza as informações dos problemas por nível de dificuldade, procurando desafios que se adequem ao seu conhecimento.
-    - Acredita que o sistema deve fornecer pontuações e classificações em tempo real para mantê-lo motivado durante a competição.
 
 **Cenário de Análise/Problema:** O Desafio da Corrida de Programação.
 
@@ -62,11 +26,51 @@ João enfrenta vários desafios nessa corrida de programação:
 
 Ele precisa usar suas habilidades de programação, algoritmos e estruturas de dados para ter sucesso na "Corrida de Programação" e garantir uma boa classificação. A competição é uma oportunidade para ele aprender e se desafiar, e aprimorar suas habilidades em um ambiente competitivo e colaborativo ao mesmo tempo.
 
+## **Cenário 2**
+
+**Cenário de Análise/Problema:** A resolução da lista de questões.
+
+Ana Vitória não é uma estudante tão dedicada na faculdade e percebeu que tem menos de 4 horas para resolver uma série de questões em um juiz online que o professor exigiu para receber uma parcela necessária da nota do semestre, Ana não possui tanta experiencia como programador mas possui facilidade em aprender.
+
+Neste cenário, a "Lista de questões" é uma atividade avaliativa preparada pelo professor com diversos exercicios de programação contemplando os conteudos minsitrados em sala de aula, a lista é composta por problemas com nivel de dificuldade escalonado do mais facil para o mais dificil e para conseguir a aprovação nesta atividade Ana deve conseguir acertar 75% das questões propostas.
+
+O problema especifico que Ana enfrenta é o seguinte: Dentro de menos de 4 horas ela deve criar uma conta no Online Judge, aprender como submeter um algoritmo e solucionar os exercicios da lista proposta pelo professor.
+
+Ana enfrenta vários desafios nesta atividade
+
+- Gestão de Tempo: Devido ao tempo limite da lista estar se esgotando ela precisa equilibrar seu tempo entre os problemas, decidindo quais problemas abordar primeiro e quanto tempo dedicar a cada um.
+
+- Tomada de Decisões Rápidas: Às vezes, ela precisa abandonar um problema que está tomando muito tempo para se concentrar em outro que pode ser resolvido mais rapidamente.
+
+- Dificuldade em resolver os exercicios, devido a falta de conhecimento em programação e na matéria Ana acaba demorando mais para resolver os exercicios.
+
+- Os problemas propostos estão em inglês e Ana não possui tanta facilidade com a lingua estrangeira.
+
+## **Cenário 3**
+
+**Cenário de Análise/Problema:** A utilização do online judge como ferramenta didática
+
+Geraldo resolveu utilizar o Online Judge como uma ferramenta didatica em suas aulas, devido a possibilidade de submissão de algoritmos e a correção automatica do juiz online.
+
+Neste cenário o Online Judge será utilizada para a seleção de problemas de programação de conteudos especificos ministrados em sala de aula para que o professor Geraldo possa passar uma lista de problemas para os alunos resolverem
+
+O problema especifico que Geraldo enfrenta neste cenário é a dificuldade de encontrar problemas de maneira rápida no site, alem da dificuldade em apresentar isto para os alunos de maneira agradavel
+
+Os desafios que Geraldo enfrenta são:
+
+- A procura por problemas de programação especificos relacionados a matéria
+- A aceitação dos alunos com a ferramenta
+- A verificação de quem envia submissões nos problemas
+
 ## Referências Bibliográficas
+
+
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de versão
 
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :---------------------------: | :-----------: |
-|  1.0   | 15/10/2023 | Inicialização da página de perfil de usuário | [Henrique Torres](https://github.com/henriqtorresl), [Pablo Guilherme](https://github.com/PabloGJBS) |  |
+|  1.0   | 15/10/2023 | Inicialização da página de perfil de usuário | [Henrique Torres](https://github.com/henriqtorresl), [Pablo Guilherme](https://github.com/PabloGJBS) |  [Suzane Duarte](https://github.com/suzaneduarte)|
+|  1.1   | 16/10/2023 | Atualização da pagina de cenários | [Pablo Guilherme](https://github.com/PabloGJBS) | [Suzane Duarte](https://github.com/suzaneduarte) |
+
