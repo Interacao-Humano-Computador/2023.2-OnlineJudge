@@ -89,6 +89,37 @@ Nesta tarefa o usuario tem o objetvo de contatar, colaboradores do site, seja so
 
 <center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
 
+
+## Editar Conta
+
+Nesta tarefa, o usuário tem como objetivo editar sua conta de usuário. A Figura 4 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 3 representa o mesmo HTA em formato de tabela.
+
+<center>Figura 5 - Diagrama HTA para edição de conta.</center>
+
+![](../../assets/images/edicao-usuario.png)
+<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/esteerlino">Ester Flores</a></center>
+
+<br>
+
+<center>Tabela 4 - HTA de edição de conta.</center>
+
+
+ Objetivo/Tarefa | Descrição, Recomendações e Problemas|
+| ------------------------------ | -------------------------------------- |
+|0. Editar Conta | **Plano:** Editar meu usuário|
+|1. Atualizar imagem | **Plano:** atualizar foto de perfil|
+|1.1. Editar Detalhes| **Plano:** atualizar foto de perfil|
+|1.1.1. Imagem| **Plano:** atualizar foto de perfil|
+|1.1.1.1. Não mudar imagem | **Input:** update ou cancelar.<br> **Feedback:** usuário não visualiza nenhuma alteração. <br>|
+|1.1.1.2. Carregar imagem | **Input:** imagem como foto de perfil. <br> **Feedback:** usuário visualiza imagem em seu perfil. <br>|
+|1.1.1.3. Selecionar Imagem da Galeria | **Input:** click do usuário na biblioteca de imagens. <br> **Feedback:** usuário visualiza imagem escolhida da biblioteca em seu perfil. <br>|
+|1.1.2. Contato| **Plano:** atualizar detalhes de usuário.|
+|1.1.2.1. Alterar detalhes do perfil | **Input:** Dados de usuário que deseja ser modificado. <br> **Feedback:** usuário visualiza dados alterados. <br>|
+|1.1.3. Adicionar Coordenadas Geográficas| **Input:** Dados de latitude e longitude. <br> **Feedback:** usuário visualiza dados alterados. <br>|
+|2. Atualizar Perfil| **Plano:** atualizar detalhes de usuário.|
+
+<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/esteerlino">Ester Flores</a></center>
+
 # Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
