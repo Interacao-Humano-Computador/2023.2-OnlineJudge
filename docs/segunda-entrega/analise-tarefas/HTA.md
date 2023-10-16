@@ -128,4 +128,4 @@ Nesta tarefa, o usuário tem como objetivo editar sua conta de usuário. A Figur
 
 | Versão |    Data    |            Descrição            |                                           Responsáveis                                            |                     Revisor                     |
 | :----: | :--------: | :-----------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.0   | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) | [Eric Camargo](https://github.com/Ericcs10) |
