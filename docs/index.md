@@ -11,3 +11,4 @@ O projeto possui como objetivo realizar uma avaliação no site Online-Judge, o 
 | 1.0 | 29/09/2023 | Versão inicial de documento de descrição do projeto | [Suzane Duarte](https://github.com/suzaneduarte) | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.1 | 30/09/2023 |          Atualização do comando do deploy           | [Pablo Guilherme](https://github.com/PabloGJBS) | [Ester Lino](https://github.com/esteerlino) |
 | 1.2 | 01/10/2023 |             Inserção do tema utilizado              | [Suzane Duarte](https://github.com/suzaneduarte) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+| 2.0 | 15/10/2023 | Mudança na página dos sites avaliados e inclusão do planejamento das avaliações | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |

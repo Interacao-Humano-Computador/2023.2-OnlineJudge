@@ -6,18 +6,14 @@ nav:
       - Primeira entrega:
           - Ata primeira reunião: atas/primeira-entrega/reuniao-1.md
           - Ata segunda reunião: atas/primeira-entrega/reuniao-2.md
+      - Segunda entrega:
+          - Ata terceira reunião: atas/segunda-entrega/reuniao-3.md
+
   - Primeira Entrega:
       - Apresentação: primeira-entrega/apresentacao.md
       - Equipe: primeira-entrega/equipe.md
-      - Sites Avaliados:
-          - Escola Virtual: primeira-entrega/sites-avaliados/site-escola-virtual.md
-          - Ministério da Saúde: primeira-entrega/sites-avaliados/site-ministerio-saude.md
-          - Governo do Distrito Federal (Henrique): primeira-entrega/sites-avaliados/site-gdf-henrique.md
-          - Governo do Distrito Federal (Kallyne): primeira-entrega/sites-avaliados/site-gdf-kallyne.md
-          - IBAMA: primeira-entrega/sites-avaliados/site-ibama.md
-          - Detran DF: primeira-entrega/sites-avaliados/site-detran-df.md
-          - Governo de Alagoas: primeira-entrega/sites-avaliados/site-governo-alagoas.md
-      - Site Selecionado: primeira-entrega/site-escolhido.md
+      - Sites Avaliados: primeira-entrega/sites-avaliados.md
+      - Site Escolhido: primeira-entrega/site-escolhido.md
       - Metodologia: primeira-entrega/metodologia.md
       - Ferramentas do Projeto: primeira-entrega/ferramentas.md
       - Processo de Design: primeira-entrega/processo-design.md
@@ -26,6 +22,8 @@ nav:
       - Análise de tarefas:
           - Análise Hierárquica de Tarefas (HTA): segunda-entrega/analise-tarefas/HTA.md
           - GOMS: segunda-entrega/analise-tarefas/GOMS.md
+      - Perfil de usuário: segunda-entrega/perfil_usuario.md
+      - Cenários: segunda-entrega/cenarios.md
 
 theme:
   name: material
