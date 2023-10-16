@@ -178,7 +178,7 @@ Nessa tarefa, o usuário tem como objetivo recuperar a senha ou o nome de usuár
 
 <center><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a></center>
 
-<center> Tabela 1 - HTA de recuperação de login.</ center>
+<center> Tabela 1 - HTA de recuperação de login.</center>
 
 | Objetivo/Tarefa | Descrição, Recomendações e Problemas|
 | ------------------------------ | -------------------------------------- |
@@ -191,7 +191,7 @@ Nessa tarefa, o usuário tem como objetivo recuperar a senha ou o nome de usuár
 | 1.3 Recuperar Username e Password | **Input:** click do usuário na checkbox Lost Password e Lost Username<br> **Plano:** Solicitar recuperação de username e senha por email<br> **Feedback:** Aparecer campo de preenchimento de e - mail |
 | 2. Solicitar recuperação de login | **Input:** click do usuário no botão Send Username/Password <br> **Plano:**  envio das informações de login por e-mail <br> **Feedback:** envio realizado com sucesso. |  |
 
-<center><b> Fonte: </ b><a href = "https://github.com/kalipassos"> Kallyne Macedo</ a></ center>
+<center><b> Fonte: </b><a href = "https://github.com/kalipassos"> Kallyne Macedo</a></center>
 
 # Bibliografia
 
