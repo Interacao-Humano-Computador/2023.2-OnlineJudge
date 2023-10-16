@@ -168,17 +168,19 @@ Nesta tarefa, o usuário tem como objetivo de visualizar as competições/concur
 |5. Contest ranking|**Input:** click do usuário na aba "Contest ranking" <br> **FeedBack:** usuário redirecionado para a página desejada.<br> |
 |5.1. Acessar área com o ranking dos participantes | **Plano:** ter acesso às informações dos participantes do s concursos. |
 
+<center><b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/luanatorress">Luana Torres</a></center>
+
 ## Acessar o "Forgot Login?" - Recuperação de login
 
 Nessa tarefa, o usuário tem como objetivo recuperar a senha ou o nome de usuário esquecido, para que possa acessar o sistema. A Figura 8 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 7 representa o mesmo HTA em formato de tabela.
 
-<center>Figura 7 - Diagrama HTA para visualização do sistema "Forgot login?".</center>
+<center>Figura 8 - Diagrama HTA para visualização do sistema "Forgot login?".</center>
 
 ![](../../assets/images/hta_login.png)
 
 <center><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a></center>
 
-<center> Tabela 1 - HTA de recuperação de login.</center>
+<center> Tabela 7 - HTA de recuperação de login.</center>
 
 | Objetivo/Tarefa | Descrição, Recomendações e Problemas|
 | ------------------------------ | -------------------------------------- |
