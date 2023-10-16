@@ -18,7 +18,7 @@ Nesta disciplina, quando se trata de pesquisas envolvendo pessoas, o grupo utili
 <center>
 
 Figura 1 - Termo de Consentimento
-<font><figure markdown>![Termo de Consentimento](../assets/aspectos-eticos/termo-de-consentimento.png){: style="height:680px;width:650px"}
+<font><figure markdown>![Termo de Consentimento](../assets/images/termo_de_consentimento.png){: style="height:680px;width:650px"}
 
 _Fonte: [Eric Camargo](https://github.com/ericcs10), [Luana Torres](https://github.com/luanatorress), 2023_
 

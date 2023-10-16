@@ -35,41 +35,43 @@ Nessa tarefa, o usuário possui o objetivo de submeter a solução de um determi
 
 <center>Tabela 1 - HTA de submissão de problemas.</center>
 
-| Objetivo/Tarefa | Descrição, Recomendações e Problemas|
-| ------------------------------ | -------------------------------------- |
-|0. Submeter problema | |
-|1. Registrar uma conta | **Input:** dados para o cadastro <br> **Feedback:** usuário visualiza mensagem para confirmar e-mail. <br> **Plano:** confirmar conta e depois fazer login|
-|1.1 Confirmar E-mail | **Feedback:** após confirmar o e-mail, o usuário é liberado para realizar login|
-|1.2 Realizar login | **Input:** dados de login<br> **Feedback:** usuário redirecionado para a página "Home"<br> **Plano:** abrir página de submissão em "Quick Submit"|
-|2. Acessar área de submissão | **Plano:** submeter a solução do problema|
-|1.2 Identificar o problema| **Input:** inserir ID do problema, linguagem utilizada e o referido código do problema <br>**Feedback:** a página é atualizada e o usuário recebe uma mensagem de submissão enviada<br> **Plano:** submeter a solução do problema escolhido|
+| Objetivo/Tarefa              | Descrição, Recomendações e Problemas                                                                                                                                                                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Submeter problema         |                                                                                                                                                                                                                                             |
+| 1. Registrar uma conta       | **Input:** dados para o cadastro <br> **Feedback:** usuário visualiza mensagem para confirmar e-mail. <br> **Plano:** confirmar conta e depois fazer login                                                                                  |
+| 1.1 Confirmar E-mail         | **Feedback:** após confirmar o e-mail, o usuário é liberado para realizar login                                                                                                                                                             |
+| 1.2 Realizar login           | **Input:** dados de login<br> **Feedback:** usuário redirecionado para a página "Home"<br> **Plano:** abrir página de submissão em "Quick Submit"                                                                                           |
+| 2. Acessar área de submissão | **Plano:** submeter a solução do problema                                                                                                                                                                                                   |
+| 1.2 Identificar o problema   | **Input:** inserir ID do problema, linguagem utilizada e o referido código do problema <br>**Feedback:** a página é atualizada e o usuário recebe uma mensagem de submissão enviada<br> **Plano:** submeter a solução do problema escolhido |
+
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 
-## Visualizar minhas submissões
+## Procurar um problema
 
-Nesta tarefa, o usuário tem como objetivo verificar as proprias subimissões de códigos. A Figura 3 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 2 representa o mesmo HTA em formato de tabela.
+Nesta tarefa, o objetivo do usuário é buscar um novo problema para solucionar dentro do site. A Figura 3 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 2 representa o mesmo HTA em formato de tabela.
 
-<center>Figura 3 - Diagrama HTA para visualização de submissões.</center>
+<center>Figura 3 - Diagrama HTA para procurar problemas.</center>
 
 ![](../../assets/images/visualizacao-submissao.jpeg)
+
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 
 <center>Tabela 2 - HTA de visualização de submissões.</center>
 
- Objetivo/Tarefa | Descrição, Recomendações e Problemas|
-| ------------------------------ | -------------------------------------- |
-|0. Visulizar minhas submissões | **Plano:** Visualizar minhas submissões no site|
-|1.1 Realizar login | **Input:** dados de login<br> **Feedback:** usuário redirecionado para a página "Home"<br> **Plano:** abrir página "My submissions"|
-|2. Acessar área de minhas submissões|**Input:** click do usuário na aba "My submissions" <br>**FeedBack:** Usuário redirecionado para a página "My submissions"|
+| Objetivo/Tarefa                      | Descrição, Recomendações e Problemas                                                                                                |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Visulizar minhas submissões       | **Plano:** Visualizar minhas submissões no site                                                                                     |
+| 1.1 Realizar login                   | **Input:** dados de login<br> **Feedback:** usuário redirecionado para a página "Home"<br> **Plano:** abrir página "My submissions" |
+| 2. Acessar área de minhas submissões | **Input:** click do usuário na aba "My submissions" <br>**FeedBack:** Usuário redirecionado para a página "My submissions"          |
 
-<center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
+<center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center> -->
 
 # Bibliografia
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 # Histórico de versão
 
-| Versão |    Data    |             Descrição             |                                       Responsáveis                                       |                    Revisor                    |
-| :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| 1.0 | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
+| Versão |    Data    |            Descrição            |                                           Responsáveis                                            |                     Revisor                     |
+| :----: | :--------: | :-----------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------: |
+|  1.0   | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |

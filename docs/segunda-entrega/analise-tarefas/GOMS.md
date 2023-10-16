@@ -1,6 +1,6 @@
 # GOMS (Goals, Operators, Methods and Selection Rules)
 
-## Introdução
+# Introdução
 
 A abordagem GOMS descreve como o usuário interage com o sistema, dividindo a interação em metas(Goals), operadores (operators), métodos(methods) e regras de seleção (selection rules).
 
@@ -14,13 +14,15 @@ A abordagem GOMS é recomendada a utilização do modelo GOMS para:
 
 - **Mensurar o desempenho do usuário:** por setratar de um modelo que proporciona a análise de uma tarefa específica executada pelo usuário é possivel estimar quanto tempo o usuário levará para realizar a tarefa.
 
-## Motivo da escolha
+# Motivo da escolha
 
 Decidimos pelo modelo GOMS pelo fato dele proporcionar a análise especifica da ação do usuário em determinada tarefa no site, proporcionando uma melhor visão do caminho que o usuário pode seguir para realizar a sua tarefa bem como os erros ou dificuldades que podem dificultar a realização da tarefa.
 
-## Análise de tarefas
+# Análise de tarefas
 
-### Procurar um problema
+## Submeter problema
+
+## Procurar um problema
 
 Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar dentro do site
 
@@ -42,29 +44,12 @@ Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar d
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 
-### Visualizar um context passado
+# Bibliografia
 
-Nesta tarefa o objetivo do usuário é acessar um context de competição antigo
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-- Goal 0: Acessar a aba **_Past Context_**
-  - Operador 1: Hoaming
-  - Operador 2: Click
-  - Metodo 1: Move o cursor do mouse para a aba **_Past Context_**
-  - Método 2: Clica na aba para abri-la
-    - Goal 1: Procurar o context alvo
-      - Operador 1: Hoaming
-      - Operador 2: Click
-      - Metodo 1: Mover o cursor do mouse para o nome do context
-      - Método 2: Clicar no nome do context
+# Histórico de versão
 
-<center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
-
-## Bibliografia
-
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
-
-## Histórico de versão
-
-| Versão |    Data    |             Descrição             |                                       Responsáveis                                       |                    Revisor                    |
-| :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| 1.0 | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
+| Versão |    Data    |            Descrição            |                                           Responsáveis                                            |                     Revisor                     |
+| :----: | :--------: | :-----------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------: |
+|  1.0   | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |

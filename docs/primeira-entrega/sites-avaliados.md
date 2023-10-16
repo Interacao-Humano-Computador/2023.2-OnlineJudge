@@ -68,4 +68,5 @@ A avaliação do site Detran-DF revelou alguns aspectos importantes. Primeiramen
 
 | Versão |    Data    |                  Descrição                   |      Responsáveis      |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :--------------------: | :-----------: |
-|  1.0   | 15/10/2023 | Padronização de todas as avaliações dos sites | [Ester Lino](https://github.com/esteerlino), [Eric Camrgo](https://github.com/ericcs10) | [Luana Torres](https://github.com/luanatorress) |
+|  1.0   | 29/09/2023 | Padronização de todas as avaliações dos sites | [Pablo Guilherme](https://github.com/PabloGJBS),[Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  2.0   | 15/10/2023 | Refeita a padronização e mudança para uma só página de sites avaliados | [Ester Lino](https://github.com/esteerlino), [Eric Camrgo](https://github.com/ericcs10) | [Luana Torres](https://github.com/luanatorress) |
