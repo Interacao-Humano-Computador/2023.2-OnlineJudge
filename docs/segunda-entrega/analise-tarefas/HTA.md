@@ -75,20 +75,20 @@ Nesta tarefa o usuario tem o objetvo de contatar, colaboradores do site, seja so
 <center>Figura 4 - Diagrama HTA para contato com colaboradores.</center>
 
 ![](../../assets/images/contact-us.png)
+
 <center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
 
 <center>Tabela 3 - HTA de contato com colaboradores.</center>
 
-| Objetivo/Tarefa                            | Descrição, Recomendações e Problemas                                                                                                                                                                              |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|0. Enviar mensagem para colaborador |**Input:** click do usuário na aba "Contact us" <br> | 
-|1. Inserir nome | **Input:** nome <br> **Feedback:** usuário é direcionado para o campo seguinte|
-|2 Inserir E-mail do colaborador desajado | **Input:** email do colaborador<br> **Feedback:** após inserir o e-mail, o usuário é liberado para escrever a mensagem|
-|3 Escrever a Mensagem | **Input:** texto da mensagem<br> **Feedback:** usuário passa a ser capaz de enviar a mensagem|
-|4. Enviar |**Input:** enviar<br> **Feedback:** usuário recebe mensagem de sucesso na operação |
+| Objetivo/Tarefa                          | Descrição, Recomendações e Problemas                                                                                   |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 0. Enviar mensagem para colaborador      | **Input:** click do usuário na aba "Contact us" <br>                                                                   |
+| 1. Inserir nome                          | **Input:** nome <br> **Feedback:** usuário é direcionado para o campo seguinte                                         |
+| 2 Inserir E-mail do colaborador desajado | **Input:** email do colaborador<br> **Feedback:** após inserir o e-mail, o usuário é liberado para escrever a mensagem |
+| 3 Escrever a Mensagem                    | **Input:** texto da mensagem<br> **Feedback:** usuário passa a ser capaz de enviar a mensagem                          |
+| 4. Enviar                                | **Input:** enviar<br> **Feedback:** usuário recebe mensagem de sucesso na operação                                     |
 
 <center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
-
 
 ## Editar Conta
 
@@ -97,28 +97,48 @@ Nesta tarefa, o usuário tem como objetivo editar sua conta de usuário. A Figur
 <center>Figura 5 - Diagrama HTA para edição de conta.</center>
 
 ![](../../assets/images/edicao-usuario.png)
+
 <center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/esteerlino">Ester Flores</a></center>
 
 <br>
 
 <center>Tabela 4 - HTA de edição de conta.</center>
 
-
- Objetivo/Tarefa | Descrição, Recomendações e Problemas|
-| ------------------------------ | -------------------------------------- |
-|0. Editar Conta | **Plano:** Editar meu usuário|
-|1. Atualizar imagem | **Plano:** atualizar foto de perfil|
-|1.1. Editar Detalhes| **Plano:** atualizar foto de perfil|
-|1.1.1. Imagem| **Plano:** atualizar foto de perfil|
-|1.1.1.1. Não mudar imagem | **Input:** update ou cancelar.<br> **Feedback:** usuário não visualiza nenhuma alteração. <br>|
-|1.1.1.2. Carregar imagem | **Input:** imagem como foto de perfil. <br> **Feedback:** usuário visualiza imagem em seu perfil. <br>|
-|1.1.1.3. Selecionar Imagem da Galeria | **Input:** click do usuário na biblioteca de imagens. <br> **Feedback:** usuário visualiza imagem escolhida da biblioteca em seu perfil. <br>|
-|1.1.2. Contato| **Plano:** atualizar detalhes de usuário.|
-|1.1.2.1. Alterar detalhes do perfil | **Input:** Dados de usuário que deseja ser modificado. <br> **Feedback:** usuário visualiza dados alterados. <br>|
-|1.1.3. Adicionar Coordenadas Geográficas| **Input:** Dados de latitude e longitude. <br> **Feedback:** usuário visualiza dados alterados. <br>|
-|2. Atualizar Perfil| **Plano:** atualizar detalhes de usuário.|
+| Objetivo/Tarefa                          | Descrição, Recomendações e Problemas                                                                                                          |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Editar Conta                          | **Plano:** Editar meu usuário                                                                                                                 |
+| 1. Atualizar imagem                      | **Plano:** atualizar foto de perfil                                                                                                           |
+| 1.1. Editar Detalhes                     | **Plano:** atualizar foto de perfil                                                                                                           |
+| 1.1.1. Imagem                            | **Plano:** atualizar foto de perfil                                                                                                           |
+| 1.1.1.1. Não mudar imagem                | **Input:** update ou cancelar.<br> **Feedback:** usuário não visualiza nenhuma alteração. <br>                                                |
+| 1.1.1.2. Carregar imagem                 | **Input:** imagem como foto de perfil. <br> **Feedback:** usuário visualiza imagem em seu perfil. <br>                                        |
+| 1.1.1.3. Selecionar Imagem da Galeria    | **Input:** click do usuário na biblioteca de imagens. <br> **Feedback:** usuário visualiza imagem escolhida da biblioteca em seu perfil. <br> |
+| 1.1.2. Contato                           | **Plano:** atualizar detalhes de usuário.                                                                                                     |
+| 1.1.2.1. Alterar detalhes do perfil      | **Input:** Dados de usuário que deseja ser modificado. <br> **Feedback:** usuário visualiza dados alterados. <br>                             |
+| 1.1.3. Adicionar Coordenadas Geográficas | **Input:** Dados de latitude e longitude. <br> **Feedback:** usuário visualiza dados alterados. <br>                                          |
+| 2. Atualizar Perfil                      | **Plano:** atualizar detalhes de usuário.                                                                                                     |
 
 <center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/esteerlino">Ester Flores</a></center>
+
+## Visualizar minhas submissões
+
+Nesta tarefa, o usuário tem como objetivo verificar as proprias subimissões de códigos. A Figura 6 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 5 representa o mesmo HTA em formato de tabela.
+
+<center>Figura 6 - Diagrama HTA para visualização de submissões.</center>
+
+![](../../assets/images/visualizacao-submissao.jpeg)
+
+<center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, <a href="https://github.com/henriqtorresl">Henrique Torres</a></center>
+
+<center>Tabela 5 - HTA de visualização de submissões.</center>
+
+| Objetivo/Tarefa                      | Descrição, Recomendações e Problemas                                                                                          |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| 0. Visulizar minhas submissões       | _Plano:_ Visualizar minhas submissões no site                                                                                 |
+| 1.1 Realizar login                   | _Input:_ dados de login<br> _Feedback:_ usuário redirecionado para a página "Home"<br> _Plano:_ abrir página "My submissions" |
+| 2. Acessar área de minhas submissões | _Input:_ click do usuário na aba "My submissions" <br>_FeedBack:_ Usuário redirecionado para a página "My submissions"        |
+
+<center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, <a href="https://github.com/henriqtorresl">Henrique Torres</a></center>
 
 # Bibliografia
 
@@ -126,6 +146,7 @@ Nesta tarefa, o usuário tem como objetivo editar sua conta de usuário. A Figur
 
 # Histórico de versão
 
-| Versão |    Data    |            Descrição            |                                           Responsáveis                                            |                     Revisor                     |
-| :----: | :--------: | :-----------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
+| Versão |    Data    |                         Descrição                          |                                             Responsáveis                                              |                     Revisor                     |
+| :----: | :--------: | :--------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
+|  1.0   | 01/10/2023 |              Introdução a Análise de Tarefas               |   [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.1   | 16/10/2023 | Adicionando análise de tarefa Visualizar minhas submissões | [Suzane Duarte](https://github.com/suzaneduarte), [Henrique Torres](https://github.com/henriqtorresl) | [Pablo Guilherme](https://github.com/PabloGJBS) |

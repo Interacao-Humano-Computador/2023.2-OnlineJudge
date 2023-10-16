@@ -28,7 +28,7 @@ Nesta tarefa o objetivo do usuário é submeter um algoritimo para ser julgado
   - Operador 1: Hoaming
   - Operador 2: Click
   - Método 1: Mover o cursor do mouse para a aba **_Quick Submit_**
-  - Método 2: Clicar na aba para abri-la  
+  - Método 2: Clicar na aba para abri-la
     - Goal 1: Digitar o codigo do problema (Problem ID)
       - Operador 1: Hoaming
       - Operador 2: Click
@@ -83,14 +83,31 @@ Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar d
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 <br><br>
 
+## Visualizar minhas submissões
+
+Nesta tarefa o objetivo é acessar a aba que permite ver todas as submissões.
+
+- Goal 0: Acessar a aba **_My Submissions_**
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor para aba de **_My Submissions_**
+  - Método 2: Clicar na aba **_My Submissions_**
+    Goal 1: Visualizar uma submissão especifica
+    - Operador 1: Hoaming
+    - Operador 2: Click
+    - Método 1: Mover o cursor até a submissão especica
+    - Método 2: Clicar na submissão desejada
+
+<center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, <a href="https://github.com/henriqtorresl">Henrique Torres</a></center>
+
 # Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 # Histórico de versão
 
-| Versão |    Data    |            Descrição            |                                           Responsáveis                                            |                     Revisor                     |
-| :----: | :--------: | :-----------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
-|  1.1   | 16/10/2023 | Adicionando análise de tarefa | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
-
+| Versão |    Data    |                         Descrição                          |                                             Responsáveis                                             |                     Revisor                      |
+| :----: | :--------: | :--------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
+|  1.0   | 01/10/2023 |              Introdução a Análise de Tarefas               |  [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos)  |
+|  1.1   | 16/10/2023 |     Adicionando análise de tarefa Procurar um problema     |  [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos)  |
+|  1.2   | 16/10/2023 | Adicionando análise de tarefa Visualizar minhas submissões | [Pablo Guilherme](https://github.com/PabloGJBS), [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte) |
