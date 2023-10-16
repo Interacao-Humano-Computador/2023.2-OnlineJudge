@@ -22,6 +22,44 @@ Decidimos pelo modelo GOMS pelo fato dele proporcionar a análise especifica da 
 
 ## Submeter problema
 
+Nesta tarefa o objetivo do usuário é submeter um algoritimo para ser julgado
+
+- Goal 0: Acessar a aba **_Quick Submit_**
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor do mouse para a aba **_Quick Submit_**
+  - Método 2: Clicar na aba para abri-la  
+    - Goal 1: Digitar o codigo do problema (Problem ID)
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Operador 3: Data Input
+        - Método 1: Mover o cursor do mouse para o campo Problem ID
+        - Método 2: Clicar no campo para selecioná-lo
+        - Método 3: Digitar o Id do problema a ser submetido
+    - Goal 2: Selecionar a linguagem de programação desejada
+      - Operador 1: Hoaming
+      - Operador 2: Click
+        - Método 1: Mover o cursor do mouse para a linguagem desejada
+        - Método 2: Clicar na bolinha de seleção para selecionar a linguagem
+    - Goal 3: Enviar o seu código:
+      - Goal 3.1: Copiar o codigo na área de texto:
+        - Operador 1: Hoaming
+        - Operador 2: Click
+        - Operador 3: Data Input
+          - Método 1: mover o cursor até a área de texto para colocar o codigo
+          - Método 2: Clicar na área de texto para selecioná-la
+          - Método 3: Digitar ou colar o codigo na área de texto
+          - Método 4: Clicar no botão **Submit**
+      - Goal 3.2: Escolher o arquivo que contém o codigo:
+        - Operador 1: Hoaming
+        - Operador 2: Click
+          - Método 1: Mover o curso ate a área **Escolher arquivo**
+          - Método 2: clicar no botão **Escolher arquivo**
+          - Método 3: selecionar o arquivo desejado
+          - Método 4: Clicar no botão **Submit**
+
+<center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
+
 ## Procurar um problema
 
 Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar dentro do site
@@ -29,20 +67,21 @@ Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar d
 - Goal 0: Acessar a aba **_Browse Problems_**
   - Operador 1: Hoaming
   - Operador 2: Click
-  - Metodo 1: Mover o cursor do mouse para a aba **_Browse Problems_**
+  - Método 1: Mover o cursor do mouse para a aba **_Browse Problems_**
   - Método 2: Clicar na aba para abri-la
     - Goal 1: Navegar pelas pastas de problemas
       - Operador 1: Hoaming
       - Operador 2: Click
-      - Metodo 1: Mover o cursor do mouse para a pasta alvo
+      - Método 1: Mover o cursor do mouse para a pasta alvo
       - Método 2: Clica na pasta para abri-la
     - Goal 2: Selecionar o problema alvo
       - Operador 1: Hoaming
       - Operador 2: Click
-      - Metodo 1: Mover o cursor do mouse para o problema alvo
+      - Método 1: Mover o cursor do mouse para o problema alvo
       - Método 2: Clicar no problema para abri-lo
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
+<br><br>
 
 # Bibliografia
 
@@ -53,3 +92,5 @@ Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar d
 | Versão |    Data    |            Descrição            |                                           Responsáveis                                            |                     Revisor                     |
 | :----: | :--------: | :-----------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------: |
 |  1.0   | 01/10/2023 | Introdução a Análise de Tarefas | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.1   | 16/10/2023 | Adicionando análise de tarefa | [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
+

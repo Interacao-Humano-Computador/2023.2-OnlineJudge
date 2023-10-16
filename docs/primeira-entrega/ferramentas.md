@@ -17,28 +17,33 @@
 |  <img src="../../assets/images/mkdocs-logo.png" width="100">  | MkDocs             | O MkDocs será a ferramenta utilizada para gerar o site com a documentação oficial desenvolvida pelo grupo <a id="anchor_5" href="#FRM5">^5^</a>                                                                                                                |
 |    <img src="../../assets/images/github.png" width="100">     | GitHub             | O GitHub será a ferramenta utilizada para hospedar o código-fonte do arquivo de documentação. De forma que todos os integrantes do grupo consigam colaborar e fazer mudanças pertinentes durante o desenvolver do projeto <a id="anchor_6" href="#FRM6">^6^</a>|
 |  <img src="../../assets/images/sheets-logo.png" width="100">  | Sheets             | O Sheets será utilizado para o desenvolvimento de planilhas on-line conforme necessidade do grupo, por exemplo, para criação do HeapMap do grupo <a id="anchor_7" href="#FRM7">^7^</a>                                                                         |
-| <img src="../../assets/images/youtube-logo.png" width="100">  | Youtube            | O Youtube será utilizado para hospedar a gravação dos vídeos de apresentação realizadas pelo grupo, além de também funcionar como ferramenta de estudo para os participantes <a id="anchor_8" href="#FRM8">^8^</a>                                             |
-
-<figcaption align="center">Autores: <a href="https://github.com/suzaneduarte">Suzane Duarte</a>.</figcaption><br>
+| <img src="../../assets/images/youtube-logo.png" width="100">  | Youtube            | O Youtube será utilizado para hospedar a gravação dos vídeos de apresentação realizadas pelo grupo, além de também funcionar como ferramenta de estudo para os participantes <a id="anchor_8" href="#FRM8">^8^</a>                                            |
+| <img src="../../assets/images/this-person-logo.png" width="100">  | This Person Doesn't Exist          | Ferramenta utilizada para criar imagem para as personas <a id="anchor_9" href="#FRM9">^9^</a> 
+| <img src="../../assets/images/this-person-logo.png" width="100">  | LucidChart          | Ferramenta utilizada para criação de diagramas <a id="anchor_10" href="#FRM10">^10^</a> 
+<figcaption align="center">Autores: <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>.</figcaption><br>
 
 
 ## Referências
 
-> <a id="FRM1" href="#anchor_1">1.</a> Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acesso em: 21 de abr. de 2023.
+> <a id="FRM1" href="#anchor_1">1.</a> Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM2" href="#anchor_2">2.</a> WhatsApp. Disponível em: [https://www.whatsapp.com/?lang=pt_br](). Acesso em: 21 de abr. de 2023.
+> <a id="FRM2" href="#anchor_2">2.</a> WhatsApp. Disponível em: [https://www.whatsapp.com/?lang=pt_br](). Acesso em: 22 de outubro. de 2023.
 >
-> <a id="FRM3" href="#anchor_3">3.</a> Miro. Disponível em: [https://miro.com/pt/](). Acesso em: 19 de junho de 2023.
+> <a id="FRM3" href="#anchor_3">3.</a> Miro. Disponível em: [https://miro.com/pt/](). Acesso em: 2 de outubro de 2023.
 >
-> <a id="FRM4" href="#anchor_4">4.</a> Figma. Disponível em: [https://www.figma.com/](). Acesso em: 21 de abr. de 2023.
+> <a id="FRM4" href="#anchor_4">4.</a> Figma. Disponível em: [https://www.figma.com/](). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM5" href="#anchor_5">5.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acesso em: 21 de abr. de 2023.
+> <a id="FRM5" href="#anchor_5">5.</a> MkDocs. Disponível em: [https://www.mkdocs.org/](). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM6" href="#anchor_6">6.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 21 de abr. de 2023.
+> <a id="FRM6" href="#anchor_6">6.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM7" href="#anchor_7">7.</a> Google Sheets. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acesso em: 21 de abr. de 2023.
+> <a id="FRM7" href="#anchor_7">7.</a> Google Sheets. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acesso em: 2 de outubro. de 2023.
 >
-> <a id="FRM8" href="#anchor_8">8.</a> YouTube. Disponível em: [https://about.youtube/](). Acesso em: 21 de abr. de 2023.
+> <a id="FRM8" href="#anchor_8">8.</a> YouTube. Disponível em: [https://about.youtube/](). Acesso em: 2 de outubro. de 2023.
+>
+> <a id="FRM9" href="#anchor_9">9.</a> This Person Doesn't Exist. Disponível em: [https://thispersondoesnotexist.com](). Acesso em: 16 de outubro de 2023.
+>
+> <a id="FRM10" href="#anchor_10">10.</a> LucidChart. Disponível em: [https://www.lucidchart.com](). Acesso em: 16 de outubro de 2023.
 >
 
 ## Histórico de versão
@@ -47,3 +52,4 @@
 | :-----: | :--------: | :---------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------: |
 | 1.0 | 01/10/2023 | Criação página de ferramentas | [Suzane Duarte](https://github.com/suzaneduarte) | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.1 | 13/10/2023 | Padronização e Referências | [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
+| 1.2 | 13/10/2023 | Adicionando ferramentas | [Pablo Guilherme](https://github.com/PabloGJBS) | [Suzane Duarte](https://github.com/suzaneduarte) |

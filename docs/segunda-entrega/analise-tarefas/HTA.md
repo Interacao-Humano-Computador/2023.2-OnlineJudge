@@ -23,7 +23,7 @@ Essa notação, além de apresentar os objetivos também representa o conceito d
 
 Abaixo é possível conferir as principais tarefas que um usuário procura utilizar através do Online Judge.
 
-## Submeter problema
+## Submeter problema (Quick Submit)
 
 Nessa tarefa, o usuário possui o objetivo de submeter a solução de um determinado problema proposto. A Figura 2 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 1 representa o mesmo HTA em formato de tabela.
 
