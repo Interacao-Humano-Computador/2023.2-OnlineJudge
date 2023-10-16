@@ -21,6 +21,7 @@ nav:
           - Análise Hierárquica de Tarefas (HTA): segunda-entrega/analise-tarefas/HTA.md
           - GOMS: segunda-entrega/analise-tarefas/GOMS.md
       - Perfil de usuário: segunda-entrega/perfil_usuario.md
+      - Cenários: segunda-entrega/cenarios.md
 
 theme:
   name: material
