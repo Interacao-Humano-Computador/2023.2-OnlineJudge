@@ -15,14 +15,12 @@ Através da [resolução nº 466/2012](./reso466.pdf) do Conselho Nacional de Sa
 A participação na pesquisa deve ocorrer apenas com o consentimento livre e esclarecido dos participantes. Através do termo de consentimento são comunicadas aos participantes todas as informações pertinentes da pesquisa de modo a garantir a a decisão livre e consciente na participação desta. Como por exemplo, se necessário utilizar gravação de voz ou imagem do participante, faz-se necessário obter a permissão para gravar. Também é importante enfatizar que o participante tem o direito e liberdade de se recusar a participar ou retirar seu consentimento e abandonar o estudo em qualquer fase da pesquisa.
 Nesta disciplina, quando se trata de pesquisas envolvendo pessoas, o grupo utiliza-se deste de termo de consentimento presente na Figura 1 quando for necessário:
 
-<center>
+<center>Figura 1 - Termo de Consentimento.</center>
 
-Figura 1 - Termo de Consentimento
-<font><figure markdown>![Termo de Consentimento](../assets/images/termo_de_consentimento.png){: style="height:680px;width:650px"}
+![](../../assets/images/termo-consentimento.jpg)
+<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/ericcs10">Eric Camargo</a></center>
 
-_Fonte: [Eric Camargo](https://github.com/ericcs10), [Luana Torres](https://github.com/luanatorress), 2023_
-
-</center>
+<br>
 
 
 ## Referências Bibliográficas

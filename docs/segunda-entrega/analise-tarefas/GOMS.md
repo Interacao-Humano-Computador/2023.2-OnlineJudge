@@ -161,6 +161,73 @@ Nesta tarefa o objetivo é acessar a aba de *Contest System*
 <center><b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Flores</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 <br><br>
 
+## My account (edit user)
+
+Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
+
+- Goal 0: Acessar a aba _My account_
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor do mouse para a aba _My account_
+  - Método 2: Clicar na aba para abri-la
+  - Goal 1: acessar a aba de edição do perfil
+    - Operador 1: Hoaming
+    - Operador 2: Click
+    - Método 1: Mover o cursor do mouse para o botão _Edit_
+      - Goal 1.1: Selecionar _Update Your Image_
+        - Operador 1: Hoaming
+        - Operador 2: Click
+        - Método 1: Mover o cursor do mouse para o botão _Update Your Image_
+        - Goal 1.1.1: Enviar uma imagem do computador:
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Método 1: Mover o cursor do mouse para o botão _Escolher Arquivo_
+          - Método 2: Selecionar o arquivo desejado
+          - Método 3: Clicar no botão _Confirm choice_
+        - Goal 1.1.2: Escolher um icone próprio do site
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Método 1: mover o cursor para a parte dos icones
+          - Método 2: selecionar 1 icone que o site oferece
+          - Método 3: Cliclar no botão _Confirm choice_
+      - Goal 1.2: Selecionar _Update Your Profile_
+        - Goal 1.2.1: Selecionar _Upload profile Image_
+        - Operador 1: Hoaming
+        - Operador 2: Click
+        - Método 1: Mover o cursor do mouse para a opção _Upload profile Image_
+        - Goal 1.2.1.1: Enviar uma imagem do computador:
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Método 1: Mover o cursor do mouse para o botão _Escolher Arquivo_
+          - Método 2: Selecionar o arquivo desejado
+          - Método 3: Clicar no botão _Update_
+        - Goal 1.2.1.2: Escolher um icone próprio do site
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Método 1: mover o cursor para a opção _Select image from gallery_
+          - Método 2: selecionar 1 icone que o site oferece
+          - Método 3: Cliclar no botão _Update_
+        - Goal 1.2.2: Alterar Contact Info
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Operador 3: Data Input
+          - Método 1: Mover o cursor para o campo desejado
+          - Método 2: clicar para selecionar o campo desejado
+          - Método 3: Alterar os dados
+          - Método 4: Clicar no botão update
+        - Goal 1.2.3: Alterar Geocoding
+          - Operador 1: Hoaming
+          - Operador 2: Click
+          - Operador 3: Data Input
+          - Método 1: Mover o cursor para o campo desejado
+          - Método 2: clicar para selecionar o campo desejado
+          - Método 3: Alterar os dados
+          - Método 4: Clicar no botão update
+
+<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
+<br><br>
+
+
 # Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -173,3 +240,4 @@ Nesta tarefa o objetivo é acessar a aba de *Contest System*
 |  1.1   | 16/10/2023 |     Adicionando análise de tarefa Procurar um problema     |  [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)   | [Kallyne Macedo](https://github.com/kalipassos)  |
 |  1.2   | 16/10/2023 | Adicionando análise de tarefa Visualizar minhas submissões | [Pablo Guilherme](https://github.com/PabloGJBS), [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.3   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.4   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System | [Pablo Guilherme](https://github.com/PabloGJBS), [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
