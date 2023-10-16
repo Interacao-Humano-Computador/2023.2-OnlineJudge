@@ -99,6 +99,29 @@ Nesta tarefa o objetivo é acessar a aba que permite ver todas as submissões.
     - Método 2: Clicar na submissão desejada
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, <a href="https://github.com/henriqtorresl">Henrique Torres</a></center>
+## Contatar colaboradores
+
+Nesta tarefa o objetivo do usuário é contatar colaboradores do site
+
+- Goal 0: Acessar a aba **_Contact Us_**
+  - Operador 1: Hoaming
+  - Operador 2: Click
+  - Método 1: Mover o cursor do mouse para a aba **_Contact Us_**
+  - Método 2: Clicar na aba para abri-la
+    - Goal 1: Navegar pelos campos de inserção
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para o campo nome
+      - Método 2: Inserir o nome
+      - Método 3: Inserir email do colaborador desejado
+      - Método 4: Inserir mensagem
+    - Goal 2: Enviar
+      - Operador 1: Hoaming
+      - Operador 2: Click
+      - Método 1: Mover o cursor do mouse para o botão **_Send_**
+      - Método 2: Clicar no botão para enviar
+
+<center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
 
 # Bibliografia
 
