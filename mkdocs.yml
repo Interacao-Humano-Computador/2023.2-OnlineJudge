@@ -19,6 +19,8 @@ nav:
       - Processo de Design: primeira-entrega/processo-design.md
       - Cronograma das Atividades: primeira-entrega/cronograma-atividades.md
   - Segunda Entrega:
+      - Cenários: segunda-entrega/cenarios.md
+      - Personas: segunda-entrega/personas.md
       - Análise de tarefas:
           - Análise Hierárquica de Tarefas (HTA): segunda-entrega/analise-tarefas/HTA.md
           - GOMS: segunda-entrega/analise-tarefas/GOMS.md
