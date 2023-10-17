@@ -4,8 +4,6 @@
 
 Personas são personagens ficticios utilizadas para representar a maneira como um usuário irá interagir com o sistema. Neste projeto as personas utilizaram o sistema Online Judge para realizar suas tarefas.
 
-## Metodologia
-
 ## Elenco
 
 A seguir estaram dispostas as fotos das personas e suas caracteristicas nas figuras 1 a 3 e nas tabelas de 1 a 3.
