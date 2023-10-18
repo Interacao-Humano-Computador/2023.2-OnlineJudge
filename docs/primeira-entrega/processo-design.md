@@ -103,13 +103,13 @@ As atividades propostas por Nielsen são:
 É importante deixar registrado quais foram as decisões tomadas, para evitar que as próximas comprometam as metas de usabilidade (design rationale).
 Após a introdução de um produto, dados devem ser coletados para avaliar o retorno sobre o investimento e planejar a próxima versão do produto.
 
-### **Bibliografia**
+## **Bibliografia**
 
 1. JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homem-computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
 2. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador e Experiência do Usuário, 1a. Edição, Editora Campus, 2021.
 3. UNIPAR. Desenvolvendo Interfaces. Disponível em: <https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/unidade-ii.html>. Acesso em: 25 set. 2023.
 
-### **Histórico de Versões**
+## **Histórico de Versões**
 
 | Versão  | Data | Descrição | Responsáveis | Revisor
 -------- | ------ | ------ | ---------- | ----------

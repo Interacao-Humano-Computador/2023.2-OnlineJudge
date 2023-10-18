@@ -55,7 +55,7 @@
 
 #### [_Reunião 01_](https://unbbr.sharepoint.com/:v:/s/IHC943/ESK6nAW_LS5PijvuO3yc__IB8UmFw1_YZq5PHhF8nRLzbw?e=rgk5Sm)
 
-### Histórico de Versão
+## Histórico de Versão
 
 | Versão |    Data    |           Descrição            |          Responsáveis          |    Revisor    |
 | :----: | :--------: | :----------------------------: | :----------------------------: | :-----------: |

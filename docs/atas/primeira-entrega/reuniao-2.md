@@ -59,7 +59,7 @@
 
 #### [_Reunião 02_](https://unbbr.sharepoint.com/:v:/s/IHC943/Ee_AQJO_zHdIsrGbWCRJeGoB-BGag7tkUU9zf9kSPXSfeA?e=A5lbaU)
 
-### Histórico de Versão
+## Histórico de Versão
 
 | Versão |    Data    |           Descrição            |          Responsáveis          |    Revisor    |
 | :----: | :--------: | :----------------------------: | :----------------------------: | :-----------: |

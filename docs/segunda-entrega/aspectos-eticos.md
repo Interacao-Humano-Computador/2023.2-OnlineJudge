@@ -1,3 +1,5 @@
+# **Aspectos Éticos**
+
 ## Introdução
 
 Em uma pesquisa eticamente justificável é dever da equipe de design proteger o bem-estar físico e psicológico dos participantes.
@@ -35,4 +37,4 @@ Nesta disciplina, quando se trata de pesquisas envolvendo pessoas, o grupo utili
 
 | Versão | Data       | Descrição                                       | Autor(es)                                                                                     | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1.0  | 14/10/2023 | Criação da página da página de aspectos éticos. | [Luana Torres](https://github.com/luanatorress), [Eric Camargo](https://github.com/ericcs10) | [Ester Flores](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.0  | 14/10/2023 | Criação da página da página de aspectos éticos. | [Luana Torres](https://github.com/luanatorress), [Eric Camargo](https://github.com/ericcs10) | [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) |

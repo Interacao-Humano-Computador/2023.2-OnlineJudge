@@ -1,4 +1,6 @@
-# Introdução - Análise de Tarefas
+# **HTA (Análise Hierárquica de Tarefas)** 
+
+## Introdução
 
 A análise de tarefas tem como finalidade proporcionar uma compreensão abrangente das atividades dos usuários, incluindo como as executam e os motivos por trás de suas ações. Nesse contexto, o trabalho é delineado em relação aos objetivos que os usuários buscam alcançar, seja por vontade própria ou por necessidade.
 
@@ -8,7 +10,7 @@ Dessa forma, para realizar a análise de tarefas deste projeto foram escolhidos 
 
 - Goals, Operators, Methods and Selection Rules (GOMS);
 
-# Análise Hierárquica de Tarefas
+## Análise Hierárquica de Tarefas
 
 A análise Hierárquica de Tarefas (HTA - Hierarchical Task Analysis) visa compreender as competências e habilidades necessárias para a execução de tarefas complexas e não rotineiras, ao mesmo tempo que auxilia na detecção de problemas de desempenho. Ela facilita a conexão entre as ações das pessoas (ou o que é recomendado que façam), os motivos por trás dessas ações e as potenciais consequências de um desempenho inadequado.
 
@@ -24,7 +26,7 @@ Essa notação, além de apresentar os objetivos também representa o conceito d
 
 Abaixo é possível conferir as principais tarefas que um usuário procura utilizar através do Online Judge.
 
-## Submeter problema (Quick Submit)
+### **Submeter problema (Quick Submit)**
 
 Nessa tarefa, o usuário possui o objetivo de submeter a solução de um determinado problema proposto. A Figura 2 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 1 representa o mesmo HTA em formato de tabela.
 
@@ -47,7 +49,7 @@ Nessa tarefa, o usuário possui o objetivo de submeter a solução de um determi
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 
-## Procurar um problema
+### **Procurar um problema**
 
 Nesta tarefa, o objetivo do usuário é buscar um novo problema para solucionar dentro do site. A Figura 3 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 2 representa o mesmo HTA em formato de tabela.
 
@@ -70,7 +72,7 @@ Nesta tarefa, o objetivo do usuário é buscar um novo problema para solucionar 
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center></center></center>
 
-## Contatar Colaboradores
+### **Contatar Colaboradores**
 
 Nesta tarefa o usuario tem o objetivo de contatar, colaboradores do site, seja sobre o resultado de submissões, ou para relatar algum problema, ou dar alguma sugestão, a figura 4 apresenta o diagrama HTA relativo a essa funcionalidade e a tabela 3 a mesma em forma de tabela
 
@@ -93,7 +95,7 @@ Nesta tarefa o usuario tem o objetivo de contatar, colaboradores do site, seja s
 
 <center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center></center>
 
-## Editar Conta
+### **Editar Conta**
 
 Nesta tarefa, o usuário tem como objetivo editar sua conta de usuário. A Figura 4 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 3 representa o mesmo HTA em formato de tabela.
 
@@ -122,9 +124,9 @@ Nesta tarefa, o usuário tem como objetivo editar sua conta de usuário. A Figur
 | 2. Atualizar Perfil                      | **Plano:** atualizar detalhes de usuário.                                                                                                     |
 </center>
 
-<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/esteerlino">Ester Flores</a></center></center>
+<center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/esteerlino">Ester Lino</a></center></center>
 
-## Visualizar minhas submissões
+### **Visualizar minhas submissões**
 
 Nesta tarefa, o usuário tem como objetivo verificar as proprias subimissões de códigos. A Figura 6 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 5 representa o mesmo HTA em formato de tabela.
 
@@ -146,7 +148,7 @@ Nesta tarefa, o usuário tem como objetivo verificar as proprias subimissões de
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, <a href="https://github.com/henriqtorresl">Henrique Torres</a></center></center>
 
-## Acessar o Contest System
+### **Acessar o Contest System**
 
 Nesta tarefa, o usuário tem como objetivo de visualizar as competições/concursos que estão em execução, os próximos e os que já ocorreram. O diagrama HTA referente à essa tarefa está apresentado na Figura 7 e a Tabela 6 representa o mesmo HTA em formato de tabela.
 
@@ -178,7 +180,7 @@ Nesta tarefa, o usuário tem como objetivo de visualizar as competições/concur
 
 <center><b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/luanatorress">Luana Torres</a></center></center>
 
-## Acessar o "Forgot Login?" - Recuperação de login
+### **Acessar o "Forgot Login?" - Recuperação de login**
 
 Nessa tarefa, o usuário tem como objetivo recuperar a senha ou o nome de usuário esquecido, para que possa acessar o sistema. A Figura 8 apresenta o diagrama HTA relativa a essa tarefa, e a Tabela 7 representa o mesmo HTA em formato de tabela.
 
@@ -204,11 +206,11 @@ Nessa tarefa, o usuário tem como objetivo recuperar a senha ou o nome de usuár
 </center>
 <center><b> Fonte: </b><a href = "https://github.com/kalipassos"> Kallyne Macedo</a></center></center>
 
-# Bibliografia
+## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão |    Data    |                         Descrição                          |                                             Responsáveis                                              |                     Revisor                     |
 | :----: | :--------: | :--------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------: |

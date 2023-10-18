@@ -38,5 +38,5 @@ A avaliação realizada seguindo o Framework DECIDE e as heurísticas de Nielsen
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :---------------------------: | :-----------: |
 |  1.0   | 30/09/2023 | Padronização de todas as avaliações de sites | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
-|  1.1   | 16/10/2023 | Critérios de Escolha e Motivação | [Luana Torres](https://github.com/luanatorress)| [Ester Flores](https://github.com/esteerlino) |
-|  1.2   | 16/10/2023 | Inclusão de PDF com a avaliação completa | [Ester Flores](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorress) |
+|  1.1   | 16/10/2023 | Critérios de Escolha e Motivação | [Luana Torres](https://github.com/luanatorress)| [Ester Lino](https://github.com/esteerlino) |
+|  1.2   | 16/10/2023 | Inclusão de PDF com a avaliação completa | [Ester Lino](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorress) |

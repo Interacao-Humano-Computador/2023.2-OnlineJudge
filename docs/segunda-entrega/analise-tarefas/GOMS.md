@@ -1,6 +1,6 @@
-# GOMS (Goals, Operators, Methods and Selection Rules)
+# **GOMS (Goals, Operators, Methods and Selection Rules)**
 
-# Introdução
+## Introdução
 
 A abordagem GOMS descreve como o usuário interage com o sistema, dividindo a interação em metas(Goals), operadores (operators), métodos(methods) e regras de seleção (selection rules).
 
@@ -14,13 +14,13 @@ A abordagem GOMS é recomendada a utilização do modelo GOMS para:
 
 - **Mensurar o desempenho do usuário:** por setratar de um modelo que proporciona a análise de uma tarefa específica executada pelo usuário é possivel estimar quanto tempo o usuário levará para realizar a tarefa.
 
-# Motivo da escolha
+## Motivo da escolha
 
 Decidimos pelo modelo GOMS pelo fato dele proporcionar a análise especifica da ação do usuário em determinada tarefa no site, proporcionando uma melhor visão do caminho que o usuário pode seguir para realizar a sua tarefa bem como os erros ou dificuldades que podem dificultar a realização da tarefa.
 
-# Análise de tarefas
+## Análise de tarefas
 
-## Submeter problema
+### **Submeter problema**
 
 Nesta tarefa o objetivo do usuário é submeter um algoritimo para ser julgado
 
@@ -60,7 +60,7 @@ Nesta tarefa o objetivo do usuário é submeter um algoritimo para ser julgado
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 
-## Procurar um problema
+### **Procurar um problema**
 
 Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar dentro do site
 
@@ -83,7 +83,7 @@ Nesta tarefa o objetivo do usuário é buscar um novo problema para solucionar d
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 <br><br>
 
-## Visualizar minhas submissões
+### **Visualizar minhas submissões**
 
 Nesta tarefa o objetivo é acessar a aba que permite ver todas as submissões.
 
@@ -100,7 +100,7 @@ Nesta tarefa o objetivo é acessar a aba que permite ver todas as submissões.
 
 <center><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, <a href="https://github.com/henriqtorresl">Henrique Torres</a></center>
 
-## Contatar colaboradores
+### **Contatar colaboradores**
 
 Nesta tarefa o objetivo do usuário é contatar colaboradores do site
 
@@ -124,7 +124,7 @@ Nesta tarefa o objetivo do usuário é contatar colaboradores do site
 
 <center><b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a></center>
 
-## Acessar o Contest System
+### **Acessar o Contest System**
 
 Nesta tarefa o objetivo é acessar a aba de *Contest System*
 
@@ -159,10 +159,10 @@ Nesta tarefa o objetivo é acessar a aba de *Contest System*
       - Método 1: Mover o cursor do mouse para a aba **_Contest Ranking_**
       - Método 2: Clicar na aba para abri-la
 
-<center><b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Flores</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
+<center><b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 <br><br>
 
-## My account (edit user)
+### **My account (edit user)**
 
 Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
 
@@ -228,7 +228,7 @@ Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
 <center><b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a>, <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></center>
 <br><br>
 
-## Forgot login?
+### **Forgot login?**
 
 - Goal 0: Recuperar login
   - Goal 1: Acessar página Forgot login?
@@ -278,11 +278,11 @@ Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
 <center><b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a></center>
 <br><br>
 
-# Bibliografia
+## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão |    Data    |                         Descrição                          |                                             Responsáveis                                             |                     Revisor                      |
 | :----: | :--------: | :--------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------: |

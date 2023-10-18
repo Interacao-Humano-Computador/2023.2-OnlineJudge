@@ -60,7 +60,7 @@
 
 #### [*Reunião 03*](https://unbbr.sharepoint.com/:v:/s/IHC943/EW78DtWBB-hBoF1ipafaZd4B1z2Hcw9FnE70A5Ija5BxFg?e=u6AzkT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-### Histórico de Versão
+## Histórico de Versão
 
 | Versão |    Data    |          Descrição          |                Responsáveis                |                   Revisor                   |
 | :-----: | :--------: | :----------------------------: | :------------------------------------------: | :------------------------------------------: |

@@ -3,11 +3,11 @@ site_name: Online-Judge
 nav:
   - Sobre: index.md
   - Atas:
-      - Primeira entrega:
-          - Ata primeira reunião: atas/primeira-entrega/reuniao-1.md
-          - Ata segunda reunião: atas/primeira-entrega/reuniao-2.md
-      - Segunda entrega:
-          - Ata terceira reunião: atas/segunda-entrega/reuniao-3.md
+      - Primeira Entrega:
+          - Ata Primeira Reunião: atas/primeira-entrega/reuniao-1.md
+          - Ata Segunda Reunião: atas/primeira-entrega/reuniao-2.md
+      - Segunda Entrega:
+          - Ata Terceira Reunião: atas/segunda-entrega/reuniao-3.md
 
   - Primeira Entrega:
       - Apresentação: primeira-entrega/apresentacao.md
@@ -20,13 +20,15 @@ nav:
       - Cronograma das Atividades: primeira-entrega/cronograma-atividades.md
   - Segunda Entrega:
       - Apresentação: segunda-entrega/apresentacao.md
-      - Análise de tarefas:
+      - Análise de Tarefas:
           - Análise Hierárquica de Tarefas (HTA): segunda-entrega/analise-tarefas/HTA.md
           - GOMS: segunda-entrega/analise-tarefas/GOMS.md
       - Aspectos Éticos: segunda-entrega/aspectos-eticos.md
-      - Perfil de usuário: segunda-entrega/perfil-usuario.md
+      - Perfil de Usuário: segunda-entrega/perfil-usuario.md
       - Personas: segunda-entrega/personas.md
       - Cenários: segunda-entrega/cenarios.md
+  - Terceira Entrega:
+      - Metas de Usabilidade: terceira-entrega/metas-de-usabilidade.md
 
 theme:
   name: material
