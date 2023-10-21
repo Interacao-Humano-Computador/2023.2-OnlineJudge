@@ -29,6 +29,7 @@ nav:
       - Cenários: segunda-entrega/cenarios.md
   - Terceira Entrega:
       - Metas de Usabilidade: terceira-entrega/metas-de-usabilidade.md
+      - Princípios Gerais do Projeto: terceira-entrega/principios-gerais.md
 
 theme:
   name: material
