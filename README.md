@@ -50,7 +50,7 @@ mkdocs gh-deploy
 
 ## Histórico de Versões
 
-|    Data    | Versão |                      Descrição                      |      Autor(es)      | Revisor(es)  |
-| :--------: | :----: | :-------------------------------------------------: | :-----------------: | :----------: |
-| 29/09/2023 | `1.0`  | Versão inicial de documento de descrição do projeto | Suzane Alves Duarte | Luana Souza  |
-| 30/09/2023 | `1.1`  |          Atualização do comando do deploy           |   Pablo Guilherme   | Ester Flores |
+| Versão |    Data    |                      Descrição                      |      Autor(es)      | Revisor(es)  |
+| :----: | :--------: | :-------------------------------------------------: | :-----------------: | :----------: |
+|  1.0   | 29/09/2023 | Versão inicial de documento de descrição do projeto | Suzane Alves Duarte | Luana Souza  |
+|  1.1   | 30/09/2023 |          Atualização do comando do deploy           |   Pablo Guilherme   | Ester Lino |

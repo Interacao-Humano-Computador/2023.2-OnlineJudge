@@ -105,9 +105,9 @@ Após a introdução de um produto, dados devem ser coletados para avaliar o ret
 
 ## **Bibliografia**
 
-1. JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homem-computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
-2. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador e Experiência do Usuário, 1a. Edição, Editora Campus, 2021.
-3. UNIPAR. Desenvolvendo Interfaces. Disponível em: <https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/unidade-ii.html>. Acesso em: 25 set. 2023.
+> 1. JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homem-computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
+> 2. SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador e Experiência do Usuário, 1a. Edição, Editora Campus, 2021.
+> 3. UNIPAR. Desenvolvendo Interfaces. Disponível em: <https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/unidade-ii.html>. Acesso em: 25 set. 2023.
 
 ## **Histórico de Versões**
 

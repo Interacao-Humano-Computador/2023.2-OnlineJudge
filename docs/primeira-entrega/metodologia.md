@@ -25,8 +25,8 @@ Nesta seção, exploraremos em detalhes como o Kanban e o Scrum serão aplicados
 
 ## **Bibliografia**
 
->1. What Is Agil Methodology. Disponível em: <<https://www.redhat.com/pt-br/devops/what-is-agile-methodology>>. Acesso em 01 de outubro de 2023.
->2. Kanban. Disponível em: <<https://www.nomus.com.br/blog-industrial/kanban/?gad=1&gclid=CjwKCAjw-KipBhBtEiwAWjgwrHZG43Khs2gtiBBO8Mw-yWs1SCm2F80Oj7E9ndge2gFc3NHpctR8choCo40QAvD_BwE>>. Acesso em 01 de outubro de 2023.
+> 1. What Is Agil Methodology. Disponível em: <<https://www.redhat.com/pt-br/devops/what-is-agile-methodology>>. Acesso em 01 de outubro de 2023.
+> 2. Kanban. Disponível em: <<https://www.nomus.com.br/blog-industrial/kanban/?gad=1&gclid=CjwKCAjw-KipBhBtEiwAWjgwrHZG43Khs2gtiBBO8Mw-yWs1SCm2F80Oj7E9ndge2gFc3NHpctR8choCo40QAvD_BwE>>. Acesso em 01 de outubro de 2023.
 
 ## Histórico de versão
 

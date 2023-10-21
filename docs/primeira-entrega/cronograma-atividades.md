@@ -197,7 +197,7 @@
 
 ## Bibliografia
 
-1. Plano de Ensino FIHC 022023 Turma 2. Aprender3. Acesso em 21/set/2023.
+> 1. Plano de Ensino FIHC 022023 Turma 2. Aprender3. Acesso em 21/set/2023.
 
 ## Histórico de versão
 

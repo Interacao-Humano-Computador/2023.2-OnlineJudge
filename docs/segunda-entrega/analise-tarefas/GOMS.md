@@ -280,7 +280,7 @@ Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
 
 ## Bibliografia
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de versão
 

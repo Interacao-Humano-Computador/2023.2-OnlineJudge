@@ -208,7 +208,7 @@ Nessa tarefa, o usuário tem como objetivo recuperar a senha ou o nome de usuár
 
 ## Bibliografia
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de versão
 

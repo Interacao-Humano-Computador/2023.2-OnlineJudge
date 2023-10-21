@@ -28,7 +28,8 @@ nav:
       - Personas: segunda-entrega/personas.md
       - Cenários: segunda-entrega/cenarios.md
   - Terceira Entrega:
-      - Metas de Usabilidade: terceira-entrega/metas-de-usabilidade.md
+      - Metas de Usabilidade: terceira-entrega/metas-usabilidade.md
+      - Características da Plataforma: terceira-entrega/caracteristicas-plataforma.md
 
 theme:
   name: material
