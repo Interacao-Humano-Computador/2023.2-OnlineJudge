@@ -44,9 +44,9 @@ Para definir as metas de usabilidade que se deseja alcançar no projeto, foram d
 
 Neste artefato, as metas de usabilidade foram definidas e analisadas dentro do contexto do sistema Online Judge. Através das perguntas para cada meta citada, foram avaliadas e definidas as metas a serem alcançadas pelo projeto. Assim, as metas de usabilidade mais críticas são:
 
-**Eficácia:** Desenvolver um design mais agradável visualmente, a fim de manter o usuário no sistema e uma linguagem mais próxima do usuário.
-**Eficiência:** Retirar as informações desnecessárias que não compõem o escopo do sistema.
-**Capacidade de Aprendizagem:** Tornar as funcionalidades mais intuitivas.
+**Eficácia:** Desenvolver um design mais agradável visualmente, a fim de manter o usuário no sistema e uma linguagem mais próxima do usuário.<br>
+**Eficiência:** Retirar as informações desnecessárias que não compõem o escopo do sistema.<br>
+**Capacidade de Aprendizagem:** Tornar as funcionalidades mais intuitivas.<br>
 
 ## Bibliografia
 
