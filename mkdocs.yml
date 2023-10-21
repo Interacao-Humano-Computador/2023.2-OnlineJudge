@@ -30,6 +30,7 @@ nav:
   - Terceira Entrega:
       - Metas de Usabilidade: terceira-entrega/metas-usabilidade.md
       - Características da Plataforma: terceira-entrega/caracteristicas-plataforma.md
+      - Princípios Gerais do Projeto: terceira-entrega/principios-gerais.md
 
 theme:
   name: material
