@@ -38,11 +38,37 @@ O guia de estilo é um artefato em constante evolução, a qual demanda uma manu
 
 #### 2.1 DESCRIÇÃO DO AMBIENTE DE TRABALHO DO USUÁRIO
 
+A plataforma Online Judge é utilizada principalmente através de computadores. Isso porque, para realizar a submissão dos problemas é necessário que o código tenha passado pelo processo de compilação, ao qual infere-se que geralmente não é efetuado por dispositivos móveis. Dessa maneira, apesar dos usuários conseguirem acessar o site através do celular, é crucial dar destaque às particularidades dos dispositivos web durante o processo de design e desenvolvimento da interface do sistema. De forma a assegurar que ela proporcione uma experiência de usuário satisfatória e eficaz para aqueles que acessam a plataforma, envolvendo desde a adaptação de uma interface minimalista para diferentes tamanhos de tela, até a seleção de elementos visuais adequados.
+
 ## 3. Elementos de interface
 
 #### 3.1 DISPOSIÇÃO ESPACIAL E GRID
 
+O estilo de layout do Online Judge leva em consideração uma divisão em sessões, aos quais estão centralizados. A seguir, na Figura 1 é possível visualizar a disposição dos elementos da página principal do sistema.
+
+![](../assets/images/layout-onlinejudge.png)
+
+<center>Figura 1: Disposição dos elementos da página inicial</center>
+<center>(Fonte: <a href="https://github.com/suzaneduarte">Suzane Duarte</a>) </center>
+
 #### 3.2 JANELAS
+
+O site oferece inúmeras janelas de navegação ao usuário, porém, pode-se destacar as principais, como a página inicial, a página de submissão de problemas e também a página para procurar novos problemas. As páginas citadas podem ser visualizadas a seguir respectivamente na Figura 2, Figura 3 e Figura 4.
+
+![](../assets/images/judge1.png)
+
+<center>Figura 2: Janela inicial</center>
+<center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
+
+![](../assets/images/submeter-problema-site.png)
+
+<center>Figura 3: Janela de submissão de problemas</center>
+<center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
+
+![](../assets/images/procurar-problema-site.png)
+
+<center>Figura 4: Janela para procurar problemas</center>
+<center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
 
 #### 3.3 TIPOGRAFIA
 
