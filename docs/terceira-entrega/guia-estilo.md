@@ -74,25 +74,21 @@ O site oferece inúmeras janelas de navegação ao usuário, porém, pode-se des
 
 A fonte predominante no OnlineJudge é a Verdana,  muitos editores de sites desaconselham seu uso, pois o tamanho da fonte pode não se alinhar bem com outras fontes usadas no site, o que não acontece no caso do OnlineJudge que tambem utiliza outras fontes como Helvetica, Arial, sans-serif, todos os textos são legiveis, sugerimos a utilização da Helvetica, por sua simplicidade, clareza e legibilidade, o que a torna uma escolha popular para uma variedade de aplicações, incluindo impressão, design de logotipos, design de embalagens e web design.
 
+<center> ![](../assets/images/exemplo-de-fontes.png) </center>
+
 <center>Figura 5: exemplo de diferentes fontes</center>
 <center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
 
-![](../assets/images/exemplo-de-fontes.png)
-
-#### 3.4 SÍMBOLOS NÃO TIPOGRÁFICOS
-
-
-
-#### 3.5 CORES
+#### 3.4 CORES
 
  O logo do site está em #0055FE, entre os topicos o site possuí diferenças de cores entre os titulos e subtitulos, Os titulos na cor #000066 e subtitulos são na cor #660000, a maioria dos hyperlinks estão em #990000 e a parte de fundo #D3D3D3
 
+<center> ![](../assets/images/exemplo-de-cores.png) </center>
+
 <center>Figura 6: exemplo de cores</center>
-<center>(Fonte: <a href="https://github.com/Ericcs10"> Eric Camargo</a>) </center>
+<center>(Fonte: <a href="https://github.com/Ericcs10"> Eric Camargo</a>)</center>
 
-![](../assets/images/exemplo-de-cores.png)
-
-#### 3.6 ANIMAÇÕES
+#### 3.5 ANIMAÇÕES
 
 O site não possui nenhum elemento que possuí animação
 
@@ -110,10 +106,10 @@ O estilo escolhido foi planejado com o objetivo de tornar a interface do sistema
 
 O site apresenta duas colunas com a presença de atalhos, a primeira coluna "Main Menu" possui três botões, sendo eles : "Home" que direciona a pagina inicial, "Contact Us" que leva a tela de contato com colaboradores, e "ICPC Live Archive" que não funciona como atalho e sim como hyperlink. A outra coluna posicionada logo abaixo da "Home" é a "Online Judge" que possui os botões para os principais caminhos do sistema, porem apenas alguns funcionam como atalhos, outros são hyperlinks, os de atalho são: "Browse problems" que serve para ir para a tela de pesquisar por questões. "Problemsetter's Credits" que é para vizualizar os criadores das questões. "Site Statistics" esse atalho abre um outro menu de atalhos logo abaixo o botão principal, todos eles levam a dados do site relacionados as questões e seus autores. "Contests" esse atalho tambem disponibiliza um novo menu abaixo da tecla, todas as opções são relacionadas as questões submetidas pelo usuário. "Eletronic Board" essa tecla apresentou "ERROR 502 Bad Gateway" e não foi possivel visualizar seu destino. "Additional Information" Abre um menu onde pelas opções é possivel visualizar a legenda dos codigos que o sistema retorna para o usuario após a submissão de questões, e especificações de submissão. O site não deixa claro a diferença entre o que são hyperlinks e o que são atalhos.
 
-<center>Figura 7: exemplo de atalho</center>
-<center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
+<center> ![](../assets/images/exemplo-de-atalho.png) </center>
 
-![](../assets/images/exemplo-de-atalho.png)
+<center>Figura 7: exemplo de atalho</center>
+<center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>)</center>
 
 ## 5. Elementos de ação 
 
@@ -139,12 +135,10 @@ As terminologias encontradas são padrões tendo como referência ambientes de p
 
 O site possuí uma sidebar ao lado esquerdo onde se encontra a logo do OnlineJudge, o espaço de login, as duas tabelas de atalho, "Main Menu" e "Online Judge" que sao fixas e aparecem em todas as telas, os tipos de tela variam de acordo com as ações que o usuário, a tela de inicio possui apenas links que direcionam para livros online, e uma breve descrição sobre o site e sobre progrmação competitiva, as demais tela se limitam as features de usuário, que possuem apenas a campos de preenchimento, e as de problemas e questões que em sua maioria apresentam tabelas com informações sobre os problemas.
 
+<center> ![](../assets/images/exemplo-de-telas.png) </center>
+
 <center>Figura 8: exemplo de telas</center>
 <center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
-
-![](../assets/images/exemplo-de-telas.png)
-
-#### 6.3 SEQUÊNCIA DE DIÁLOGOS
 
 ## 7. Proposta de Intervenção
 A proposta de intervenção é uma estratégia amplamente utilizada no campo do design e da engenharia de software para sugerir melhorias e mudanças em um sistema, site ou aplicativo com o objetivo de aprimorar a experiência do usuário. Nossa proposta de intervenção para o site do Online Judge visa tornar a plataforma mais acessível, intuitiva e eficiente, melhorando assim a experiência dos usuários que a utilizam.
@@ -152,23 +146,15 @@ A proposta de intervenção é uma estratégia amplamente utilizada no campo do 
 Nossa proposta de intervenção visa  melhorar a experiência geral dos usuários que utilizam o Online Judge, tornando-o mais amigável e eficiente, o que, por sua vez, promove a aprendizagem e o desenvolvimento de habilidades de programação de maneira mais eficaz. Essas melhorias têm o potencial de atrair um público mais amplo e diversificado, tornando a plataforma ainda mais valiosa para a comunidade de programadores.
 
 <figure markdown>
+    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FNGcLbMFzbKyHIc4cHZB63M%2FIHC---Proposta-de-Interven%25C3%25A7%25C3%25A3o%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DLCZfFO6VPyPqhbyt-1" allowfullscreen></iframe>
     <p style="text-align: center">
         Figura 9 - Proposta de intervenção.
     </p>
-    <iframe 
-        style="border: 1px solid rgba(0, 0, 0, 0.1);" 
-        width="800" 
-        height="450" 
-        src="https://www.figma.com/file/NGcLbMFzbKyHIc4cHZB63M/IHC---Proposta-de-Interven%C3%A7%C3%A3o?type=design&node-id=0%3A1&mode=design&t=LCZfFO6VPyPqhbyt-1" 
-        allowfullscreen
-    >
-    </iframe>
+    <b>(Fonte:</b> 
+    <a href="https://github.com/suzaneduarte">Suzane Duarte</a>, 
+    <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, 
+    <a href="https://github.com/henriqtorresl">Henrique Torres</a>)
 </figure>
-
-<b>Fonte:</b> 
-<a href="https://github.com/suzaneduarte">Suzane Duarte</a>, 
-<a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, 
-<a href="https://github.com/henriqtorresl">Henrique Torres</a>
 
 ## Referências Bibliográficas
 
