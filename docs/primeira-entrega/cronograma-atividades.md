@@ -206,3 +206,4 @@
 |   1.1   | 01/10/2023 |            Finalização do cronograma inicial            | [Luana Torres](https://github.com/luanatorress), [Kallyne Macedo](https://github.com/kalipassos) |   [Ester Lino](https://github.com/esteerlino)   |
 |   1.2   | 15/10/2023 | Atualização do cronograma c/ considerações da Etapa 1 |                        [Kallyne Macedo](https://github.com/kalipassos)                        | [Luana Torres](https://github.com/luanatorress) |
 |   1.3   | 16/10/2023 |  Alteração responsáveis e cronograma executado Etapa 2  |                        [Kallyne Macedo](https://github.com/kalipassos)                        | [Pablo Guilherme](https://github.com/PabloGJBS) |
+|   1.4   | 23/10/2023 |  Alteração responsáveis e cronograma executado Etapa 3  |                        [Kallyne Macedo](https://github.com/kalipassos)                        |                                              |
