@@ -79,11 +79,9 @@ A fonte predominante no OnlineJudge é a Verdana,  muitos editores de sites desa
 
 ![](../assets/images/exemplo-de-fontes.png)
 
-#### 3.4 SÍMBOLOS NÃO TIPOGRÁFICOS
 
 
-
-#### 3.5 CORES
+#### 3.4 CORES
 
  O logo do site está em #0055FE, entre os topicos o site possuí diferenças de cores entre os titulos e subtitulos, Os titulos na cor #000066 e subtitulos são na cor #660000, a maioria dos hyperlinks estão em #990000 e a parte de fundo #D3D3D3
 
@@ -92,7 +90,7 @@ A fonte predominante no OnlineJudge é a Verdana,  muitos editores de sites desa
 
 ![](../assets/images/exemplo-de-cores.png)
 
-#### 3.6 ANIMAÇÕES
+#### 3.5 ANIMAÇÕES
 
 O site não possui nenhum elemento que possuí animação
 
