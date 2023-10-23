@@ -72,7 +72,7 @@ O site oferece inúmeras janelas de navegação ao usuário, porém, pode-se des
 
 #### 3.3 TIPOGRAFIA
 
-A fonte predominante no OnlineJudge é a Verdana, Ela pertence à subfamília Regular. É importante saber que a Verdana é gratuita apenas para uso pessoal; para uso comercial, é necessário obter autorização.Verdana foi projetada para ser altamente legível em monitores de baixa resolução, mas muitos editores de sites desaconselham seu uso, pois o tamanho da fonte pode não se alinhar bem com outras fontes usadas no site, o que não acontece no caso do OnlineJudge que tambem utiliza outras fontes como Helvetica, Arial, sans-serif, todos os textos são legiveis
+A fonte predominante no OnlineJudge é a Verdana,  muitos editores de sites desaconselham seu uso, pois o tamanho da fonte pode não se alinhar bem com outras fontes usadas no site, o que não acontece no caso do OnlineJudge que tambem utiliza outras fontes como Helvetica, Arial, sans-serif, todos os textos são legiveis, sugerimos a utilização da Helvetica, por sua simplicidade, clareza e legibilidade, o que a torna uma escolha popular para uma variedade de aplicações, incluindo impressão, design de logotipos, design de embalagens e web design.
 
 <center>Figura 5: exemplo de diferentes fontes</center>
 <center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
