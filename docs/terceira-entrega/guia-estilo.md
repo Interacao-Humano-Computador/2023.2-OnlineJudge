@@ -147,6 +147,28 @@ O site possuí uma sidebar ao lado esquerdo onde se encontra a logo do OnlineJud
 #### 6.3 SEQUÊNCIA DE DIÁLOGOS
 
 ## 7. Proposta de Intervenção
+A proposta de intervenção é uma estratégia amplamente utilizada no campo do design e da engenharia de software para sugerir melhorias e mudanças em um sistema, site ou aplicativo com o objetivo de aprimorar a experiência do usuário. Nossa proposta de intervenção para o site do Online Judge visa tornar a plataforma mais acessível, intuitiva e eficiente, melhorando assim a experiência dos usuários que a utilizam.
+
+Nossa proposta de intervenção visa  melhorar a experiência geral dos usuários que utilizam o Online Judge, tornando-o mais amigável e eficiente, o que, por sua vez, promove a aprendizagem e o desenvolvimento de habilidades de programação de maneira mais eficaz. Essas melhorias têm o potencial de atrair um público mais amplo e diversificado, tornando a plataforma ainda mais valiosa para a comunidade de programadores.
+
+<figure markdown>
+    <p style="text-align: center">
+        Figura 9 - Proposta de intervenção.
+    </p>
+    <iframe 
+        style="border: 1px solid rgba(0, 0, 0, 0.1);" 
+        width="800" 
+        height="450" 
+        src="https://www.figma.com/file/NGcLbMFzbKyHIc4cHZB63M/IHC---Proposta-de-Interven%C3%A7%C3%A3o?type=design&node-id=0%3A1&mode=design&t=LCZfFO6VPyPqhbyt-1" 
+        allowfullscreen
+    >
+    </iframe>
+</figure>
+
+<b>Fonte:</b> 
+<a href="https://github.com/suzaneduarte">Suzane Duarte</a>, 
+<a href="https://github.com/PabloGJBS">Pablo Guilherme</a>, 
+<a href="https://github.com/henriqtorresl">Henrique Torres</a>
 
 ## Referências Bibliográficas
 
@@ -160,4 +182,4 @@ O site possuí uma sidebar ao lado esquerdo onde se encontra a logo do OnlineJud
 
 | Versão | Data       | Descrição                                         | Autor(es)                                        | Revisor(es)                                     |
 | ------ | ---------- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- |
-| 1.0    | 22/10/2023 | Criação da página e organização do guia de estilo | [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) | [Eric Camargo](https://github.com/Ericcs10) |
+| 1.0    | 22/10/2023 | Criação da página e organização do guia de estilo | [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress), [Eric Camargo](https://github.com/Ericcs10) |
