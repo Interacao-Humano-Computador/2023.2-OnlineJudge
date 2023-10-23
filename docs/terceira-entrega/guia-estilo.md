@@ -1,4 +1,4 @@
-# *Guia de Estilo*
+# _Guia de Estilo_
 
 ## 1. Introdução
 
@@ -46,51 +46,45 @@ A plataforma Online Judge é utilizada principalmente através de computadores. 
 
 O estilo de layout do Online Judge leva em consideração uma divisão em sessões, aos quais estão centralizados. A seguir, na Figura 1 é possível visualizar a disposição dos elementos da página principal do sistema.
 
-![](../assets/images/layout-onlinejudge.png)
-
 <center>Figura 1: Disposição dos elementos da página inicial</center>
+![](../assets/images/layout-onlinejudge.png)
 <center>(Fonte: <a href="https://github.com/suzaneduarte">Suzane Duarte</a>) </center>
 
 #### 3.2 JANELAS
 
 O site oferece inúmeras janelas de navegação ao usuário, porém, pode-se destacar as principais, como a página inicial, a página de submissão de problemas e também a página para procurar novos problemas. As páginas citadas podem ser visualizadas a seguir respectivamente na Figura 2, Figura 3 e Figura 4.
 
-![](../assets/images/judge1.png)
-
 <center>Figura 2: Janela inicial</center>
+![](../assets/images/judge1.png)
 <center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
-
-![](../assets/images/submeter-problema-site.png)
 
 <center>Figura 3: Janela de submissão de problemas</center>
+![](../assets/images/submeter-problema-site.png)
 <center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
 
-![](../assets/images/procurar-problema-site.png)
-
 <center>Figura 4: Janela para procurar problemas</center>
+![](../assets/images/procurar-problema-site.png)
 <center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
 
 #### 3.3 TIPOGRAFIA
 
-A fonte predominante no OnlineJudge é a Verdana. Muitos editores de sites desaconselham seu uso, pois o tamanho da fonte pode não se alinhar bem com outras fontes usadas no site, o que não acontece no caso do OnlineJudge que também utiliza outras fontes como Helvetica, Arial, sans-serif. Sendo assim, sugerimos a utilização da Helvetica, por sua simplicidade, clareza e legibilidade, o que a torna uma escolha popular para uma variedade de aplicações, incluindo impressão, design de logotipos, design de embalagens e web design.
-
-<center> ![](../assets/images/exemplo-de-fontes.png) </center>
+A fonte predominante no OnlineJudge é a Verdana. No entanto, muitos editores de sites desaconselham seu uso pois o tamanho da fonte pode não se alinhar bem com outras fontes usadas no site, o que ocorre de fato acontece no caso do OnlineJudge que também utiliza outras fontes como Helvetica, Arial, Sans-Serif. Dessa forma, sugerimos a utilização da Helvetica, por sua simplicidade, clareza e legibilidade, o que a torna uma escolha popular para uma variedade de aplicações, incluindo impressão, design de logotipos, design de embalagens e web design.
 
 <center>Figura 5: exemplo de diferentes fontes</center>
+<center> ![](../assets/images/exemplo-de-fontes.png) </center>
 <center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
 
 #### 3.4 CORES
 
- O logo do site está em #0055FE, entre os topicos o site possuí diferenças de cores entre os titulos e subtitulos, Os titulos na cor #000066 e subtitulos são na cor #660000, a maioria dos hyperlinks estão em #990000 e a parte de fundo #D3D3D3
+O logo do site está em #0055FE. Já entre os tópicos o site possui diferenças de cores entre os títulos e subtítulos, entre os títulos há a predominância da cor #000066 e nos subtítulos a cor #660000. Por fim, a maioria dos hyperlinks estão em #990000, e a parte de fundo #D3D3D3.
 
+<center>Figura 6: Exemplo de cores</center>
 <center> ![](../assets/images/exemplo-de-cores.png) </center>
-
-<center>Figura 6: exemplo de cores</center>
 <center>(Fonte: <a href="https://github.com/Ericcs10"> Eric Camargo</a>)</center>
 
 #### 3.5 ANIMAÇÕES
 
-O site não possui nenhum elemento que possuí animação
+O site não possui nenhum elemento que possui animação.
 
 ## 4. Elementos de interação
 
@@ -104,22 +98,21 @@ O estilo escolhido foi planejado com o objetivo de tornar a interface do sistema
 
 #### 4.3 ACELERADORES (teclas de atalho)
 
-O site apresenta duas colunas com a presença de atalhos, a primeira coluna "Main Menu" possui três botões, sendo eles : "Home" que direciona a pagina inicial, "Contact Us" que leva a tela de contato com colaboradores, e "ICPC Live Archive" que não funciona como atalho e sim como hyperlink. A outra coluna posicionada logo abaixo da "Home" é a "Online Judge" que possui os botões para os principais caminhos do sistema, porem apenas alguns funcionam como atalhos, outros são hyperlinks, os de atalho são: "Browse problems" que serve para ir para a tela de pesquisar por questões. "Problemsetter's Credits" que é para vizualizar os criadores das questões. "Site Statistics" esse atalho abre um outro menu de atalhos logo abaixo o botão principal, todos eles levam a dados do site relacionados as questões e seus autores. "Contests" esse atalho tambem disponibiliza um novo menu abaixo da tecla, todas as opções são relacionadas as questões submetidas pelo usuário. "Eletronic Board" essa tecla apresentou "ERROR 502 Bad Gateway" e não foi possivel visualizar seu destino. "Additional Information" Abre um menu onde pelas opções é possivel visualizar a legenda dos codigos que o sistema retorna para o usuario após a submissão de questões, e especificações de submissão. O site não deixa claro a diferença entre o que são hyperlinks e o que são atalhos.
-
-<center> ![](../assets/images/exemplo-de-atalho.png) </center>
+O site apresenta duas colunas com a presença de atalhos, a primeira coluna "Main Menu" possui três botões, sendo eles: "Home" que direciona a pagina inicial, "Contact Us" que leva a tela de contato com colaboradores, e "ICPC Live Archive" que não funciona como atalho e sim como hyperlink. A outra coluna posicionada logo abaixo da "Home" é a "Online Judge" que possui os botões para os principais caminhos do sistema, porem apenas alguns funcionam como atalhos, outros são hyperlinks, os de atalho são: "Browse problems" que serve para ir para a tela de pesquisar por questões. "Problemsetter's Credits" que é para vizualizar os criadores das questões. "Site Statistics" esse atalho abre um outro menu de atalhos logo abaixo o botão principal, todos eles levam a dados do site relacionados as questões e seus autores. "Contests" esse atalho tambem disponibiliza um novo menu abaixo da tecla, todas as opções são relacionadas as questões submetidas pelo usuário. "Eletronic Board" essa tecla apresentou "ERROR 502 Bad Gateway" e não foi possivel visualizar seu destino. "Additional Information" Abre um menu onde pelas opções é possivel visualizar a legenda dos codigos que o sistema retorna para o usuario após a submissão de questões, e especificações de submissão. O site não deixa claro a diferença entre o que são hyperlinks e o que são atalhos.
 
 <center>Figura 7: exemplo de atalho</center>
+<center> ![](../assets/images/exemplo-de-atalho.png) </center>
 <center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>)</center>
 
-## 5. Elementos de ação 
+## 5. Elementos de ação
 
 #### 5.1 PREENCHIMENTO DE CAMPOS
 
-Os campos presentes no sistema são preencidos manualmente pelo usuário, não possuí nenhum tipo de preenchimento automatico, "Login", "Senha" e "Enter your message" são exemplos de campos preenchidos por digitação manual
+Os campos presentes no sistema são preencidos manualmente pelo usuário, não possuí nenhum tipo de preenchimento automatico, "Login", "Senha" e "Enter your message" são exemplos de campos preenchidos por digitação manual.
 
 #### 5.2 SELEÇÃO
 
-O site possuí alguns elementos de seleção alguns exemplos são, Problemas: Você pode selecionar problemas específicos para resolver a partir de uma lista de problemas disponíveis.Envio de Soluções: Após escolher um problema, você pode enviar uma solução para ele. Isso envolve selecionar a linguagem de programação que você deseja usar para sua solução. Status: Você pode verificar o status de suas submissões, como se sua solução foi aceita ou não, ou se houve algum erro. Ranqueamento: O site geralmente fornece informações sobre a classificação dos usuários com base no número de problemas resolvidos e outros critérios. Procurar Problemas: Há uma opção de pesquisa que permite procurar problemas com base em palavras-chave ou outros critérios. Perfil de Usuário: Você pode acessar seu perfil de usuário para ver estatísticas, conquistas e outras informações relacionadas às suas atividades no site. Fórum: O site pode incluir um fórum onde os usuários podem discutir problemas, compartilhar dicas e tirar dúvidas.
+O site possui alguns elementos de seleção alguns exemplos são, Problemas: Você pode selecionar problemas específicos para resolver a partir de uma lista de problemas disponíveis.Envio de Soluções: Após escolher um problema, você pode enviar uma solução para ele. Isso envolve selecionar a linguagem de programação que você deseja usar para sua solução. Status: Você pode verificar o status de suas submissões, como se sua solução foi aceita ou não, ou se houve algum erro. Ranqueamento: O site geralmente fornece informações sobre a classificação dos usuários com base no número de problemas resolvidos e outros critérios. Procurar Problemas: Há uma opção de pesquisa que permite procurar problemas com base em palavras-chave ou outros critérios. Perfil de Usuário: Você pode acessar seu perfil de usuário para ver estatísticas, conquistas e outras informações relacionadas às suas atividades no site. Fórum: O site pode incluir um fórum onde os usuários podem discutir problemas, compartilhar dicas e tirar dúvidas.
 
 #### 5.3 ATIVAÇÃO
 
@@ -129,21 +122,21 @@ Gerados por hyperlinks ou botões de ação.
 
 #### 6.1 TERMINOLOGIA
 
-As terminologias encontradas são padrões tendo como referência ambientes de programação competitiva, como por exemplo. "Submission", "Accepted", "Time Limit", "Memory Limit"
+As terminologias encontradas são padrões tendo como referência ambientes de programação competitiva, como por exemplo. "Submission", "Accepted", "Time Limit", "Memory Limit".
 
 #### 6.2 TIPOS DE TELA
 
-O site possuí uma sidebar ao lado esquerdo onde se encontra a logo do OnlineJudge, o espaço de login, as duas tabelas de atalho, "Main Menu" e "Online Judge" que sao fixas e aparecem em todas as telas, os tipos de tela variam de acordo com as ações que o usuário, a tela de inicio possui apenas links que direcionam para livros online, e uma breve descrição sobre o site e sobre progrmação competitiva, as demais tela se limitam as features de usuário, que possuem apenas a campos de preenchimento, e as de problemas e questões que em sua maioria apresentam tabelas com informações sobre os problemas.
-
-<center> ![](../assets/images/exemplo-de-telas.png) </center>
+O site possui uma sidebar ao lado esquerdo onde se encontra a logo do OnlineJudge, o espaço de login, as duas tabelas de atalho, "Main Menu" e "Online Judge" que sao fixas e aparecem em todas as telas. Os tipos de tela variam de acordo com as ações que o usuário, a tela de início possui apenas links que direcionam para livros online, e uma breve descrição sobre o site e sobre progrmação competitiva. Já as demais tela se limitam as features de usuário, que possuem apenas a campos de preenchimento, e as de problemas e questões que em sua maioria apresentam tabelas com informações sobre os problemas.
 
 <center>Figura 8: exemplo de telas</center>
+<center> ![](../assets/images/exemplo-de-telas.png) </center>
 <center>(Fonte: <a href="https://onlinejudge.org/">Online Judge, 2023</a>) </center>
 
 ## 7. Proposta de Intervenção
+
 A proposta de intervenção é uma estratégia amplamente utilizada no campo do design e da engenharia de software para sugerir melhorias e mudanças em um sistema, site ou aplicativo com o objetivo de aprimorar a experiência do usuário. Nossa proposta de intervenção para o site do Online Judge visa tornar a plataforma mais acessível, intuitiva e eficiente, melhorando assim a experiência dos usuários que a utilizam.
 
-Nossa proposta de intervenção visa  melhorar a experiência geral dos usuários que utilizam o Online Judge, tornando-o mais amigável e eficiente, o que, por sua vez, promove a aprendizagem e o desenvolvimento de habilidades de programação de maneira mais eficaz. Essas melhorias têm o potencial de atrair um público mais amplo e diversificado, tornando a plataforma ainda mais valiosa para a comunidade de programadores.
+Nossa proposta de intervenção visa melhorar a experiência geral dos usuários que utilizam o Online Judge, tornando-o mais amigável e eficiente, o que, por sua vez, promove a aprendizagem e o desenvolvimento de habilidades de programação de maneira mais eficaz. Essas melhorias têm o potencial de atrair um público mais amplo e diversificado, tornando a plataforma ainda mais valiosa para a comunidade de programadores.
 
 <figure markdown>
     <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FNGcLbMFzbKyHIc4cHZB63M%2FIHC---Proposta-de-Interven%25C3%25A7%25C3%25A3o%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DLCZfFO6VPyPqhbyt-1" allowfullscreen></iframe>
@@ -166,8 +159,8 @@ Nossa proposta de intervenção visa  melhorar a experiência geral dos usuário
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                         | Autor(es)                                        | Revisor(es)                                     |
-| ------ | ---------- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- |
-| 1.0    | 22/10/2023 | Criação da página e organização do guia de estilo | [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress), [Eric Camargo](https://github.com/Ericcs10) |
-| 1.1    | 22/10/2023 | Continuidade da página do guia de estilo | [Eric Camargo](https://github.com/Ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) |
-| 1.2    | 22/10/2023 | Criação do figma e adição do tópico de Proposta de intervenção | [Henrique Torres](https://github.com/henriqtorresl), [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)  | [Eric Camargo](https://github.com/Ericcs10) |
+| Versão | Data       | Descrição                                                      | Autor(es)                                                                                                                                              | Revisor(es)                                                                                  |
+| ------ | ---------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| 1.0    | 22/10/2023 | Criação da página e organização do guia de estilo              | [Suzane Duarte](https://github.com/suzaneduarte)                                                                                                       | [Luana Torres](https://github.com/luanatorress), [Eric Camargo](https://github.com/Ericcs10) |
+| 1.1    | 22/10/2023 | Continuidade da página do guia de estilo                       | [Eric Camargo](https://github.com/Ericcs10)                                                                                                            | [Henrique Torres](https://github.com/henriqtorresl)                                          |
+| 1.2    | 22/10/2023 | Criação do figma e adição do tópico de Proposta de intervenção | [Henrique Torres](https://github.com/henriqtorresl), [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS) | [Eric Camargo](https://github.com/Ericcs10)                                                  |
