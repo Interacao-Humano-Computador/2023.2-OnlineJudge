@@ -4,6 +4,10 @@
 
 Personas são personagens ficticios utilizadas para representar a maneira como um usuário irá interagir com o sistema. Neste projeto as personas utilizaram o sistema Online Judge para realizar suas tarefas.
 
+## Metodologia
+
+As personas foram criadas a partir do perfil de usuário especificado com pesquisas e entrevista, serão 3 personas sendo duas primárias e uma secundária, todas as personas tem um envolvimento com a área de tecnologia e informação devido ao perfil de usuário, escolhemos a quantidade de 3 personas de acordo com Cooper e Baxter que recomendam uma faixa de 3 a 12 personas além do fato de facilitar a memorização por ser um número pequeno de personas.
+
 ## Elenco
 
 A seguir estaram dispostas as fotos das personas e suas caracteristicas nas figuras 1 a 3 e nas tabelas de 1 a 3.
@@ -68,13 +72,17 @@ A seguir estaram dispostas as fotos das personas e suas caracteristicas nas figu
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> Courage, C. & Baxter, K. Understanding your users: a practical guide to user requirements, methods, tools, and techniques. San Francisco, CA: Morgan KaufmannPublishers, 2005.
 
 ## Histórico de versão
 
 | Versão |    Data    |           Descrição           |                                             Responsáveis                                             |                     Revisor                      |
 | :----: | :--------: | :---------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 16/10/2023 | Criação da página de personas | [Henrique Torres](https://github.com/henriqtorresl), [Pablo Guilherme](https://github.com/PabloGJBS) | [Suzane Duarte](https://github.com/suzaneduarte) |
-|  1.1   | 16/10/2023 | Correções de forma | [Kallyne Macedo](https://github.com/kalipassos), | [Pablo Guilherme](https://github.com/PabloGJBS) |
+|  1.1   | 16/10/2023 | Correções de forma | [Kallyne Macedo](https://github.com/kalipassos) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+|  1.2   | 23/10/2023 | Correções de forma |  [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
+
+## Imagens
 
 [<sup>1</sup>](#imagem1) Imagem gerada através da aplicação This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/pt](https://this-person-does-not-exist.com/pt). 16 de outubro de 2023.
 

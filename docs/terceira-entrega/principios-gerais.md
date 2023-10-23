@@ -24,6 +24,7 @@ Corresponder às expectativas do usuário, para Norman <a id="anchor_4" href="#R
 A plataforma OnlineJudge falha em exibir os critérios de correspondência com as expectativas do usuário. Por exemplo, ao longo do site, botões de envio de informação, embora funcionais, aparecem em tom de cinza apagado e não demonstram ser clicáveis, o que induz o usuário a entender que o botão está desativado, como visto na figura abaixo:
 
 <center>Figura 1: Botões search, update e cancel apagados.<br>
+
 ![1698029472390](../assets/images/1698029472390.png)<br>
 Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
 
@@ -43,6 +44,7 @@ Esse princípio recomenda a simplificação de tarefas complexas de forma a mini
 No site OnlineJudge, o princípio da simplicidade é atingido parcialmente no menu lateral esquerdo, no qual são notadas abas que redirecionam a páginas centrais da plataforma. Entretanto, na aba "Contests", por exemplo, o clique direciona o usuário a uma página explicativa que não apresenta atalhos para os subtópicos relacionados; estes aparecem como novidade no menu lateral.
 
 <center>Figura 2 - Página Contest<br>
+
 ![1698030174639](../assets/images/1698030174639.png)<br>
 Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
 
@@ -57,6 +59,7 @@ O usuário deve sempre estar no controle do sistema para que possa aprender rapi
 O usuário tem tanto o controle como a liberdade limitados na plataforma. O módulo de acesso rápido e informações está quebrado, enquanto os menus de visualização dos desafios ("contests") apresentam pouca ou nenhuma ferramenta de busca ou filtragem.
 
 <center>Figura 3 - Página Past Contests<br>
+
 ![1698030970404](../assets/images/1698030970404.png)<br>
 Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
 
@@ -72,6 +75,7 @@ Há, na página de edição de perfil, uma discrepância com o botão de editar 
 No geral, o layout do OnlineJudge se mostra coerente e padronizado.
 
 <center>Figura 4 - Botão search e edit<br>
+
 ![1698031576568](../assets/images/1698031576568.png)<br>
 Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
 
@@ -82,11 +86,31 @@ Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=
 
 Quando o usuário for utilizar o sistema, ele deve ter todas as informações necessárias para realizar sua tarefa no momento sem que tenha a necessidade de pedir ao sistema informações. A partir disso, o sistema deve também antecipar as situações com maior probabilidade de ocorrerem para aumentar, por fim, a responsividade do sistema.
 
+#### Aplicação
+
+No Online Judge o usuário ao criar uma conta é exposto a diversos campos para a criação da conta, porém grande parte dos campos tem uma sinalização de obrigatoriedade confusa e também existem campos como o campo Former UVa ID com uma descrição precária
+
+<center>Figura 5 - Aba de cadastro<br>
+
+![Tela Cadastro](../assets/images/tela-cadastro.png)
+
+Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
+
 ## Visibilidade e reconhecimento
 
 #### Definição
 
 Antes do usuário realizar uma ação no sistema ele deve ter a visão prévia de como esta ação pode ser realizada a partir de possiveis dicas e informações sobre sua tarefa, sendo assim o sistema deve apresentar informações utéis para o usuário no momento em que ele for realizar sua tarefa facilitando a utilização do sistema e reduzindo o tempo necessário para a tarefa.
+
+#### Aplicação
+
+No online Judge o usuário logo de início é bombardeado com informações em excesso dispostas de uma maneira que gera uma poluição visual, a qual pode confundir o usuário como por exemplo a principal funcionalidade do site que deveria ser enviar códigos para o julgamento do site é apenas um texto pequeno como link no canto esquerdo da página principal.
+
+<center>Figura 6 - Página Home do Online Judge<br>
+
+![Home do Online Judge](../assets/images/home-online-judge.png)
+
+Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
 
 ## Conteúdo relevante e expressão adequada
 
@@ -99,11 +123,32 @@ Para este tópico, temos quatro máximas a serem seguidas <a id="anchor_6" href=
 - Máxima da relação ou relevância: tudo o que for comunicado deve ter relação explícita e relevante ao tópico em questão;
 - Máxima de modo ou clareza: as conversas devem ser precisas e sem excesso.
 
+#### Aplicação
+
+Como no tópico anterior o Online Judge apresenta logo no início em sua página principal um execesso de informações quebrando a maxima de quantidade, relevância e clareza. A máxima de qualidade é respeitada uma vez que não existem informações falsas, ja as outras são quebradas graças a quantidade de informações, a falta de relevância na maioria e a clareza do hambiente.
+
+<center>Figura 6 - Página Home do Online Judge<br>
+
+![Home do Online Judge](../assets/images/home-online-judge.png)
+
+Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
+
+
 ## Projeto para erros
 
 #### Definição
 
 Neste tópico é necessário considerar que tanto o sistema quanto quem o utiliza pode cometer algum erro duranta a execução de alguma tarefa, sendo assim o sistema deve ter medidas para premeditar erros que podem ocorrer e caso o erro ocorra o sistema deve informar ao usuário o que ocorreu e se possivel a reversão do erro o sistema deve dar as informações corretas para o usuário reverter o erro. Além disto caso o sistema possua a possibilidade de ações irreversíveis estas devem necessitar de uma confirmação persistente do usuário.
+
+#### Aplicação
+
+Dentro do Online Judge as funcionalidades de envio de questões funcionam corretamente, porém o hambiente possui alguns erros como instabilidade do sistema, links quebrados, páginas vazias e alguns erros na apresentação de dados.
+
+<center>Figura 7 - Apresentação dos Patreons<br>
+
+![Aba dos Patreons](../assets/images/erro-de-apresentacao.png)
+
+Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
 
 ## Referências bibliográficas
 
@@ -119,3 +164,4 @@ Neste tópico é necessário considerar que tanto o sistema quanto quem o utiliz
 | ------ | ---------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | 1.0  | 21/10/2023 | Criação da página da página princípios gerais | [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.1  | 22/10/2023 | Princípios de correspondência, simplicidade, equilíbrio e consistência; Ajustes gerais  | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino) |
+| 1.2  | 23/10/2023 | Princípios de Antecipação, Visibilidade, Conteudo e Projeto para erros  | [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos)|

@@ -16,7 +16,7 @@ A abordagem GOMS é recomendada a utilização do modelo GOMS para:
 
 ## Motivo da escolha
 
-Decidimos pelo modelo GOMS pelo fato dele proporcionar a análise especifica da ação do usuário em determinada tarefa no site, proporcionando uma melhor visão do caminho que o usuário pode seguir para realizar a sua tarefa bem como os erros ou dificuldades que podem dificultar a realização da tarefa.
+Decidimos pelo modelo CNM-GOMS pelo fato dele proporcionar a análise especifica da ação do usuário em determinada tarefa no site, proporcionando uma melhor visão do caminho que o usuário pode seguir para realizar a sua tarefa bem como os erros ou dificuldades que podem dificultar a realização da tarefa.
 
 ## Análise de tarefas
 
@@ -281,6 +281,8 @@ Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
 ## Bibliografia
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 2. Princípios Geral Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>.
+
 
 ## Histórico de versão
 
@@ -292,3 +294,4 @@ Nesta tarefa o objetivo do usuário é alterar as informações de sua conta
 |  1.3   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.4   | 16/10/2023 | Adicionando análise de tarefa acessar Contest System | [Pablo Guilherme](https://github.com/PabloGJBS), [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.5   | 16/10/2023 | Adicionando análise tarefa Recuperação de login (Forgot login?) | [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.6   | 23/10/2023 | Correções textuais | [Pablo Guilherme](https://github.com/PabloGJBS) | [Suzane Duarte](https://github.com/suzaneduarte) |
