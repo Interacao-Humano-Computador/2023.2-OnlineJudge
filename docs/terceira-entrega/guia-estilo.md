@@ -169,3 +169,5 @@ Nossa proposta de intervenção visa  melhorar a experiência geral dos usuário
 | Versão | Data       | Descrição                                         | Autor(es)                                        | Revisor(es)                                     |
 | ------ | ---------- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- |
 | 1.0    | 22/10/2023 | Criação da página e organização do guia de estilo | [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress), [Eric Camargo](https://github.com/Ericcs10) |
+| 1.1    | 22/10/2023 | Continuidade da página do guia de estilo | [Eric Camargo](https://github.com/Ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) |
+| 1.2    | 22/10/2023 | Criação do figma e adição do tópico de Proposta de intervenção | [Henrique Torres](https://github.com/henriqtorresl), [Suzane Duarte](https://github.com/suzaneduarte), [Pablo Guilherme](https://github.com/PabloGJBS)  | [Eric Camargo](https://github.com/Ericcs10) |
