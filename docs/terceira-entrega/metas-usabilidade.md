@@ -23,10 +23,16 @@ Metas de usabilidade definem quais são os fatores de qualidade de uso que preci
 Para definir as metas de usabilidade que se deseja alcançar no projeto, foram discutidas as seguintes questões em cada meta:
 
 * **Eficácia:** O sistema Online Judge é capaz de permitir que o usuário aprenda de forma eficiente, acesse as informações que necessita e compreenda o produto que deseja?<br>
-**Não, porque a plataforma é confusa e pode acarretar na desistência do usuário antes de terminar uma tarefa.**
+**Não, porque a plataforma é possui muita informação externa (Figura 1), o que pode acarretar na desistência do usuário antes de terminar uma tarefa.**
 
 * **Eficiência:** Se o usuário tiver apreendido como utilizar o sistema para realizar suas tarefas, ele conseguirá manter um alto nível de produtividade?<br>
-**Não, pois apesar de possuir poucas funcionalidades e ser de fácil uso, o excesso de informações, como propagandas e pop-ups desnecessários, não incentiva o usuário a continuar usando a plataforma.**
+**Não, pois apesar de possuir poucas funcionalidades e ser de fácil uso, o excesso de informações (Figura 1), como propagandas e pop-ups desnecessários, não incentiva o usuário a continuar usando a plataforma.**
+
+<center>Figura 1 - Página inicial do site Onliine Judge<br>
+
+![Home do Online Judge](../assets/images/judge1.png)
+
+Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
 
 * **Segurança:** O sistema previne o usuário de cometer erros graves? O sistema permite ao usuário reverter ações indesejadas? Há opções de confirmação para evitar que o usuário faça alguma ação ou alteração por engano?<br>
 **Sim, um exemplo disto é a área do "Logout" que avisa ao usuário que ele está saindo da área privada do site.**
@@ -35,7 +41,13 @@ Para definir as metas de usabilidade que se deseja alcançar no projeto, foram d
 **Sim, um exemplo disto é a submissão de problemas. O site fornece um PDF com a descrição da questão, assim como a possibilidade de escolher qual linguagem o usuário deseja usar e fazer a submissão seja colando o código ou enviando o arquivo.**
 
 * **Capacidade de Aprendizagem:** Quão fácil é para iniciar o uso das tarefas fundamentais do sistema? Quão fácil é aprender o conjunto de operações necessárias para realizar um conjunto amplo de tarefas?
-**Incialmente o site aparenta ser complexo pelo design da interface, o que confunde o usuário inexperiente na execução de um tarefa.**
+**Incialmente o site aparenta ser complexo pelo design da interface, o que confunde o usuário inexperiente na execução de um tarefa, como é possível observar na tela de registro(Figura 2).**
+
+<center>Figura 2 - Tela de registro do site Online Judge<br>
+
+![Home do Online Judge](../assets/images/judge4.png)
+
+Fonte: <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3&task=userDetails">OnlineJudge</a>, 2023. </center>
 
 * **Capacidade de Memorização:** O sistema Online Judge fornece suporte de interface para auxiliar os usuários a lembrarem como realizar uma tarefa?
 **Sim, as funcionalidades do sistema são simples e são dispostas de forma lógica.**

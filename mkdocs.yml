@@ -11,7 +11,7 @@ nav:
       - Terceira Entrega:
           - Ata Quarta Reunião: atas/terceira-entrega/reuniao-4.md
 
-  - Primeira Entrega:
+  - Planejamento:
       - Apresentação: primeira-entrega/apresentacao.md
       - Equipe: primeira-entrega/equipe.md
       - Sites Avaliados: primeira-entrega/sites-avaliados.md
@@ -20,7 +20,7 @@ nav:
       - Ferramentas do Projeto: primeira-entrega/ferramentas.md
       - Processo de Design: primeira-entrega/processo-design.md
       - Cronograma das Atividades: primeira-entrega/cronograma-atividades.md
-  - Segunda Entrega:
+  - Análise de Requisitos I:
       - Apresentação: segunda-entrega/apresentacao.md
       - Análise de Tarefas:
           - Análise Hierárquica de Tarefas (HTA): segunda-entrega/analise-tarefas/HTA.md
@@ -29,7 +29,7 @@ nav:
       - Perfil de Usuário: segunda-entrega/perfil-usuario.md
       - Personas: segunda-entrega/personas.md
       - Cenários: segunda-entrega/cenarios.md
-  - Terceira Entrega:
+  - Análise de Requisitos II:
       - Apresentação: terceira-entrega/apresentacao.md
       - Metas de Usabilidade: terceira-entrega/metas-usabilidade.md
       - Características da Plataforma: terceira-entrega/caracteristicas-plataforma.md

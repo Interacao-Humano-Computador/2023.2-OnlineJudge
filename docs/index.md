@@ -1,4 +1,4 @@
-# **Sobre**
+# **Home**
 
 ![](assets/images/onlinejudge-logo.png)
 
