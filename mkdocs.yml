@@ -35,6 +35,9 @@ nav:
       - Características da Plataforma: terceira-entrega/caracteristicas-plataforma.md
       - Princípios Gerais do Projeto: terceira-entrega/principios-gerais.md
       - Guia de Estilo: terceira-entrega/guia-estilo.md
+  - Quarta entrega:
+      - Planejamento da Avaliação da Análise de tarefas: quarta-entrega/planejamento-avaliacao-tarefas.md
+  
 
 theme:
   name: material
