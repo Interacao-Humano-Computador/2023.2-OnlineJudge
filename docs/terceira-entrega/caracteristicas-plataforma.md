@@ -8,7 +8,7 @@ Segundo o Ciclo de Vida Mayhew, a primeira etapa do ciclo de desenvolvimento eng
 
 O Online Judge é uma plataforma web que permite ao usuário praticar programação, atráves da realização de exercícios em diferentes graus de dificuldade. O site ainda permite a submissão de códigos em diferentes linguagens de programação e promove diversas competições, permitindo que as habilidades do usuário possam ser testadas.
 
-O site Online Judge pode ser acessado em qualquer navegador de internet, como o Google Chrome, O Microsoft Edge, o Opera, entre outros, contato que o dispositivo utilizado tenha acesso à internet. Além disso, o usuário consegue acessar o site pelo smartphone e, nesse caso, é possível perceber que o site possui um design responsivo para diferentes tamanhos de telas. No entanto, não é possível submeter códigos pelo celular, já que eles precisam ser compilados antes de serem submetidos.
+O site Online Judge pode ser acessado em qualquer navegador de internet, como o Google Chrome, o Microsoft Edge, o Opera, entre outros, contato que o dispositivo utilizado tenha acesso à internet. Além disso, o usuário consegue acessar o site pelo smartphone e, nesse caso, é possível perceber que o site possui um design responsivo para diferentes tamanhos de telas. No entanto, não é possível submeter códigos pelo celular, já que eles precisam ser compilados antes de serem submetidos.
 
 ## Possibilidades da Plataforma
 
