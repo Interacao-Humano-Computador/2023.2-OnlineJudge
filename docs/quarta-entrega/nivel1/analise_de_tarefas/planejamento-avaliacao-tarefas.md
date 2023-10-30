@@ -13,7 +13,7 @@ em questão. Assim, foi descrita a definição de cada etapa e sua aplicação n
 <center><b>Tabela 1:</b> Definição do DECIDE
 
 |Letra|<center>Descrição|
-|---|---|
+|---  |     ---         |
 |D|Determinar os objetivos da avaliação.|
 |E|Explorar perguntas a serem respondidas com a avaliação.|
 |C|Escolher os métodos de avaliação a serem utilizados.|
@@ -26,16 +26,50 @@ Fonte: Preece, Rogers e Sharp, 2013 <a id="anchor_2" href="#REF2">[2]</a>.
 
 ## D - Determinar os objetivos da avaliação
 
-O objetivo da avaliação é encontrar, através do registro de suas percepções acerca da plataforma e das tarefas analisadas, pontos de interação que afetam negativamente a experiência do usuário ao navegar no site, buscando, também, validar se os fluxos levantados na Análise de Tarefas estão de acordo com os padrões e com o que o usuário realiza efetivamente. Assim, a avaliação ocorre no âmbito dos tópicos:
+O objetivo da avaliação é encontrar, através do registro de suas percepções acerca da plataforma e das tarefas analisadas, pontos de interação que afetam negativamente a experiência do usuário ao navegar no site, buscando, também, validar se os fluxos levantados na Análise de Tarefas estão de acordo com os padrões com o que o usuário realiza efetivamente e, por fim, se o usuário pode mapear soluções e ideias de design de forma a sanar pontos de insatisfação e inconformidade. Assim, a avaliação ocorre no âmbito dos tópicos:
+
 > 1. Verificar a conformidade com um padrão;
-> 2. Problemas na interação e na interface na fase do modelo conceitual.
+> 2. Problemas na interação e na interface na fase do modelo conceitual;
+> 3. Comparar ideias e alternativas de design.
+
 
 
 ## E - Explorar perguntas a serem respondidas com a avaliação
 
+A partir do apresentado por Barbosa e Silva [1] no capítulo 11 como perguntas indicadas para a avaliação da Interação Humano-Computador em decorrência dos objetivos a serem alcançados, foram definidas como questões a serem respondidas com a avaliação:
+<br>
+<center><b>Tabela 2:</b> Questões a serem respondidas com a avaliação<br>
 
+| Questões | Tipo da Resposta | Observações |
+|---|---|---|
+| 1 – Qual é o seu nome? | Resposta Discursiva |  |
+| 2 – Qual é a sua idade? | Resposta Discursiva |  |
+| 3 – Qual sua escolaridade atual? | Resposta Fechada<br><br>[] Ensino Médio<br><br>[] Ensino Superior<br><br>[] Pós-graduação |  |
+| 4 – Qual seu grau de experiência com tecnologia? | Resposta Discursiva |  |
+| 5 – Que experiência tem com sites de júri online? | Resposta Fechada<br>[] Nenhuma !<br><br>[] Uso ou já usei para fins acadêmicos<br><br>[] Uso ou já usei para fins pessoais | ! Pular para questão 8 |
+| 6 – Você já usou o OnlineJudge? | Resposta Fechada<br><br>[] Sim<br><br>[] Não |  |
+| 7 – Qual dos sites de júri online você mais gostou e por quê?  | Resposta Discursiva |  |
+| 8 – Como você realizaria a tarefa de Contact Us (Nos contate)? | Resposta Discursiva | Fornecer login que o usuário possa utilizar<br><br>Explicar o funcionamento e propósito da tarefa |
+| 9 – Como você realizaria a tarefa de Forgot login? (Recuperação de Senha)? | Resposta Discursiva | Fornecer login que o usuário possa utilizar<br><br>Explicar o funcionamento e propósito da tarefa |
+| 10 – Como você realizaria a tarefa de Editar conta? | Resposta Discursiva | Fornecer login que o usuário possa utilizar<br><br>Explicar o funcionamento e propósito da tarefa |
+| 11 - Como você realizaria a tarefa de Procurar um problema? | Resposta Discursiva | Fornecer login que o usuário possa utilizar<br><br>Explicar o funcionamento e propósito da tarefa |
+| 12 - Como você realizaria a tarefa de Acessar o Contest System? | Resposta Discursiva | Fornecer login que o usuário possa utilizar<br><br>Explicar o funcionamento e propósito da tarefa |
+| 13 - Como você realizaria a tarefa de Visualizar as minhas submissões? | Resposta Discursiva | Fornecer login que o usuário possa utilizar<br><br>Explicar o funcionamento e propósito da tarefa |
+| 14 - Como você realizaria a tarefa de Submeter um problema? | Resposta Discursiva | Fornecer login que o usuário possa utilizar<br><br>Explicar o funcionamento e propósito da tarefa |
+| 15 – Você saiu do fluxo proposto em alguma tarefa? | Resposta de múltipla escolha<br><br>[] Nenhuma !<br><br>[] Contact Us<br><br>[] Forgot Login<br><br>[] Editar Conta<br><br>[] Procurar um problema<br><br>[] Acessar o Contest System<br><br>[] Visualizar minhas submissões<br><br>[] Submeter um problema | ! Pular para a questão 17 |
+| 16 - O que foi feito de diferente? | Resposta Discursiva |  |
+| 17 – Você sugere alguma alteração ou melhoria no diagrama do fluxo? | Resposta Discursiva | Mostrar fluxos de Análise de Tarefas para o usuário |
+| 18 - Você se sentiu incomodado com a realização de alguma tarefa? | Resposta Fechada<br><br>[] Sim<br><br>[] Não ! | ! Pular para a questão 20 |
+| 19 – Por quê? | Resposta Discursiva |  |
+| 20 – No geral, como você classifica a navegabilidade do site? | Resposta Fechada<br>[] Excelente<br><br>[] Boa<br><br>[] Regular<br><br>[] Ruim<br><br>[] Péssima |  |
+| 21 - O que você mudaria na interface de forma a melhorar a realização das tarefas? | Resposta Discursiva |  |
+
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos)</center>
 
 ## C - Escolher os métodos de avaliação a serem utilizados
+
+O método escolhido para a avaliação foi o método da entrevista. Essa escolha é justificada pela oportunidade que concede ao avaliador de analisar o que o usuário espera do sistema e o seu comportamento usual de navegação na plataforma. Foram definidas em sua maioria perguntas abertas para destacar particularidades e exceções, embora perguntas fechadas também foram propostas de forma a padronizar os dados e fornecer insumos significativos para sua interpretação. 
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
@@ -105,4 +139,5 @@ Esta etapa tem como objetivo avaliar o planejamento proposto e analisar se a ava
 | ------ | ---------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
 | 1.0  | 29/10/2023 | Criação da página  | [Kallyne Macedo](https://github.com/kalipassos) | [Luana Torres](https://github.com/luanatorress)
 | 1.0  | 29/10/2023 | Continuação do Framework  | [Luana Torres](https://github.com/luanatorres) | [Kallyne Macedo](https://github.com/kalipassos)
+| 1.0  | 29/10/2023 | Etapa de explorar perguntas e escolher método  | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino)
 
