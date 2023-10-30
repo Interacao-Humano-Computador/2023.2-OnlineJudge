@@ -72,6 +72,10 @@ Além disso, como entrevistadores, temos a responsabilidade de propor soluções
 
 O entrevistador deve documentar de forma completa e precisa o feedback fornecido pelos usuários, levando em consideração suas percepções, experiências e necessidades. Essas informações são de grande valor, pois nos ajudam a compreender as expectativas dos usuários, a identificar os pontos fortes e fracos do sistema e a obter insights valiosos sobre possíveis melhorias. O feedback dos usuários é uma fonte fundamental para aprimorar o sistema e garantir que atenda às necessidades e preferências dos usuários de forma eficaz.
 
+### Planejamento de Reprojeto
+
+O planejamento de reprojeto tem como propósito da atividade validar o artefato com a ajuda de um usuário real, considerando as mudanças sugeridas e outros problemas encontrados na análise. O reprojeto deve manter a base original, fazendo apenas as alterações necessárias. Um cronograma de reprojeto é planejado para 1 dia após a entrevista, com flexibilidade no horário.
+
 **Tabela 2** - Cronograma de Reprojeto.
 
 | Executor(a) do Reprojeto | Horário de Início | Horário de Fim |    Data    |    Local     |
