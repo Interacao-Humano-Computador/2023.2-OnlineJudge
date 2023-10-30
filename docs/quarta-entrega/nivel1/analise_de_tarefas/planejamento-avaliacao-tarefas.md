@@ -138,6 +138,6 @@ Esta etapa tem como objetivo avaliar o planejamento proposto e analisar se a ava
 | Versão | Data       | Descrição                                                      | Autor(es)                                                                                                                                              | Revisor(es)                                                                                  |
 | ------ | ---------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
 | 1.0  | 29/10/2023 | Criação da página  | [Kallyne Macedo](https://github.com/kalipassos) | [Luana Torres](https://github.com/luanatorress)
-| 1.0  | 29/10/2023 | Continuação do Framework  | [Luana Torres](https://github.com/luanatorres) | [Kallyne Macedo](https://github.com/kalipassos)
-| 1.0  | 29/10/2023 | Etapa de explorar perguntas e escolher método  | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino)
+| 1.1  | 29/10/2023 | Continuação do Framework  | [Luana Torres](https://github.com/luanatorres) | [Kallyne Macedo](https://github.com/kalipassos)
+| 1.2  | 29/10/2023 | Etapa de explorar perguntas e escolher método  | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino)
 
