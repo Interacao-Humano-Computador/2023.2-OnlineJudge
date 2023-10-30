@@ -65,6 +65,12 @@ Na figura 6, apresenta-se um storyboard no qual o usuário deseja acessar o sist
 
 Na figura 7, apresenta-se um storyboard no qual o usuário deseja recuperar seu login no site.
 
+<center>Figura 7 - Storyboard acessar o "Forgot Login?" - Recuperação de login
+
+![](../../assets/images/storyboard-kallyne.png)
+
+<b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a> </a></center>
+
 ## Referências bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> Rousseau, D. H., & Phillips, B. R. (2013). Stoyboarding essentials. How to translate your stoy to the screen for film, TV, and other media. New York: Watson-Guptill Publishers.<br>
