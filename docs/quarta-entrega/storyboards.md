@@ -71,6 +71,16 @@ Na figura 7, apresenta-se um storyboard no qual o usuário deseja recuperar seu 
 
 <b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a> </a></center>
 
+### **Busca por uma página específica**
+
+Na figura 8, apresenta-se um storyboard onde o usuário navega pela aplicação na busca de uma página específica (página de contests) e acaba sendo direcionado para outras páginas
+
+<center>Figura 8 - Busca por uma página específica
+
+![](../../assets/images/storyboard_henrique.jpeg)
+
+<b>Fonte:</b> <a href="https://github.com/henriqtorresl">Henrique Torres</a> </a></center>
+
 ## Referências bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> Rousseau, D. H., & Phillips, B. R. (2013). Stoyboarding essentials. How to translate your stoy to the screen for film, TV, and other media. New York: Watson-Guptill Publishers.<br>
