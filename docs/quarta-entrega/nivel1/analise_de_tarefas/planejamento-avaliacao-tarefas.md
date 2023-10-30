@@ -89,22 +89,36 @@ Os prazos definidos estão demonstrados a seguir na tabela 2 contendo Entrevista
 
 <center>
 
-**Tabela 2** - Cronograma da entrevista.
+Para fins de documentação as entrevistas devem ser registradas em uma tabela contendo:
 
-| Entrevistador | Entrevistado|    Data    |    
-| :----------------: | :-------------: | :--------: | 
-|  [Luana Torres](https://github.com/luanatorress)  |   Aluno da FGA    |       16:40       |     16:45      | 03/11/2023 | 
-|  [Kallyne Macedo](https://github.com/kalipassos) |    Aluno da FGA     |       20:40       |     20:50      | 03/11/2023 | 
-|  [Suzane Duarte](https://github.com/suzaneduarte) |    Aluno da FGA      |       22:00       |     22:10      | 03/11/2023 | 
-|  [Pablo Guilherme](https://github.com/PabloGJBS) |   Aluno da FGA      |       22:00       |     22:50      | 03/11/2023 |
-|  [Ester Flores](https://github.com/esteerlino) |    Aluno da FGA    |       11:40       |     11:48      | 03/11/2023 |
-|  [Henrique Torres](https://github.com/henriqtorresl) |   Aluno da FGA    |       12:30       |     12:38      | 03/11/2023 |
-|  [Eric Camargo](https://github.com/ericcs10) |   Aluno da FGA    |       12:30       |     12:38      | 03/11/2023 |
+- Nome do entrevistador
+- Nome do entrevistado
+- Horário de inicio
+- Horário final
+- Data da entrevista
 
-<figcaption align="center">Autores: <a href="https://github.com/luanatorress">Luana Torres</a>.</figcaption><br>
+<center>
+
+**Tabela 2** - Cronograma Planejado.
+
+| Entrevistador | Entrevistado | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Eric Camargo](https://github.com/ericcs10) | Caio Vinícius | 11:00 | 11:10 | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Ester Lino](https://github.com/esteerlino) | Pedro Miguel | 10:10 | 10:20 | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Henrique Torres](https://github.com/henriqtorresl) | João Pedro | 09:30 | 10:00 | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Kallyne Macedo](https://github.com/kalipassos) | Leonardo Aguiar | 16:20 | 16:30 | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Luana Torres](https://github.com/luanatorress) | Ingrid Alves | 18:30 | 18:40 | 01/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Pablo Guilherme](https://github.com/PabloGJBS) | João Pedro Anacleto | 19:10 | 19:20 | 30/10/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Suzane Duarte](https://github.com/suzaneduarte) | Letícia Picanço  | 11:20 | 11:30 | 04/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+
+Fonte: [Luana Torres](https://github.com/luanatorress).
+
 </center>
 
-<a id="met2"></a>
+### Roteiro de perguntas
+
+Na entrevista serão utilizadas as seguintes perguntas:
+
 
 ### Execução do Roteiro
 
