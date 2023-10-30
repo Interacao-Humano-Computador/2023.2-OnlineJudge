@@ -37,6 +37,12 @@ Na figura 2, apresenta-se um storyboard no qual o usuário deseja submeter um pr
 
 Na figura 3, apresenta-se um storyboard no qual o usuário deseja contatar colaboradores.
 
+<center>Figura 3 - Storyboard contatar colaboradores.
+
+![](../../assets/images/storyboard-eric.png)
+
+<b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a> </a></center>
+
 ### **Editar Conta**
 
 Na figura 4, apresenta-se um storyboard no qual o usuário deseja editar sua conta.
@@ -70,16 +76,6 @@ Na figura 7, apresenta-se um storyboard no qual o usuário deseja recuperar seu 
 ![](../../assets/images/storyboard-kallyne.png)
 
 <b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a> </a></center>
-
-### **Busca por uma página específica**
-
-Na figura 8, apresenta-se um storyboard onde o usuário navega pela aplicação na busca de uma página específica (página de contests) e acaba sendo direcionado para outras páginas
-
-<center>Figura 8 - Busca por uma página específica
-
-![](../../assets/images/storyboard_henrique.jpeg)
-
-<b>Fonte:</b> <a href="https://github.com/henriqtorresl">Henrique Torres</a> </a></center>
 
 ## Referências bibliográficas
 
