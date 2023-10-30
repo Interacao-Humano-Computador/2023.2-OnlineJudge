@@ -19,7 +19,7 @@ Na figura 1, apresenta-se um storyboard no qual o usuário deseja procurar um no
 
 <center>Figura 1 - Storyboard procurar um problema.
 
-![](../../assets/images/storyboard-suzane.jpeg)
+![](../../../assets/images/storyboard-suzane.jpeg)
 
 <b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a> </a></center>
 
@@ -29,7 +29,7 @@ Na figura 2, apresenta-se um storyboard no qual o usuário deseja submeter um pr
 
 <center>Figura 2 - Storyboard submeter um problema.
 
-![](../../assets/images/storyboard-pablo.png)
+![](../../../assets/images/storyboard-pablo.png)
 
 <b>Fonte:</b> <a href="https://github.com/PabloGJBS">Pablo Guilherme</a> </a></center>
 
@@ -39,7 +39,7 @@ Na figura 3, apresenta-se um storyboard no qual o usuário deseja contatar colab
 
 <center>Figura 3 - Storyboard contatar colaboradores.
 
-![](../../assets/images/storyboard-eric.png)
+![](../../../assets/images/storyboard-eric.png)
 
 <b>Fonte:</b> <a href="https://github.com/Ericcs10">Eric Camargo</a> </a></center>
 
@@ -49,7 +49,7 @@ Na figura 4, apresenta-se um storyboard no qual o usuário deseja editar sua con
 
 <center>Figura 4 - Storyboard para editar conta.
 
-![](../../assets/images/storyboard-luana.png)
+![](../../../assets/images/storyboard-luana.png)
 
 <b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a> </a></center>
 
@@ -63,7 +63,7 @@ Na figura 6, apresenta-se um storyboard no qual o usuário deseja acessar o sist
 
 <center>Figura 6 - Storyboard acessar o Contest System.
 
-![](../../assets/images/storyboard-ester.jpg)
+![](../../../assets/images/storyboard-ester.jpg)
 
 <b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a> </a></center>
 
@@ -73,7 +73,7 @@ Na figura 7, apresenta-se um storyboard no qual o usuário deseja recuperar seu 
 
 <center>Figura 7 - Storyboard acessar o "Forgot Login?" - Recuperação de login
 
-![](../../assets/images/storyboard-kallyne.png)
+![](../../../assets/images/storyboard-kallyne.png)
 
 <b>Fonte:</b> <a href="https://github.com/kalipassos">Kallyne Macedo</a> </a></center>
 
@@ -83,7 +83,7 @@ Na figura 8, apresenta-se um storyboard no qual o usuário navega na aplicação
 
 <center>Figura 8 - Busca por uma página específica
 
-![](../../assets/images/storyboard_henrique.jpeg)
+![](../../../assets/images/storyboard_henrique.jpeg)
 
 <b>Fonte:</b> <a href="https://github.com/henriqtorresl">Henrique Torres</a> </a></center>
 
