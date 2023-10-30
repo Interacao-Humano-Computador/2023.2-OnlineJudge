@@ -114,7 +114,9 @@ Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹<
 
 ## Video do teste piloto
 
-Utilizamos a plataforma teams para gravação do video o qual pode ser acessado por este link [Video do teste piloto Storybord](https://www.youtube.com/watch?v=cJyNemXJ1g8)
+Gravado na plataforma Teams. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cJyNemXJ1g8?si=wgqHyvc9jvFsXdqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Referências bibliográficas
 
@@ -127,3 +129,5 @@ Utilizamos a plataforma teams para gravação do video o qual pode ser acessado 
 | 1.0    | 29/10/2023 | Criação da página            | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
 | 1.1    | 29/10/2023 | Correções de erros na página | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
 | 1.2    | 29/10/2023 | Video do teste piloto | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
+| 1.3    | 30/10/2023 | Miniatura do video do teste piloto | [Kallyne Macedo](https://github.com/kalipassos) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+

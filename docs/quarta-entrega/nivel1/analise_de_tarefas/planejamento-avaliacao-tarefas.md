@@ -127,6 +127,12 @@ Após a realização da avaliação, será feita a etapa de avaliação, interpr
 
 Esta etapa tem como objetivo avaliar o planejamento proposto e analisar se a avaliação feita, da maneira planejada, produz os dados necessários para os objetivos do estudo. Para a realização deste, dois avaliadores participarão como uma sessão normal de avaliação, um no papel de avaliador e outro no papel de usuário.
 
+## Teste Piloto
+
+Gravado na plataforma Teams.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YoxVv1LOglw?si=2Qvd7x01aposYi7-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Referências bibliográficas 
 > <a id="REF1" href="#anchor_1">1. </a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
@@ -140,4 +146,5 @@ Esta etapa tem como objetivo avaliar o planejamento proposto e analisar se a ava
 | 1.0  | 29/10/2023 | Criação da página  | [Kallyne Macedo](https://github.com/kalipassos) | [Luana Torres](https://github.com/luanatorress)
 | 1.1  | 29/10/2023 | Continuação do Framework  | [Luana Torres](https://github.com/luanatorres) | [Kallyne Macedo](https://github.com/kalipassos)
 | 1.2  | 29/10/2023 | Etapa de explorar perguntas e escolher método  | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino)
+| 1.3  | 30/10/2023 | Adição do teste piloto  | [Kallyne Macedo](https://github.com/kalipassos) | [Luana Torres](https://github.com/luanatorres)
 
