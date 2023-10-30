@@ -82,13 +82,13 @@ Considerando que essa avaliação envolve um usuário real e o levantamento de a
 
 | Entrevistador | Horário de Início | Horário de Fim |    Data    |
 | :----------------: | :---------------: | :------------: | :--------: |
-| [Eric Camargo](https://github.com/ericcs10) |  |  | 04/11/2023 |
-| [Ester Lino](https://github.com/esteerlino) |  |  | 04/11/2023 |
-| [Henrique Torres](https://github.com/henriqtorresl) |  |  | 04/11/2023 |
-| [Kallyne Macedo](https://github.com/kalipassos) |  |  | 04/11/2023 |
-| [Luana Torres](https://github.com/luanatorress) |  |  | 02/11/2023 |
-| [Pablo Guilherme](https://github.com/PabloGJBS) |  |  | 31/10/2023 |
-| [Suzane Duarte](https://github.com/suzaneduarte) |  |  | 05/11/2023 |
+| [Eric Camargo](https://github.com/ericcs10) | 20:00 | 20:10 | 04/11/2023 |
+| [Ester Lino](https://github.com/esteerlino) | 20:00 | 20:10 | 04/11/2023 |
+| [Henrique Torres](https://github.com/henriqtorresl) | 20:00 | 20:10 | 04/11/2023 |
+| [Kallyne Macedo](https://github.com/kalipassos) | 20:00 | 20:10 | 04/11/2023 |
+| [Luana Torres](https://github.com/luanatorress) | 20:00 | 20:10 | 02/11/2023 |
+| [Pablo Guilherme](https://github.com/PabloGJBS) | 20:00 | 20:10 | 31/10/2023 |
+| [Suzane Duarte](https://github.com/suzaneduarte) | 20:00 | 20:10 | 05/11/2023 |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
