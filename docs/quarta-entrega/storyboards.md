@@ -53,7 +53,13 @@ Na figura 5, apresenta-se um storyboard no qual o usuário deseja visualizar sua
 
 ### **Acessar o Contest System**
 
-Na figura 6, apresenta-se um storyboard no qual o usuário deseja acessar o sistema de contests do site.
+Na figura 6, apresenta-se um storyboard no qual o usuário deseja acessar o sistema de contests do site, mais especificamente a aba "Past Contests".
+
+<center>Figura 6 - Storyboard acessar o Contest System.
+
+![](../../assets/images/storyboard-ester.jpg)
+
+<b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a> </a></center>
 
 ### **Acessar o "Forgot Login?" - Recuperação de login**
 

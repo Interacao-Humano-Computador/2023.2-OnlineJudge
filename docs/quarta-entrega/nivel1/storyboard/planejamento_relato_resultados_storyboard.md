@@ -37,12 +37,12 @@ O método de avaliação que será adotado para coletar os dados será a entrevi
 | Entrevistador | Entrevistado | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 | [Eric Camargo](https://github.com/ericcs10) |  |  |  |  | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-| [Ester Lino](https://github.com/esteerlino) | Pedro Miguel |  |  |  | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Ester Lino](https://github.com/esteerlino) | Pedro Miguel | 10:00 | 10:20 | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 | [Henrique Torres](https://github.com/henriqtorresl) |  |  |  |  | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 | [Kallyne Macedo](https://github.com/kalipassos) |  |  |  |  | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 | [Luana Torres](https://github.com/luanatorress) |  |  |  |  | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-| [Pablo Guilherme](https://github.com/PabloGJBS) |  |  |  |  | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-| [Suzane Duarte](https://github.com/suzaneduarte) |  |  |  |  | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Pablo Guilherme](https://github.com/PabloGJBS) | João Pedro Anacleto | 19:00 | 19:10 | 30/10/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Suzane Duarte](https://github.com/suzaneduarte) | Letícia Picanço  | 11:00 | 11:20 | 04/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -83,12 +83,12 @@ Considerando que essa avaliação envolve um usuário real e o levantamento de a
 | Entrevistador | Horário de Início | Horário de Fim |    Data    |
 | :----------------: | :---------------: | :------------: | :--------: |
 | [Eric Camargo](https://github.com/ericcs10) |  |  |  |
-| [Ester Lino](https://github.com/esteerlino) |  |  |  |
+| [Ester Lino](https://github.com/esteerlino) |  |  | 04/11/2023 |
 | [Henrique Torres](https://github.com/henriqtorresl) |  |  |  |
 | [Kallyne Macedo](https://github.com/kalipassos) |  |  |  |
 | [Luana Torres](https://github.com/luanatorress) |  |  |  |
-| [Pablo Guilherme](https://github.com/PabloGJBS) |  |  |  |
-| [Suzane Duarte](https://github.com/suzaneduarte) |  |  |  |
+| [Pablo Guilherme](https://github.com/PabloGJBS) |  |  | 31/10/2023 |
+| [Suzane Duarte](https://github.com/suzaneduarte) |  |  | 05/11/2023 |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -103,3 +103,4 @@ Fonte: [Ester Lino](https://github.com/esteerlino).
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :---------------------------: | :-----------: |
 |  1.0   | 29/10/2023 | Criação da página "Planejamento do Relato dos Resultados - Storyboard" | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+|  1.1   | 30/10/2023 | Inclusão das datas das entrevistas | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |
