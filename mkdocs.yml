@@ -36,10 +36,12 @@ nav:
       - Princípios Gerais do Projeto: terceira-entrega/principios-gerais.md
       - Guia de Estilo: terceira-entrega/guia-estilo.md
   - Design, Avaliação e Desenvolvimento:
-      - Planejamento da Avaliação de Storyboard: quarta-entrega/planejamento-avaliacao-storyboard.md
-      - Planejamento da Avaliação da Análise de Tarefas: quarta-entrega/planejamento-avaliacao-tarefas.md
-
-  
+      - Nível 1:
+          - Storyboards:
+              - Planejamento da Avaliação de Storyboard: quarta-entrega/planejamento-avaliacao-storyboard.md
+              - Storyboards: quarta-entrega/storyboards.md
+          - Análise de Tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas: quarta-entrega/planejamento-avaliacao-tarefas.md
 
 theme:
   name: material

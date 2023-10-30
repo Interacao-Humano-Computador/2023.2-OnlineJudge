@@ -2,50 +2,52 @@
 
 ## Introdução
 
-Neste artefato estaremos realizando o planejamento para a avaliação do [Online Judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1), com o intuito de ao final do planejamento teremos um roteiro para uma avaliação relacionada com as tarefas dos StoryBords criados a fim de verificar possiveis problemas relacionados com as tarefas propostas.
+Neste artefato estaremos realizando o planejamento para a avaliação do [Online Judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1), com o intuito de ao final do planejamento termos um roteiro para uma avaliação relacionada com as tarefas dos StoryBords criados. Dessa forma, será possível verificar possíveis problemas relacionados com as tarefas propostas.
 
 ## Metodologia
 
-Para este planejamento utilizaremos o framework DECIDE o qual propõe 6 etapas para o planejamento dentre elas:
+Para este planejamento utilizaremos o framework DECIDE o qual propõe seis (6) etapas para o planejamento, dentre elas:
 
 <center><b>Tabela 1:</b> Definição do DECIDE</center>
 
-|Letra|<center>Descrição|
-|---|---|
-|D|Determinar os objetivos da avaliação.|
-|E|Explorar perguntas a serem respondidas com a avaliação.|
-|C|Escolher os métodos de avaliação a serem utilizados.|
-|I|Identificar e administrar as questões práticas da avaliação.|
-|D|Decidir como lidar com as questões éticas.|
-|E|Avaliar, interpretar e apresentar os dados|
+| Letra | <center>Descrição                                            |
+| ----- | ------------------------------------------------------------ |
+| D     | Determinar os objetivos da avaliação.                        |
+| E     | Explorar perguntas a serem respondidas com a avaliação.      |
+| C     | Escolher os métodos de avaliação a serem utilizados.         |
+| I     | Identificar e administrar as questões práticas da avaliação. |
+| D     | Decidir como lidar com as questões éticas.                   |
+| E     | Avaliar, interpretar e apresentar os dados                   |
 
-Alem disto estaremos seguindo como base o perfil de usuário proposto anteriormente em busca de uma maior precisão na análise a partir dos possiveis usuários primários do sistema.
+Além disto, estaremos seguindo como base o perfil de usuário proposto anteriormente em busca de uma maior precisão na análise a partir dos possíveis usuários primários do sistema.
 
 ## D - Objetivos da avaliação
 
-Verificar se o que foi produzido durante a análise de tarefas possuem um design alternativo e se estão ocorrendo corretamente, ou seja utilizaremos a avaliação para obter possiveis ideias e ou problemas não identificados anteriormente.
+Verificar se o que foi produzido durante a análise de tarefas possui um design alternativo e se estão ocorrendo corretamente, ou seja utilizaremos a avaliação para obter possíveis ideias e ou problemas não identificados anteriormente.
 
 ## E - Explorar Perguntas a serem respondidas com a avaliação
 
-Tendo em vista o objetivo da entrevista 
+Tendo em vista o objetivo da entrevista, após realizar o processo de avaliação os dados serão documentados e tratados, levando em conta o contexto em que eles foram produzidos, além de verificar se tais dados são confiáveis o suficiente para que seja possível realizar uma generalização de forma a refletir a população de usuários do site.
+
+Dessa forma, a equipe responsável por realizar as entrevistas deverá realizar anotações relativas a possíveis dificuldades durante a interação, descrevendo os problemas encontrados e sugestões de melhoria. Sendo assim, será viável captar o feedback do usuário e documentar as observações gerais verificadas a cerca da entrevista realizada. Uma vez relatada todas essas informações, os dados serão fornecidos à equipe de desenvolvimento em um esforço para obter o máximo de informações possíveis para o desenvolvimento do projeto.
 
 ## C - Escolher métodos de avaliação
 
-Para a realização desta avaliação utilizaremos tanto a investigação quanto entrevistas, tal escolha está ligada com a facilidade de contato com o público alvo do site proposto além a da possibilidade de possuirmos perguntas que elucidem mais as necessidades do usuário, as entrevistas deveram ser gravadas e documentadas.
+Para a realização desta avaliação utilizaremos tanto a investigação quanto entrevistas, tal escolha possui relação com a facilidade de contato com o público alvo do site proposto além da possibilidade de termos perguntas que elucidem mais as necessidades do usuário. As entrevistas serão gravadas e documentadas.
 
-## I - identificar questões práticas da avaliação
+## I - Identificar questões práticas da avaliação
 
 ### Recrutamento de entrevistados
 
-Devido a necessidade de que cada membro do grupo faça uma avaliação e por consequência uma entrevista estaremos recrutando 7 entrevistado que se encaixem em nosso perfil de usuário.
+Devido a necessidade de que cada membro do grupo faça uma avaliação, e, por consequência uma entrevista, estaremos recrutando sete (7) entrevistados que se encaixem em nosso perfil de usuário.
 
-### Preparação 
+### Preparação
 
-Os entrevistadores deveram seguir as perguntas presentes no roteiro e realizar anotações sobre as respostas dos usuários. Essa entrevista deverá conter uma tarefa proposta pelo entrevistador na análise de tarefas. A entrevista poderá ser realizada por apenas um entrevistador ou por uma dupla de entrevistadores no qual um ficará responsavel por tomar notas e outro ficará responsável por realizar as perguntas.
+Os entrevistadores deverão seguir as perguntas presentes no roteiro, e realizar anotações sobre as respostas dos usuários. Essa entrevista deverá conter uma tarefa proposta pelo entrevistador na análise de tarefas. A entrevista poderá ser realizada por apenas um entrevistador ou por uma dupla de entrevistadores no qual um ficará responsavel por tomar notas e outro ficará responsável por realizar as perguntas.
 
 ### Custos
 
-Esta etapa de entrevistas não deverá custar nada para equipe ou para o entrevistado, portanto elas deverão ser realizadas de modo online.
+Esta etapa de entrevistas não deverá custar nada para equipe ou para o entrevistado, portanto, elas deverão ser realizadas de modo online.
 
 Serão necessárias ferramentas para a entrevista dentre elas:
 
@@ -57,9 +59,9 @@ Serão necessárias ferramentas para a entrevista dentre elas:
 - Diagrama HTA ou GOMS de cada tarefa avaliada
 - Qualquer equipamento com acesso a internet e que possua navegador web
 
-### Prazos  
+### Prazos
 
-Para fins de documentação as entrevistas devem ser registradas na taela seguinte contendo:
+Para fins de documentação as entrevistas devem ser registradas em uma tabela contendo:
 
 - Nome do entrevistador
 - Nome do entrevistado
@@ -69,15 +71,15 @@ Para fins de documentação as entrevistas devem ser registradas na taela seguin
 
 <center><b>Tabela 2:</b> Registro das entrevistas</center>
 
-|Entrevistador|Entrevistado|Hora de início| Hora final| Data da entrevista|
-|---|---|---|---|---|
-|Ester Flores|||||
-|Eric Camargo|||||
-|Henrique Torres|||||
-|Kallyne Macedo |||||
-|Luana Torres|||||
-|Pablo Guilherme|||||
-|Suzane Duarte|||||
+| Entrevistador   | Entrevistado | Hora de início | Hora final | Data da entrevista |
+| --------------- | ------------ | -------------- | ---------- | ------------------ |
+| Ester Flores    |              |                |            |                    |
+| Eric Camargo    |              |                |            |                    |
+| Henrique Torres |              |                |            |                    |
+| Kallyne Macedo  |              |                |            |                    |
+| Luana Torres    |              |                |            |                    |
+| Pablo Guilherme |              |                |            |                    |
+| Suzane Duarte   |              |                |            |                    |
 
 ### Roteiro de perguntas
 
@@ -85,29 +87,38 @@ Na entrevista serão utilizadas as seguintes perguntas:
 
 <center><b>Tabela 2:</b> Registro das entrevistas</center>
 
-|Número da pergunta|Pergunta|Respostas possíveis|
-|---|---|---|
+| Número da pergunta | Enunciado da pergunta                                                                                            | Possíveis respostas                          |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1                  | A narrativa apresentada pelo Storyboard está condizente com o título?                                            | [ ] Sim<br>[ ] Não<br> [ ] Não sei afirmar   |
+| 2                  | No que tange atores e ambiente, o Storyboard em questão possui relação com a realidade?                          | [ ] Sim<br> [ ] Não <br> [ ] Não sei afirmar |
+| 3                  | As tarefas realizadas pelos atores no storyboard são condizentes com a realidade?                                | [ ] Sim<br> [ ] Não <br> [ ] Não sei afirmar |
+| 4                  | As ações realizadas no Storyboard seguem uma ordem sequencial, fluída e lógica?                                  | [ ] Sim<br> [ ] Não <br> [ ] Não sei afirmar |
+| 5                  | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | [ ] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
+| 5                  | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | [ ] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
 
-## D - Questões éticas 
+## D - Questões éticas
 
-Para a realização da entrevista utilizaremos o termo de consentimento para obter autorização para a realização das atividades e garantir respeito e integridade dos entrevistados.
+Para a realização da entrevista utilizaremos o termo de consentimento apresentado anteriormente para obter autorização para realizar as atividades, garantindo o respeito e integridade dos entrevistados.
+
+Dessa forma, para iniciar a entrevista a equipe solicita que o entrevistado pronuncie em alto e bom som: **Eu, [nome do entrevistado], aceito os termos e dou meu consentimento para a realização da entrevista.**
 
 ## E - Avaliar, Interpretar e Apresentar os Dados
 
-Após a realização das entrevistas os dados obtidos seram documentados e a partir destes dados poderemos fazer uma analize das dificuldades e obstaculos que os usuários tiveram em cada tarefa além de que poderemos observar questões de usabilidade, desempenho ou funcionalidades ausentes. Serão observados os feedbacks dos usuários bem como suas sugestões para melhoria.
+Após a realização das entrevistas os dados obtidos devem ser documentados, e a partir destes dados poderemos fazer uma analise das dificuldades e obstáculos que os usuários tiveram em cada tarefa, além de que também poderemos observar questões de usabilidade, desempenho ou funcionalidades ausentes. Serão observados os feedbacks dos usuários bem como suas sugestões para melhoria.
 
-Após este processo estaremos enviando os dados coletados ao time de desenvolvimento do [Online Judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1)
+Após realizado este processo, estaremos enviando os dados coletados ao time de desenvolvimento do [Online Judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1)
 
 ## Planejamento do teste Piloto
 
-Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹</a> realizaremos o teste piloto com o ituito de avaliar se a avaliação está em conformidade com os objetivos e se tudo ocorrerá bem, conduziremos o teste piloto como se fosse uma sessão normal de avaliação.
+Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹</a> realizaremos o teste piloto com o intuito de verificar se a avaliação está em conformidade com os objetivos e se tudo ocorrerá bem, conduziremos o teste piloto como se fosse uma sessão normal de avaliação.
 
+## Referências bibliográficas
 
-## Referências bibliográficas 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                                      | Autor(es)                                                                                                                                              | Revisor(es)                                                                                  |
-| ------ | ---------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| 1.0  | 29/10/2023 | Criação da página  | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Henrique Landin](https://github.com/henriqtorresl), [Eric Camargo](https://github.com/ericcs10)|
+| Versão | Data       | Descrição                    | Autor(es)                                                                                         | Revisor(es)                                 |
+| ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 1.0    | 29/10/2023 | Criação da página            | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
+| 1.1    | 29/10/2023 | Correções de erros na página | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
