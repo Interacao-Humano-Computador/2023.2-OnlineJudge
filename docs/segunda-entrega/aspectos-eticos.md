@@ -4,7 +4,7 @@
 
 Em uma pesquisa eticamente justificável é dever da equipe de design proteger o bem-estar físico e psicológico dos participantes.
 O pesquisador deve explicar os objetivos da pesquisa, garantir a confidencialidade e a privacidade dos participantes, assim como, o anonimato destes ao divulgar a pesquisa.
-Através da [resolução nº 466/2012](./reso466.pdf) do Conselho Nacional de Saúde<a id="anchor_1" href="#REF1">^1^</a> regida no Brasil, o avaliador é orientado a lidar com as questões éticas de pesquisa envolvendo os seguintes princípios:
+Através da [resolução nº 466/2012](https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf) do Conselho Nacional de Saúde<a id="anchor_1" href="#REF1">^1^</a> regida no Brasil, o avaliador é orientado a lidar com as questões éticas de pesquisa envolvendo os seguintes princípios:
 
 - Princípio da autonomia: envolve o consentimento livre e esclarecido dos indivíduos e a proteção de grupos vulneráveis e legalmente incapazes, como menores de idade, alunos ou subordinados. Em pesquisas envolvendo seres humanos, é importante tratá-los com dignidade, respeitá-los em sua autonomia e defendê-los em sua vulnerabilidade.
 - Princípio da beneficência: requer uma ponderação cuidadosa entre riscos e benefícios, tanto presentes quanto potenciais, individuais ou coletivos. É necessário comprometer-se com o máximo de benefícios e o mínimo de danos e riscos. Esses danos podem ocorrer em várias dimensões da vida humana, como física, psíquica, moral, intelectual, social, cultural ou espiritual, tanto durante a pesquisa quanto após ela.
