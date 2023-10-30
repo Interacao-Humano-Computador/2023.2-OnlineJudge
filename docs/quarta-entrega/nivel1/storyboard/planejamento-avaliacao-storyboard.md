@@ -94,11 +94,11 @@ Na entrevista serão utilizadas as seguintes perguntas:
 | 3                  | As tarefas realizadas pelos atores no storyboard são condizentes com a realidade?                                | [ ] Sim<br> [ ] Não <br> [ ] Não sei afirmar |
 | 4                  | As ações realizadas no Storyboard seguem uma ordem sequencial, fluída e lógica?                                  | [ ] Sim<br> [ ] Não <br> [ ] Não sei afirmar |
 | 5                  | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | [ ] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
-| 5                  | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | [ ] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
+| 6                  | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | [ ] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
 
 ## D - Questões éticas
 
-Para a realização da entrevista utilizaremos o termo de consentimento apresentado anteriormente para obter autorização para realizar as atividades, garantindo o respeito e integridade dos entrevistados.
+Para a realização da entrevista utilizaremos o [termo de consentimento](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/segunda-entrega/aspectos-eticos/) apresentado anteriormente para obter autorização para realizar as atividades, garantindo o respeito e integridade dos entrevistados.
 
 Dessa forma, para iniciar a entrevista a equipe solicita que o entrevistado pronuncie em alto e bom som: **Eu, [nome do entrevistado], aceito os termos e dou meu consentimento para a realização da entrevista.**
 
@@ -112,6 +112,10 @@ Após realizado este processo, estaremos enviando os dados coletados ao time de 
 
 Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹</a> realizaremos o teste piloto com o intuito de verificar se a avaliação está em conformidade com os objetivos e se tudo ocorrerá bem, conduziremos o teste piloto como se fosse uma sessão normal de avaliação.
 
+## Video do teste piloto
+
+Utilizamos a plataforma teams para gravação do video o qual pode ser acessado por este link [Video do teste piloto Storybord](https://www.youtube.com/watch?v=cJyNemXJ1g8)
+
 ## Referências bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
@@ -122,3 +126,4 @@ Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹<
 | ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 29/10/2023 | Criação da página            | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
 | 1.1    | 29/10/2023 | Correções de erros na página | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
+| 1.2    | 29/10/2023 | Video do teste piloto | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
