@@ -8,23 +8,23 @@ O planejamento do relatório da análise de tarefas é como vamos organizar ante
 
 A seguir, apresentaremos os tópicos que serão abordados no documento, adaptando a abordagem de Barbosa e Silva (2011) para o nosso contexto. Este documento é parte essencial do nosso processo de avaliação do Online Judge e nos ajudará a entender melhor o desempenho do sistema, bem como aperfeiçoá-lo. Os tópicos a serem tratados incluem:
 
-    **Objetivo e escopo da avaliação**: Descreveremos o propósito geral e a extensão da avaliação que estamos conduzindo no Online Judge.
+**Objetivo e escopo da avaliação**: Descreveremos o propósito geral e a extensão da avaliação que estamos conduzindo no Online Judge.
 
-    **Método de avaliação**: Explicaremos a metodologia que empregamos para realizar a avaliação e coletar dados relevantes.
+**Método de avaliação**: Explicaremos a metodologia que empregamos para realizar a avaliação e coletar dados relevantes.
 
-    **Seleção dos participantes**: Abordaremos como selecionamos os participantes da avaliação, detalhando os critérios e processos de escolha.
+**Seleção dos participantes**: Abordaremos como selecionamos os participantes da avaliação, detalhando os critérios e processos de escolha.
 
-    **Problemas e dificuldades encontradas**: Relataremos os obstáculos e desafios que identificamos durante a avaliação, destacando as áreas que precisam de atenção.
+**Problemas e dificuldades encontradas**: Relataremos os obstáculos e desafios que identificamos durante a avaliação, destacando as áreas que precisam de atenção.
 
-    **Sugestões de melhoria**: Apresentaremos sugestões e recomendações para aprimorar o Online Judge com base nas conclusões da avaliação.
+**Sugestões de melhoria**: Apresentaremos sugestões e recomendações para aprimorar o Online Judge com base nas conclusões da avaliação.
 
-    **Feedback dos usuários**: Compartilharemos o feedback fornecido pelos usuários, destacando suas opiniões e observações.
+**Feedback dos usuários**: Compartilharemos o feedback fornecido pelos usuários, destacando suas opiniões e observações.
 
-    **Análise e interpretação dos usuários**: Desenvolveremos uma análise aprofundada das experiências e interpretações dos usuários em relação ao sistema.
+**Análise e interpretação dos usuários**: Desenvolveremos uma análise aprofundada das experiências e interpretações dos usuários em relação ao sistema.
 
-    **Sumários dos principais resultados**: Resumiremos os resultados-chave da avaliação, destacando os principais pontos de interesse.
+**Sumários dos principais resultados**: Resumiremos os resultados-chave da avaliação, destacando os principais pontos de interesse.
 
-    **Planejamento de reprojeto**: Discutiremos o planejamento para futuras etapas de reformulação do Online Judge, com base nas descobertas desta avaliação.
+**Planejamento de reprojeto**: Discutiremos o planejamento para futuras etapas de reformulação do Online Judge, com base nas descobertas desta avaliação.
 
 ## Tópicos
 
@@ -72,3 +72,12 @@ Além disso, como entrevistadores, temos a responsabilidade de propor soluções
 
 O entrevistador deve documentar de forma completa e precisa o feedback fornecido pelos usuários, levando em consideração suas percepções, experiências e necessidades. Essas informações são de grande valor, pois nos ajudam a compreender as expectativas dos usuários, a identificar os pontos fortes e fracos do sistema e a obter insights valiosos sobre possíveis melhorias. O feedback dos usuários é uma fonte fundamental para aprimorar o sistema e garantir que atenda às necessidades e preferências dos usuários de forma eficaz.
 
+## Referências bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
+
+## Histórico de versões
+
+| Versão | Data       | Descrição                    | Autor(es)                                                                                         | Revisor(es)                                 |
+| ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 1.0    | 30/10/2023 | Criação da página de Relato dos resultados e adicionando o conteúdo dela          | [Henrique Torres](https://github.com/henriqtorresl), [Eric Camargo](https://github.com/Ericcs10) |  [Pablo Guilherme](https://github.com/PabloGJBS) |
