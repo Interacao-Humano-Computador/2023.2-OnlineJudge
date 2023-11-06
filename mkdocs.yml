@@ -42,12 +42,14 @@ nav:
           - Storyboard:
               - Storyboards da equipe: quarta-entrega/nivel1/storyboard/storyboards.md
               - Planejamento da Avaliação de Storyboard: quarta-entrega/nivel1/storyboard/planejamento-avaliacao-storyboard.md
-              - Planejamento do Relato dos Resultados - Storyboard: quarta-entrega/nivel1/storyboard/planejamento_relato_resultados_storyboard.md
+              - Planejamento do Relato dos Resultados - Storyboard: quarta-entrega/nivel1/storyboard/planejamento-relato-resultados-storyboard.md
               - Relato dos Resultados do StoryBoard: quarta-entrega/nivel1/storyboard/relato-resultados-storyboard.md
-
           - Análise Tarefas:
               - Planejamento da Avaliação da Análise de Tarefas: quarta-entrega/nivel1/analise_de_tarefas/planejamento-avaliacao-tarefas.md
               - Planejamento do Relato dos Resultados: quarta-entrega/nivel1/analise_de_tarefas/planejamento-do-relato-dos-resultados.md
+      - Nível 2:
+          - Protótipo de Papel:
+              - Planejamento da Avaliação do Protótipo de Papel: quarta-entrega/nivel2/planejamento-avaliacao-prototipo-papel.md
 
 theme:
   name: material
