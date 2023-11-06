@@ -10,6 +10,8 @@ nav:
           - Ata Terceira Reunião: atas/segunda-entrega/reuniao-3.md
       - Terceira Entrega:
           - Ata Quarta Reunião: atas/terceira-entrega/reuniao-4.md
+      - Quarta Entrega:
+          - Ata Quinta Reunião: atas/quarta-entrega/reuniao-5.md
 
   - Planejamento:
       - Apresentação: primeira-entrega/apresentacao.md
@@ -41,6 +43,8 @@ nav:
               - Storyboards da equipe: quarta-entrega/nivel1/storyboard/storyboards.md
               - Planejamento da Avaliação de Storyboard: quarta-entrega/nivel1/storyboard/planejamento-avaliacao-storyboard.md
               - Planejamento do Relato dos Resultados - Storyboard: quarta-entrega/nivel1/storyboard/planejamento_relato_resultados_storyboard.md
+              - Relato dos Resultados do StoryBoard: quarta-entrega/nivel1/storyboard/relato-resultados-storyboard.md
+
           - Análise Tarefas:
               - Planejamento da Avaliação da Análise de Tarefas: quarta-entrega/nivel1/analise_de_tarefas/planejamento-avaliacao-tarefas.md
               - Planejamento do Relato dos Resultados: quarta-entrega/nivel1/analise_de_tarefas/planejamento-do-relato-dos-resultados.md
