@@ -132,9 +132,15 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 ### 2.6 Análise e interpretação dos dados coletados
 
+A partir das respostas obtidas, é possível concluir que o storyboard é de fácil compreensão, que foi executado de maniera clara e que está alinhado com o seu objetivo.
+
 ### 2.7 Feedback do usuário
 
+O usuário se mostrou satisfeito com o storyboard apresentado.
+
 ### 2.8 Sugestões de melhoria
+
+Não teve nenhuma sujestão de melhoria para o storyboard
 
 ## **3. Contatar Colaboradores - Eric C**
 
@@ -180,7 +186,7 @@ A avaliação do Storyboard "Acessar o Contest System" tem como objetivo identif
 
 ### 5.2 Método de avaliação empregado
 
-Assim, como o proposto no Planejamento da Avaliação do Storyboard, o métodos utilizado foi o de entreista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 9.
+Assim, como o proposto no Planejamento da Avaliação do Storyboard, o métodos utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 9.
 
 [Link para o storyboard avaliado](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/storyboards/#procurar-um-problema/#acessar-o-contest-system)
 
