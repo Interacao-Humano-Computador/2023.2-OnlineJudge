@@ -1,0 +1,3156 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../planejamento-do-relato-dos-resultados/">
+      
+      
+        <link rel="next" href="../../../nivel2/planejamento-avaliacao-prototipo-papel/">
+      
+      
+      <link rel="icon" href="../../../../assets/images/onlinejudge-logo.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.2">
+    
+    
+      
+        <title>Relato dos Resultados da Análise de Tarefas - Online-Judge</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.d451bc0e.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.a5377069.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="amber" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#relato-dos-resultados-da-analise-de-tarefas" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../../../.." title="Online-Judge" class="md-header__button md-logo" aria-label="Online-Judge" data-md-component="logo">
+      
+  <img src="../../../../assets/images/onlinejudge-logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Online-Judge
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Relato dos Resultados da Análise de Tarefas
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="amber" data-md-color-accent="indigo"  aria-label="Alterar para o modo escuro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Alterar para o modo escuro" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8V4Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="brown" data-md-color-accent="indigo"  aria-label="Alterar para o modo claro"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Alterar para o modo claro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8V4Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Sobre
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../atas/primeira-entrega/reuniao-1/" class="md-tabs__link">
+          
+  
+  Atas
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../primeira-entrega/apresentacao/" class="md-tabs__link">
+          
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../segunda-entrega/apresentacao/" class="md-tabs__link">
+          
+  
+  Análise de Requisitos I
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../terceira-entrega/apresentacao/" class="md-tabs__link">
+          
+  
+  Análise de Requisitos II
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../storyboard/storyboards/" class="md-tabs__link">
+          
+  
+  Design, Avaliação e Desenvolvimento
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../.." title="Online-Judge" class="md-nav__button md-logo" aria-label="Online-Judge" data-md-component="logo">
+      
+  <img src="../../../../assets/images/onlinejudge-logo.png" alt="logo">
+
+    </a>
+    Online-Judge
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sobre
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Primeira Entrega
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Primeira Entrega
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../atas/primeira-entrega/reuniao-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata Primeira Reunião
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../atas/primeira-entrega/reuniao-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata Segunda Reunião
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Segunda Entrega
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Segunda Entrega
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../atas/segunda-entrega/reuniao-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata Terceira Reunião
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Terceira Entrega
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Terceira Entrega
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../atas/terceira-entrega/reuniao-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata Quarta Reunião
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Quarta Entrega
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Quarta Entrega
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../atas/quarta-entrega/reuniao-5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata Quinta Reunião
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../primeira-entrega/apresentacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../primeira-entrega/equipe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Equipe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../primeira-entrega/sites-avaliados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sites Avaliados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../primeira-entrega/site-escolhido/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Site Escolhido
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../primeira-entrega/metodologia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metodologia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../primeira-entrega/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas do Projeto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../primeira-entrega/processo-design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Processo de Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../primeira-entrega/cronograma-atividades/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma das Atividades
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Análise de Requisitos I
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de Requisitos I
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../segunda-entrega/apresentacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Análise de Tarefas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de Tarefas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../segunda-entrega/analise-tarefas/HTA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise Hierárquica de Tarefas (HTA)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../segunda-entrega/analise-tarefas/GOMS/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GOMS
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../segunda-entrega/aspectos-eticos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aspectos Éticos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../segunda-entrega/perfil-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../segunda-entrega/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../segunda-entrega/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Análise de Requisitos II
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Análise de Requisitos II
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../terceira-entrega/apresentacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../terceira-entrega/metas-usabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metas de Usabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../terceira-entrega/caracteristicas-plataforma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Características da Plataforma
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../terceira-entrega/principios-gerais/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Princípios Gerais do Projeto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../terceira-entrega/guia-estilo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guia de Estilo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Design, Avaliação e Desenvolvimento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Design, Avaliação e Desenvolvimento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Nível 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            Nível 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1_1" id="__nav_6_1_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Storyboard
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_1_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1_1">
+            <span class="md-nav__icon md-icon"></span>
+            Storyboard
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../storyboard/storyboards/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storyboards da equipe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../storyboard/planejamento-avaliacao-storyboard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Avaliação de Storyboard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../storyboard/planejamento-relato-resultados-storyboard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento do Relato dos Resultados - Storyboard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../storyboard/relato-resultados-storyboard/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relato dos Resultados do StoryBoard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6_1_2" id="__nav_6_1_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Análise Tarefas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_1_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            Análise Tarefas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento-avaliacao-tarefas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Avaliação da Análise de Tarefas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento-do-relato-dos-resultados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento do Relato dos Resultados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Relato dos Resultados da Análise de Tarefas
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Relato dos Resultados da Análise de Tarefas
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrevistas" class="md-nav__link">
+    Entrevistas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-procurar-um-problema-browse-problems-suzane" class="md-nav__link">
+    1. Procurar um problema (Browse Problems) - Suzane
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Procurar um problema (Browse Problems) - Suzane">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-objetivos-e-escopo-da-avaliacao" class="md-nav__link">
+    1.1 Objetivos e escopo da avaliação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-metodo-de-avaliacao-empregado" class="md-nav__link">
+    1.2 Método de avaliação empregado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-selecao-dos-participantes" class="md-nav__link">
+    1.3 Seleção dos participantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-problemas-e-dificuldades-encontradas" class="md-nav__link">
+    1.4 Problemas e Dificuldades encontradas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-sugestoes-de-melhoria" class="md-nav__link">
+    1.5 Sugestões de Melhoria
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#16-feedbacks-dos-usuarios" class="md-nav__link">
+    1.6 Feedbacks dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#17-analise-e-interpretacao-dos-usuarios" class="md-nav__link">
+    1.7 Análise e Interpretação dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#18-sumario-dos-principais-resultados" class="md-nav__link">
+    1.8 Sumário dos Principais Resultados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-submeter-problema-quick-submit-pablo-g" class="md-nav__link">
+    2. Submeter problema (Quick Submit) - Pablo G
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Submeter problema (Quick Submit) - Pablo G">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-objetivos-e-escopo-da-avaliacao" class="md-nav__link">
+    2.1 Objetivos e escopo da avaliação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-metodo-de-avaliacao-empregado" class="md-nav__link">
+    2.2 Método de avaliação empregado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-selecao-dos-participantes" class="md-nav__link">
+    2.3 Seleção dos participantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#24-problemas-e-dificuldades-encontradas" class="md-nav__link">
+    2.4 Problemas e Dificuldades encontradas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#25-sugestoes-de-melhoria" class="md-nav__link">
+    2.5 Sugestões de Melhoria
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#26-feedbacks-dos-usuarios" class="md-nav__link">
+    2.6 Feedbacks dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#27-analise-e-interpretacao-dos-usuarios" class="md-nav__link">
+    2.7 Análise e Interpretação dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#28-sumario-dos-principais-resultados" class="md-nav__link">
+    2.8 Sumário dos Principais Resultados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-contatar-colaboradores-eric-c" class="md-nav__link">
+    3. Contatar Colaboradores - Eric C
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Contatar Colaboradores - Eric C">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-objetivos-e-escopo-da-avaliacao" class="md-nav__link">
+    3.1 Objetivos e escopo da avaliação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-metodo-de-avaliacao-empregado" class="md-nav__link">
+    3.2 Método de avaliação empregado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-selecao-dos-participantes" class="md-nav__link">
+    3.3 Seleção dos participantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-problemas-e-dificuldades-encontradas" class="md-nav__link">
+    3.4 Problemas e Dificuldades encontradas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-sugestoes-de-melhoria" class="md-nav__link">
+    3.5 Sugestões de Melhoria
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#36-feedbacks-dos-usuarios" class="md-nav__link">
+    3.6 Feedbacks dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#37-analise-e-interpretacao-dos-usuarios" class="md-nav__link">
+    3.7 Análise e Interpretação dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#38-sumario-dos-principais-resultados" class="md-nav__link">
+    3.8 Sumário dos Principais Resultados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-editar-conta-luana-t" class="md-nav__link">
+    4. Editar Conta - Luana T
+  </a>
+  
+    <nav class="md-nav" aria-label="4. Editar Conta - Luana T">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-objetivos-e-escopo-da-avaliacao" class="md-nav__link">
+    4.1 Objetivos e escopo da avaliação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-metodo-de-avaliacao-empregado" class="md-nav__link">
+    4.2 Método de avaliação empregado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#43-selecao-dos-participantes" class="md-nav__link">
+    4.3 Seleção dos participantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#44-problemas-e-dificuldades-encontradas" class="md-nav__link">
+    4.4 Problemas e Dificuldades encontradas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#45-sugestoes-de-melhoria" class="md-nav__link">
+    4.5 Sugestões de Melhoria
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#46-feedbacks-dos-usuarios" class="md-nav__link">
+    4.6 Feedbacks dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#47-analise-e-interpretacao-dos-usuarios" class="md-nav__link">
+    4.7 Análise e Interpretação dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#48-sumario-dos-principais-resultados" class="md-nav__link">
+    4.8 Sumário dos Principais Resultados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-acessar-o-contest-system-ester-l" class="md-nav__link">
+    5. Acessar o Contest System - Ester L
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Acessar o Contest System - Ester L">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-objetivos-e-escopo-da-avaliacao" class="md-nav__link">
+    5.1 Objetivos e escopo da avaliação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-metodo-de-avaliacao-empregado" class="md-nav__link">
+    5.2 Método de avaliação empregado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-selecao-dos-participantes" class="md-nav__link">
+    5.3 Seleção dos participantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#54-problemas-e-dificuldades-encontradas" class="md-nav__link">
+    5.4 Problemas e Dificuldades encontradas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#55-sugestoes-de-melhoria" class="md-nav__link">
+    5.5 Sugestões de Melhoria
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#56-feedbacks-dos-usuarios" class="md-nav__link">
+    5.6 Feedbacks dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#57-analise-e-interpretacao-dos-usuarios" class="md-nav__link">
+    5.7 Análise e Interpretação dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#58-sumario-dos-principais-resultados" class="md-nav__link">
+    5.8 Sumário dos Principais Resultados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-acessar-o-forgot-login-recuperacao-de-login-kallyne" class="md-nav__link">
+    6. Acessar o "Forgot Login?" - Recuperação de login - Kallyne
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Acessar o "Forgot Login?" - Recuperação de login - Kallyne">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-objetivos-e-escopo-da-avaliacao" class="md-nav__link">
+    6.1 Objetivos e escopo da avaliação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-metodo-de-avaliacao-empregado" class="md-nav__link">
+    6.2 Método de avaliação empregado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#63-selecao-dos-participantes" class="md-nav__link">
+    6.3 Seleção dos participantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#64-problemas-e-dificuldades-encontradas" class="md-nav__link">
+    6.4 Problemas e Dificuldades encontradas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#65-sugestoes-de-melhoria" class="md-nav__link">
+    6.5 Sugestões de Melhoria
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#66-feedbacks-dos-usuarios" class="md-nav__link">
+    6.6 Feedbacks dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#67-analise-e-interpretacao-dos-usuarios" class="md-nav__link">
+    6.7 Análise e Interpretação dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#68-sumario-dos-principais-resultados" class="md-nav__link">
+    6.8 Sumário dos Principais Resultados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-busca-por-uma-pagina-especifica-henrique-t" class="md-nav__link">
+    7. Busca por uma página específica - Henrique T
+  </a>
+  
+    <nav class="md-nav" aria-label="7. Busca por uma página específica - Henrique T">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#71-objetivos-e-escopo-da-avaliacao" class="md-nav__link">
+    7.1 Objetivos e escopo da avaliação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#72-metodo-de-avaliacao-empregado" class="md-nav__link">
+    7.2 Método de avaliação empregado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#73-selecao-dos-participantes" class="md-nav__link">
+    7.3 Seleção dos participantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#74-problemas-e-dificuldades-encontradas" class="md-nav__link">
+    7.4 Problemas e Dificuldades encontradas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#75-sugestoes-de-melhoria" class="md-nav__link">
+    7.5 Sugestões de Melhoria
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#76-feedbacks-dos-usuarios" class="md-nav__link">
+    7.6 Feedbacks dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#77-analise-e-interpretacao-dos-usuarios" class="md-nav__link">
+    7.7 Análise e Interpretação dos Usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#78-sumario-dos-principais-resultados" class="md-nav__link">
+    7.8 Sumário dos Principais Resultados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#planejamento-de-reprojeto" class="md-nav__link">
+    Planejamento de reprojeto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Nível 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Nível 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2_1" id="__nav_6_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Protótipo de Papel
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Protótipo de Papel
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../nivel2/planejamento-avaliacao-prototipo-papel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Avaliação do Protótipo de Papel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../nivel2/planejamento-do-relato-dos-resultados-prototipo-de-papel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento do Relato dos Resultados - Protótipo de Papel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="relato-dos-resultados-da-analise-de-tarefas"><strong>Relato dos Resultados da Análise de Tarefas</strong></h1>
+<h2 id="introducao">Introdução</h2>
+<p>De acordo com a proposta de Barbosa e Silva (2011), o Relato dos Resultados dos Storyboards possui como principal objetivo documentar os resultados obtidos durante o processo de Avaliação<a id="anchor_1" href="#REF1">1</a>.
+Conforme os artefatos: <a href="https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/analise_de_tarefas/planejamento-avaliacao-tarefas/">Planejamento de Avaliação da Análise de Tarefas</a> e <a href="https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/analise_de_tarefas/planejamento-do-relato-dos-resultados/">Planejamento do Relato dos Resultados</a>, estão apresentadas as entrevistas referente as funcionalidades definidades anteriormente por cada integrante. Tais entrevistas fazem referência a <a href="https://interacao-humano-computador.github.io/2023.2-OnlineJudge/segunda-entrega/analise-tarefas/HTA/">Análise de Tarefas</a>, seguindo os parâmetros impostos pelos artefatos citados anteriormente.</p>
+<h2 id="entrevistas">Entrevistas</h2>
+<h2 id="1-procurar-um-problema-browse-problems-suzane"><strong>1. Procurar um problema (Browse Problems) - Suzane</strong></h2>
+<h3 id="11-objetivos-e-escopo-da-avaliacao">1.1 Objetivos e escopo da avaliação</h3>
+<p>Essa avaliação objetivava verificar se a tarefa de "Procurar um problema" está alinhada com o fluxo de atividades dos usuários do site do Online Juiz. Dessa forma, sendo possível identificar através da usabilidade do usuário com a interface quais devem ser as alterações de melhoria necessárias.</p>
+<h3 id="12-metodo-de-avaliacao-empregado">1.2 Método de avaliação empregado</h3>
+<p>Para realizar essa avaliação, foi necessário empregar o método de entrevistas contendo vinte e uma perguntas conforme proposto anteriormente no planejamento. No entanto, é importante ressaltar que a quantidade de perguntas pode variar de acordo com as respostas do entrevistados.</p>
+<p>Diante do planejamento apresentado e o resultado final, foi possível produzir o seguinte cronograma:</p>
+<p><center></p>
+<p><strong>Tabela 1</strong> - Cronograma da Avaliação do Storyboard - Procurar um problema</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Entrevistador(es)</th>
+<th style="text-align: center;">Entrevistado(s)</th>
+<th style="text-align: center;">Horário de Início</th>
+<th style="text-align: center;">Horário de Fim</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/suzaneduarte">Suzane Duarte</a></td>
+<td style="text-align: center;"><span style = "color: red">Letícia</span></td>
+<td style="text-align: center;">14:30</td>
+<td style="text-align: center;">13:40</td>
+<td style="text-align: center;">07/11/2023</td>
+<td style="text-align: center;">Presencial com gravação no Microsoft Teams</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Fonte</strong> - <a href="https://github.com/suzaneduarte">Suzane Duarte</a>.</p>
+<p></center></p>
+<h3 id="13-selecao-dos-participantes">1.3 Seleção dos participantes</h3>
+<p>O perfil do participante se enquadra no perfil de usuário, pois se trata de uma jovem estudante de tecnologia que já teve contato com outras plataformas de juíz online, além de também possuir experiência com a área de tecnologia.</p>
+<h3 id="14-problemas-e-dificuldades-encontradas">1.4 Problemas e Dificuldades encontradas</h3>
+<p>Foi possível analisar que o usuário teve algumas dificildades. A mesma não possuia fluência em inglês, dessa forma, mesmo com a tradução automática disponibilizada pelo Google Translate sua primeira dificuldade foi encontrar a aba de "Browse Problems".</p>
+<p>A seguir, os problemas relatado pelo usuário estavam atrelados com o design das páginas correlatas a funcionalidade de Procurar um problema. Por exemplo, ao navegar pelos problemas, os ícones de "Pasta" e de "Volume" são os mesmos, de forma que o usuário nem sequer percebeu que tratavam-se de coisas distintas.</p>
+<p>Além disso, o usuário também não conseguiu compreender qual a diferença entre o ícone de check amarelo e o ícone de check verde contidos à esquerda do nome de cada um dos problemas. Além de também ter encontrado dificuldade para entender as várias informações contidas à direita desse mesmo nome conforme pode ser visualizado na Figura 1.</p>
+<p><center>Figura 1 - Problema de ícones confusos</p>
+<p><img alt="" src="../../../../assets/images/problemas-interface.jpeg" /></p>
+<p><b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a> </a></center></p>
+<h3 id="15-sugestoes-de-melhoria">1.5 Sugestões de Melhoria</h3>
+<p>O usuário trouxe como sugestão de melhoria alterações de design na tabela da Figura 1, como por exemplo, alterar os ícones de "Checks" para outro ícone que exemplifique melhor sobre o que se trata aquela informação. Nessa mesma região, ela também sugeriu que melhorassem a forma como as informações de cada um dos problemas está descrito e representado na tabela.</p>
+<h3 id="16-feedbacks-dos-usuarios">1.6 Feedbacks dos Usuários</h3>
+<p>Em suma, o participante conseguiu realizar a tarefa proposta sem evidenciar grandes problemas, porém, apresentando apenas algumas sugestões de melhorias extremamente pertinentes.</p>
+<h3 id="17-analise-e-interpretacao-dos-usuarios">1.7 Análise e Interpretação dos Usuários</h3>
+<p>A partir da entrevista realizada, o entrevistador conseguiu realizar uma análise e definir que apesar da dificuldade encontrada pela participante em identificar determinados ícones, o fluxo da tarefa "Procurar um problema" está de acordo com o site avaliado. Dessa forma, a sequência pode ser mantida, mas devem-se realizar alterações para que o usuário não apenas clique nos botões e <em>hiperlinks</em> de forma aleatória.</p>
+<h3 id="18-sumario-dos-principais-resultados">1.8 Sumário dos Principais Resultados</h3>
+<p>Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabela 3.</p>
+<p><center></p>
+<p><strong>Tabela 2</strong> - Respostas da entrevista com Letícia Resende</p>
+<table>
+<thead>
+<tr>
+<th>Número da pergunta</th>
+<th>Respostas do Usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Letícia Resende</td>
+</tr>
+<tr>
+<td>2</td>
+<td>23</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ensino Superior</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tenho vasta experiência</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Nenhuma, nunca utilizou</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>7</td>
+<td>MOJ, nenhum motivo aparente. Foi solicitação da faculdade</td>
+</tr>
+<tr>
+<td>11</td>
+<td>O entrevistado foi até a área Browse Problems, porém ele afirmou ser estranho a disposição de pastas dentro de mais pastas o que tornou a tarefa trabalhosa sem necessidade</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>16</td>
+<td>O entrevistado não saiu do fluxo</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Não no fluxo</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>19</td>
+<td>O entrevistado não se sentiu incomodado</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Regular</td>
+</tr>
+<tr>
+<td>21</td>
+<td>O entrevistado sugeriu que o site deveria seguir mais o padrão de disposição de icones como em outros sites</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/suzaneduarte">Suzane Duarte</a>.</p>
+<p></center></p>
+<p>Dessa forma, a partir das respostas apresentadas é possível concluir que o HTA está de acordo com o obejtivo definido e que a participante sugeriu melhorias no design do site.</p>
+<p><a href="https://youtu.be/7kLp7Mn8kV4">Link da gravação da entrevista</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7kLp7Mn8kV4?si=urHY67Rv_V4i3948" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h2 id="2-submeter-problema-quick-submit-pablo-g"><strong>2. Submeter problema (Quick Submit) - Pablo G</strong></h2>
+<h3 id="21-objetivos-e-escopo-da-avaliacao">2.1 Objetivos e escopo da avaliação</h3>
+<p>Avaliar a análise de tarefas proposta, a fim de observer se existem falhas e ou alternativas, além de obter sugestões sobre a análise de tarefas.</p>
+<h3 id="22-metodo-de-avaliacao-empregado">2.2 Método de avaliação empregado</h3>
+<p>Assim, como o proposto no Planejamento da Avaliação das tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 3.</p>
+<p><center></p>
+<p><strong>Tabela 3</strong> - Cronograma da avaliação de tarefas com usuário Julian Michel.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Entrevistador</th>
+<th style="text-align: center;">Entrevistado(s)</th>
+<th style="text-align: center;">Horário de Início</th>
+<th style="text-align: center;">Horário de Fim</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/PabloGJBS">Pablo Guilherme</a></td>
+<td style="text-align: center;">Julian Michel</td>
+<td style="text-align: center;">16:55</td>
+<td style="text-align: center;">17:20</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;"><a href="https://discord.com">Discord</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></p>
+<p></center></p>
+<h3 id="23-selecao-dos-participantes">2.3 Seleção dos participantes</h3>
+<p>O participante selecionado se encaixa com o perfil de usuário definido no projeto. Ele é estudante do curso Ciência da computação com experiência média em tecnologia e é tecnófilo. Além disso, ele está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).</p>
+<h3 id="24-problemas-e-dificuldades-encontradas">2.4 Problemas e Dificuldades encontradas</h3>
+<p>O entrevistado não apresentou nenhuma dificuldado no decorrer da entrevista ao prosseguir pelos caminhos das tarefas.</p>
+<h3 id="25-sugestoes-de-melhoria">2.5 Sugestões de Melhoria</h3>
+<p>O entrevistado apenas sugeriu uma melhoria no HTA de contact us, a qual seria adicionar uma etapa de escrever o titulo do contato</p>
+<h3 id="26-feedbacks-dos-usuarios">2.6 Feedbacks dos Usuários</h3>
+<p>O entrevistado informou que os fluxos de análise de tarefas HTA estavam corretos, salvo uma sugestão de adicionar o campo de Título no fluxo do contact us.</p>
+<h3 id="27-analise-e-interpretacao-dos-usuarios">2.7 Análise e Interpretação dos Usuários</h3>
+<p>A partir do que o entrevistado comentou é possivel concluir que o site possui em sua grande maioria problemas com a interface, mas suas funcionalidades funcionam de maneira correta mesmo que possuam uma disposição estranha dentro do site</p>
+<h3 id="28-sumario-dos-principais-resultados">2.8 Sumário dos Principais Resultados</h3>
+<p>Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabela 3.</p>
+<p><center></p>
+<p><strong>Tabela 3</strong> - Respostas da entrevista com Julian</p>
+<table>
+<thead>
+<tr>
+<th>Número da pergunta</th>
+<th>Respostas do Usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Julian Michel Gonçalves Schamne</td>
+</tr>
+<tr>
+<td>2</td>
+<td>22</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ensino Superior</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Trabalha como analista de dados tem conhecimento em python, power bi, excel</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Nenhuma, nunca utilizou</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Nunca utilizou nenhum</td>
+</tr>
+<tr>
+<td>14</td>
+<td>O entrevistado apenas seguiu ate a área de quick submit e verificou que esta tarefa estava correta no site</td>
+</tr>
+<tr>
+<td>15</td>
+<td>O entrevistado não saiu do fluxo proposto na análise de tarefas</td>
+</tr>
+<tr>
+<td>16</td>
+<td>O entrevistado não saiu do fluxo</td>
+</tr>
+<tr>
+<td>17</td>
+<td>O entrevistado recomendou que o fluxo do contact us também possuisse a parte de titulo do contact</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>19</td>
+<td>O entrevistado apenas se sentiu incomodado com o design do site</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Ruim</td>
+</tr>
+<tr>
+<td>21</td>
+<td>O entrevistado sugeriu que o site deveria seguir mais o padrão de disposição de icones como em outros sites</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/PabloGJBS">Pablo Guilherme</a>.</p>
+<p></center></p>
+<p><a href="https://www.youtube.com/watch?v=mmHzbV-wdf0">Link da gravação da entrevista</a></p>
+<iframe width="1481" height="554" src="https://www.youtube.com/embed/mmHzbV-wdf0" title="entrevista com o Julian (análise de tarefas)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h2 id="3-contatar-colaboradores-eric-c"><strong>3. Contatar Colaboradores - Eric C</strong></h2>
+<h3 id="31-objetivos-e-escopo-da-avaliacao">3.1 Objetivos e escopo da avaliação</h3>
+<p>Realizar uma avaliação da análise de tarefas proposta, com o objetivo de identificar possíveis falhas, alternativas e coletar sugestões para aprimorar a análise de tarefas.</p>
+<h3 id="32-metodo-de-avaliacao-empregado">3.2 Método de avaliação empregado</h3>
+<p>Conforme planejado na Avaliação das Tarefas, o método escolhido foi a entrevista, uma vez que possibilita a coleta de dados com base na percepção de um usuário real. Os resultados da entrevista estão registrados na Tabela 3.</p>
+<p><center></p>
+<p><em>Tabela 3</em> - Cronograma da avaliação de tarefas com usuário Luisa Nogueira.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Entrevistador</th>
+<th style="text-align: center;">Entrevistado(s)</th>
+<th style="text-align: center;">Horário de Início</th>
+<th style="text-align: center;">Horário de Fim</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/Ericcs10">Eric Camargo</a></td>
+<td style="text-align: center;">Luisa Nogueira</td>
+<td style="text-align: center;">18:00</td>
+<td style="text-align: center;">18:10</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;"><a href="https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&amp;OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&amp;gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB">Microsoft Teams</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/Ericcs10">Eric Camargo</a></p>
+<p></center></p>
+<h3 id="33-selecao-dos-participantes">3.3 Seleção dos participantes</h3>
+<p>O participante escolhido está alinhado com o perfil de usuário estabelecido no projeto, pois é um estudante do curso de Ciência da Computação com uma média de experiência em tecnologia. Além disso, ele se enquadra na faixa etária definida pelo perfil de usuário, situando-se entre os 19 e 24 anos. Além disso, demonstra um forte interesse por tecnologia.</p>
+<h3 id="34-problemas-e-dificuldades-encontradas">3.4 Problemas e Dificuldades encontradas</h3>
+<p>O entrevistado não apresentou nenhuma dificuldado no decorrer da entrevista ao prosseguir pelos caminhos das tarefas.</p>
+<h3 id="35-sugestoes-de-melhoria">3.5 Sugestões de Melhoria</h3>
+<p>Não apresentou sugestões</p>
+<h3 id="36-feedbacks-dos-usuarios">3.6 Feedbacks dos Usuários</h3>
+<p>O entrevistado informou que os fluxos de análise de tarefas HTA estavam corretos</p>
+<h3 id="37-analise-e-interpretacao-dos-usuarios">3.7 Análise e Interpretação dos Usuários</h3>
+<p>Com base nos comentários do entrevistado, é viável concluir que o site apresenta, em sua maioria, desafios relacionados à interface, embora suas funcionalidades funcionem de maneira adequada, apesar de uma disposição incomum dentro do site.</p>
+<h3 id="38-sumario-dos-principais-resultados">3.8 Sumário dos Principais Resultados</h3>
+<p>Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabela 4.</p>
+<p><center></p>
+<p><em>Tabela 4</em> - Respostas da entrevista com Luisa</p>
+<table>
+<thead>
+<tr>
+<th>Número da pergunta</th>
+<th>Respostas do Usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Luisa Nogueira</td>
+</tr>
+<tr>
+<td>2</td>
+<td>20</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ensino Superior</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Utiliza o tempo todo na faculdade</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Nenhuma, nunca utilizou</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Nunca utilizou nenhum</td>
+</tr>
+<tr>
+<td>8</td>
+<td>O entrevistado seguiu para a paginá de contact us,e mostrou como utilizaria</td>
+</tr>
+<tr>
+<td>15</td>
+<td>O entrevistado não saiu do fluxo proposto na análise de tarefas</td>
+</tr>
+<tr>
+<td>16</td>
+<td>O entrevistado não saiu do fluxo</td>
+</tr>
+<tr>
+<td>17</td>
+<td>O entrevistado não sugeriu mudanças</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>19</td>
+<td>O entrevistado apenas se sentiu incomodado com o design do site</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Ruim</td>
+</tr>
+<tr>
+<td>21</td>
+<td>O entrevistado sugeriu que o site deveria seguir mais o padrão de disposição de icones como em outros sites</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/Ericcs10">Eric Camargo</a>.</p>
+<h2 id="4-editar-conta-luana-t"><strong>4. Editar Conta - Luana T</strong></h2>
+<h3 id="41-objetivos-e-escopo-da-avaliacao">4.1 Objetivos e escopo da avaliação</h3>
+<p>Avaliar a análise da tarefa "Editar Conta", a fim de observer se existem falhas e/ou alternativas, além de obter sugestões sobre a análise de tarefas.</p>
+<h3 id="42-metodo-de-avaliacao-empregado">4.2 Método de avaliação empregado</h3>
+<p>De acordo com Planejamento da Avaliação da Análise de Tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os Dados da entrevista estão apresentados na tabela 7.</p>
+<p><center></p>
+<p><strong>Tabela 7</strong> - Cronograma da avaliação - Acessar Contest System.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Entrevistador</th>
+<th style="text-align: center;">Entrevistado(s)</th>
+<th style="text-align: center;">Horário de Início</th>
+<th style="text-align: center;">Horário de Fim</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/luanatorress">Luana Torres</a></td>
+<td style="text-align: center;">Letícia Torres</td>
+<td style="text-align: center;">13:40</td>
+<td style="text-align: center;">13:55</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;"><a href="teams.microsoft.com/">Microsoft Teams</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/luanatorress">Luana Torres</a>.</p>
+<p></center></p>
+<h3 id="43-selecao-dos-participantes">4.3 Seleção dos participantes</h3>
+<p>O participante selecionado se encaixa com o perfil de usuário definido ao longo do projeto. Ela é estudante do curso Engenharia de Software com experiência média a alta em tecnologia e é tecnófila. Além disso, está dentro da faixa etária definida pelo perfil de usuário (19 a 24 anos).</p>
+<h3 id="44-problemas-e-dificuldades-encontradas">4.4 Problemas e Dificuldades encontradas</h3>
+<p>Nenhum problema ou dificuldade foi relatado durante a entrevista.</p>
+<h3 id="45-sugestoes-de-melhoria">4.5 Sugestões de Melhoria</h3>
+<p>Na tabela 8 é possivel verificar as respostas obtidas durante a entrevista:</p>
+<p><center></p>
+<p><strong>Tabela 8</strong> - Respostas da entrevista com Letícia Torres</p>
+<table>
+<thead>
+<tr>
+<th>Número da pergunta</th>
+<th>Respostas do Usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Leticia Torres</td>
+</tr>
+<tr>
+<td>2</td>
+<td>21</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ensino Superior</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tem experiência na área de tecnologia, cursa bacharelado na área.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Uso ou já usei para fins acadêmicos</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Já utilizei o CD-MOJ, único utilizado.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>O entrevistado foi até a área de my account e clicou no botão de editar as informações, clicou em Contact Info, fez alteração e clicou em Update</td>
+</tr>
+<tr>
+<td>15</td>
+<td>O entrevistado não saiu do fluxo proposto na análise de tarefas</td>
+</tr>
+<tr>
+<td>16</td>
+<td>O entrevistado não saiu do fluxo</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>19</td>
+<td>O entrevistado apenas se sentiu incomodado com o design do site</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Ruim</td>
+</tr>
+<tr>
+<td>21</td>
+<td>O entrevistado sugeriu que o site deveria ter uma melhor navegabilidade, ícones maiores, uma melhor acessibilidade e cores diferentes. Sugeriu também mudança na fonte do site.</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/luanatorress">Luana Torres</a> .</p>
+<p></center></p>
+<p><a href="https://www.youtube.com/watch?v=OPMdNiGYqL0">Link da gravação da entrevista</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPMdNiGYqL0?si=jzgSOQ3wdFMqslbV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h3 id="46-feedbacks-dos-usuarios">4.6 Feedbacks dos Usuários</h3>
+<p>O usuário relatou uma navegabilidade ruim na interface, com quase nenhuma acessibilidade e design não agradável.</p>
+<h3 id="47-analise-e-interpretacao-dos-usuarios">4.7 Análise e Interpretação dos Usuários</h3>
+<p>A partir do que o entrevistado comentou é possivel concluir que o site possui em sua grande maioria problemas com a interface, como um design desagradável, mas suas funcionalidades funcionam de maneira correta.</p>
+<h3 id="48-sumario-dos-principais-resultados">4.8 Sumário dos Principais Resultados</h3>
+<p>O usuário não apresentou dificuldade para realizar a tarefa, mas sim com a interface no geral e a complexidade da tarefa sem necessidade. Destacou a importância de uma boa navegabilidade e acessibilidade.</p>
+<h2 id="5-acessar-o-contest-system-ester-l"><strong>5. Acessar o Contest System - Ester L</strong></h2>
+<h3 id="51-objetivos-e-escopo-da-avaliacao">5.1 Objetivos e escopo da avaliação</h3>
+<p>O objetivo da avaliação do HTA "Acessar o Contest System" é verificar se ele está alinhado com o fluxo de ações que o usuário realiza para executar a tarefa no site <a href="https://onlinejudge.org/">Online Judge</a>. Além disso, essa avaliação ajuda na identificação de possíveis melhorias no diagrama referente à tarefa "Acessar o Contest System".</p>
+<h3 id="52-metodo-de-avaliacao-empregado">5.2 Método de avaliação empregado</h3>
+<p>Assim, como o proposto no Planejamento da Avaliação da Análise de Tarefas, o métodos utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 9.</p>
+<p><center></p>
+<p><strong>Tabela 9</strong> - Cronograma da avaliação - Acessar Contest System.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Entrevistador</th>
+<th style="text-align: center;">Entrevistado(s)</th>
+<th style="text-align: center;">Horário de Início</th>
+<th style="text-align: center;">Horário de Fim</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/esteerlino">Ester Lino</a></td>
+<td style="text-align: center;">Jennifer Costa</td>
+<td style="text-align: center;">15:50</td>
+<td style="text-align: center;">16:00</td>
+<td style="text-align: center;">07/11/2023</td>
+<td style="text-align: center;">Faculdade do Gama</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/esteerlino">Ester Lino</a>.</p>
+<p></center></p>
+<h3 id="53-selecao-dos-participantes">5.3 Seleção dos participantes</h3>
+<p>A participante selecionada se encaixa com o perfil de usuário definido no projeto. Ela é estudante do curso Engenharia de Software com experiência média em tecnologia e é tecnófila. Além disso, ela está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).</p>
+<h3 id="54-problemas-e-dificuldades-encontradas">5.4 Problemas e Dificuldades encontradas</h3>
+<p>Durante a entrevista, é possível perceber que a participante teve dificuldade de encontrar o ranking da área "Contests". Nota-se que ela se confunde com o link "Live Rankings" que deveria exibir o ranking ao vivo dos usuários, mas que redireciona para um página inexistente. Apesar da confusão, a participante conseguiu se recuperar do erro e executar a tarefa solicitada.</p>
+<h3 id="55-sugestoes-de-melhoria">5.5 Sugestões de Melhoria</h3>
+<p>Não houve nenhuma sugestão de melhoria.</p>
+<h3 id="56-feedbacks-dos-usuarios">5.6 Feedbacks dos Usuários</h3>
+<p>Para a participante o design do site precisa de melhorias, visto que o design atual é um pouco inadequado e dificulta a navegabilidade.</p>
+<h3 id="57-analise-e-interpretacao-dos-usuarios">5.7 Análise e Interpretação dos Usuários</h3>
+<p>Considerando a entrevista realizada, é possível concluir que, apesar da dificuldade encontrada pela participante, o fluxo da tarefa "Acessar o Contest System" está de acordo com o site avaliado.</p>
+<h3 id="58-sumario-dos-principais-resultados">5.8 Sumário dos Principais Resultados</h3>
+<p>A partir da entrevista, é possível concluir que o HTA está de acordo com o obejtivo definido para ele e que a participante sugeriu melhorias no design do site.</p>
+<p><a href="https://www.youtube.com/watch?v=NE6OatqbJPs">Link da gravação da entrevista</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NE6OatqbJPs?si=wgqHyvc9jvFsXdqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h2 id="6-acessar-o-forgot-login-recuperacao-de-login-kallyne"><strong>6. Acessar o "Forgot Login?" - Recuperação de login - Kallyne</strong></h2>
+<h3 id="61-objetivos-e-escopo-da-avaliacao">6.1 Objetivos e escopo da avaliação</h3>
+<p>A avaliação da tarefa de Recuperação de Login objetiva, seguindo a especificação dada no Planejamento da Avaliação, avaliar a conformidade do fluxo de ações que o usuário realiza para concluir a tarefa com seu respectivo diagrama de Análise Hierárquica de Tarefas no <a href="https://onlinejudge.org/">Online Judge</a>, de forma a também mapear problemas não identificados anteriormente e sugestões de design alternativo que resolva insatisfações com a usabilidade.</p>
+<h3 id="62-metodo-de-avaliacao-empregado">6.2 Método de avaliação empregado</h3>
+<p>O método de avaliação definido foi o da entrevista, que adiciona as perspectivas de um usuário real do sistema ao panorama. Na tabela 10, é apresentado o cronograma da entrevista.</p>
+<p><center></p>
+<p><strong>Tabela 10</strong> - Cronograma da avaliação - Acessar o "Forgot Login?" - Recuperação de login.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Entrevistador</th>
+<th style="text-align: center;">Entrevistado(s)</th>
+<th style="text-align: center;">Horário de Início</th>
+<th style="text-align: center;">Horário de Fim</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/kalipassos">Kallyne Macedo</a></td>
+<td style="text-align: center;">Leonardo Aguiar</td>
+<td style="text-align: center;">16:20</td>
+<td style="text-align: center;">16:30</td>
+<td style="text-align: center;">03/11/2023</td>
+<td style="text-align: center;">Gama, DF</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/kalipassos">Kallyne Macedo</a>.</p>
+<p></center></p>
+<h3 id="63-selecao-dos-participantes">6.3 Seleção dos participantes</h3>
+<p>O participante em questão foi selecionado por sua adequação ao perfil de usuário, pois se encontra na faixa dos 19 a 24 anos de idade e foi mapeado grau alto de afinidade com tecnologia, perfil universitário e uso de ferramentas de júri online para fins acadêmicos.</p>
+<h3 id="64-problemas-e-dificuldades-encontradas">6.4 Problemas e Dificuldades encontradas</h3>
+<p>O participante não obteve dificuldades para a realização da tarefa.</p>
+<h3 id="65-sugestoes-de-melhoria">6.5 Sugestões de Melhoria</h3>
+<p>O participante entrevistado sugeriu alterações no botão de envio do formulário de recuperação de senha por ter notado o botão "apagado", de forma a não exibir resposta ao clique do usuário.</p>
+<h3 id="66-feedbacks-dos-usuarios">6.6 Feedbacks dos Usuários</h3>
+<p>O participante ressaltou que o campo de login está localizado do lado esquerdo da tela, o que foge aos padrões de usabilidade seguidos pela maioria dos sites e causa estranhamento. Apesar disso, conseguiu achar o campo com facilidade.</p>
+<h3 id="67-analise-e-interpretacao-dos-usuarios">6.7 Análise e Interpretação dos Usuários</h3>
+<p>Após verificação do fluxo proposto, o usuário constatou ter feito o mesmo fluxo que se encontra na Análise Hierárquica da Tarefa e mostrou estar de acordo com o que consta no diagrama.</p>
+<h3 id="68-sumario-dos-principais-resultados">6.8 Sumário dos Principais Resultados</h3>
+<p>O usuário não apresentou dificuldade para realizar a tarefa, mas notou uma dissonância entre a localização do campo de login do OnlineJudge e de outros sites de uso comum na Internet. Destacou a importância de campos e botões reativos ao uso, que passam segurança ao usuário quanto a realização efetiva de sua tarefa. No mais, seguiu o fluxo de ações existente no diagrama HTA, sem fuga ou alteração do caminho mapeado.</p>
+<p><a href="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu">Link da gravação da entrevista</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h2 id="7-busca-por-uma-pagina-especifica-henrique-t"><strong>7. Busca por uma página específica - Henrique T</strong></h2>
+<h3 id="71-objetivos-e-escopo-da-avaliacao">7.1 Objetivos e escopo da avaliação</h3>
+<p>O objetivo principal é revisar a análise de tarefas proposta, a fim de identificar eventuais deficiências e possíveis alternativas, além de receber sugestões a respeito da análise de tarefas.</p>
+<h3 id="72-metodo-de-avaliacao-empregado">7.2 Método de avaliação empregado</h3>
+<p>Assim, como o proposto no Planejamento da Avaliação das tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 2.</p>
+<p><center></p>
+<p><strong>Tabela 11</strong> - Cronograma da avaliação de tarefas com usuário Josué Texeira.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Entrevistador</th>
+<th style="text-align: center;">Entrevistado(s)</th>
+<th style="text-align: center;">Horário de Início</th>
+<th style="text-align: center;">Horário de Fim</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/henriqtorresl">Henrique Torres</a></td>
+<td style="text-align: center;">Josué Texeira</td>
+<td style="text-align: center;">15:30</td>
+<td style="text-align: center;">15:45</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;"><a href="https://teams.microsoft.com/">Microsoft Teams</a></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/henriqtorresl">Henrique Torres</a></p>
+<p></center></p>
+<h3 id="73-selecao-dos-participantes">7.3 Seleção dos participantes</h3>
+<p>O participante em questão foi escolhido devido à sua compatibilidade com o perfil de usuário e por possuir um perfil universitário e por usar as ferramentas de júri online para fins acadêmicos e de estudo.</p>
+<h3 id="74-problemas-e-dificuldades-encontradas">7.4 Problemas e Dificuldades encontradas</h3>
+<p>O participante não enfrentou desafios com a execução das tarefas.</p>
+<h3 id="75-sugestoes-de-melhoria">7.5 Sugestões de Melhoria</h3>
+<p>O participante sugeriu melhorias na interface, disse que a tela principal do site não é clara e que não reflete muito o objetivo principal do site.</p>
+<h3 id="76-feedbacks-dos-usuarios">7.6 Feedbacks dos Usuários</h3>
+<p>A participante acredita que o design do site necessita de aprimoramentos, uma vez que o design atual é considerado inadequado e prejudica a facilidade de navegação.</p>
+<h3 id="77-analise-e-interpretacao-dos-usuarios">7.7 Análise e Interpretação dos Usuários</h3>
+<p>Depois de analisar o fluxo proposto, o usuário percebeu que seguiu o mesmo fluxo descrito na Análise Hierárquica da Tarefa e concordou com o que estava representado no diagrama.</p>
+<h3 id="78-sumario-dos-principais-resultados">7.8 Sumário dos Principais Resultados</h3>
+<p>O usuário executou a tarefa sem enfrentar obstáculos, no entanto, observou uma discrepância na localização do campo de login em comparação a outros sites comumente utilizados na Internet. Ele enfatizou a importância de campos e botões que reajam prontamente ao uso, proporcionando segurança ao usuário em relação à conclusão eficaz de suas ações. Além disso, o usuário seguiu fielmente o fluxo de ações delineado no diagrama HTA, sem desvios ou alterações no percurso previamente estabelecido.</p>
+<p><a href="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu">Link da gravação da entrevista</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h2 id="planejamento-de-reprojeto">Planejamento de reprojeto</h2>
+<p>Considerando que as entrevistas realizadas resultaram em um levantamento de aspectos de melhoria, será necessário realizar um reprojeto com as mudanças sugeridas. Tal reprojeto deve ser realizado um dia após a entrevista com o usuário e deve manter a estrutura do projeto original, realizando somente as mudanças necessárias. A seguir, na tabela 2, é proposto um cronograma para o reprojeto.</p>
+<p><center></p>
+<p><strong>Tabela 1</strong> - Cronograma atualizado do Reprojeto.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Entrevistador</th>
+<th style="text-align: center;">Horário de Início</th>
+<th style="text-align: center;">Horário de Fim</th>
+<th style="text-align: center;">Data</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/ericcs10">Eric Camargo</a></td>
+<td style="text-align: center;">19:30</td>
+<td style="text-align: center;">19:45</td>
+<td style="text-align: center;">09/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/esteerlino">Ester Lino</a></td>
+<td style="text-align: center;">19:30</td>
+<td style="text-align: center;">19:45</td>
+<td style="text-align: center;">09/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/henriqtorresl">Henrique Torres</a></td>
+<td style="text-align: center;">19:30</td>
+<td style="text-align: center;">19:45</td>
+<td style="text-align: center;">09/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/kalipassos">Kallyne Macedo</a></td>
+<td style="text-align: center;">19:30</td>
+<td style="text-align: center;">19:45</td>
+<td style="text-align: center;">09/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/luanatorress">Luana Torres</a></td>
+<td style="text-align: center;">19:30</td>
+<td style="text-align: center;">19:45</td>
+<td style="text-align: center;">09/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/PabloGJBS">Pablo Guilherme</a></td>
+<td style="text-align: center;">19:30</td>
+<td style="text-align: center;">19:45</td>
+<td style="text-align: center;">09/11/2023</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/suzaneduarte">Suzane Duarte</a></td>
+<td style="text-align: center;">19:30</td>
+<td style="text-align: center;">19:45</td>
+<td style="text-align: center;">09/11/2023</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: <a href="https://github.com/luanatorress">Luana Torres</a>.</p>
+<p></center></p>
+<h2 id="referencias-bibliograficas">Referências bibliográficas</h2>
+<blockquote>
+<p><a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br></p>
+</blockquote>
+<h2 id="historico-de-versao">Histórico de versão</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;">Criação da página de Relato dos Resultados da Análise de Tarefas</td>
+<td style="text-align: center;"><a href="https://github.com/luanatorress">Luana Torres</a></td>
+<td style="text-align: center;"><a href="https://github.com/ericcs10">Eric Camargo</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">1.2</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;">Adição da entrevista 2</td>
+<td style="text-align: center;"><a href="https://github.com/PabloGJBS">Pablo Guilherme</a></td>
+<td style="text-align: center;"><a href="https://github.com/ericcs10">Eric Camargo</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">1.3</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;">Inclusão da avaliação da Análise de Tarefa - "Acessar Contest System"</td>
+<td style="text-align: center;"><a href="https://github.com/esteerlino">Ester Lino</a></td>
+<td style="text-align: center;"><a href="https://github.com/suzaneduarte">Suzane Duarte</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">1.4</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;">Inclusão da avaliação "Forgot login"</td>
+<td style="text-align: center;"><a href="https://github.com/kalipassos">Kallyne Macedo</a></td>
+<td style="text-align: center;"><a href="https://github.com/suzaneduarte">Suzane Duarte</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;">Inclusão da avaliação "Browse Problems"</td>
+<td style="text-align: center;"><a href="https://github.com/suzaneduarte">Suzane Duarte</a></td>
+<td style="text-align: center;"><a href="https://github.com/PabloGJBS">Pablo Guilherme</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">1.6</td>
+<td style="text-align: center;">08/11/2023</td>
+<td style="text-align: center;">Inclusão da avaliação "Editar Conta"</td>
+<td style="text-align: center;"><a href="https://github.com/luanatorress">Luana Torres</a></td>
+<td style="text-align: center;"><a href="https://github.com/esteerlino">Ester Lino</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Voltar para o topo
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../planejamento-do-relato-dos-resultados/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Planejamento do Relato dos Resultados">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Planejamento do Relato dos Resultados
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../../../nivel2/planejamento-avaliacao-prototipo-papel/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Planejamento da Avaliação do Protótipo de Papel">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              <div class="md-ellipsis">
+                Planejamento da Avaliação do Protótipo de Papel
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../../..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.top", "navigation.footer", "toc.integrate"], "search": "../../../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../../../assets/javascripts/bundle.726fbb30.min.js"></script>
+      
+    
+  </body>
+</html>
