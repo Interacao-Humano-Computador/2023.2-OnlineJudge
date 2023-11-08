@@ -59,7 +59,7 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://
 
 É possível acessar a gravação da entrevista através do seguinte [Link da gravação da entrevista](https://youtu.be/oqq9S_ug2Wg)
 
-<iframe width="560" height="315" src="https://youtu.be/oqq9S_ug2Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oqq9S_ug2Wg?si=wgqHyvc9jvFsXdqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 1.6 Análise e interpretação dos dados coletados
 
@@ -128,7 +128,7 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 [Link da gravação da entrevista](https://youtu.be/XZcAV8VdGP8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XZcAV8VdGP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZcAV8VdGP8?si=wgqHyvc9jvFsXdqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2.6 Análise e interpretação dos dados coletados
 
