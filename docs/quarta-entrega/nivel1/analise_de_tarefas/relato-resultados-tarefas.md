@@ -67,11 +67,11 @@ Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabel
 
 <center>
 
-**Tabela 3** - Respostas da entrevista com Julian
+**Tabela 2** - Respostas da entrevista com Letícia Resende
 
 | Número da pergunta | Respostas do Usuário                                                                                                                                                        |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                  | Letícia                                                                                                                                                                     |
+| 1                  | Letícia Resende                                                                                                                                                             |
 | 2                  | 23                                                                                                                                                                          |
 | 3                  | Ensino Superior                                                                                                                                                             |
 | 4                  | Tenho vasta experiência                                                                                                                                                     |
@@ -105,11 +105,11 @@ Avaliar a análise de tarefas proposta, a fim de observer se existem falhas e ou
 
 ### 2.2 Método de avaliação empregado
 
-Assim, como o proposto no Planejamento da Avaliação das tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 2.
+Assim, como o proposto no Planejamento da Avaliação das tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 3.
 
 <center>
 
-**Tabela 2** - Cronograma da avaliação de tarefas com usuário Julian Michel.
+**Tabela 3** - Cronograma da avaliação de tarefas com usuário Julian Michel.
 
 |                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |             Local              |
 | :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------------------------: |
@@ -205,9 +205,9 @@ De acordo com Planejamento da Avaliação da Análise de Tarefas, o método util
 
 **Tabela 7** - Cronograma da avaliação - Acessar Contest System.
 
-|                Entrevistador                |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :-----------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Luana Torres](https://github.com/luanatorress) | Letícia Torres |       13:40      |     13:55    | 08/11/2023 | [Microsoft Teams](teams.microsoft.com/) |
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |                  Local                  |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :-------------------------------------: |
+| [Luana Torres](https://github.com/luanatorress) | Letícia Torres  |       13:40       |     13:55      | 08/11/2023 | [Microsoft Teams](teams.microsoft.com/) |
 
 Fonte: [Luana Torres](https://github.com/luanatorress).
 
@@ -227,28 +227,27 @@ Na tabela 8 é possivel verificar as respostas obtidas durante a entrevista:
 
 <center>
 
-**Tabela 8** - Resultados da entrevista com Julian
+**Tabela 8** - Respostas da entrevista com Letícia Torres
 
-|Questões| Tipo da Resposta |Respostas do entrevistado|
-| --- | --- | --- |
-| 1 – Qual é o seu nome?| Resposta Discursiva | Letícia|
-| 2 – Qual é a sua idade?| Resposta Discursiva |  21 |
-| 3 – Qual sua escolaridade atual? | Resposta Fechada<br><br>[] Ensino Médio<br><br>[] Ensino Superior<br><br>[] Pós-graduação | Ensino Superior |
-| 4 – Qual seu grau de experiência com tecnologia?                                   | Resposta Discursiva                                                                                                                                                                                                                                         |    Tem experiência na área de tecnologia, cursa bacharelado na área.                                                                                              |
-| 5 – Que experiência tem com sites de júri online?                                  | Resposta Fechada<br>[] Nenhuma !<br><br>[] Uso ou já usei para fins acadêmicos<br><br>[] Uso ou já usei para fins pessoais                                                                                                                                  | Uso ou já usei para fins acadêmicos                    |
-| 6 – Você já usou o OnlineJudge?                                                    | Resposta Fechada<br><br>[] Sim<br><br>[] Não                                                                                                                                                                                                                |        Não                                                                                            |
-| 7 – Qual dos sites de júri online você mais gostou e por quê?                      | Resposta Discursiva                                                                                                                                                                                                                                         |  Já utilizei o CD-MOJ, único utilizado.                                                                                                |
+| Número da pergunta | Respostas do Usuário                                                                                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                  | Leticia Torres                                                                                                                                                                  |
+| 2                  | 21                                                                                                                                                                              |
+| 3                  | Ensino Superior                                                                                                                                                                 |
+| 4                  | Tem experiência na área de tecnologia, cursa bacharelado na área.                                                                                                               |
+| 5                  | Uso ou já usei para fins acadêmicos                                                                                                                                             |
+| 6                  | Não                                                                                                                                                                             |
+| 7                  | Já utilizei o CD-MOJ, único utilizado.                                                                                                                                          |
+| 10                 | O entrevistado foi até a área de my account e clicou no botão de editar as informações, clicou em Contact Info, fez alteração e clicou em Update                                |
+| 15                 | O entrevistado não saiu do fluxo proposto na análise de tarefas                                                                                                                 |
+| 16                 | O entrevistado não saiu do fluxo                                                                                                                                                |
+| 17                 | Não                                                                                                                                                                             |
+| 18                 | Não                                                                                                                                                                             |
+| 19                 | O entrevistado apenas se sentiu incomodado com o design do site                                                                                                                 |
+| 20                 | Ruim                                                                                                                                                                            |
+| 21                 | O entrevistado sugeriu que o site deveria ter uma melhor navegabilidade, ícones maiores, uma melhor acessibilidade e cores diferentes. Sugeriu também mudança na fonte do site. |
 
-| 10 – Como você realizaria a tarefa de Editar conta?                                | Resposta Discursiva                                                                                                                                                                                                                                         | O entrevistado foi até a área de my account e clicou no botão de editar as informações, clicou em 
-Contact Info, fez alteração e clicou em Update |
-
-| 15 – Você saiu do fluxo proposto em alguma tarefa?                                 | Resposta de múltipla escolha<br><br>[] Nenhuma !<br><br>[] Contact Us<br><br>[] Forgot Login<br><br>[] Editar Conta<br><br>[] Procurar um problema<br><br>[] Acessar o Contest System<br><br>[] Visualizar minhas submissões<br><br>[] Submeter um problema | O usuário não saiu do fluxo proposto na análise de tarefas                                                                        |
-| 16 - O que foi feito de diferente?                                                 | Resposta Discursiva                                                                                                                                                                                                                                         |  O entrevistado não saiu do fluxo                                                                                                 |
-| 17 – Você sugere alguma alteração ou melhoria no diagrama do fluxo?                | Resposta Discursiva                                                                                                                                                                                                                                         |Não      |
-| 18 - Você se sentiu incomodado com a realização de alguma tarefa?                  | Resposta Fechada<br><br>[] Sim<br><br>[] Não !                                                                                                                                                                                                              | Não                                                                   |
-| 19 – Por quê?                                                                      | Resposta Discursiva                                                                                                                                                                                                                                         |  O entrevistado não sentiu incômodo com nenhuma tarefa                                                                                           |
-| 20 – No geral, como você classifica a navegabilidade do site?                      | Resposta Fechada<br>[] Excelente<br><br>[] Boa<br><br>[] Regular<br><br>[] Ruim<br><br>[] Péssima                                                                                                                                                           |  Ruim                                                                                                 |
-| 21 - O que você mudaria na interface de forma a melhorar a realização das tarefas? | Resposta Discursiva                                                                                                                                                                                                                                         |  O entrevistado sugeriu que o site deveria ter uma melhor navegabilidade, ícones maiores, uma melhor acessibilidade e cores diferentes. Sugeriu também mudança na fonte do site.                                                                                               |
+Fonte: [Luana Torres](https://github.com/luanatorress) .
 
 </center>
 
@@ -421,4 +420,4 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 |  1.3   | 08/11/2023 | Inclusão da avaliação da Análise de Tarefa - "Acessar Contest System" |   [Ester Lino](https://github.com/esteerlino)    | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.4   | 08/11/2023 |                 Inclusão da avaliação "Forgot login"                  | [Kallyne Macedo](https://github.com/kalipassos)  | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.5   | 08/11/2023 |                Inclusão da avaliação "Browse Problems"                | [Suzane Duarte](https://github.com/suzaneduarte) | [Pablo Guilherme](https://github.com/PabloGJBS)  |
-|  1.6   | 08/11/2023 |                Inclusão da avaliação "Editar Conta"                | [Luana Torres](https://github.com/luanatorress) | [Ester Lino](https://github.com/esteerlino)  |
+|  1.6   | 08/11/2023 |                 Inclusão da avaliação "Editar Conta"                  | [Luana Torres](https://github.com/luanatorress)  |   [Ester Lino](https://github.com/esteerlino)    |
