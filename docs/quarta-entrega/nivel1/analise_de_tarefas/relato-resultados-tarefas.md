@@ -512,9 +512,9 @@ Depois de analisar o fluxo proposto, o usuário percebeu que seguiu o mesmo flux
 
 O usuário executou a tarefa sem enfrentar obstáculos, no entanto, observou uma discrepância na localização do campo de login em comparação a outros sites comumente utilizados na Internet. Ele enfatizou a importância de campos e botões que reajam prontamente ao uso, proporcionando segurança ao usuário em relação à conclusão eficaz de suas ações. Além disso, o usuário seguiu fielmente o fluxo de ações delineado no diagrama HTA, sem desvios ou alterações no percurso previamente estabelecido.
 
-[Link da gravação da entrevista](https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu)
+[Link da gravação da entrevista](https://youtu.be/KSf8Acx30BA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/KSf8Acx30BA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Planejamento de reprojeto
 
