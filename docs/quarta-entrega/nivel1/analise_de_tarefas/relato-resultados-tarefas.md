@@ -244,6 +244,8 @@ Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabel
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10).
 
+</center>
+
 ## **4. Editar Conta - Luana T**
 
 ### 4.1 Objetivos e escopo da avaliação
@@ -328,15 +330,15 @@ O objetivo da avaliação do HTA "Acessar o Contest System" é verificar se ele 
 
 ### 5.2 Método de avaliação empregado
 
-Assim, como o proposto no Planejamento da Avaliação da Análise de Tarefas, o métodos utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 9.
+Assim, como o proposto no Planejamento da Avaliação da Análise de Tarefas, o métodos utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 8.
 
 <center>
 
-**Tabela 9** - Cronograma da avaliação - Acessar Contest System.
+**Tabela 8** - Cronograma da avaliação - Acessar Contest System.
 
 |                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
 | :-----------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Ester Lino](https://github.com/esteerlino) | Jennifer Costa  |       15:50       |     16:00      | 07/11/2023 | Faculdade do Gama |
+| [Ester Lino](https://github.com/esteerlino) | Jennifer Costa  |       15:50       |     16:00      | 07/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -348,7 +350,23 @@ A participante selecionada se encaixa com o perfil de usuário definido no proje
 
 ### 5.4 Problemas e Dificuldades encontradas
 
-Durante a entrevista, é possível perceber que a participante teve dificuldade de encontrar o ranking da área "Contests". Nota-se que ela se confunde com o link "Live Rankings" que deveria exibir o ranking ao vivo dos usuários, mas que redireciona para um página inexistente. Apesar da confusão, a participante conseguiu se recuperar do erro e executar a tarefa solicitada.
+Durante a entrevista, é possível perceber que a participante teve dificuldade de encontrar o ranking da área "Contests" (Figura 2). Nota-se que ela se confunde com o link "Live Rankings" que deveria exibir o ranking ao vivo dos usuários, mas que redireciona para um página inexistente. Apesar da confusão, a participante conseguiu se recuperar do erro e executar a tarefa solicitada.
+
+<center>Figura 2 - Problema menu desorganizado
+
+![](../../../assets/images/judge5.png)
+
+<b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a> </a>
+
+</center>
+
+<center>Figura 3 - Redirecionamento do link "Live Rankings" quebrado
+
+![](../../../assets/images/judge6.png)
+
+<b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a> </a>
+
+</center>
 
 ### 5.5 Sugestões de Melhoria
 
@@ -363,6 +381,33 @@ Para a participante o design do site precisa de melhorias, visto que o design at
 Considerando a entrevista realizada, é possível concluir que, apesar da dificuldade encontrada pela participante, o fluxo da tarefa "Acessar o Contest System" está de acordo com o site avaliado.
 
 ### 5.8 Sumário dos Principais Resultados
+
+Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabela 3.
+
+<center>
+
+**Tabela 2** - Respostas da entrevista com Letícia Resende
+
+| Número da pergunta | Respostas do Usuário |
+| ------------------ | -------------------- |
+|         1          |       Jennifer       |
+|         2          |          20          |
+|         3          |    Ensino Superior   |
+|         4          |  Conhecimento Básico |
+|         5          | Já utilizou para fins pessoais |
+|         6          |         Não          |
+|         7          | Utilizou o Beecrowd e não gostou.  |
+|        12          | A entrevistada conseguiu acessar a aba "Contests" sem dificuldade. Porém, quando solicitado que fosse acessado o ranking do Contest System, a entrevistada se confundiu com um link que estava mais acima no menu lateral |
+|        15          | Ela afirmou que sim, visto que quando tentou acessar o ranking, acabou ocorrendo uma confusão com os links. |
+|        16          | A entrevistada saiu do fluxo ao tentar acessar o Conteste Ranking, mas ela conseguiu se recuperar do erro.                |
+|        17          | Não sugeriu nenhuma alteração. |
+|        18          |            Não                 |
+|        20          |          Regular               |
+|        21          | Para a entrevistada, o atual design do site é "bagunçado" e portanto, sugeriu melhorias na aparência do site avaliado.       |
+
+Fonte: [Ester Lino](https://github.com/esteerlino).
+
+</center>
 
 A partir da entrevista, é possível concluir que o HTA está de acordo com o obejtivo definido para ele e que a participante sugeriu melhorias no design do site.
 
@@ -503,7 +548,8 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 | :----: | :--------: | :-------------------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 08/11/2023 |   Criação da página de Relato dos Resultados da Análise de Tarefas    | [Luana Torres](https://github.com/luanatorress)  |   [Eric Camargo](https://github.com/ericcs10)    |
 |  1.2   | 08/11/2023 |                        Adição da entrevista 2                         | [Pablo Guilherme](https://github.com/PabloGJBS)  |   [Eric Camargo](https://github.com/ericcs10)    |
-|  1.3   | 08/11/2023 | Inclusão da avaliação da Análise de Tarefa - "Acessar Contest System" |   [Ester Lino](https://github.com/esteerlino)    | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.3   | 08/11/2023 |             Inclusão da avaliação "Acessar Contest System"            |  [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.4   | 08/11/2023 |                 Inclusão da avaliação "Forgot login"                  | [Kallyne Macedo](https://github.com/kalipassos)  | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.5   | 08/11/2023 |                Inclusão da avaliação "Browse Problems"                | [Suzane Duarte](https://github.com/suzaneduarte) | [Pablo Guilherme](https://github.com/PabloGJBS)  |
 |  1.6   | 08/11/2023 |                 Inclusão da avaliação "Editar Conta"                  | [Luana Torres](https://github.com/luanatorress)  |   [Ester Lino](https://github.com/esteerlino)    |
+|  1.7   | 08/11/2023 |               Correções na avaliação "Acessar Contest System"         | [Ester Lino](https://github.com/esteerlino)  |   [Luana Torres](https://github.com/luanatorress)  |
