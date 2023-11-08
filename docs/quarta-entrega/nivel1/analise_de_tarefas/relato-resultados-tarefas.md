@@ -29,19 +29,78 @@ Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](http
 
 ### 2.1 Objetivos e escopo da avaliação
 
+Avaliar a análise de tarefas proposta, a fim de observer se existem falhas e ou alternativas, além de obter sugestões sobre a análise de tarefas.
+
 ### 2.2 Método de avaliação empregado
 
+Assim, como o proposto no Planejamento da Avaliação das tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 2.
+
+<center>
+
+**Tabela 2** - Cronograma da avaliação de tarefas com usuário Julian Michel.
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Pablo Guilherme](https://github.com/PabloGJBS) | Julian Michel |       16:55       |     17:20      | 08/11/2023 | [Discord](https://discord.com) |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)
+
+</center>
+
 ### 2.3 Seleção dos participantes
+
+O participante selecionado se encaixa com o perfil de usuário definido no projeto. Ele é estudante do curso Ciência da computação com experiência média em tecnologia e é tecnófilo. Além disso, ele está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
 
 ### 2.4 Problemas e Dificuldades encontradas
 
 ### 2.5 Sugestões de Melhoria
 
+Na tabela 3 é possivel verificar as respostas obtidas durante a entrevista:
+
+<center>
+
+**Tabela 3** - Resultados da entrevista com Julian
+
+|Questões| Tipo da Resposta |Respostas do entrevistado|
+| --- | --- | --- |
+| 1 – Qual é o seu nome?| Resposta Discursiva | Julian Michel Gonçalves Schamne|
+| 2 – Qual é a sua idade?| Resposta Discursiva |  22 |
+| 3 – Qual sua escolaridade atual? | Resposta Fechada<br><br>[] Ensino Médio<br><br>[] Ensino Superior<br><br>[] Pós-graduação | Ensino Superior |
+| 4 – Qual seu grau de experiência com tecnologia?                                   | Resposta Discursiva                                                                                                                                                                                                                                         |    Trabalha como analista de dados tem conhecimento em python, power bi, excel                                                                                               |
+| 5 – Que experiência tem com sites de júri online?                                  | Resposta Fechada<br>[] Nenhuma !<br><br>[] Uso ou já usei para fins acadêmicos<br><br>[] Uso ou já usei para fins pessoais                                                                                                                                  | Nenhuma, nunca utilizou                        |
+| 6 – Você já usou o OnlineJudge?                                                    | Resposta Fechada<br><br>[] Sim<br><br>[] Não                                                                                                                                                                                                                |        Não                                                                                            |
+| 7 – Qual dos sites de júri online você mais gostou e por quê?                      | Resposta Discursiva                                                                                                                                                                                                                                         |  Nunca utilizou nenhum                                                                                                 |
+| 8 – Como você realizaria a tarefa de Contact Us (Nos contate)?                     | Resposta Discursiva                                                                                                                                                                                                                                         | O entrevistado seguiu para a paginá de contact us, porém ele informou que geralmente existem botões nos cantos da tela que servem para isto e informou que o site apresenta uma localização extranha para esta tarefa |
+| 9 – Como você realizaria a tarefa de Forgot login? (Recuperação de Senha)?         | Resposta Discursiva                                                                                                                                                                                                                                         | o Entrevistado seguiu para a aba de forgot login e informou que estava tudo correto e achou interessante poder recuperar tanto o username quanto a senha ao mesmo tempo |
+| 10 – Como você realizaria a tarefa de Editar conta?                                | Resposta Discursiva                                                                                                                                                                                                                                         | O entrevistado foi até a área de my account e clicou no botão de editar as informações, porém ele achou esquisito que o site não utiliza o espaço da tela de maneira eficiente |
+| 11 - Como você realizaria a tarefa de Procurar um problema?                        | Resposta Discursiva                                                                                                                                                                                                                                         | O entrevistado foi até a área Browse Problems, porém ele afirmou ser estranho a disposição de pastas dentro de mais pastas o que tornou a tarefa trabalhosa sem necessidade|
+| 12 - Como você realizaria a tarefa de Acessar o Contest System?                    | Resposta Discursiva                                                                                                                                                                                                                                         | O entrevistado seguiu até a o botão de contest, porém ele informou que é estranho que o botão apenas abra uma tela de introdução em vez de ir direto ao ponto|
+| 13 - Como você realizaria a tarefa de Visualizar as minhas submissões?             | Resposta Discursiva                                                                                                                                                                                                                                         | O entrevistado apenas seguiu ate a aba de my submissions |
+| 14 - Como você realizaria a tarefa de Submeter um problema?                        | Resposta Discursiva                                                                                                                                                                                                                                         | O entrevistado apenas seguiu ate a área de quick submit e verificou que esta tarefa estava correta no site |
+| 15 – Você saiu do fluxo proposto em alguma tarefa?                                 | Resposta de múltipla escolha<br><br>[] Nenhuma !<br><br>[] Contact Us<br><br>[] Forgot Login<br><br>[] Editar Conta<br><br>[] Procurar um problema<br><br>[] Acessar o Contest System<br><br>[] Visualizar minhas submissões<br><br>[] Submeter um problema | O usuário não saiu do fluxo proposto na análise de tarefas                                                                        |
+| 16 - O que foi feito de diferente?                                                 | Resposta Discursiva                                                                                                                                                                                                                                         |  O entrevistado não saiu do fluxo                                                                                                 |
+| 17 – Você sugere alguma alteração ou melhoria no diagrama do fluxo?                | Resposta Discursiva                                                                                                                                                                                                                                         | O entrevistado recomendou que o fluxo do contact us também possuisse a parte de titulo do contact                                          |
+| 18 - Você se sentiu incomodado com a realização de alguma tarefa?                  | Resposta Fechada<br><br>[] Sim<br><br>[] Não !                                                                                                                                                                                                              | Não                                                                   |
+| 19 – Por quê?                                                                      | Resposta Discursiva                                                                                                                                                                                                                                         |  O entrevistado apenas se sentiu incomodado com o design do site                                                                                                 |
+| 20 – No geral, como você classifica a navegabilidade do site?                      | Resposta Fechada<br>[] Excelente<br><br>[] Boa<br><br>[] Regular<br><br>[] Ruim<br><br>[] Péssima                                                                                                                                                           |  Ruim                                                                                                 |
+| 21 - O que você mudaria na interface de forma a melhorar a realização das tarefas? | Resposta Discursiva                                                                                                                                                                                                                                         |  O entrevistado sugeriu que o site deveria seguir mais o padrão de disposição de icones como em outros sites                                                                                                 |
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=mmHzbV-wdf0)
+
+<iframe width="1481" height="554" src="https://www.youtube.com/embed/mmHzbV-wdf0" title="entrevista com o Julian (análise de tarefas)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 2.6 Feedbacks dos Usuários
+
+O entrevistado informou que os fluxos de análise de tarefas HTA estavam corretos, salvo uma sugestão de adicionar o campo de Título no fluxo do contact us
 
 ### 2.7 Análise e Interpretação dos Usuários
 
+A partir do que o entrevistado comentou é possivel concluir que o site possui em sua grande maioria problemas com a interface, mas suas funcionalidades funcionam de maneira correta mesmo que possuam uma disposição estranha dentro do site
+
 ### 2.8 Sumário dos Principais Resultados
+
 
 
 ## **3. Contatar Colaboradores - Eric C**
@@ -169,3 +228,4 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 | Versão |    Data    |                         Descrição                          |                   Responsáveis                   |                     Revisor                     |
 | :----: | :--------: | :--------------------------------------------------------: | :----------------------------------------------: | :---------------------------------------------: |
 |  1.0   | 08/11/2023 | Criação da página de Relato dos Resultados da Análise de Tarefas | [Luana Torres](https://github.com/luanatorress) | [Eric Camargo](https://github.com/ericcs10) |
+|  1.1  | 08/11/2023 | Adição da entrevista 2 | [Pablo Guilherme](https://github.com/PabloGJBS) | [Eric Camargo](https://github.com/ericcs10) |
