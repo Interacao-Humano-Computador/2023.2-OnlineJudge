@@ -146,19 +146,66 @@ Não teve nenhuma sujestão de melhoria para o storyboard
 
 ### 3.1 Objetivos e escopo da avaliação
 
+A avaliação do Storyboard "Contact Us" tem como objetivo identificar incoerências entre o storyboard realizado e a real execução dessa tarefa no site [Online Judge](https://onlinejudge.org/), assim como verificar se a estrutura do storyboard é correta
+
 ### 3.2 Método de avaliação empregado
+
+De acordo com o que foi estabelecido no Planejamento da Avaliação do Storyboard, a metodologia escolhida foi a entrevista, uma vez que ela possibilita a coleta de dados com base na percepção de um usuário real. Os dados resultantes das entrevistas estão registrados na Tabela 5.
+
+[Link para o storyboard avaliado](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/storyboards/#contact-us)
+
+<center>
+
+*Tabela 5* - Cronograma da avaliação - Contact Us.
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Eric Camargo](https://github.com/Ericcs10) | Luísa Nogueira |       18:10       |     18:19      | 08/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB)|
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10)
+
+</center>
 
 ### 3.3 Perfil do participante
 
+O participante escolhido está alinhado com o perfil de usuário estabelecido no projeto, pois é um estudante do curso de Engenharia de Software com uma média de experiência em tecnologia. Além disso, ele se enquadra na faixa etária definida pelo perfil de usuário, situando-se entre os 19 e 24 anos. Além disso, demonstra um forte interesse por tecnologia.
+
 ### 3.4 Problemas encontrados
+
+Não possui titulo
 
 ### 3.5 Sumário dos dados coletados
 
+Na tabela 6 é posível verificar as respostas obtidas pela entrevista.
+
+<center>
+
+*Tabela 6* - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| 1                  | A narrativa apresentada pelo Storyboard está condizente com o título?                                            | Não      |
+| 2                  | No que tange atores e ambiente, o Storyboard em questão possui relação com a realidade?                          | Sim      |
+| 3                  | As tarefas realizadas pelos atores no storyboard são condizentes com a realidade?                                | Sim      |
+| 4                  | As ações realizadas no Storyboard seguem uma ordem sequencial, fluída e lógica?                                  | Sim      |
+| 5                  | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | Sim      |
+| 6                  | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | Sim      |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10).
+
+</center>
+
 ### 3.6 Análise e interpretação dos dados coletados
+
+Com base nas respostas obtidas, é viável concluir que o storyboard é de fácil compreensão, foi elaborado de maneira clara e está em conformidade com seus objetivos.
 
 ### 3.7 Feedback do usuário
 
+O usuário se mostrou satisfeito com o storyboard apresentado.
+
 ### 3.8 Sugestões de melhoria
+
+Não apresentou sugestões de melhoria
 
 ## **4. Editar Conta - Luana T**
 
@@ -428,10 +475,9 @@ O usuário destacou a correspondência do storyboard com as perguntas feitas, re
 
 O usuário não sugeriu nenhuma melhoria.
 
-<!-- Adicionar o link do vídeo: -->
-<!-- [Link da gravação da entrevista](https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu) -->
+[Link da gravação da entrevista](https://www.youtube.com/embed/YjNgBIldUGg?si=PcoqpLAvAOrSW9R3)
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YjNgBIldUGg?si=PcoqpLAvAOrSW9R3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Planejamento de reprojeto
 

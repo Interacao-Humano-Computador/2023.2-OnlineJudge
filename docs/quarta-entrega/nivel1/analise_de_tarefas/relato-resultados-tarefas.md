@@ -177,19 +177,72 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 ### 3.1 Objetivos e escopo da avaliação
 
+Realizar uma avaliação da análise de tarefas proposta, com o objetivo de identificar possíveis falhas, alternativas e coletar sugestões para aprimorar a análise de tarefas.
+
 ### 3.2 Método de avaliação empregado
+
+Conforme planejado na Avaliação das Tarefas, o método escolhido foi a entrevista, uma vez que possibilita a coleta de dados com base na percepção de um usuário real. Os resultados da entrevista estão registrados na Tabela 3.
+
+<center>
+
+*Tabela 3* - Cronograma da avaliação de tarefas com usuário Luisa Nogueira.
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Eric Camargo](https://github.com/Ericcs10) | Luisa Nogueira |       18:00       |     18:10      | 08/11/2023 |  [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10)
+
+</center>
 
 ### 3.3 Seleção dos participantes
 
+O participante escolhido está alinhado com o perfil de usuário estabelecido no projeto, pois é um estudante do curso de Ciência da Computação com uma média de experiência em tecnologia. Além disso, ele se enquadra na faixa etária definida pelo perfil de usuário, situando-se entre os 19 e 24 anos. Além disso, demonstra um forte interesse por tecnologia.
+
 ### 3.4 Problemas e Dificuldades encontradas
+
+O entrevistado não apresentou nenhuma dificuldado no decorrer da entrevista ao prosseguir pelos caminhos das tarefas.
+
 
 ### 3.5 Sugestões de Melhoria
 
+Não apresentou sugestões
+
 ### 3.6 Feedbacks dos Usuários
+
+O entrevistado informou que os fluxos de análise de tarefas HTA estavam corretos
 
 ### 3.7 Análise e Interpretação dos Usuários
 
+Com base nos comentários do entrevistado, é viável concluir que o site apresenta, em sua maioria, desafios relacionados à interface, embora suas funcionalidades funcionem de maneira adequada, apesar de uma disposição incomum dentro do site.
+
 ### 3.8 Sumário dos Principais Resultados
+
+Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabela 4.
+
+<center>
+
+*Tabela 4* - Respostas da entrevista com Luisa
+
+|Número da pergunta|Respostas do Usuário|
+|---|---|
+|1| Luisa Nogueira |
+|2| 20 |
+|3|Ensino Superior|
+|4|Utiliza o tempo todo na faculdade|
+|5|Nenhuma, nunca utilizou |
+|6|Não|
+|7|Nunca utilizou nenhum|
+|8|O entrevistado seguiu para a paginá de contact us,e mostrou como utilizaria|
+|15|O entrevistado não saiu do fluxo proposto na análise de tarefas
+|16| O entrevistado não saiu do fluxo    |
+|17|O entrevistado não sugeriu mudanças|
+|18|Não|
+|19|O entrevistado apenas se sentiu incomodado com o design do site |
+|20|Ruim|
+|21|O entrevistado sugeriu que o site deveria seguir mais o padrão de disposição de icones como em outros sites|
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10).
 
 ## **4. Editar Conta - Luana T**
 
@@ -414,10 +467,9 @@ Depois de analisar o fluxo proposto, o usuário percebeu que seguiu o mesmo flux
 
 O usuário executou a tarefa sem enfrentar obstáculos, no entanto, observou uma discrepância na localização do campo de login em comparação a outros sites comumente utilizados na Internet. Ele enfatizou a importância de campos e botões que reajam prontamente ao uso, proporcionando segurança ao usuário em relação à conclusão eficaz de suas ações. Além disso, o usuário seguiu fielmente o fluxo de ações delineado no diagrama HTA, sem desvios ou alterações no percurso previamente estabelecido.
 
-<!-- Adicionar o link do vídeo: -->
-<!-- [Link da gravação da entrevista](https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu) -->
+[Link da gravação da entrevista](https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu)
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Planejamento de reprojeto
 
