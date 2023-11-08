@@ -89,7 +89,7 @@ Fonte: [Ester Lino](https://github.com/esteerlino), [Pablo Guilherme](https://gi
 
 Na entrevista serão utilizadas as seguintes perguntas:
 
-<center><b>Tabela 2:</b> Registro das entrevistas</center>
+<center><b>Tabela 3:</b> Registro das entrevistas</center>
 
 | Número da pergunta | Enunciado da pergunta                                                                                            | Possíveis respostas                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -112,11 +112,7 @@ Após realizado este processo, estaremos enviando os dados coletados ao time de 
 
 ## Planejamento do teste Piloto
 
-Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹</a> realizaremos o teste piloto com o intuito de verificar se a avaliação está em conformidade com os objetivos e se tudo ocorrerá bem. Conduziremos o teste piloto como se fosse uma sessão normal de avaliação.
-
-## Video do teste piloto
-
-Gravado na plataforma Teams.
+Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹</a> realizaremos o teste piloto com o intuito de verificar se a avaliação está em conformidade com os objetivos e se tudo ocorrerá bem. Conduziremos o teste piloto como se fosse uma sessão normal de avaliação. O teste-piloto será realizado no dia 09/11/2023 por dois avaliadores: [Ester Lino](https://github.com/esteerlino) e [Pablo Guilherme](https://github.com/PabloGJBS).
 
 ## Bibliografia
 

@@ -82,19 +82,70 @@ Tendo como base a proposta de Barbosa e Silva (2011) de que o Relato dos Resulta
 
 ### 5.1 Objetivos e escopo da avaliação
 
+A avaliação do Storyboard "Acessar o Contest System" tem como objetivo identificar incoerências entre o diagrama realizado e a real execução dessa tarefa no site [Online Judge](https://onlinejudge.org/).
+
 ### 5.2 Método de avaliação empregado
+
+Assim, como o proposto no Planejamento da Avaliação do Storyboard, o métodos utilizado foi o de entreista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 9.
+
+[Link para o storyboard avaliado](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/storyboards/#procurar-um-problema/#acessar-o-contest-system)
+
+<center>
+
+**Tabela 9** - Cronograma da avalição - Acessar Contest System.
+
+| Entrevistador | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |   Local   |
+| :----------------: | :---------------: | :---------------: |:------------: | :--------: | :--------: |
+| [Ester Lino](https://github.com/esteerlino) |  Emivalto da Costa | 13:51 | 13:56 | 07/11/2023 | Faculdade do Gama |
+
+Fonte: [Ester Lino](https://github.com/esteerlino).
+
+</center>
 
 ### 5.3 Perfil do participante
 
+O participante selecionado se encaixa com o perfil de usuário definido no projeto. Ele é estudante do curso Engenharia de Software com experiência média em tecnologia e é tecnófilo. Além disso, ele está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
+
 ### 5.4 Problemas encontrados
+
+Nanhum problema foi relatado durante a entreista.
 
 ### 5.5 Sumário dos dados coletados
 
+Na tabela 10 é posível verificar as respostas obtidas pela entrevista.
+
+<center>
+
+**Tabela 10** - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta |  Resposta   |
+| ------------------ | --------------------- | ----------  |
+|         1          | A narrativa apresentada pelo Storyboard está condizente com o título? | Sim |
+|         2          | No que tange atores e ambiente, o Storyboard em questão possui relação com a realidade? | Sim |
+|         3          | As tarefas realizadas pelos atores no storyboard são condizentes com a realidade? | Sim |
+|         4          | As ações realizadas no Storyboard seguem uma ordem sequencial, fluída e lógica? | Sim |
+|         5          | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | Sim |
+|         6           | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard? |Sim |
+
+Fonte: [Ester Lino](https://github.com/esteerlino).
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=SzqRpq64WHE)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SzqRpq64WHE?si=wgqHyvc9jvFsXdqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 5.6 Análise e interpretação dos dados coletados
+
+A partir das respostas obtidas, é possível concluir que o storyboard é de fácil compreensão, que foi executado de maniera clara e que está alinhado com o seu objetivo.
 
 ### 5.7 Feedback do usuário
 
+O usuário se mostrou satisfeito com o storyboard.
+
 ### 5.8 Sugestões de melhoria
+
+Não houve sugestões de melhorias.
 
 ## **6. Acessar o "Forgot Login?" - Recuperação de login - Kallyne**
 
@@ -163,3 +214,4 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
 | Versão |    Data    |                         Descrição                          |                   Responsáveis                   |                     Revisor                     |
 | :----: | :--------: | :--------------------------------------------------------: | :----------------------------------------------: | :---------------------------------------------: |
 |  1.0   | 06/11/2023 | Criação da página de Relato dos Resultados dos StoryBoards | [Suzane Duarte](https://github.com/suzaneduarte) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+|  1.1  | 08/11/2023 | Inclusão da avaliação do storyboard "Acessar Contest System" | [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
