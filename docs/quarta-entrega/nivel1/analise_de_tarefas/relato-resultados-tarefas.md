@@ -1,8 +1,9 @@
-# **Relato dos Resultados do StoryBoard**
+# **Relato dos Resultados da Análise de Tarefas**
 
 ## Introdução
 
-De acordo com a proposta de Barbosa e Silva (2011) de que o Relato dos Resultados dos Storyboards possui como principal objetivo documentar os resultados obtidos durante o processo de Avaliação<a id="anchor_1" href="#REF1">1</a>, e também conforme consta nos artefatos de [Planejamento de Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/planejamento-avaliacao-tarefas/) e [Planejamento do Relato dos Resultados](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/planejamento-do-relato-dos-resultados/), a seguir estão apresentadas as entrevistas referente as funcionalidades definidades anteriormente por cada integrante. Tais entrevistas fazem referência a [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/segunda-entrega/analise-tarefas/HTA/), seguindo os parâmetros impostos pelos artefatos citados acima.
+De acordo com a proposta de Barbosa e Silva (2011), o Relato dos Resultados dos Storyboards possui como principal objetivo documentar os resultados obtidos durante o processo de Avaliação<a id="anchor_1" href="#REF1">1</a>.
+Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/planejamento-avaliacao-tarefas/) e [Planejamento do Relato dos Resultados](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/planejamento-do-relato-dos-resultados/), estão apresentadas as entrevistas referente as funcionalidades definidades anteriormente por cada integrante. Tais entrevistas fazem referência a [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/segunda-entrega/analise-tarefas/HTA/), seguindo os parâmetros impostos pelos artefatos citados anteriormente.
 
 ## Entrevistas
 
