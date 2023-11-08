@@ -77,11 +77,11 @@ Após o preenchimento do cronograma de entrevistas, é essencial justificar a se
 
 Os participantes escolhidos e explicitados na Tabela 1 foram selecionados com base em critérios que visam representar o perfil de usuário definido no projeto. Essa seleção é crucial para garantir que a avaliação reflita as necessidades e expectativas do público-alvo. Os entrevistados escolhidos para a avaliação do protótipo de papel apresentam as seguintes justificativas:
 
-    Semelhança com as Personas: Os entrevistados compartilham características semelhantes com as personas criadas para o Online Judge. Isso inclui faixa etária, interesses e comportamentos relacionados à utilização do serviço.
+- Semelhança com as Personas: Os entrevistados compartilham características semelhantes com as personas criadas para o Online Judge. Isso inclui faixa etária, interesses e comportamentos relacionados à utilização do serviço.
 
-    Representatividade Etária: Os participantes têm idades entre 20 e 35 anos, o que está alinhado com o público jovem e digitalmente consciente que é o foco do Online Judge.
+- Representatividade Etária: Os participantes têm idades entre 20 e 35 anos, o que está alinhado com o público jovem e digitalmente consciente que é o foco do Online Judge.
 
-    Potenciais Usuários-Alvo: Os entrevistados são considerados potenciais usuários do Online Judge, e suas opiniões e experiências são valiosas para entender como o serviço pode atender às suas necessidades.
+- Potenciais Usuários-Alvo: Os entrevistados são considerados potenciais usuários do Online Judge, e suas opiniões e experiências são valiosas para entender como o serviço pode atender às suas necessidades.
 
 Reforçamos que a escolha dos entrevistados foi cuidadosamente planejada para garantir que suas perspectivas e feedback reflitam as características e interesses do público-alvo do Online Judge, possibilitando uma avaliação mais precisa e relevante.
 
