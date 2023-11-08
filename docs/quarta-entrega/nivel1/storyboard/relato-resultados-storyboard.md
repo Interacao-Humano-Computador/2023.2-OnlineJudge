@@ -428,9 +428,10 @@ O usuário destacou a correspondência do storyboard com as perguntas feitas, re
 
 O usuário não sugeriu nenhuma melhoria.
 
-[Link da gravação da entrevista](https://www.youtube.com/embed/YjNgBIldUGg?si=PcoqpLAvAOrSW9R3)
+<!-- Adicionar o link do vídeo: -->
+<!-- [Link da gravação da entrevista](https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu) -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YjNgBIldUGg?si=PcoqpLAvAOrSW9R3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 ## Planejamento de reprojeto
 
