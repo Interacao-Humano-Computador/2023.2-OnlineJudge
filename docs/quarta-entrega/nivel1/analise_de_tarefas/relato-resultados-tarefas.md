@@ -7,23 +7,95 @@ Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](http
 
 ## Entrevistas
 
-## **1. Procurar um problema - Suzane**
+## **1. Procurar um problema (Browse Problems) - Suzane**
 
 ### 1.1 Objetivos e escopo da avaliação
 
+Essa avaliação objetivava verificar se a tarefa de "Procurar um problema" está alinhada com o fluxo de atividades dos usuários do site do Online Juiz. Dessa forma, sendo possível identificar através da usabilidade do usuário com a interface quais devem ser as alterações de melhoria necessárias.
+
 ### 1.2 Método de avaliação empregado
+
+Para realizar essa avaliação, foi necessário empregar o método de entrevistas contendo vinte e uma perguntas conforme proposto anteriormente no planejamento. No entanto, é importante ressaltar que a quantidade de perguntas pode variar de acordo com as respostas do entrevistados.
+
+Diante do planejamento apresentado e o resultado final, foi possível produzir o seguinte cronograma:
+
+<center>
+
+**Tabela 1** - Cronograma da Avaliação do Storyboard - Procurar um problema
+
+|                Entrevistador(es)                 |              Entrevistado(s)              | Horário de Início | Horário de Fim |    Data    |                   Local                    |
+| :----------------------------------------------: | :---------------------------------------: | :---------------: | :------------: | :--------: | :----------------------------------------: |
+| [Suzane Duarte](https://github.com/suzaneduarte) | <span style = "color: red">Letícia</span> |       14:30       |     13:40      | 07/11/2023 | Presencial com gravação no Microsoft Teams |
+
+**Fonte** - [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
 
 ### 1.3 Seleção dos participantes
 
+O perfil do participante se enquadra no perfil de usuário, pois se trata de uma jovem estudante de tecnologia que já teve contato com outras plataformas de juíz online, além de também possuir experiência com a área de tecnologia.
+
 ### 1.4 Problemas e Dificuldades encontradas
+
+Foi possível analisar que o usuário teve algumas dificildades. A mesma não possuia fluência em inglês, dessa forma, mesmo com a tradução automática disponibilizada pelo Google Translate sua primeira dificuldade foi encontrar a aba de "Browse Problems".
+
+A seguir, os problemas relatado pelo usuário estavam atrelados com o design das páginas correlatas a funcionalidade de Procurar um problema. Por exemplo, ao navegar pelos problemas, os ícones de "Pasta" e de "Volume" são os mesmos, de forma que o usuário nem sequer percebeu que tratavam-se de coisas distintas.
+
+Além disso, o usuário também não conseguiu compreender qual a diferença entre o ícone de check amarelo e o ícone de check verde contidos à esquerda do nome de cada um dos problemas. Além de também ter encontrado dificuldade para entender as várias informações contidas à direita desse mesmo nome conforme pode ser visualizado na Figura 1.
+
+<center>Figura 1 - Problema de ícones confusos
+
+![](../../../assets/images/problemas-interface.jpeg)
+
+<b>Fonte:</b> <a href="https://github.com/suzaneduarte">Suzane Duarte</a> </a></center>
 
 ### 1.5 Sugestões de Melhoria
 
+O usuário trouxe como sugestão de melhoria alterações de design na tabela da Figura 1, como por exemplo, alterar os ícones de "Checks" para outro ícone que exemplifique melhor sobre o que se trata aquela informação. Nessa mesma região, ela também sugeriu que melhorassem a forma como as informações de cada um dos problemas está descrito e representado na tabela.
+
 ### 1.6 Feedbacks dos Usuários
+
+Em suma, o participante conseguiu realizar a tarefa proposta sem evidenciar grandes problemas, porém, apresentando apenas algumas sugestões de melhorias extremamente pertinentes.
 
 ### 1.7 Análise e Interpretação dos Usuários
 
+A partir da entrevista realizada, o entrevistador conseguiu realizar uma análise e definir que apesar da dificuldade encontrada pela participante em identificar determinados ícones, o fluxo da tarefa "Procurar um problema" está de acordo com o site avaliado. Dessa forma, a sequência pode ser mantida, mas devem-se realizar alterações para que o usuário não apenas clique nos botões e _hiperlinks_ de forma aleatória.
+
 ### 1.8 Sumário dos Principais Resultados
+
+Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabela 3.
+
+<center>
+
+**Tabela 2** - Respostas da entrevista com Letícia Resende
+
+| Número da pergunta | Respostas do Usuário                                                                                                                                                        |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                  | Letícia Resende                                                                                                                                                             |
+| 2                  | 23                                                                                                                                                                          |
+| 3                  | Ensino Superior                                                                                                                                                             |
+| 4                  | Tenho vasta experiência                                                                                                                                                     |
+| 5                  | Nenhuma, nunca utilizou                                                                                                                                                     |
+| 6                  | Não                                                                                                                                                                         |
+| 7                  | MOJ, nenhum motivo aparente. Foi solicitação da faculdade                                                                                                                   |
+| 11                 | O entrevistado foi até a área Browse Problems, porém ele afirmou ser estranho a disposição de pastas dentro de mais pastas o que tornou a tarefa trabalhosa sem necessidade |
+| 15                 | Não                                                                                                                                                                         |
+| 16                 | O entrevistado não saiu do fluxo                                                                                                                                            |
+| 17                 | Não no fluxo                                                                                                                                                                |
+| 18                 | Não                                                                                                                                                                         |
+| 19                 | O entrevistado não se sentiu incomodado                                                                                                                                     |
+| 20                 | Regular                                                                                                                                                                     |
+| 21                 | O entrevistado sugeriu que o site deveria seguir mais o padrão de disposição de icones como em outros sites                                                                 |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
+
+Dessa forma, a partir das respostas apresentadas é possível concluir que o HTA está de acordo com o obejtivo definido e que a participante sugeriu melhorias no design do site.
+
+[Link da gravação da entrevista](https://youtu.be/7kLp7Mn8kV4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7kLp7Mn8kV4?si=urHY67Rv_V4i3948" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **2. Submeter problema (Quick Submit) - Pablo G**
 
@@ -33,15 +105,15 @@ Avaliar a análise de tarefas proposta, a fim de observer se existem falhas e ou
 
 ### 2.2 Método de avaliação empregado
 
-Assim, como o proposto no Planejamento da Avaliação das tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 2.
+Assim, como o proposto no Planejamento da Avaliação das tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 3.
 
 <center>
 
-**Tabela 2** - Cronograma da avaliação de tarefas com usuário Julian Michel.
+**Tabela 3** - Cronograma da avaliação de tarefas com usuário Julian Michel.
 
-|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Pablo Guilherme](https://github.com/PabloGJBS) | Julian Michel |       16:55       |     17:20      | 08/11/2023 | [Discord](https://discord.com) |
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |             Local              |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------------------------: |
+| [Pablo Guilherme](https://github.com/PabloGJBS) |  Julian Michel  |       16:55       |     17:20      | 08/11/2023 | [Discord](https://discord.com) |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)
 
@@ -75,29 +147,23 @@ Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabel
 
 **Tabela 3** - Respostas da entrevista com Julian
 
-|Número da pergunta|Respostas do Usuário|
-|---|---|
-|1| Julian Michel Gonçalves Schamne|
-|2| 22|
-|3|Ensino Superior|
-|4|Trabalha como analista de dados tem conhecimento em python, power bi, excel|
-|5|Nenhuma, nunca utilizou |
-|6|Não|
-|7|Nunca utilizou nenhum|
-|8|O entrevistado seguiu para a paginá de contact us, porém ele informou que geralmente existem botões nos cantos da tela que servem para isto e informou que o site apresenta uma localização extranha para esta tarefa|
-|9|o Entrevistado seguiu para a aba de forgot login e informou que estava tudo correto e achou interessante poder recuperar tanto o username quanto a senha ao mesmo tempo|
-|10|O entrevistado foi até a área de my account e clicou no botão de editar as informações, porém ele achou esquisito que o site não utiliza o espaço da tela de maneira eficiente|
-|11|O entrevistado foi até a área Browse Problems, porém ele afirmou ser estranho a disposição de pastas dentro de mais pastas o que tornou a tarefa trabalhosa sem necessidade|
-|12|O entrevistado seguiu até a o botão de contest, porém ele informou que é estranho que o botão apenas abra uma tela de introdução em vez de ir direto ao ponto|
-|13|O entrevistado apenas seguiu ate a aba de my submissions|
-|14|O entrevistado apenas seguiu ate a área de quick submit e verificou que esta tarefa estava correta no site|
-|15|O entrevistado não saiu do fluxo proposto na análise de tarefas
-|16| O entrevistado não saiu do fluxo    |
-|17|O entrevistado recomendou que o fluxo do contact us também possuisse a parte de titulo do contact |
-|18|Não|
-|19|O entrevistado apenas se sentiu incomodado com o design do site |
-|20|Ruim|
-|21|O entrevistado sugeriu que o site deveria seguir mais o padrão de disposição de icones como em outros sites|
+| Número da pergunta | Respostas do Usuário                                                                                        |
+| ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| 1                  | Julian Michel Gonçalves Schamne                                                                             |
+| 2                  | 22                                                                                                          |
+| 3                  | Ensino Superior                                                                                             |
+| 4                  | Trabalha como analista de dados tem conhecimento em python, power bi, excel                                 |
+| 5                  | Nenhuma, nunca utilizou                                                                                     |
+| 6                  | Não                                                                                                         |
+| 7                  | Nunca utilizou nenhum                                                                                       |
+| 14                 | O entrevistado apenas seguiu ate a área de quick submit e verificou que esta tarefa estava correta no site  |
+| 15                 | O entrevistado não saiu do fluxo proposto na análise de tarefas                                             |
+| 16                 | O entrevistado não saiu do fluxo                                                                            |
+| 17                 | O entrevistado recomendou que o fluxo do contact us também possuisse a parte de titulo do contact           |
+| 18                 | Não                                                                                                         |
+| 19                 | O entrevistado apenas se sentiu incomodado com o design do site                                             |
+| 20                 | Ruim                                                                                                        |
+| 21                 | O entrevistado sugeriu que o site deveria seguir mais o padrão de disposição de icones como em outros sites |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
@@ -125,25 +191,81 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 ### 3.8 Sumário dos Principais Resultados
 
-
 ## **4. Editar Conta - Luana T**
 
 ### 4.1 Objetivos e escopo da avaliação
 
+Avaliar a análise da tarefa "Editar Conta", a fim de observer se existem falhas e/ou alternativas, além de obter sugestões sobre a análise de tarefas.
+
 ### 4.2 Método de avaliação empregado
+
+De acordo com Planejamento da Avaliação da Análise de Tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os Dados da entrevista estão apresentados na tabela 7.
+
+<center>
+
+**Tabela 7** - Cronograma da avaliação - Acessar Contest System.
+
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |                  Local                  |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :-------------------------------------: |
+| [Luana Torres](https://github.com/luanatorress) | Letícia Torres  |       13:40       |     13:55      | 08/11/2023 | [Microsoft Teams](teams.microsoft.com/) |
+
+Fonte: [Luana Torres](https://github.com/luanatorress).
+
+</center>
 
 ### 4.3 Seleção dos participantes
 
+O participante selecionado se encaixa com o perfil de usuário definido ao longo do projeto. Ela é estudante do curso Engenharia de Software com experiência média a alta em tecnologia e é tecnófila. Além disso, está dentro da faixa etária definida pelo perfil de usuário (19 a 24 anos).
+
 ### 4.4 Problemas e Dificuldades encontradas
+
+Nenhum problema ou dificuldade foi relatado durante a entrevista.
 
 ### 4.5 Sugestões de Melhoria
 
+Na tabela 8 é possivel verificar as respostas obtidas durante a entrevista:
+
+<center>
+
+**Tabela 8** - Respostas da entrevista com Letícia Torres
+
+| Número da pergunta | Respostas do Usuário                                                                                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                  | Leticia Torres                                                                                                                                                                  |
+| 2                  | 21                                                                                                                                                                              |
+| 3                  | Ensino Superior                                                                                                                                                                 |
+| 4                  | Tem experiência na área de tecnologia, cursa bacharelado na área.                                                                                                               |
+| 5                  | Uso ou já usei para fins acadêmicos                                                                                                                                             |
+| 6                  | Não                                                                                                                                                                             |
+| 7                  | Já utilizei o CD-MOJ, único utilizado.                                                                                                                                          |
+| 10                 | O entrevistado foi até a área de my account e clicou no botão de editar as informações, clicou em Contact Info, fez alteração e clicou em Update                                |
+| 15                 | O entrevistado não saiu do fluxo proposto na análise de tarefas                                                                                                                 |
+| 16                 | O entrevistado não saiu do fluxo                                                                                                                                                |
+| 17                 | Não                                                                                                                                                                             |
+| 18                 | Não                                                                                                                                                                             |
+| 19                 | O entrevistado apenas se sentiu incomodado com o design do site                                                                                                                 |
+| 20                 | Ruim                                                                                                                                                                            |
+| 21                 | O entrevistado sugeriu que o site deveria ter uma melhor navegabilidade, ícones maiores, uma melhor acessibilidade e cores diferentes. Sugeriu também mudança na fonte do site. |
+
+Fonte: [Luana Torres](https://github.com/luanatorress) .
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=OPMdNiGYqL0)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPMdNiGYqL0?si=jzgSOQ3wdFMqslbV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 4.6 Feedbacks dos Usuários
+
+O usuário relatou uma navegabilidade ruim na interface, com quase nenhuma acessibilidade e design não agradável.
 
 ### 4.7 Análise e Interpretação dos Usuários
 
+A partir do que o entrevistado comentou é possivel concluir que o site possui em sua grande maioria problemas com a interface, como um design desagradável, mas suas funcionalidades funcionam de maneira correta.
+
 ### 4.8 Sumário dos Principais Resultados
 
+O usuário não apresentou dificuldade para realizar a tarefa, mas sim com a interface no geral e a complexidade da tarefa sem necessidade. Destacou a importância de uma boa navegabilidade e acessibilidade.
 
 ## **5. Acessar o Contest System - Ester L**
 
@@ -159,9 +281,9 @@ Assim, como o proposto no Planejamento da Avaliação da Análise de Tarefas, o 
 
 **Tabela 9** - Cronograma da avaliação - Acessar Contest System.
 
-|                Entrevistador                |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :-----------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Ester Lino](https://github.com/esteerlino) | Jennifer Costa |       15:50      |     16:00      | 07/11/2023 | Faculdade do Gama |
+|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :-----------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Ester Lino](https://github.com/esteerlino) | Jennifer Costa  |       15:50       |     16:00      | 07/11/2023 | Faculdade do Gama |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -205,14 +327,13 @@ A avaliação da tarefa de Recuperação de Login objetiva, seguindo a especific
 
 O método de avaliação definido foi o da entrevista, que adiciona as perspectivas de um usuário real do sistema ao panorama. Na tabela 10, é apresentado o cronograma da entrevista.
 
-
 <center>
 
 **Tabela 10** - Cronograma da avaliação - Acessar o "Forgot Login?" - Recuperação de login.
 
-|                Entrevistador                |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :-----------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Kallyne Macedo](https://github.com/kalipassos) | Leonardo Aguiar |       16:20      |     16:30      | 03/11/2023 | Gama, DF |
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |  Local   |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :------: |
+| [Kallyne Macedo](https://github.com/kalipassos) | Leonardo Aguiar |       16:20       |     16:30      | 03/11/2023 | Gama, DF |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 
@@ -228,7 +349,7 @@ O participante não obteve dificuldades para a realização da tarefa.
 
 ### 6.5 Sugestões de Melhoria
 
-O participante entrevistado sugeriu alterações no botão de envio do formulário de recuperação de senha por ter notado o botão "apagado", de forma a não exibir resposta ao clique do usuário. 
+O participante entrevistado sugeriu alterações no botão de envio do formulário de recuperação de senha por ter notado o botão "apagado", de forma a não exibir resposta ao clique do usuário.
 
 ### 6.6 Feedbacks dos Usuários
 
@@ -236,7 +357,7 @@ O participante ressaltou que o campo de login está localizado do lado esquerdo 
 
 ### 6.7 Análise e Interpretação dos Usuários
 
-Após verificação do fluxo proposto, o usuário constatou ter feito o mesmo fluxo que se encontra na Análise Hierárquica da Tarefa e mostrou estar de acordo com o que consta no diagrama. 
+Após verificação do fluxo proposto, o usuário constatou ter feito o mesmo fluxo que se encontra na Análise Hierárquica da Tarefa e mostrou estar de acordo com o que consta no diagrama.
 
 ### 6.8 Sumário dos Principais Resultados
 
@@ -325,9 +446,11 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 
 ## Histórico de versão
 
-| Versão |    Data    |                         Descrição                          |                   Responsáveis                   |                     Revisor                     |
-| :----: | :--------: | :--------------------------------------------------------: | :----------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 08/11/2023 | Criação da página de Relato dos Resultados da Análise de Tarefas | [Luana Torres](https://github.com/luanatorress) | [Eric Camargo](https://github.com/ericcs10) |
-|  1.2  | 08/11/2023 | Adição da entrevista 2 | [Pablo Guilherme](https://github.com/PabloGJBS) | [Eric Camargo](https://github.com/ericcs10) |
+| Versão |    Data    |                               Descrição                               |                   Responsáveis                   |                     Revisor                      |
+| :----: | :--------: | :-------------------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
+|  1.0   | 08/11/2023 |   Criação da página de Relato dos Resultados da Análise de Tarefas    | [Luana Torres](https://github.com/luanatorress)  |   [Eric Camargo](https://github.com/ericcs10)    |
+|  1.2   | 08/11/2023 |                        Adição da entrevista 2                         | [Pablo Guilherme](https://github.com/PabloGJBS)  |   [Eric Camargo](https://github.com/ericcs10)    |
 |  1.3   | 08/11/2023 | Inclusão da avaliação da Análise de Tarefa - "Acessar Contest System" |   [Ester Lino](https://github.com/esteerlino)    | [Suzane Duarte](https://github.com/suzaneduarte) |
-|  1.4   | 08/11/2023 | Inclusão da avaliação "Forgot login" |   [Kallyne Macedo](https://github.com/kalipassos)    | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.4   | 08/11/2023 |                 Inclusão da avaliação "Forgot login"                  | [Kallyne Macedo](https://github.com/kalipassos)  | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.5   | 08/11/2023 |                Inclusão da avaliação "Browse Problems"                | [Suzane Duarte](https://github.com/suzaneduarte) | [Pablo Guilherme](https://github.com/PabloGJBS)  |
+|  1.6   | 08/11/2023 |                 Inclusão da avaliação "Editar Conta"                  | [Luana Torres](https://github.com/luanatorress)  |   [Ester Lino](https://github.com/esteerlino)    |

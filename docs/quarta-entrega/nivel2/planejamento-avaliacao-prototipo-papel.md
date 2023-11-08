@@ -71,15 +71,15 @@ Apesar de serem realizadas presencialmente, as entrevistas deverão ser gravadas
 
 **Tabela 2** - Cronograma Planejado.
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim |    Data    |    Local     |
+| Entrevistadores | Entrevistado | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Eric Camargo](https://github.com/ericcs10) | - | - | - | - | - |
-| [Ester Lino](https://github.com/esteerlino) | - | - | - | - | - |
-| [Henrique Torres](https://github.com/henriqtorresl) | - |- | - | - | - |
-| [Kallyne Macedo](https://github.com/kalipassos) | - | - | - | - | -|
-| [Luana Torres](https://github.com/luanatorress) | - | - | - | - | - |
-| [Pablo Guilherme](https://github.com/PabloGJBS) | - | - | - | - | -|
-| [Suzane Duarte](https://github.com/suzaneduarte) | -  | - | - | - | -|
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| - | - | - | - | - |
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | - | - | - | - | - |
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | - |- | - | - | - |
+|[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| - | - | - | - | -|
+|[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | - | - | - | - | - |
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| - | - | - | - | -|
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | -  | - | - | - | -|
 
 Fonte: [Ester Lino](https://github.com/esteerlino), [Pablo Guilherme](https://github.com/PabloGJBS).
 
