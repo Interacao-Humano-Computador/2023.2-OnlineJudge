@@ -368,3 +368,4 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
 |  1.1   | 08/11/2023 | Inclusão da avaliação do storyboard "Acessar Contest System" |   [Ester Lino](https://github.com/esteerlino)    | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.2   | 08/11/2023 |      Inclusão da avaliação do storyboard "Quick Submit"      | [Pablo Guilherme](https://github.com/PabloGJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.3   | 08/11/2023 |    Inclusão da avaliação do storyboard "Browse Problems"     | [Suzane Duarte](https://github.com/suzaneduarte) |   [Ester Lino](https://github.com/esteerlino)    |
+|  1.4   | 08/11/2023 |    Inclusão da avaliação do storyboard "Editar Conta"     | [Luana Torres](https://github.com/luanatorress) |   [Ester Lino](https://github.com/esteerlino)    |
