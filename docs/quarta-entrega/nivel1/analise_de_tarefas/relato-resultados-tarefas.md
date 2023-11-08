@@ -250,19 +250,52 @@ O usuário não apresentou dificuldade para realizar a tarefa, mas notou uma dis
 
 ### 7.1 Objetivos e escopo da avaliação
 
+O objetivo principal é revisar a análise de tarefas proposta, a fim de identificar eventuais deficiências e possíveis alternativas, além de receber sugestões a respeito da análise de tarefas.
+
 ### 7.2 Método de avaliação empregado
+
+Assim, como o proposto no Planejamento da Avaliação das tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 2.
+
+<center>
+
+**Tabela 11** - Cronograma da avaliação de tarefas com usuário Josué Texeira.
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Henrique Torres](https://github.com/henriqtorresl) | Josué Texeira |       15:30       |     15:45      | 08/11/2023 | [Microsoft Teams](https://teams.microsoft.com/) |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl)
+
+</center>
 
 ### 7.3 Seleção dos participantes
 
+O participante em questão foi escolhido devido à sua compatibilidade com o perfil de usuário e por possuir um perfil universitário e por usar as ferramentas de júri online para fins acadêmicos e de estudo.
+
 ### 7.4 Problemas e Dificuldades encontradas
+
+O participante não enfrentou desafios com a execução das tarefas.
 
 ### 7.5 Sugestões de Melhoria
 
+O participante sugeriu melhorias na interface, disse que a tela principal do site não é clara e que não reflete muito o objetivo principal do site.
+
 ### 7.6 Feedbacks dos Usuários
+
+A participante acredita que o design do site necessita de aprimoramentos, uma vez que o design atual é considerado inadequado e prejudica a facilidade de navegação.
 
 ### 7.7 Análise e Interpretação dos Usuários
 
+
+Depois de analisar o fluxo proposto, o usuário percebeu que seguiu o mesmo fluxo descrito na Análise Hierárquica da Tarefa e concordou com o que estava representado no diagrama.
+
 ### 7.8 Sumário dos Principais Resultados
+
+O usuário executou a tarefa sem enfrentar obstáculos, no entanto, observou uma discrepância na localização do campo de login em comparação a outros sites comumente utilizados na Internet. Ele enfatizou a importância de campos e botões que reajam prontamente ao uso, proporcionando segurança ao usuário em relação à conclusão eficaz de suas ações. Além disso, o usuário seguiu fielmente o fluxo de ações delineado no diagrama HTA, sem desvios ou alterações no percurso previamente estabelecido.
+
+[Link da gravação da entrevista](https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Planejamento de reprojeto
 

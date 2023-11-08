@@ -369,19 +369,68 @@ Não foram levantadas nenhuma sugestão de melhoria.
 
 ### 7.1 Objetivos e escopo da avaliação
 
+A análise do storyboard de "Busca por uma página específica" tem como objetivo verificar se a narrativa desenvolvida está alinhada com a tarefa presente no sistema do OnlineJudge.
+
 ### 7.2 Método de avaliação empregado
+
+O método escolhido para a avaliação foi a entrevista, considerando a capacidade de proporcionar insights a partir da perspectiva de um usuário real do sistema. Na Tabela 12, encontra-se o cronograma dessa entrevista:
+
+<center>
+
+**Tabela 12** - Cronograma da avaliação - Busca por uma página específica .
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Henrique Torres](https://github.com/henriqtorresl) | Josué Texeira |       15:50       |     16:00      | 08/11/2023 | [Microsoft Teams](https://teams.microsoft.com/) |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl)
+
+</center>
 
 ### 7.3 Perfil do participante
 
+O indivíduo em questão foi eleito devido à sua afinidade com o perfil de usuário, considerando suas características acadêmicas e o uso das ferramentas de júri online para propósitos educacionais e de aprendizado.
+
 ### 7.4 Problemas encontrados
+
+O participante não relatou nenhum problema sobre o storyboard.
 
 ### 7.5 Sumário dos dados coletados
 
+<center>
+
+Na tabela abaixo, estão as respostas dadas pelo usuário no questionário de avaliação. 
+
+**Tabela 13** - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| 1                  | A narrativa apresentada pelo Storyboard está condizente com o título?                                            | Sim      |
+| 2                  | No que tange atores e ambiente, o Storyboard em questão possui relação com a realidade?                          | Sim      |
+| 3                  | As tarefas realizadas pelos atores no storyboard são condizentes com a realidade?                                | Sim      |
+| 4                  | As ações realizadas no Storyboard seguem uma ordem sequencial, fluída e lógica?                                  | Sim      |
+| 5                  | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | Sim      |
+| 6                  | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | Sim      |
+
+Fonte: [Ester Lino](https://github.com/esteerlino).
+
+</center>
+
 ### 7.6 Análise e interpretação dos dados coletados
+
+De acordo com o feedback fornecido pelo usuário após a avaliação do storyboard, foi confirmada a sua consistência com a situação real e a tarefa em pauta. O diagrama foi considerado facilmente compreensível e não causou desconforto ao participante.
 
 ### 7.7 Feedback do usuário
 
+O usuário destacou a correspondência do storyboard com as perguntas feitas, ressaltando que o diagrama sugerido está em conformidade com o seu propósito.
+
 ### 7.8 Sugestões de melhoria
+
+O usuário não sugeriu nenhuma melhoria.
+
+[Link da gravação da entrevista](https://www.youtube.com/embed/YjNgBIldUGg?si=PcoqpLAvAOrSW9R3)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YjNgBIldUGg?si=PcoqpLAvAOrSW9R3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Planejamento de reprojeto
 
