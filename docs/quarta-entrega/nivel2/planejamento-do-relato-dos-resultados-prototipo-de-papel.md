@@ -8,15 +8,15 @@ Este documento tem a finalidade de ajudar a planejar como iremos registrar os re
 
 Com base nos tópicos mencionados, além da avaliação de intersujeito descrita por Barbosa e Silva (2011, p.279) e adaptando-os para o documento que a equipe está prestes a desenvolver, os tópicos a serem incluídos são os seguintes:
 
-    Objetivo e escopo da avaliação
-    Método de avaliação
-    Seleção dos participantes
-    Problemas e dificuldades encontradas
-    Sugestões de melhoria
-    Feedback dos usuários
-    Análise e interpretação dos usuários
-    Sumários dos principais resultados
-    Planejamento de reprojeto
+- Objetivo e escopo da avaliação
+- Método de avaliação
+- Seleção dos participantes
+- Problemas e dificuldades encontradas
+- Sugestões de melhoria
+- Feedback dos usuários
+- Análise e interpretação dos usuários
+- Sumários dos principais resultados
+- Planejamento de reprojeto
 
 ## Tópicos
 
@@ -26,15 +26,15 @@ A documentação do relato da avaliação contará com os tópicos citados abaix
 
 Nesta etapa, o redator do documento deve explicar por que a avaliação está sendo conduzida e descrever os objetivos que o grupo busca alcançar com o protótipo de papel. Isso inclui justificar a importância da avaliação, esclarecer as expectativas e as metas estabelecidas e fornecer uma visão geral do propósito e do contexto da avaliação. No caso, os objetivos são:
 
-    verificar a conformidade com um padrão;
-    comparar ideias e alternativas de design;
-    identificar problemas na interação e interface.
+- Verificar a conformidade com um padrão;
+- Comparar ideias e alternativas de design;
+- Identificar problemas na interação e interface.
 
 Além disso, é essencial responder às seguintes perguntas por meio da análise da avaliação, a fim de verificar se os objetivos foram alcançados:
 
-    Com o protótipo de papel foi possível explorar conceitos de design?
-    Foi observado alguma sugestão de melhoria para o protótipo proposto?
-    Foi possível identificar problemas de usabilidade preliminares?    Foi possível identificar ideias principais de design?
+- Com o protótipo de papel foi possível explorar conceitos de design?
+- Foi observado alguma sugestão de melhoria para o protótipo proposto?
+- Foi possível identificar problemas de usabilidade preliminares?    Foi possível identificar ideias principais de design?
 
 ### **Método de avaliação**
 
@@ -49,10 +49,10 @@ A metodologia selecionada para coleta de dados durante a avaliação do protóti
 **Local**: A avaliação foi realizada em uma sala de reuniões equipada com uma mesa, cadeiras e boa iluminação. O ambiente foi projetado para proporcionar conforto aos participantes durante a interação com o protótipo.
 
 **Ferramentas e Equipamentos**: Para a avaliação, foram usados os seguintes recursos:
+- Protótipo de papel.
+- Lápis, canetas e marcadores para anotações.
+- Câmera ou gravador de áudio para registrar as interações e entrevistas (se autorizado pelos participantes).
 
-    Protótipo de papel.
-    Lápis, canetas e marcadores para anotações.
-    Câmera ou gravador de áudio para registrar as interações e entrevistas (se autorizado pelos participantes).
 #### Cronograma Planejado:
 
 O entrevistador seguirá o seguinte cronograma para as entrevistas. Este padrão será utilizado por todos os entrevistadores para manter a consistência no relatório. Cada entrevista será documentada em uma tabela específica relacionada à análise feita. Abaixo está o cronograma planejado (Tabela 1):
@@ -100,5 +100,11 @@ Nesta seção do documento, o entrevistador deve detalhadamente listar os proble
 ### **Planejamento de Reprojeto**
 
 ## Referências Bibliográficas
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-## Histórico de Versão
+## Hitórico de versão
+
+| Versão | Data       | Descrição                    | Autor(es)                                                                                         | Revisor(es)                                 |
+| ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 1.0    | 08/11/2023 | Criação da página  | [Eric Camargo](https://github.com/ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) | 
+| 1.1    | 08/11/2023 | Adicionando os tópicos que faltavam na página | [Henrique Torres](https://github.com/henriqtorresl) |  [Eric Camargo](https://github.com/ericcs10) | 
