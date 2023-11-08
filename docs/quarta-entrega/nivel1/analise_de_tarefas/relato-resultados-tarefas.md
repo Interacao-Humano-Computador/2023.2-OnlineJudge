@@ -21,6 +21,9 @@ Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](http
 
 ### 1.6 Feedbacks dos Usuários
 
+### 1.7 Análise e Interpretação dos Usuários
+
+### 1.8 Sumário dos Principais Resultados
 
 ## **2. Submeter problema (Quick Submit) - Pablo G**
 
@@ -35,6 +38,10 @@ Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](http
 ### 2.5 Sugestões de Melhoria
 
 ### 2.6 Feedbacks dos Usuários
+
+### 2.7 Análise e Interpretação dos Usuários
+
+### 2.8 Sumário dos Principais Resultados
 
 
 ## **3. Contatar Colaboradores - Eric C**
@@ -51,6 +58,10 @@ Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](http
 
 ### 3.6 Feedbacks dos Usuários
 
+### 3.7 Análise e Interpretação dos Usuários
+
+### 3.8 Sumário dos Principais Resultados
+
 
 ## **4. Editar Conta - Luana T**
 
@@ -65,6 +76,10 @@ Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](http
 ### 4.5 Sugestões de Melhoria
 
 ### 4.6 Feedbacks dos Usuários
+
+### 4.7 Análise e Interpretação dos Usuários
+
+### 4.8 Sumário dos Principais Resultados
 
 
 ## **5. Acessar o Contest System - Ester L**
@@ -81,6 +96,10 @@ Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](http
 
 ### 5.6 Feedbacks dos Usuários
 
+### 5.7 Análise e Interpretação dos Usuários
+
+### 5.8 Sumário dos Principais Resultados
+
 
 ## **6. Acessar o "Forgot Login?" - Recuperação de login - Kallyne**
 
@@ -96,6 +115,10 @@ Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](http
 
 ### 6.6 Feedbacks dos Usuários
 
+### 6.7 Análise e Interpretação dos Usuários
+
+### 6.8 Sumário dos Principais Resultados
+
 
 ## **7. Busca por uma página específica - Henrique T**
 
@@ -110,6 +133,10 @@ Conforme os artefatos: [Planejamento de Avaliação da Análise de Tarefas](http
 ### 7.5 Sugestões de Melhoria
 
 ### 7.6 Feedbacks dos Usuários
+
+### 7.7 Análise e Interpretação dos Usuários
+
+### 7.8 Sumário dos Principais Resultados
 
 ## Planejamento de reprojeto
 
