@@ -10,19 +10,68 @@ Tendo como base a proposta de Barbosa e Silva (2011) de que o Relato dos Resulta
 
 ### 1.1 Objetivos e escopo da avaliação
 
+A avaliação do Storyboard possui como principal objetivo esclarecer possíveis discordâncias entre a realidade do usuário, e com a tarefa feita sobre o cenário criado no Storyboard de [Procurar um problema](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/storyboards/#procurar-um-problema).
+
 ### 1.2 Método de avaliação empregado
+
+Para realizar a avaliação desse Storyboard, foi necessário empregar o método de avaliação em formato de entrevistas contendo seis perguntas conforme proposto anteriormente no planejamento.
+
+Diante do planejamento apresentado, e o resultado final foi possível produzir o seguinte cronograma:
+
+<center>
+
+**Tabela 1** - Cronograma da Avaliação do Storyboard - Procurar um problema
+
+|                Entrevistador(es)                 |                Entrevistado(s)                 | Horário de Início | Horário de Fim |    Data    |                   Local                    |
+| :----------------------------------------------: | :--------------------------------------------: | :---------------: | :------------: | :--------: | :----------------------------------------: |
+| [Suzane Duarte](https://github.com/suzaneduarte) | <span style = "color: red">Ana Carolina</span> |       13:50       |     13:55      | 07/11/2023 | Presencial com gravação no Microsoft Teams |
+
+**Fonte** - [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
 
 ### 1.3 Perfil do participante
 
+O perfil da entrevistada Ana Carolina se enquadra no perfil de usuário, pois a mesma é uma jovem estudante de tecnologia que já participou de maratonas de programação. Sendo assim, possui determinado conhecimento prévio referente aos sites de juíz online.
+
 ### 1.4 Problemas encontrados
+
+Nenhum problema foi relatado durante a realização das entrevistas.
 
 ### 1.5 Sumário dos dados coletados
 
+Nesse tópico serão apresentadas as respostas da entrevistada após a tarefa ter sido executada com êxito.
+
+<center><b>Tabela 2:</b> Registro das entrevistas
+
+| Número da pergunta | Enunciado da pergunta                                                                                            | Possíveis respostas                          |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1                  | A narrativa apresentada pelo Storyboard está condizente com o título?                                            | [X] Sim<br>[ ] Não<br> [ ] Não sei afirmar   |
+| 2                  | No que tange atores e ambiente, o Storyboard em questão possui relação com a realidade?                          | [X] Sim<br> [ ] Não <br> [ ] Não sei afirmar |
+| 3                  | As tarefas realizadas pelos atores no storyboard são condizentes com a realidade?                                | [X] Sim<br> [ ] Não <br> [ ] Não sei afirmar |
+| 4                  | As ações realizadas no Storyboard seguem uma ordem sequencial, fluída e lógica?                                  | [X] Sim<br> [ ] Não <br> [ ] Não sei afirmar |
+| 5                  | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | [X] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
+| 6                  | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | [X] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
+
+É possível acessar a gravação da entrevista através do seguinte [Link da gravação da entrevista](https://youtu.be/oqq9S_ug2Wg)
+
+<iframe width="560" height="315" src="https://youtu.be/oqq9S_ug2Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 1.6 Análise e interpretação dos dados coletados
+
+Após uma breve análise realizada pela entrevistadora, foi possível concluir que o Storyboard em questão cumpre com o seu objetivo de forma clara e concisa, uma vez que o usuário conseguiu compreender sobre o que se tratava o storyboard e a sua funcionalidade no Online Judge.
 
 ### 1.7 Feedback do usuário
 
+O usuário entrevistado demonstrou uma sensação de contentamento ao conseguir realizar a tarefa proposta pela avaliação, além de também ter realizado um feedback positivo referente a arte do Storyboard apresentado.
+
 ### 1.8 Sugestões de melhoria
+
+Relativo ao Storyboard, a entrevistada não apresentou nenhuma sugestão de melhoria.
 
 ## **2. Submeter problema (Quick Submit) - Pablo G**
 

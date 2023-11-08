@@ -73,15 +73,15 @@ Para fins de documentação as entrevistas devem ser registradas em uma tabela c
 
 **Tabela 2** - Cronograma Planejado.
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Eric Camargo](https://github.com/ericcs10) | Caio Vinícius | 10:50 | 11:00 | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-| [Ester Lino](https://github.com/esteerlino) | Pedro Miguel | 10:00 | 10:10 | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-| [Henrique Torres](https://github.com/henriqtorresl) | João Pedro | 09:00 | 09:20 | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-| [Kallyne Macedo](https://github.com/kalipassos) | Leonardo Aguiar | 16:10 | 16:20 | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-| [Luana Torres](https://github.com/luanatorress) | Ingrid Alves | 18:20 | 18:30 | 01/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-| [Pablo Guilherme](https://github.com/PabloGJBS) | João Pedro Anacleto | 19:00 | 19:10 | 30/10/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-| [Suzane Duarte](https://github.com/suzaneduarte) | Letícia Picanço  | 11:10 | 11:20 | 04/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+|                    Entrevistador                    |    Entrevistado     | Horário de Início | Horário de Fim |    Data    |                                                                                                                                                                                                                    Local                                                                                                                                                                                                                    |
+| :-------------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     [Eric Camargo](https://github.com/ericcs10)     |    Caio Vinícius    |       10:50       |     11:00      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+|     [Ester Lino](https://github.com/esteerlino)     |    Pedro Miguel     |       10:00       |     10:10      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+| [Henrique Torres](https://github.com/henriqtorresl) |     João Pedro      |       09:00       |     09:20      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+|   [Kallyne Macedo](https://github.com/kalipassos)   |   Leonardo Aguiar   |       16:10       |     16:20      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+|   [Luana Torres](https://github.com/luanatorress)   |    Ingrid Alves     |       18:20       |     18:30      | 01/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+|   [Pablo Guilherme](https://github.com/PabloGJBS)   | João Pedro Anacleto |       19:00       |     19:10      | 30/10/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+|  [Suzane Duarte](https://github.com/suzaneduarte)   |   Letícia Picanço   |       11:10       |     11:20      | 04/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -91,7 +91,7 @@ Fonte: [Ester Lino](https://github.com/esteerlino).
 
 Na entrevista serão utilizadas as seguintes perguntas:
 
-<center><b>Tabela 2:</b> Registro das entrevistas</center>
+<center><b>Tabela 2:</b> Registro das entrevistas
 
 | Número da pergunta | Enunciado da pergunta                                                                                            | Possíveis respostas                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -101,6 +101,10 @@ Na entrevista serão utilizadas as seguintes perguntas:
 | 4                  | As ações realizadas no Storyboard seguem uma ordem sequencial, fluída e lógica?                                  | [ ] Sim<br> [ ] Não <br> [ ] Não sei afirmar |
 | 5                  | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | [ ] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
 | 6                  | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | [ ] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
 
 ## D - Questões éticas
 
@@ -120,7 +124,7 @@ Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹<
 
 ## Video do teste piloto
 
-Gravado na plataforma Teams. 
+Gravado na plataforma Teams.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJyNemXJ1g8?si=wgqHyvc9jvFsXdqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -130,10 +134,9 @@ Gravado na plataforma Teams.
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                    | Autor(es)                                                                                         | Revisor(es)                                 |
-| ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 1.0    | 29/10/2023 | Criação da página            | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
-| 1.1    | 29/10/2023 | Correções de erros na página | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
-| 1.2    | 29/10/2023 | Video do teste piloto | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10) |
-| 1.3    | 30/10/2023 | Miniatura do video do teste piloto | [Kallyne Macedo](https://github.com/kalipassos) | [Pablo Guilherme](https://github.com/PabloGJBS) |
-
+| Versão | Data       | Descrição                          | Autor(es)                                                                                         | Revisor(es)                                     |
+| ------ | ---------- | ---------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 29/10/2023 | Criação da página                  | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10)     |
+| 1.1    | 29/10/2023 | Correções de erros na página       | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10)     |
+| 1.2    | 29/10/2023 | Video do teste piloto              | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10)     |
+| 1.3    | 30/10/2023 | Miniatura do video do teste piloto | [Kallyne Macedo](https://github.com/kalipassos)                                                   | [Pablo Guilherme](https://github.com/PabloGJBS) |
