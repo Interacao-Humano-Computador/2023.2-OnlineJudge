@@ -6,7 +6,7 @@ Tendo como base a proposta de Barbosa e Silva (2011) de que o Relato dos Resulta
 
 ## Entrevistas
 
-## **1. Procurar um problema - Suzane**
+## **1. Procurar um problema (Browse Problems) - Suzane**
 
 ### 1.1 Objetivos e escopo da avaliação
 
@@ -81,7 +81,7 @@ A avaliação do Storyboard "Quick Submit" tem como objetivo identificar incoer�
 
 ### 2.2 Método de avaliação empregado
 
-Assim, como o proposto no Planejamento da Avaliação do Storyboard, o métodos utilizado foi o de entreista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 9.
+Assim, como o proposto no Planejamento da Avaliação do Storyboard, o métodos utilizado foi o de entreista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 3.
 
 [Link para o storyboard avaliado](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/storyboards/#submeter-problema-quick-submit)
 
@@ -107,7 +107,7 @@ Nenhum problema foi relatado pelo participante durante a entrevista
 
 ### 2.5 Sumário dos dados coletados
 
-Na tabela 10 é posível verificar as respostas obtidas pela entrevista.
+Na tabela 4 é posível verificar as respostas obtidas pela entrevista.
 
 <center>
 
@@ -309,3 +309,5 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
 | :----: | :--------: | :----------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 06/11/2023 |  Criação da página de Relato dos Resultados dos StoryBoards  | [Suzane Duarte](https://github.com/suzaneduarte) | [Pablo Guilherme](https://github.com/PabloGJBS)  |
 |  1.1   | 08/11/2023 | Inclusão da avaliação do storyboard "Acessar Contest System" |   [Ester Lino](https://github.com/esteerlino)    | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.2   | 08/11/2023 |      Inclusão da avaliação do storyboard "Quick Submit"      | [Pablo Guilherme](https://github.com/PabloGJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.3   | 08/11/2023 |    Inclusão da avaliação do storyboard "Browse Problems"     | [Suzane Duarte](https://github.com/suzaneduarte) |   [Ester Lino](https://github.com/esteerlino)    |
