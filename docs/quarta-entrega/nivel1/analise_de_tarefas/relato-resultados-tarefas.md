@@ -293,3 +293,4 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 |  1.0   | 08/11/2023 | Criação da página de Relato dos Resultados da Análise de Tarefas | [Luana Torres](https://github.com/luanatorress) | [Eric Camargo](https://github.com/ericcs10) |
 |  1.2  | 08/11/2023 | Adição da entrevista 2 | [Pablo Guilherme](https://github.com/PabloGJBS) | [Eric Camargo](https://github.com/ericcs10) |
 |  1.3   | 08/11/2023 | Inclusão da avaliação da Análise de Tarefa - "Acessar Contest System" |   [Ester Lino](https://github.com/esteerlino)    | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.4   | 08/11/2023 | Inclusão da avaliação "Forgot login" |   [Kallyne Macedo](https://github.com/kalipassos)    | [Suzane Duarte](https://github.com/suzaneduarte) |
