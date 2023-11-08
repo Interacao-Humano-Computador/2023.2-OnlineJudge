@@ -195,19 +195,78 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 ### 4.1 Objetivos e escopo da avaliação
 
+Avaliar a análise da tarefa "Editar Conta", a fim de observer se existem falhas e/ou alternativas, além de obter sugestões sobre a análise de tarefas.
+
 ### 4.2 Método de avaliação empregado
+
+De acordo com Planejamento da Avaliação da Análise de Tarefas, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os Dados da entrevista estão apresentados na tabela 7.
+
+<center>
+
+**Tabela 7** - Cronograma da avaliação - Acessar Contest System.
+
+|                Entrevistador                |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :-----------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Luana Torres](https://github.com/luanatorress) | Letícia Torres |       13:40      |     13:55    | 08/11/2023 | [Microsoft Teams](teams.microsoft.com/) |
+
+Fonte: [Luana Torres](https://github.com/luanatorress).
+
+</center>
 
 ### 4.3 Seleção dos participantes
 
+O participante selecionado se encaixa com o perfil de usuário definido ao longo do projeto. Ela é estudante do curso Engenharia de Software com experiência média a alta em tecnologia e é tecnófila. Além disso, está dentro da faixa etária definida pelo perfil de usuário (19 a 24 anos).
+
 ### 4.4 Problemas e Dificuldades encontradas
+
+Nenhum problema ou dificuldade foi relatado durante a entrevista.
 
 ### 4.5 Sugestões de Melhoria
 
+Na tabela 8 é possivel verificar as respostas obtidas durante a entrevista:
+
+<center>
+
+**Tabela 8** - Resultados da entrevista com Julian
+
+|Questões| Tipo da Resposta |Respostas do entrevistado|
+| --- | --- | --- |
+| 1 – Qual é o seu nome?| Resposta Discursiva | Letícia|
+| 2 – Qual é a sua idade?| Resposta Discursiva |  21 |
+| 3 – Qual sua escolaridade atual? | Resposta Fechada<br><br>[] Ensino Médio<br><br>[] Ensino Superior<br><br>[] Pós-graduação | Ensino Superior |
+| 4 – Qual seu grau de experiência com tecnologia?                                   | Resposta Discursiva                                                                                                                                                                                                                                         |    Tem experiência na área de tecnologia, cursa bacharelado na área.                                                                                              |
+| 5 – Que experiência tem com sites de júri online?                                  | Resposta Fechada<br>[] Nenhuma !<br><br>[] Uso ou já usei para fins acadêmicos<br><br>[] Uso ou já usei para fins pessoais                                                                                                                                  | Uso ou já usei para fins acadêmicos                    |
+| 6 – Você já usou o OnlineJudge?                                                    | Resposta Fechada<br><br>[] Sim<br><br>[] Não                                                                                                                                                                                                                |        Não                                                                                            |
+| 7 – Qual dos sites de júri online você mais gostou e por quê?                      | Resposta Discursiva                                                                                                                                                                                                                                         |  Já utilizei o CD-MOJ, único utilizado.                                                                                                |
+
+| 10 – Como você realizaria a tarefa de Editar conta?                                | Resposta Discursiva                                                                                                                                                                                                                                         | O entrevistado foi até a área de my account e clicou no botão de editar as informações, clicou em 
+Contact Info, fez alteração e clicou em Update |
+
+| 15 – Você saiu do fluxo proposto em alguma tarefa?                                 | Resposta de múltipla escolha<br><br>[] Nenhuma !<br><br>[] Contact Us<br><br>[] Forgot Login<br><br>[] Editar Conta<br><br>[] Procurar um problema<br><br>[] Acessar o Contest System<br><br>[] Visualizar minhas submissões<br><br>[] Submeter um problema | O usuário não saiu do fluxo proposto na análise de tarefas                                                                        |
+| 16 - O que foi feito de diferente?                                                 | Resposta Discursiva                                                                                                                                                                                                                                         |  O entrevistado não saiu do fluxo                                                                                                 |
+| 17 – Você sugere alguma alteração ou melhoria no diagrama do fluxo?                | Resposta Discursiva                                                                                                                                                                                                                                         |Não      |
+| 18 - Você se sentiu incomodado com a realização de alguma tarefa?                  | Resposta Fechada<br><br>[] Sim<br><br>[] Não !                                                                                                                                                                                                              | Não                                                                   |
+| 19 – Por quê?                                                                      | Resposta Discursiva                                                                                                                                                                                                                                         |  O entrevistado não sentiu incômodo com nenhuma tarefa                                                                                           |
+| 20 – No geral, como você classifica a navegabilidade do site?                      | Resposta Fechada<br>[] Excelente<br><br>[] Boa<br><br>[] Regular<br><br>[] Ruim<br><br>[] Péssima                                                                                                                                                           |  Ruim                                                                                                 |
+| 21 - O que você mudaria na interface de forma a melhorar a realização das tarefas? | Resposta Discursiva                                                                                                                                                                                                                                         |  O entrevistado sugeriu que o site deveria ter uma melhor navegabilidade, ícones maiores, uma melhor acessibilidade e cores diferentes. Sugeriu também mudança na fonte do site.                                                                                               |
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=OPMdNiGYqL0)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPMdNiGYqL0?si=jzgSOQ3wdFMqslbV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 4.6 Feedbacks dos Usuários
+
+O usuário relatou uma navegabilidade ruim na interface, com quase nenhuma acessibilidade e design não agradável.
 
 ### 4.7 Análise e Interpretação dos Usuários
 
+A partir do que o entrevistado comentou é possivel concluir que o site possui em sua grande maioria problemas com a interface, como um design desagradável, mas suas funcionalidades funcionam de maneira correta.
+
 ### 4.8 Sumário dos Principais Resultados
+
+O usuário não apresentou dificuldade para realizar a tarefa, mas sim com a interface no geral e a complexidade da tarefa sem necessidade. Destacou a importância de uma boa navegabilidade e acessibilidade.
 
 ## **5. Acessar o Contest System - Ester L**
 
@@ -362,3 +421,4 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 |  1.3   | 08/11/2023 | Inclusão da avaliação da Análise de Tarefa - "Acessar Contest System" |   [Ester Lino](https://github.com/esteerlino)    | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.4   | 08/11/2023 |                 Inclusão da avaliação "Forgot login"                  | [Kallyne Macedo](https://github.com/kalipassos)  | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.5   | 08/11/2023 |                Inclusão da avaliação "Browse Problems"                | [Suzane Duarte](https://github.com/suzaneduarte) | [Pablo Guilherme](https://github.com/PabloGJBS)  |
+|  1.6   | 08/11/2023 |                Inclusão da avaliação "Editar Conta"                | [Luana Torres](https://github.com/luanatorress) | [Ester Lino](https://github.com/esteerlino)  |
