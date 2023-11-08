@@ -12,13 +12,13 @@ em questão. Assim, foi descrita a definição de cada etapa e sua aplicação n
 <center><b>Tabela 1:</b> Definição do DECIDE
 
 | Letra | <center>Descrição                                            |
-| ----- | ------------------------------------------------------------ | --- |
+| ----- | ------------------------------------------------------------ |
 | D     | Determinar os objetivos da avaliação.                        |
 | E     | Explorar perguntas a serem respondidas com a avaliação.      |
 | C     | Escolher os métodos de avaliação a serem utilizados.         |
 | I     | Identificar e administrar as questões práticas da avaliação. |
 | D     | Decidir como lidar com as questões éticas.                   |
-| E     | Avaliar, interpretar e apresentar os dados                   |     |
+| E     | Avaliar, interpretar e apresentar os dados                   |
 
 Fonte: Preece, Rogers e Sharp, 2013 <a id="anchor_2" href="#REF2">[2]</a>.
 
@@ -85,8 +85,6 @@ Para não gerar custos a equipes e aos entrevistados, as entrevistas serão real
 
 Os prazos definidos estão demonstrados a seguir na tabela 2 contendo Entrevistador, Entrevistado, Horário de início e fim e data da entrevista:
 
-<center>
-
 Para fins de documentação as entrevistas devem ser registradas em uma tabela contendo:
 
 - Nome do entrevistador
@@ -102,7 +100,7 @@ Para fins de documentação as entrevistas devem ser registradas em uma tabela c
 |                    Entrevistador                    |    Entrevistado     | Horário de Início | Horário de Fim |    Data    |                                                                                                                                                                                                                    Local                                                                                                                                                                                                                    |
 | :-------------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     [Eric Camargo](https://github.com/ericcs10)     |    Caio Vinícius    |       11:00       |     11:10      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-|     [Ester Lino](https://github.com/esteerlino)     |    Pedro Miguel     |       10:10       |     10:20      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+|     [Ester Lino](https://github.com/esteerlino)     |    Jennifer Costa     |       15:50      |     16:00      | 07/11/2023 | Faculdade do Gama |
 | [Henrique Torres](https://github.com/henriqtorresl) |     João Pedro      |       09:30       |     10:00      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 |   [Kallyne Macedo](https://github.com/kalipassos)   |   Leonardo Aguiar   |       16:20       |     16:30      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 |   [Luana Torres](https://github.com/luanatorress)   |    Ingrid Alves     |       18:30       |     18:40      | 01/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
@@ -155,3 +153,4 @@ Gravado na plataforma Teams.
 | 1.1    | 29/10/2023 | Continuação do Framework                      | [Luana Torres](https://github.com/luanatorres)  | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.2    | 29/10/2023 | Etapa de explorar perguntas e escolher método | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino)     |
 | 1.3    | 30/10/2023 | Adição do teste piloto                        | [Kallyne Macedo](https://github.com/kalipassos) | [Luana Torres](https://github.com/luanatorres)  |
+| 1.4    | 08/11/2023 | Alteração de datas                        | [Ester Lino](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorres)  |
