@@ -149,7 +149,7 @@ O objetivo da avaliação do HTA "Acessar o Contest System" é verificar se ele 
 
 ### 5.2 Método de avaliação empregado
 
-Assim, como o proposto no Planejamento da Avaliação da Análise de Tarefas, o métodos utilizado foi o de entreista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 9.
+Assim, como o proposto no Planejamento da Avaliação da Análise de Tarefas, o métodos utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 9.
 
 <center>
 
@@ -165,7 +165,7 @@ Fonte: [Ester Lino](https://github.com/esteerlino).
 
 ### 5.3 Seleção dos participantes
 
-A participante selecionado se encaixa com o perfil de usuário definido no projeto. Ela é estudante do curso Engenharia de Software com experiência média em tecnologia e é tecnófila. Além disso, ela está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
+A participante selecionada se encaixa com o perfil de usuário definido no projeto. Ela é estudante do curso Engenharia de Software com experiência média em tecnologia e é tecnófila. Além disso, ela está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
 
 ### 5.4 Problemas e Dificuldades encontradas
 
@@ -195,20 +195,52 @@ A partir da entrevista, é possível concluir que o HTA está de acordo com o ob
 
 ### 6.1 Objetivos e escopo da avaliação
 
+A avaliação da tarefa de Recuperação de Login objetiva, seguindo a especificação dada no Planejamento da Avaliação, avaliar a conformidade do fluxo de ações que o usuário realiza para concluir a tarefa com seu respectivo diagrama de Análise Hierárquica de Tarefas no [Online Judge](https://onlinejudge.org/), de forma a também mapear problemas não identificados anteriormente e sugestões de design alternativo que resolva insatisfações com a usabilidade.
+
 ### 6.2 Método de avaliação empregado
+
+O método de avaliação definido foi o da entrevista, que adiciona as perspectivas de um usuário real do sistema ao panorama. Na tabela 10, é apresentado o cronograma da entrevista.
+
+
+<center>
+
+**Tabela 10** - Cronograma da avaliação - Acessar o "Forgot Login?" - Recuperação de login.
+
+|                Entrevistador                |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :-----------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Kallyne Macedo](https://github.com/kalipassos) | Leonardo Aguiar |       16:20      |     16:30      | 03/11/2023 | Gama, DF |
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos).
+
+</center>
 
 ### 6.3 Seleção dos participantes
 
+O participante em questão foi selecionado por sua adequação ao perfil de usuário, pois se encontra na faixa dos 19 a 24 anos de idade e foi mapeado grau alto de afinidade com tecnologia, perfil universitário e uso de ferramentas de júri online para fins acadêmicos.
+
 ### 6.4 Problemas e Dificuldades encontradas
+
+O participante não obteve dificuldades para a realização da tarefa.
 
 ### 6.5 Sugestões de Melhoria
 
+O participante entrevistado sugeriu alterações no botão de envio do formulário de recuperação de senha por ter notado o botão "apagado", de forma a não exibir resposta ao clique do usuário. 
+
 ### 6.6 Feedbacks dos Usuários
+
+O participante ressaltou que o campo de login está localizado do lado esquerdo da tela, o que foge aos padrões de usabilidade seguidos pela maioria dos sites e causa estranhamento. Apesar disso, conseguiu achar o campo com facilidade.
 
 ### 6.7 Análise e Interpretação dos Usuários
 
+Após verificação do fluxo proposto, o usuário constatou ter feito o mesmo fluxo que se encontra na Análise Hierárquica da Tarefa e mostrou estar de acordo com o que consta no diagrama. 
+
 ### 6.8 Sumário dos Principais Resultados
 
+O usuário não apresentou dificuldade para realizar a tarefa, mas notou uma dissonância entre a localização do campo de login do OnlineJudge e de outros sites de uso comum na Internet. Destacou a importância de campos e botões reativos ao uso, que passam segurança ao usuário quanto a realização efetiva de sua tarefa. No mais, seguiu o fluxo de ações existente no diagrama HTA, sem fuga ou alteração do caminho mapeado.
+
+[Link da gravação da entrevista](https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8ZDUT6jZuI?si=jeTR0NJNOtd70hIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **7. Busca por uma página específica - Henrique T**
 
