@@ -91,13 +91,24 @@ Nesta seção do documento, o entrevistador deve detalhadamente listar os proble
 
 ### **Sugestões de melhoria**
 
+É fundamental que o entrevistador registre de maneira detalhada as sugestões e aprimoramentos com base nos problemas identificados durante a avaliação. Isso implica em criar um registro claro e objetivo para cada problema identificado, incluindo informações sobre o contexto, as ações do usuário, os resultados esperados e os resultados observados. Além disso, o entrevistador deve apresentar propostas de soluções ou sugestões para corrigir os problemas identificados, oferecendo ideias para aprimorar o design, a interface do usuário ou as funcionalidades.
+
 ### **Feedback dos usuários**
+
+É essencial que o entrevistador colete o feedback dos usuários que foram entrevistados durante a avaliação de tarefas. Isso requer uma escuta atenta às opiniões, sugestões e comentários expressos pelos usuários durante a interação com o sistema ou produto avaliado. O entrevistador deve registrar de forma precisa e completa o feedback fornecido pelos usuários, considerando suas percepções, experiências e necessidades. Essas informações são inestimáveis para compreender as expectativas dos usuários, identificar os pontos fortes e fracos do sistema e obter insights sobre possíveis melhorias.
 
 ### **Análise e interpretação dos resultados**
 
+O entrevistador deve conduzir uma análise e interpretação dos resultados obtidos a partir da avaliação de tarefas. Isso implica em uma avaliação minuciosa dos dados coletados durante a avaliação, a identificação de padrões, tendências e insights relevantes, e a extração de conclusões significativas dessas informações. Além disso, é importante contextualizar os resultados dentro dos objetivos da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos, respondendo às questões iniciais levantadas.
+
 ### **Sumário dos principais resultados**
 
+Os resultados da análise de cada tarefa serão descritos de maneira sucinta e clara, acompanhados por uma breve descrição que indicará se os participantes conseguiram ou não concluir a tarefa com êxito. A exposição dos dados pode ser feita por meio de uma tabela ou por meio de um texto descritivo.
+
 ### **Planejamento de Reprojeto**
+
+Por fim, uma vez que a finalidade desta atividade geralmente está relacionada à validação realizada com a ajuda de um participante, um usuário real. 
+É importante considerar as sugestões de aprimoramento e outros desafios identificados durante a análise do artefato definido para o processo de reformulação. No entanto, é fundamental assegurar que essa revisão mantenha a ideia principal do projeto original e incorpore somente as mudanças estritamente necessárias.
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
