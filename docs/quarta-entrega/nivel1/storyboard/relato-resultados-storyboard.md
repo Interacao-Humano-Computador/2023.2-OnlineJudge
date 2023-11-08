@@ -164,19 +164,70 @@ Não teve nenhuma sujestão de melhoria para o storyboard
 
 ### 4.1 Objetivos e escopo da avaliação
 
+A avaliação do Storyboard "Editar Conta" tem como objetivo identificar incoerências entre o diagrama HTA realizado e a real execução dessa tarefa no site [Online Judge](https://onlinejudge.org/).
+
 ### 4.2 Método de avaliação empregado
+
+De acordo com Planejamento da Avaliação do Storyboard, o métodos utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real.
+
+[Link para o storyboard avaliado](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/storyboards/#editar-conta/)
+
+<center>
+
+**Tabela 7** - Cronograma da avaliação - Acessar Contest System.
+
+|                Entrevistador                |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :-----------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Luana Torres](https://github.com/luanatorress) | Letícia Torres |       09:50      |     10:00      | 08/11/2023 | Faculdade do Gama |
+
+Fonte: [Luana Torres](https://github.com/luanatorress).
+
+</center>
 
 ### 4.3 Perfil do participante
 
+O participante selecionado se encaixa com o perfil de usuário definido ao longo do projeto. Ela é estudante do curso Engenharia de Software com experiência média a alta em tecnologia e é tecnófila. Além disso, está dentro da faixa etária definida pelo perfil de usuário (19 a 24 anos).
+
 ### 4.4 Problemas encontrados
 
-### 4.5 Sumário dos dados coletados
+Diante da Pergunta número 3, o participante relatou que o Storyboard simplifica a tarefa realizada, de maneira a não condizir com a realidade.
+
+### 4.5 Sumário dos dados 
+
+Na tabela 8 é posível verificar as respostas obtidas pela entrevista.
+
+<center>
+
+**Tabela 8** - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| 1                  | A narrativa apresentada pelo Storyboard está condizente com o título?                                            | Sim      |
+| 2                  | No que tange atores e ambiente, o Storyboard em questão possui relação com a realidade?                          | Sim      |
+| 3                  | As tarefas realizadas pelos atores no storyboard são condizentes com a realidade?                                | Não      |
+| 4                  | As ações realizadas no Storyboard seguem uma ordem sequencial, fluída e lógica?                                  | Sim      |
+| 5                  | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | Sim      |
+| 6                  | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | Sim      |
+
+Fonte: [Luana Torres](https://github.com/luanatorress).
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=CwRA3jCKjm8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CwRA3jCKjm8?si=HkyKTFk31FhQjIVq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 4.6 Análise e interpretação dos dados coletados
 
+A partir das respostas obtidas, é possível concluir que o storyboard é de fácil compreensão, e está alinhado com o seu objetivo. Entretanto, deve ser mais compatível com a realidade do site online.
+
 ### 4.7 Feedback do usuário
 
+O usuário demonstrou que o Storyboard da tarefa deveria ser adaptado ao nível de complexidade demonstrado no site em questão.
+
 ### 4.8 Sugestões de melhoria
+
+O usuário sugeriu aumentar a complexidade da realização da tarefa para tornar mais condizente com a realidade 
 
 ## **5. Acessar o Contest System - Ester L**
 
