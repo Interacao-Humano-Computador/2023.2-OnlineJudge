@@ -112,7 +112,9 @@ Por fim, uma vez que a finalidade desta atividade geralmente está relacionada �
 
 ### Protótipo de Papel 
 
-O protótipo de papel pode ser encontrado através desse [link](https://marvelapp.com/project/6893843/design/93180271).
+O protótipo de papel projetado pode ser encontrado através desse [link](https://marvelapp.com/prototype/1045ifhe).
+
+<iframe src="https://marvelapp.com/prototype/1045ifhe?emb=1&iosapp=false&frameless=false" width="1440" height="1024" allowTransparency="true" frameborder="0" style="-webkit-clip-path: inset(2px 2px); clip-path: inset(2px 2px);"></iframe>
 
 
 ## Referências Bibliográficas
@@ -124,4 +126,4 @@ O protótipo de papel pode ser encontrado através desse [link](https://marvelap
 | ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 08/11/2023 | Criação da página  | [Eric Camargo](https://github.com/ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) | 
 | 1.1    | 08/11/2023 | Adicionando os tópicos que faltavam na página | [Henrique Torres](https://github.com/henriqtorresl) |  [Eric Camargo](https://github.com/ericcs10) | 
-| 1.2    | 08/11/2023 | Adicionando o protótipo | [Kallyne Macedo](https://github.com/kalipassos) |  [Eric Camargo](https://github.com/ericcs10) | 
+| 1.2    | 08/11/2023 | Adição do protótipo e correções | [Kallyne Macedo](https://github.com/kalipassos) |  [Eric Camargo](https://github.com/ericcs10) | 
