@@ -238,13 +238,17 @@ Em seguida estarão dispostas as respostas obtidas durante a entrevista na tabel
 |16| O entrevistado não saiu do fluxo    |
 |17|O entrevistado não sugeriu mudanças|
 |18|Não|
-|19|O entrevistado apenas se sentiu incomodado com o design do site |
-|20|Ruim|
-|21|O entrevistado sugeriu que o site deveria seguir mais o padrão de disposição de icones como em outros sites|
+|19|Não |
+|20|Regular|
+|21|O entrevistado não sugeriu nada|
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10).
 
 </center>
+
+[Link da gravação da entrevista](https://youtu.be/EYAjke806Cg)
+
+<iframe width="1481" height="554" src="https://www.youtube.com/embed/mmHzbV-wdf0" title="entrevista com a Luisa (análise de tarefas)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **4. Editar Conta - Luana T**
 
