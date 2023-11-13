@@ -73,13 +73,13 @@ Apesar de serem realizadas presencialmente, as entrevistas deverão ser gravadas
 
 | Entrevistadores | Entrevistado | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| - | - | - | - | - |
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | - | - | - | - | - |
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | - |- | - | - | - |
-|[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| - | - | - | - | -|
-|[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | - | - | - | - | - |
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| - | - | - | - | -|
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | -  | - | - | - | -|
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| Pedro Miguel | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | Sofia Victória | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | Isadora Maciel |- | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
+|[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| Ingrid Alves | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
+|[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | - | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| - | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
+| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | -  | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
 
 Fonte: [Ester Lino](https://github.com/esteerlino), [Pablo Guilherme](https://github.com/PabloGJBS).
 
@@ -110,9 +110,19 @@ Após a realização das entrevistas os dados obtidos devem ser documentados, e 
 
 Após realizado este processo, estaremos enviando os dados coletados ao time de desenvolvimento do [Online Judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1)
 
-## Planejamento do teste Piloto
+## Planejamento do Teste Piloto
 
-Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹</a> realizaremos o teste piloto com o intuito de verificar se a avaliação está em conformidade com os objetivos e se tudo ocorrerá bem. Conduziremos o teste piloto como se fosse uma sessão normal de avaliação. O teste-piloto será realizado no dia 09/11/2023 por dois avaliadores: [Ester Lino](https://github.com/esteerlino) e [Pablo Guilherme](https://github.com/PabloGJBS).
+Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹</a> realizaremos o teste piloto com o intuito de verificar se a avaliação está em conformidade com os objetivos e se tudo ocorrerá bem. Conduziremos o teste piloto como se fosse uma sessão normal de avaliação. O teste-piloto será realizado no dia 10/11/2023 por dois avaliadores: [Ester Lino](https://github.com/esteerlino) e [Pablo Guilherme](https://github.com/PabloGJBS).
+
+## Resultado do Teste Piloto
+
+A seguir está disponível o vídeo do Teste de Piloto, realizado di 10/11/2023 às 13:50 e contou com a presença de 3 integrantes da equipe: [Ester Lino](https://github.com/esteerlino) - entrevistadora; [Pablo Guilherme](https://github.com/PabloGJBS) - câmera e [Suzane Duarte](https://github.com/suzaneduarte) - usuário teste. 
+
+[Link da gravação do Teste Piloto](https://www.youtube.com/watch?v=PR2VGULENYA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PR2VGULENYA?si=1KzL3EQfuqmPO3SV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Vale ressaltar que, apesar do Teste Piloto ter sido realizado com apenas uma tarefa, nas entrevistas todas as tarefas selecionadas pela equipe devem ser apresentadas aos usuários.
 
 ## Bibliografia
 
@@ -128,3 +138,4 @@ Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹<
 | Versão | Data       | Descrição                    | Autor(es)                                                                                         | Revisor(es)                                 |
 | ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 06/11/2023 | Criação da página            | [Ester Lino](https://github.com/esteerlino) , [Pablo Guilherme](https://github.com/PabloGJBS) | [Eric Camargo](https://github.com/ericcs10) |
+| 1.1    | 13/11/2023 | Inclusão do Teste Piloto            | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |
