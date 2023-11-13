@@ -45,11 +45,11 @@ A verificação será realizada no período de 11 de novembro de 2023 até dia 1
 
 | Data       | Descrição                                                                   | Responsável                                                                                       |
 | ---------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 12/11/2023 | Verificação do Planejamento da Avaliação da Análise de Tarefas.             | [Luana Torres](https://github.com/luanatorress)                                                  |
-| 13/11/2023 | Verificação do Planejamento do Relato dos Resultados da Análise de Tarefas. | [Luana Torres](https://github.com/luanatorress)                                                    |
-| 13/11/2023 | Verificação do Planejamento da Avaliação do Storyboard.                     | [Suzane Duarte](https://github.com/suzaneduarte)                                                  |
-| 13/11/2023 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Suzane Duarte](https://github.com/suzaneduarte)                                                    |
-| 13/11/2023 | Verificação dos Storyboards.                                  | [Suzane Duarte](https://github.com/suzaneduarte) |
+| 14/11/2023 | Verificação do Planejamento da Avaliação da Análise de Tarefas.             | [Luana Torres](https://github.com/luanatorress)                                                  |
+| 14/11/2023 | Verificação do Planejamento do Relato dos Resultados da Análise de Tarefas. | [Luana Torres](https://github.com/luanatorress)                                                    |
+| 14/11/2023 | Verificação do Planejamento da Avaliação do Storyboard.                     | [Suzane Duarte](https://github.com/suzaneduarte)                                                  |
+| 14/11/2023 | Verificação do Planejamento do Relato dos Resultados do Storyboard.         | [Suzane Duarte](https://github.com/suzaneduarte)                                                    |
+| 14/11/2023 | Verificação dos Storyboards.                                  | [Suzane Duarte](https://github.com/suzaneduarte) |
 
 Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
@@ -87,17 +87,55 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o resultados da avaliação da análise de tarefas.
 
-*Tabela 3* - Checklist para o Planejamento do Avaliação da Análise de Tarefas.
+<center>
 
+*Tabela 3* - Checklist para o Planejamento do Avaliação da Análise de Tarefas
+
+| ID  | Questão                                                                                                                                                                         | Resposta | Comentário |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :--------: |
+|  1  | O artefato apresenta e utiliza o framework DECIDE para realização do Planejamento da Avaliação da Análise de tarefas ?                                                          |          |            |
+|  2  | O artefato apresenta os objetivos da Avaliação da Análise de tarefas ?                                                                                                          |          |            |
+|  3  | O artefato apresenta a metodologia que será utilizada na Avaliação da Análise de tarefas ?                                                                                      |          |            |
+|  4  | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação da Análise de tarefas ?                                                                   |          |            |
+|  5  | O artefato identifica como ocorrerá o recrutamento dos participantes da Avaliação da Análise de tarefas (perfil e local) ?                                                      |          |            |
+|  6  | O artefato identifica quantos usuários participarão da Avaliação da Análise de tarefas e a justificativa dessa quantidade ?                                                     |          |            |
+|  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação da Análise de tarefas ?                                                          |          |            |
+|  8  | O artefato possui um cronograma com data e horário para realização da Avaliação da Análise de tarefas ?                                                                          |          |            |
+|  9  | O artefato identifica o orçamento necessário para a Avaliação da Análise de tarefas ?                                                                                           |          |            |
+| 10  | O artefato identificaos recursos de mão-de-obra necessários para conduzir a Avaliação da Análise de tarefas, assim como a preparação e os equipamentos necessários ? |          |            |
+| 11  | O artefato apresenta como serão abordadas as questões éticas ?                                                                                                                  |          |            |
+| 12  | O artefato apresenta o termo de consentimento a ser utilizado na Avaliação da Análise de tarefas ?                                                                              |          |            |
+| 13  | O artefato apresenta quais dados devem ser coletados e como devem ser interpretados ?                                                                                           |          |            |
+
+Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
+
+</center>
 
 ### Planejamento do Relato dos Resultados da Análise de Tarefas
 
 A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento do Relato dos Resultados segundo Barbosa e Silva (2011, p.358-362).<a href="#REF1"><sup>1</sup></a>
 
+<center>
 
-*Tabela 4* - Checklist para o Planejamento do Relato dos Resultados da Análise de Tarefas.
+*Tabela 4* - Checklist para o Planejamento do Relato dos Resultados da Análise de Tarefas
 
+| ID  | Questão                                                                                                                                                                         | Resposta | Comentário |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :--------: |
+|  1  | O artefato menciona a apresentação do cronograma realizado das Avaliações da Análise de tarefas ?                                                          |          |            |
+|  2  | O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações da Análise de tarefas ?                                                                                                        |          |            |
+|  3  |  O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ?                                                                                      |          |            |
+|  4  | O planejamento apresenta os participantes selecionados?                                                                  |          |            |
+|  5  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                                     |          |            |
+|  6  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato ?                                                    |          |            |
+|  7  | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados ?                                                  |          |            |
+|  8  |O planejamento apresenta uma seção para o feedback dos usuários ?                                                                    |          |            |
+|  9  | O planejamento considera no resultado um planejamento para o reprojeto do sistema ?                                                                                         |          |            |
+| 10  | O planejamento apresenta instruções com relação às sugestões de melhorias ?                                                                                                                |          |            |
+| 11  | O planejamento define tópico para sumarizar os principais resultados ?                                                                             |          |            |
 
+Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
+
+</center>
 
 ### Planejamento da Avaliação do Storyboard
 
@@ -105,8 +143,28 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 <center>
 
-*Tabela 5* - Checklist para o Planejamento da Avaliação do Storyboard.
+*Tabela 5* - Checklist para o Planejamento da Avaliação do Storyboard
 
+| ID  | Questão                                                                                                                                                                         | Resposta | Comentário |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :--------: |
+|  1  | O artefato apresenta e utiliza o framework DECIDE para realização do Planejamento da Avaliação do Storyboar ?                                                          |          |            |
+|  2  | O artefato apresenta os objetivos da Avaliação do Storyboard ?                                                                                                          |          |            |
+|  3  | O artefato apresenta a metodologia que será utilizada na Avaliação do Storyboard ?                                                                                      |          |            |
+|  4  | O artefato apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação ?                                                                |          |            |
+|  5  | O artefato identifica como ocorrerá o recrutamento dos participantes da Avaliação do Storyboard (perfil e local) ?                                                      |          |            |
+|  6  | O artefato identifica quantos usuários participarão da Avaliação do Storyboard e a justificativa dessa quantidade ?                                                     |          |            |
+|  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação do Storyboard ?                                                         |          |            |
+|  8  | O artefato possui um cronograma com data e horário para realização da Avaliação do Storyboard ?                                                                      |          |            |
+|  9  | O artefato identifica o orçamento necessário para a Avaliação do Storyboard ?                                                                                           |          |            |
+| 10  | O artefato identifica os recursos de mão-de-obra necessários para conduzir a Avaliação do Storyboard, assim como a preparação e os equipamentos necessários ? |          |            |
+| 11  | O artefato apresenta como serão abordadas as questões éticas ?                                                                                                                  |          |            |
+| 12  | O artefato apresenta o termo de consentimento a ser utilizado na Avaliação ?                                                                              |          |            |
+| 13  | O artefato apresenta quais dados devem ser coletados e como devem ser interpretados ?                                                                                           |          |            |
+| 14   | Os storyboards estão relacionados com o artefato da Análise de Tarefas?                                                                                    |          |            |
+
+Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
+
+</center>
 
 ### Planejamento do Relato dos Resultados do Storyboard
 
@@ -116,10 +174,29 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 *Tabela 6* - Checklist para o Planejamento do Relato dos Resultados do Storyboard.
 
+| ID  | Questão                                                                                                                                                                         | Resposta | Comentário |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :--------: |
+|  1  | O artefato menciona a apresentação do cronograma realizado das Avaliações do Storyboard ?                                                          |          |            |
+|  2  | O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações do Storyboard ?                                                                                                        |          |            |
+|  3  |  O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ?                                                                                      |          |            |
+|  4  | O planejamento apresenta os participantes selecionados?                                                                  |          |            |
+|  5  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                                     |          |            |
+|  6  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato ?                                                    |          |            |
+|  7  | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados ?                                                  |          |            |
+|  8  |O planejamento apresenta uma seção para o feedback dos usuários ?                                                                    |          |            |
+|  9  | O planejamento considera no resultado um planejamento para o reprojeto do sistema ?                                                                                         |          |            |
+| 10  | O planejamento apresenta instruções com relação às sugestões de melhorias ?                                                                                                                |          |            |
+| 11  | O planejamento define tópico para sumarizar os principais resultados ?                                                                             |          |            |
+
+Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
+
+</center>
 
 ## Bibliografia
 
 > Verificação do Planejamento da Avaliação do Protótipo de Papel do Grupo 2. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa5/planejamento-aval-papel/>>.Acesso em 11 de novembro de 2023.
+
+> MACEDO, Lucas. Planejamento da Verificação - PC5. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/>>. Acesso em: 30 maio 2023.
 
 ## Referências Bibliográficas
 
@@ -130,4 +207,5 @@ A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 | Versão | Data       | Descrição                                        | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 11/11/2023 | Criação da página de Planejamento de ;verificação Etapa 4  | [Luana Torres](https://github.com/luanatorress)   | [Suzane Duarte](https://github.com/suzaneduarte) | 
+| `1.0`  | 11/11/2023 | Criação da página de Planejamento de verificação Etapa 4  | [Luana Torres](https://github.com/luanatorress)   | [Suzane Duarte](https://github.com/suzaneduarte) | 
+| `1.1`  | 13/11/2023 | Checklist de Verificação da Etapa 4  | [Luana Torres](https://github.com/luanatorress)   | [Suzane Duarte](https://github.com/suzaneduarte) | 
