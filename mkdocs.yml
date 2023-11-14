@@ -54,7 +54,10 @@ nav:
           - Protótipo de Papel:
               - Planejamento da Avaliação do Protótipo de Papel: quarta-entrega/nivel2/planejamento-avaliacao-prototipo-papel.md
               - Planejamento do Relato dos Resultados - Protótipo de Papel: quarta-entrega/nivel2/planejamento-do-relato-dos-resultados-prototipo-de-papel.md
-
+    - Verificação do Grupo 8:
+      - Etapa 4:
+          - Planejamento da verificação da etapa 4: verificacao/grupo_8/etapa_4/planejamento-verificacao-etapa-4.md
+    
 theme:
   name: material
   features:
