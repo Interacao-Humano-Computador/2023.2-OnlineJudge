@@ -56,7 +56,12 @@ nav:
               - Planejamento do Relato dos Resultados - Protótipo de Papel: quarta-entrega/nivel2/planejamento-do-relato-dos-resultados-prototipo-de-papel.md
     - Verificação do Grupo 8:
         - Etapa 4:
-            - Planejamento da verificação da etapa 4: verificacao/grupo_8/etapa_4/planejamento-verificacao-etapa-4.md
+            - Planejamento da Verificação da Etapa 4: verificacao/grupo_8/etapa_4/planejamento-verificacao.md
+            - Planejamento da Avaliação da Análise de Tarefas: verificacao/grupo_8/etapa_4/planejamento-analise-tarefas.md
+            - Planejamento da Avaliação do Storyboard: verificacao/grupo_8/etapa_4/planejamento-storyboards.md
+            - Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas: verificacao/grupo_8/etapa_4/planejamento-resultados-analise-tarefas.md
+            - Planejamento da Relato dos Resultados da Avaliação do Storyboard: verificacao/grupo_8/etapa_4/planejamento-resultados-storyboards.md
+            - Verificação dos Storyboards: verificacao/grupo_8/etapa_4/verificacao-storyboards.md
     
 theme:
   name: material
