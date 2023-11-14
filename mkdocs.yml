@@ -1,8 +1,8 @@
 site_name: Online-Judge
 
 nav:
-  - Sobre: index.md
-  - Atas:
+    - Sobre: index.md
+    - Atas:
       - Primeira Entrega:
           - Ata Primeira Reunião: atas/primeira-entrega/reuniao-1.md
           - Ata Segunda Reunião: atas/primeira-entrega/reuniao-2.md
@@ -15,7 +15,7 @@ nav:
       - Quinta Entrega:
           - Ata Sexta Reunião: atas/quinta-entrega/reuniao-6.md
 
-  - Planejamento:
+    - Planejamento:
       - Apresentação: primeira-entrega/apresentacao.md
       - Equipe: primeira-entrega/equipe.md
       - Sites Avaliados: primeira-entrega/sites-avaliados.md
@@ -24,7 +24,7 @@ nav:
       - Ferramentas do Projeto: primeira-entrega/ferramentas.md
       - Processo de Design: primeira-entrega/processo-design.md
       - Cronograma das Atividades: primeira-entrega/cronograma-atividades.md
-  - Análise de Requisitos I:
+    - Análise de Requisitos I:
       - Apresentação: segunda-entrega/apresentacao.md
       - Análise de Tarefas:
           - Análise Hierárquica de Tarefas (HTA): segunda-entrega/analise-tarefas/HTA.md
@@ -33,13 +33,13 @@ nav:
       - Perfil de Usuário: segunda-entrega/perfil-usuario.md
       - Personas: segunda-entrega/personas.md
       - Cenários: segunda-entrega/cenarios.md
-  - Análise de Requisitos II:
+    - Análise de Requisitos II:
       - Apresentação: terceira-entrega/apresentacao.md
       - Metas de Usabilidade: terceira-entrega/metas-usabilidade.md
       - Características da Plataforma: terceira-entrega/caracteristicas-plataforma.md
       - Princípios Gerais do Projeto: terceira-entrega/principios-gerais.md
       - Guia de Estilo: terceira-entrega/guia-estilo.md
-  - Design, Avaliação e Desenvolvimento:
+    - Design, Avaliação e Desenvolvimento:
       - Nível 1:
           - Storyboard:
               - Storyboards da equipe: quarta-entrega/nivel1/storyboard/storyboards.md
@@ -55,8 +55,8 @@ nav:
               - Planejamento da Avaliação do Protótipo de Papel: quarta-entrega/nivel2/planejamento-avaliacao-prototipo-papel.md
               - Planejamento do Relato dos Resultados - Protótipo de Papel: quarta-entrega/nivel2/planejamento-do-relato-dos-resultados-prototipo-de-papel.md
     - Verificação do Grupo 8:
-      - Etapa 4:
-          - Planejamento da verificação da etapa 4: verificacao/grupo_8/etapa_4/planejamento-verificacao-etapa-4.md
+        - Etapa 4:
+            - Planejamento da verificação da etapa 4: verificacao/grupo_8/etapa_4/planejamento-verificacao-etapa-4.md
     
 theme:
   name: material
