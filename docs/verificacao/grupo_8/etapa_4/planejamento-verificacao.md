@@ -60,7 +60,7 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Barbosa e Silva<a id=anchor_1 href="#REF1"><sup>1</sup></a>.
 Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do grupo em questão, [Milena Aires](https://github.com/milenaaires).
 
-As checklist serão divididas em 4 checklists, sendo a checklist geral obrigatória em todos os artefatos da etapa. As checklists são as seguintes: Geral, Planejamento da Avaliação da Análise de Tarefas, Planejamento do Relato dos Resultados da Análise de Tarefas, Planejamento da Avaliação do Storyboard e Planejamento do Relato dos Resultados do Storyboard. Elas estão apresentadas nas tabelas de 2 a 6 listadas a seguir:
+As checklist serão divididas em 5 checklists, sendo a checklist geral obrigatória em todos os artefatos da etapa. As checklists são as seguintes: Geral, Planejamento da Avaliação da Análise de Tarefas, Planejamento do Relato dos Resultados da Análise de Tarefas, Planejamento da Avaliação do Storyboard, Planejamento do Relato dos Resultados do Storyboard e Verificação dos Storyboards. Elas estão apresentadas nas tabelas de 2 a 7 listadas a seguir:
 
 ### Geral
 
@@ -192,6 +192,29 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 </center>
 
+### Verificação dos Storyboards
+
+A tabela 7 a seguir apresenta a checklist para a verificação dos Storyboards apresentados.
+
+<center>
+
+_Tabela 7_ - Checklist Storyboard.
+
+| ID  | Questão                                                                                                          | Resposta | Comentário |
+| :-: | :--------------------------------------------------------------------------------------------------------------- | :------: | :--------: |
+|  1  | A narrativa apresentada pelo Storyboard está condizente com o título?                                            |          |            |
+|  2  | No que tange atores e ambiente apresentado, o Storyboard em questão possui relação com a realidade?              |          |            |
+|  3  | As tarefas realizadas pelos atores no storyboard são condizentes com a realidade?                                |          |            |
+|  4  | As ações realizadas no Storyboard seguem uma ordem sequencial, fluída e lógica?                                  |          |            |
+|  5  | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? |          |            |
+|  6  | É possível considerar que o ator principal completou o objetivo na história contada pelo storyboard?             |          |            |
+|  7  | Todas os Storyboards são LEGÍVEIS?                                                                               |          |            |
+|  8  | Todos os Storyboards apresentam uma parte para descrição sobre cada quadro do storyboard?                        |          |            |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
+
+</center>
+
 ## Bibliografia
 
 > Verificação do Planejamento da Avaliação do Protótipo de Papel do Grupo 2. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa5/planejamento-aval-papel/>>.Acesso em 11 de novembro de 2023.
@@ -204,7 +227,8 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                | Autor(es)                                       | Revisor(es)                                      |
-| ------ | ---------- | -------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 11/11/2023 | Criação da página de Planejamento de verificação Etapa 4 | [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
-| `1.1`  | 13/11/2023 | Checklist de Verificação da Etapa 4                      | [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
+| Versão | Data       | Descrição                                                | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | -------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 11/11/2023 | Criação da página de Planejamento de verificação Etapa 4 | [Luana Torres](https://github.com/luanatorress)  | [Suzane Duarte](https://github.com/suzaneduarte) |
+| `1.1`  | 13/11/2023 | Checklist de Verificação da Etapa 4                      | [Luana Torres](https://github.com/luanatorress)  | [Suzane Duarte](https://github.com/suzaneduarte) |
+| `1.2`  | 14/11/2023 | Inserção do Checklist 7 de Verificação dos Storyboards   | [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress)  |

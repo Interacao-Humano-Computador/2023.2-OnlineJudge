@@ -4,7 +4,7 @@
 
 Após realizado o [planejamento geral de como serão realizadas as verificações da etapa 4](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/verificacao/grupo_8/etapa_4/planejamento-verificacao-etapa-4/), neste artefato será produzido de fato a verificação do artefato de Relato dos Resultados da Avaliação do Storyboard.
 
-Dessa forma, inicialmente serão apresentados os objetivos dessa verificação, a metodologia utilizada para sua realização, os responsáveis por realizá-la e os checklists apresentados no planejamento da etapa 4. Além disso, será desenvolvida uma análise e posterior levantamento dos problemas identificados após o respectivo checklist. Sendo assim, a partir das principais incoerências encontradas, será possível trazer sugestões e avaliar a necessidade de retrabalho.
+Dessa forma, inicialmente serão apresentados os objetivos dessa verificação, a metodologia utilizada para sua realização, os responsáveis por realizá-la e as respostas dos checklists apresentados no planejamento da etapa 4. Além disso, será desenvolvida uma análise e posterior levantamento dos problemas identificados após o respectivo checklist. Sendo assim, a partir das principais incoerências encontradas, será possível trazer sugestões e avaliar a necessidade de retrabalho.
 
 ## Objetivo
 
@@ -29,14 +29,14 @@ A Tabela 1 apresenta o Checklist Geral com os dados obtidos a partir da verifica
 
 _Tabela 1_ - Checklist para os Itens Gerais.
 
-| ID  | Descrição                                                                                                          | Avaliação | Observações                                                                 |
-| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | --------------------------------------------------------------------------- |
-| 1   | O artefato possui introdução?                                                                                      | SIM       |                                                                             |
-| 2   | O artefato possui uma bibliografia/referência bibliográfica?                                                       | SIM       |                                                                             |
-| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | SIM       |                                                                             |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte?                                         | SIM       | Porém, as fontes apresentadas estão inconsistentes (problema na formatação) |
-| 5   | Todos os textos estão na norma padrão?                                                                             | SIM       |                                                                             |
-| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  | SIM       |                                                                             |
+| ID  | Descrição                                                                                                          | Avaliação | Observações                                 |
+| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------- |
+| 1   | O artefato possui introdução?                                                                                      | SIM       |                                             |
+| 2   | O artefato possui uma bibliografia/referência bibliográfica?                                                       | SIM       |                                             |
+| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | SIM       |                                             |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte?                                         | NÃO       | As fontes apresentadas estão inconsistentes |
+| 5   | Todos os textos estão na norma padrão?                                                                             | SIM       |                                             |
+| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  | SIM       |                                             |
 
 Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
@@ -126,7 +126,7 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 Dessa forma, a partir das respostas coletas nos checklists acima foi possível realizar uma síntese dos dados encontrados em formato de gráfico, conforme pode ser visto na Figura 1.
 
 <figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado da Checklist da Avaliação do Storyboard</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado das Checklists Geral e da Avaliação do Storyboard</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTWnD1cmKlHNo6YBBEytFP-bBYXO3vmZ4Cr7vkgwyhfR_vR00S25hSi3vE4pmfqy_Hrv0NvtvttUUCx/pubchart?oid=137863240&format=interactive"></iframe><figcaption><font size="3">Fonte: Suzane Duarte, 2023.</font></figcaption>
 </figure>
 
@@ -148,17 +148,17 @@ Por fim, a partir das informações coletas, apresentadas e analisadas acima, su
 
 Para a realização do retrabalho é sugerido que os próprios autores do artefato verificado realizem a correção dos problemas apresentados seguindo a lista de sugestão apresentada no tópico anterior.
 
-Se necessário, outros membros do grupo 8 podem realizar as correções propostas, porém, deve-se informar a mudança realizada na tabela 4.
+Se necessário, outros membros do grupo 8 podem realizar as correções propostas, porém, deve-se informar a mudança realizada na Tabela 4 pois selecionou-se exatamente o responsável por essa página de acordo com a tabela do Histórico de Versões.
 
-O responsável do grupo 7 por essa verificação, Suzane Duarte, irá realizar uma revisão das correções feitas, verificando se as correções foram executadas com exatidão. Assim que todas as alterações forem implementadas, deve-se alterar o campo "Status" da tabela 3 apresenta a seguir de "Em análise" para "Finalizado".
+O responsável do grupo 7 por essa verificação irá realizar uma revisão das correções feitas, verificando se as correções foram executadas com exatidão. Assim que todas as alterações forem implementadas, deve-se alterar o campo "Status" da Tabela 4 apresentada a seguir de "Em análise" para "Finalizado".
 
 <center>
 
 **Tabela 4** - Cronograma de Retrabalho.
 
-| Data de Correção | Descrição                           |                Responsável(eis)                |                   Revisor(es)                    |   Status   |
-| ---------------- | :---------------------------------- | :--------------------------------------------: | :----------------------------------------------: | :--------: |
-| 19/06/2023       | Realizar os ajustes da verificação. | [Caio Mesquita](https://github.com/Caiomesvie) | [Suzane Duarte](https://github.com/suzaneduarte) | Em análise |
+| Data de Correção | Descrição                          |                Responsável(eis)                |                   Revisor(es)                    |   Status   |
+| ---------------- | :--------------------------------- | :--------------------------------------------: | :----------------------------------------------: | :--------: |
+| 17/11/2023       | Realizar os ajustes da verificação | [Caio Mesquita](https://github.com/Caiomesvie) | [Suzane Duarte](https://github.com/suzaneduarte) | Em análise |
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
@@ -170,14 +170,7 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                     |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------------------------- |
-| `1.0`  | 11/11/2023 | Criação da página base | [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
-
-```
-
-```
-
-```
-
-```
+| Versão | Data       | Descrição                            | Autor(es)                                        | Revisor(es)                                     |
+| ------ | ---------- | ------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
+| `1.0`  | 13/11/2023 | Criação da página base               | [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
+| `1.1`  | 14/11/2023 | Adicionando conteúdo para o artefato | [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
