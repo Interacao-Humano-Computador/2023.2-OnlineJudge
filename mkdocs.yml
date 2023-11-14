@@ -62,6 +62,11 @@ nav:
             - Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas: verificacao/grupo_8/etapa_4/planejamento-resultados-analise-tarefas.md
             - Planejamento da Relato dos Resultados da Avaliação do Storyboard: verificacao/grupo_8/etapa_4/planejamento-resultados-storyboards.md
             - Verificação dos Storyboards: verificacao/grupo_8/etapa_4/verificacao-storyboards.md
+        - Etapa 5:
+            - Planejamento da verificação da Etapa 5: verificacao/grupo_8/etapa_5/planejamento-verificacao.md
+            - Verificação do planejamento da avaliação do Protótipo de Papel: verificacao/grupo_8/etapa_5/verificacao-planejamento-avaliacao-do-prototipo-papel.md
+            - Verificação do planejamento do relato da avaliação do Protótipo de Papel: verificacao/grupo_8/etapa_5/verificacao-planejamento-relato-avaliacao-prototipo-papel.md
+            - Verificação do relato dos resultados do StoryBoard e da Análise de Tarefas: verificacao/grupo_8/etapa_5/verificacao-relato-dos-resultados-storyboard-e-analise.md
     
 theme:
   name: material
