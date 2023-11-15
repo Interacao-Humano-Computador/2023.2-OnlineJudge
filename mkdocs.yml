@@ -3,17 +3,16 @@ site_name: Online-Judge
 nav:
     - Sobre: index.md
     - Atas:
-      - Primeira Entrega:
-          - Ata Primeira Reunião: atas/primeira-entrega/reuniao-1.md
-          - Ata Segunda Reunião: atas/primeira-entrega/reuniao-2.md
-      - Segunda Entrega:
-          - Ata Terceira Reunião: atas/segunda-entrega/reuniao-3.md
-      - Terceira Entrega:
-          - Ata Quarta Reunião: atas/terceira-entrega/reuniao-4.md
-      - Quarta Entrega:
-          - Ata Quinta Reunião: atas/quarta-entrega/reuniao-5.md
-      - Quinta Entrega:
-          - Ata Sexta Reunião: atas/quinta-entrega/reuniao-6.md
+      - Planejamento:
+          - Ata Primeira Reunião: atas/planejamento/reuniao-1.md
+          - Ata Segunda Reunião: atas/planejamento/reuniao-2.md
+      - Análise de Requisitos:
+          - Ata Terceira Reunião: atas/analise-de-req/reuniao-3.md
+          - Ata Quarta Reunião: atas/analise-de-req/reuniao-4.md
+          - Ata Quinta Reunião: atas/analise-de-req/reuniao-5.md
+          - Ata Sexta Reunião: atas/analise-de-req/reuniao-6.md
+      - Verificação:
+          - Ata Sétima Reunião: atas/verificacao/reuniao-7.md
 
     - Planejamento:
       - Apresentação: primeira-entrega/apresentacao.md
@@ -41,6 +40,7 @@ nav:
       - Guia de Estilo: terceira-entrega/guia-estilo.md
     - Design, Avaliação e Desenvolvimento:
       - Nível 1:
+          - Apresentação: quarta-entrega/nivel1/apresentacao.md
           - Storyboard:
               - Storyboards da equipe: quarta-entrega/nivel1/storyboard/storyboards.md
               - Planejamento da Avaliação de Storyboard: quarta-entrega/nivel1/storyboard/planejamento-avaliacao-storyboard.md
@@ -51,10 +51,12 @@ nav:
               - Planejamento do Relato dos Resultados: quarta-entrega/nivel1/analise_de_tarefas/planejamento-do-relato-dos-resultados.md
               - Relato dos Resultados da Análise de Tarefas: quarta-entrega/nivel1/analise_de_tarefas/relato-resultados-tarefas.md
       - Nível 2:
+          - Apresentação: quarta-entrega/nivel2/apresentacao.md
           - Protótipo de Papel:
               - Planejamento da Avaliação do Protótipo de Papel: quarta-entrega/nivel2/planejamento-avaliacao-prototipo-papel.md
               - Planejamento do Relato dos Resultados - Protótipo de Papel: quarta-entrega/nivel2/planejamento-do-relato-dos-resultados-prototipo-de-papel.md
     - Verificação do Grupo 8:
+        - Apresentação: verificacao/grupo_8/apresentacao/apresentacao.md
         - Etapa 1:
             - Planejamento da Verificação da Etapa 1: verificacao/grupo_8/etapa_1/planejamento-verificacao.md
             - Cronograma: verificacao/grupo_8/etapa_1/verificacao-cronograma.md
