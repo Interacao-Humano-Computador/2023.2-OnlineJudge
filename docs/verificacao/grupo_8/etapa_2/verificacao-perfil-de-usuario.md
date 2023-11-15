@@ -151,4 +151,4 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 | Versão | Data       | Descrição                            | Autor(es)                                        | Revisor(es)                                     |
 | ------ | ---------- | ------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-| 1.0  | 14/11/2023 | Criação da página Verificação da Análise de Tarefas  | [Ester Lino](https://github.com/esteerlino) | [Eric Camargo](https://github.com/ericcs10) |
+| 1.0  | 15/11/2023 | Criação da página Verificação do Perfil de Usuário | [Ester Lino](https://github.com/esteerlino) | [Eric Camargo](https://github.com/ericcs10) |
