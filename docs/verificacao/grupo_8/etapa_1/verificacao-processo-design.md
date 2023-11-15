@@ -85,7 +85,7 @@ Houve uma falta de cuidado no detalhamento da escolha e nos argumentos que suste
 Dessa forma, a partir das respostas coletas nos checklists acima foi possível sintetizar dados encontrados em formato de gráfico, conforme pode ser visto na Figura 1.
 
 <figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists do Storyboard</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists do processo de design</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrZai6xbbMG_IRv17BaNeIqyRLuWrZVV6s03eZS4s5TwRo9UFR5GNPlKZ3EB0ofAqQnT0fRX8zoGph/pubchart?oid=796477061&format=interactive"></iframe><figcaption><font size="3">Fonte: Eric Camargo, 2023.</font></figcaption>
 </figure>
 

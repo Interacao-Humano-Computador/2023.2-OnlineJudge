@@ -74,7 +74,7 @@ Houveram faltas pontuais que sustentariam ainda mais a justificativa de escolha 
 Dessa forma, a partir das respostas coletas nos checklists acima foi possível sintetizar dados encontrados em formato de gráfico, conforme pode ser visto na Figura 1.
 
 <figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists do Storyboard</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists do Site escolhido</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhY_C0b0oiqb53NXjsUdOvQYf3xYV2rXj8VVgk6WvZ73QXg6iyoO3U-r-fKY-9UswVk3eTSZK4Wshs/pubchart?oid=1885431033&format=interactive"></iframe><figcaption><font size="3">Fonte: Eric Camargo, 2023.</font></figcaption>
 </figure>
 

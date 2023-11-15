@@ -65,7 +65,7 @@ A partir do preenchimento da tabela 1 e 2, a seguir serão realizadas as conside
 Dessa forma, a partir das respostas coletas nos checklists acima foi possível sintetizar dados encontrados em formato de gráfico, conforme pode ser visto na Figura 1
 
 <figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists do Storyboard</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists das ferramentas</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSTaJqaMZQ7dKFHZH7WRW1Hy8CXuZf9ks1gEDj-gQOUpt6xmD9K2tGUNq-pd9EnQm5X6miDzNr3sHxm/pubchart?oid=1769706020&format=interactive"></iframe><figcaption><font size="3">Fonte: Eric Camargo, 2023.</font></figcaption>
 </figure>
 

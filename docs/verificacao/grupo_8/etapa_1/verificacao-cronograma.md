@@ -80,7 +80,7 @@ O cronograma no geral não está completo, não são listadas todas as etapas, i
 Dessa forma, a partir das respostas coletas nos checklists acima foi possível sintetizar dados encontrados em formato de gráfico, conforme pode ser visto na Figura 1
 
 <figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists do Storyboard</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists do cronograma</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiPNuTwzB3LwBuQvsk7_-zs_MEcd-SwcCT7TFKc57GiWsxO8pjjLBdZokeAyTLDt-_cy75klq0WPaV/pubchart?oid=1645647244&format=interactive"></iframe><figcaption><font size="3">Fonte: Eric Camargo, 2023.</font></figcaption>
 </figure>
 
