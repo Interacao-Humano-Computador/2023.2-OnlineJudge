@@ -81,6 +81,8 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
+</center>
+
 ### Planejamento de avaliação do Protótipo de papel
 
 A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o Planejamento de avaliação do Protótipo de papel.
@@ -93,6 +95,30 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o Pl
 
 A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o Relato do Resultado da Avaliação dos StoryBoards e da Análises de Tarefas.
 
+<center>
+
+_Tabela 5_ - Checklist para os Itens do Resultado da avaliação dos StoryBoards e Análise de Tarefas.
+
+| ID  | Descrição                                                         | Avaliação para Análise de Tarefas | Avaliação para StoryBoards|Observações |
+| --- | ----------------------------------------------------------------- | --------- | ----------- |---|
+|  6  | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>|          |             |       |
+|  7  | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>                                          |           |             |       |
+|  8  | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">¹</a>                                     |           |             |       |
+|  9  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">¹</a> |            |             |       |
+| 10  | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados?                                       |          |             |       |
+| 11  | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">¹</a>                                                  |          |             |       |
+| 12  | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">¹</a>                                     |           |             |       |
+| 13  | Aborda como foi realizada a análise da interação do usuário com o artefato?                                                |            |             |       |
+| 14  | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">¹</a>                             |            |             |       |
+| 15  | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">¹</a>              |           |             |       |
+| 16  | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">¹</a>                                |           |             |       |
+| 17  | O relato segue um padrão consolidado para todos os outros relatos?                                                         |           |             |       |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
+
+</center>
+
+
 ## Bibliografia
 
 ## Referências Bibliográficas
@@ -104,3 +130,4 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o Re
 | Versão | Data       | Descrição                                                | Autor(es)                                       | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 14/11/2023 | Criação da página de Planejamento de verificação Etapa 5 | [Pablo Guilherme](https://github.com/PabloGJBS) | - |
+ `1.1`  | 14/11/2023 | Adicionando checklist da | [Pablo Guilherme](https://github.com/PabloGJBS) | - |

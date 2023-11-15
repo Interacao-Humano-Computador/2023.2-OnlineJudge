@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Após realizado o [planejamento geral de como serão realizadas as verificações da etapa 4](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/verificacao/grupo_8/etapa_4/planejamento-verificacao-etapa-4/), neste artefato será produzido de fato a verificação do artefato de Relato dos Resultados da Avaliação do Storyboard.
+Após realizado o [planejamento geral de como serão realizadas as verificações da etapa 4](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/verificacao/grupo_8/etapa_4/planejamento-verificacao-etapa-4/), neste artefato será produzido de fato a verificação do Planejamento da Avaliação do Storyboard.
 
 Dessa forma, inicialmente serão apresentados os objetivos dessa verificação, a metodologia utilizada para sua realização, os responsáveis por realizá-la e as respostas dos checklists apresentados no planejamento da etapa 4. Além disso, será desenvolvida uma análise e posterior levantamento dos problemas identificados após o respectivo checklist. Sendo assim, a partir das principais incoerências encontradas, será possível trazer sugestões e avaliar a necessidade de retrabalho.
 
