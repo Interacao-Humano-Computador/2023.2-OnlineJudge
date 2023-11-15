@@ -31,3 +31,4 @@
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                     |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------------------------- |
 | `1.0`  | 14/11/2023 | Criação da página base | [Pablo Guilherme](https://github.com/PabloGJBS) | [Henrique Torres](https://github.com/henriqtorresl) |
+| `1.1`  | 15/11/2023 | Adicionando a verificação do artefato | [Henrique Torres](https://github.com/henriqtorresl) |  |
