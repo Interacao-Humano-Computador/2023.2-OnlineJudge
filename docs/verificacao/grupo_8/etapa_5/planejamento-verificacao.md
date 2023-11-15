@@ -87,9 +87,48 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o Planejamento de avaliação do Protótipo de papel.
 
+<center>
+
+_Tabela 3_ - Checklist para a avaliação do Protótipo de papel
+
+| ID  | Descrição                                                                                                          | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 7   | Os objetivos do planejamento estão documentados?	                                                                                   |           |             |
+| 8   | O planejamento está de acordo com o framework DECIDE?                                                                                   |           |             |
+| 9   | A documentação inclui a lista de participantes da avaliação?                                                                                 |           |             |
+| 10   | 	O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento?                                                                                  |           |             |
+| 11   | Cada participante tem um papel claramente definido no documento?                                                                                  |           |             |
+| 12   | O cronograma, contendo data, hora e local da avaliação, está detalhadamente descrito no documento?                                                                                 |           |             |
+| 13   | As ferramentas e equipamentos a serem utilizados na avaliação estão especificados no documento?                                                                                   |           |             |
+| 14   | Existe uma gravação do teste piloto disponível?                                                                               |           |             |
+| 15   | O documento contém instruções claras sobre as tarefas a serem realizadas durante a avaliação?                                                                                 |           |             |
+| 16   | O protótipo de papel é apresentado no documento?                                                                                   |           |             |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
+
+</center>
+
+
 ### Planejamento do relato dos resultados da avaliação do Protótipo de papel
 
 A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o Planejamento do relato dos resultados da avaliação do Protótipo de papel.
+
+<center>
+
+_Tabela 4_ - Checklist para o relato dos resultados da avaliação do Protótipo de papel.
+
+| ID  | Descrição                                                                                                          | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 17   | Os objetivos do planejamento estão documentados?	                                                                                   |           |             |
+| 18   | Existe um tópico dedicado à metodologia de prototipação de papel no documento?                                                                                  |           |             |
+| 19   | Há um tópico que descreve os participantes e seus perfis na avaliação?                                                                             |           |             |
+| 20   | 		O documento inclui um tópico sobre as tarefas designadas aos participantes durante a avaliação?                                                                              |           |             |
+| 21   | Existe um tópico dedicado à lista dos problemas de usabilidade ainda não corrigidos?                                                                                |           |             |
+| 22   | A estrutura do documento segue os padrões estabelecidos em relatos de avaliações anteriores?                                                                               |           |             |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
+
+</center>
 
 ### Relato do Resultado da Avaliação dos StoryBoards e da Análises de Tarefas
 
@@ -101,18 +140,18 @@ _Tabela 5_ - Checklist para os Itens do Resultado da avaliação dos StoryBoards
 
 | ID  | Descrição                                                         | Avaliação para Análise de Tarefas | Avaliação para StoryBoards|Observações |
 | --- | ----------------------------------------------------------------- | --------- | ----------- |---|
-|  6  | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>|          |             |       |
-|  7  | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>                                          |           |             |       |
-|  8  | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">¹</a>                                     |           |             |       |
-|  9  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">¹</a> |            |             |       |
-| 10  | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados?                                       |          |             |       |
-| 11  | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">¹</a>                                                  |          |             |       |
-| 12  | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">¹</a>                                     |           |             |       |
-| 13  | Aborda como foi realizada a análise da interação do usuário com o artefato?                                                |            |             |       |
-| 14  | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">¹</a>                             |            |             |       |
-| 15  | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">¹</a>              |           |             |       |
-| 16  | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">¹</a>                                |           |             |       |
-| 17  | O relato segue um padrão consolidado para todos os outros relatos?                                                         |           |             |       |
+|  23  | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>|          |             |       |
+|  24  | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>                                          |           |             |       |
+|  25  | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">¹</a>                                     |           |             |       |
+|  26  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">¹</a> |            |             |       |
+| 27  | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados?                                       |          |             |       |
+| 28  | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">¹</a>                                                  |          |             |       |
+| 29  | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">¹</a>                                     |           |             |       |
+| 30  | Aborda como foi realizada a análise da interação do usuário com o artefato?                                                |            |             |       |
+| 31  | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">¹</a>                             |            |             |       |
+| 32  | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">¹</a>              |           |             |       |
+| 33  | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">¹</a>                                |           |             |       |
+| 34  | O relato segue um padrão consolidado para todos os outros relatos?                                                         |           |             |       |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -131,3 +170,4 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 | ------ | ---------- | -------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 14/11/2023 | Criação da página de Planejamento de verificação Etapa 5 | [Pablo Guilherme](https://github.com/PabloGJBS) | - |
  `1.1`  | 14/11/2023 | Adicionando checklist da | [Pablo Guilherme](https://github.com/PabloGJBS) | - |
+  `1.2`  | 15/11/2023 | Adicionando os checklists que faltam | [Henrique Torres](https://github.com/henriqtorresl) | - |
