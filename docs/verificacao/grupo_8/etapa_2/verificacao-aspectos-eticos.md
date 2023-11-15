@@ -79,7 +79,7 @@ Dessa forma, a partir das respostas coletas nos checklists acima foi possível s
 
 <center>Figura 1 - Gráfico com resultado dos Checklists Geral e Aspectos Éticos.
 
-![](/../assets/images/verificacao-aspectos-eticos.png)<br>
+![](/../../assets/images/verificacao-aspectos-eticos.png)<br>
 <b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a>, 2023.</a></center></center>
 
 ## Sugestões de Correções
