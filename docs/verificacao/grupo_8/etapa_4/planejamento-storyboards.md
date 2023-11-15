@@ -38,7 +38,7 @@ _Tabela 1_ - Checklist para os Itens Gerais.
 | 5   | Todos os textos estão na norma padrão?                                                                             | SIM       |                                             |
 | 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  | SIM       |                                             |
 
-Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 </center>
 
@@ -65,7 +65,7 @@ _Tabela 2_ - Checklist para o Planejamento da Avaliação do Storyboard
 | 13  | O artefato apresenta quais dados devem ser coletados e como devem ser interpretados?                                                                         |   SIM    |                                                                                         |
 | 14  | Os storyboards estão relacionados com o artefato da Análise de Tarefas?                                                                                      |   SIM    |                                                                                         |
 
-Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 </center>
 
