@@ -75,7 +75,7 @@ O documento não inclui um tópico dedicado à lista dos problemas de usabilidad
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists dos relatos de resultado Storyboard e Análise de tarefas</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsWZHcQzVXGp1JakNHu4PyeTi_by2868Y9589kDRfy7AD1TlvluppbRXJzSZBMLhT9NRzIG3ITfEFg/pubchart?oid=2052106280&format=interactive"></iframe><figcaption><font size="3">Fonte: Pablo Guilherme, 2023.</font></figcaption>
+<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsWZHcQzVXGp1JakNHu4PyeTi_by2868Y9589kDRfy7AD1TlvluppbRXJzSZBMLhT9NRzIG3ITfEFg/pubchart?oid=2052106280&format=interactive"></iframe><figcaption><font size="3">Fonte: Henrique Torres, 2023.</font></figcaption>
 </figure>
 
 ## Sugestões de Correções
