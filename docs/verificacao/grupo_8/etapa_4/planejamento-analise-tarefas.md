@@ -53,7 +53,7 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para o planejament
 |  4  | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação da Análise de tarefas ?                                                        |    SIM     |            |
 |  5  | O artefato identifica como ocorrerá o recrutamento dos participantes da Avaliação da Análise de tarefas (perfil e local) ?                                           |     SIM    |            |
 |  6  | O artefato identifica quantos usuários participarão da Avaliação da Análise de tarefas e a justificativa dessa quantidade ?                                          |     NÃO     |      |
-|  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação da Análise de tarefas ?                                              |     SIM     |            |
+|  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação da Análise de tarefas ?                                              |     SIM     |     Porém, seria interessantes demonstrar em formato de tabela       |
 |  8  | O artefato possui um cronograma com data e horário para realização da Avaliação da Análise de tarefas ?                                                              |     SIM     |            |
 |  9  | O artefato identifica o orçamento necessário para a Avaliação da Análise de tarefas ?                                                                                SIM          |            |
 | 10  | O artefato identificaos recursos de mão-de-obra necessários para conduzir a Avaliação da Análise de tarefas, assim como a preparação e os equipamentos necessários ? |     SIM     |            |
@@ -71,17 +71,46 @@ Tendo em vista as perguntas marcadas com a negativa "NÃO", será descrita a con
 
 ### ID 6: O artefato identifica quantos usuários participarão da Avaliação do Storyboard e a justificativa dessa quantidade?
 
-O texto identifica quantos usuários participarão das entrevistas, mas a justificativa apresentada "Será avaliado 1 storyboard por membro do grupo, cada um com sua tarefa atribuída" não é válida, conforme discutido previamente em sala de aula. Falta a justificativa embasada na referência do livro-texto.
+O texto identifica quantos usuários participarão das entrevistas, mas a justificativa apresentada "Será avaliado 1 storyboard por membro do grupo, cada um com sua tarefa atribuída" não é válida, conforme discutido previamente em sala de aula. Falta a justificativa embasada na referência do livro-texto.<a href="#REF1"><sup>1</sup></a>
 
 ## Síntese dos dados encontrados
 
+A partir das respostas coletas nas checklists descritas acima, foi possível realizar uma síntese dos dados encontrados e gerar um gráfico, demonstrado na Figura 1.
+
+<center>
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado das Checklists Geral e da Avaliação da Análise de Tarefas</p></font>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHGqit5STXeGTE6Q6sB5AS0Uu6NxEQ6RUDvVO7vRcU1W7UQq8Q4ax-1QOFYeYPPV6WV6QkzD3l2cUp/pubchart?oid=901479858&amp;format=interactive"></iframe><figcaption><font size="3">Fonte: Luana Torres, 2023.</font></figcaption>
+</figure>
+
+</center>
+
 ## Sugestões de Correções
+
+Diante exposto, sugere-se as seguintes correções:
+
+- Apresentar justificativa plausível para a quantidade de usuários entrevistados na Avaliação do Storyboard;
+- Adicionar cronograma para o teste piloto em formato de tabela.
 
 ## Retrabalho
 
-## Bibliografia
+Para a realização do retrabalho é sugerido que os próprios autores do artefato verificado realizem a correção dos problemas apresentados seguindo a lista de sugestão apresentada no tópico anterior.
+Caso necessário, outros membros do grupo 8 podem realizar as correções propostas, porém, deve-se informar a mudança realizada na Tabela 4 pois selecionou-se exatamente o responsável por essa página de acordo com a tabela do Histórico de Versões.
+O responsável do grupo 7 por essa verificação irá realizar uma revisão das correções feitas, verificando se as correções foram executadas com exatidão. Assim que todas as alterações forem implementadas, deve-se alterar o campo "Status" da Tabela 4 apresentada a seguir de "Em análise" para "Finalizado".
 
->
+<center>
+
+**Tabela 4** - Cronograma de Retrabalho.
+
+| Data de Correção | Descrição                          |                Responsável(eis)                |                   Revisor(es)                    |   Status   |
+| ---------------- | :--------------------------------- | :--------------------------------------------: | :----------------------------------------------: | :--------: |
+| 18/11/2023       | Realizar os ajustes da verificação | [Felipe de Sousa](https://github.com/fsousac) | [Luana Torres](https://github.com/luanatorress) | Em análise |
+
+Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
+
+</center>
+
 
 ## Referências Bibliográficas
 
@@ -92,3 +121,5 @@ O texto identifica quantos usuários participarão das entrevistas, mas a justif
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                     |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------------------------- |
 | `1.0`  | 11/11/2023 | Criação da página base | [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
+| `1.1`  | 15/11/2023 | Adicionando Checklists | [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
+| `1.2`  | 15/11/2023 | Finalização da Página | [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) |
