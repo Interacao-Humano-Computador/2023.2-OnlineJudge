@@ -201,9 +201,9 @@ _Tabela 7_ - Checklist para os Cenários
 |  4  | Esses atores são as Personas definidas no projeto? |          |            |
 |  5  | Os cenários possuem ambiente ou contexto? |          |            |
 |  6  | Os Cenários possuem objetivo? |          |            |
-|  7  | OOs Cenários possuem planejamento? |          |            |
+|  7  | Os Cenários possuem tarefas? |          |            |
 |  8  | Os Cenários possuem as ações dos atores? |          |            |
-|  9  | Os Cenários possuem os eventos? |          |            |
+|  9  | Os Cenários possuem os requisitos? |          |            |
 | 10  | Os Cenários possuem a avaliação do ator sobre o problema apresentado? |          |            |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
