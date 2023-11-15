@@ -73,7 +73,7 @@ Não é possivel identificar no cronograma planos para prever eríodos de folga 
 
 ### Problemas Gerais
 
-O cronograma no geral não está completo, não são listadas todas as etapas
+O cronograma no geral não está completo, não são listadas todas as etapas, indo somete até a etapa 5, passando a impressão de que está sendo preenchido de acordo com a execução da etapa
 
 ## Síntese dos dados encontrados
 
