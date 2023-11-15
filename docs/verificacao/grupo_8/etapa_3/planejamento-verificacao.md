@@ -55,7 +55,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Barbosa e Silva<a id=anchor_1 href="#REF1">`<sup>`1 `</sup></a>`.
+As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Barbosa e Silva<a id=anchor_1 href="#REF1"><sup>1 </sup></a>.
 Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do grupo em questão, [Milena Aires](https://github.com/milenaaires).
 
 As checklist serão divididas em 4 checklists, sendo a checklist geral obrigatória em todos os artefatos da etapa. As checklists são as seguintes: Geral, Características Gerais da Plataforma,  Princípios Gerais do Projeto, Metas de Usabilidade, Guia de Estilo. Elas estão apresentadas nas tabelas de 2 a 6 listadas a seguir:
@@ -83,7 +83,7 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 ### Características Gerais da Plataforma
 
-A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)`<a href="#REF1"><sup>`1 `</sup></a>`, no contexto da verificação de características gerais da plataforma.
+A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)<a href="#REF1"><sup>1 </sup></a>, no contexto da verificação de características gerais da plataforma.
 
 <center>
 
@@ -104,7 +104,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ### Princípios Gerais do Projeto
 
-A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)`<a href="#REF1"><sup>`1 `</sup></a>`, no contexto da verificação dos Princípios Gerais do Projeto.
+A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)<a href="#REF1"><sup>1 </sup></a>, no contexto da verificação dos Princípios Gerais do Projeto.
 
 <center>
 
