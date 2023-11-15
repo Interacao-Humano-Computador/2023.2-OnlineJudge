@@ -28,10 +28,10 @@ Os artefatos alvos dessa verificação são:
 
 Os resultados das verificações em si serão apresentados em páginas separadas e que podem ser acessados através dos seguintes links:
 
-- [*Características Gerais da Plataforma*]
-- [*Princípios Gerais do Projeto*]
-- [*Metas de Usabilidade*]
-- [*Guia de Estilo*]
+- [*Características Gerais da Plataforma*](caracteristicas-gerais.md)
+- [*Princípios Gerais do Projeto*](principios-gerais.md)
+- [*Metas de Usabilidade*](metas-de-usabilidade.md)
+- [*Guia de Estilo*](guia-de-estilo.md)
 
 ### Cronograma
 
