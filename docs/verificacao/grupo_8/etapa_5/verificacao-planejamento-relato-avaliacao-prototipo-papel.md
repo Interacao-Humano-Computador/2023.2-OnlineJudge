@@ -18,8 +18,8 @@ Os resultados da análise deste artefato foram obtidos através da análise dos 
 
 Conforme explicitado no tópico "Cronograma" do Planejamento da Verificação da Etapa 5, os participantes responsáveis do Grupo 7 e suas respectivas funções são:
 
-- [Pablo Guilherme](https://github.com/PabloGJBS), o qual será responsável por realizar a avaliação;
-- [Henrique Torres](https://github.com/henriqtorresl), o qual será responsável por realizar a revisão do artefato produzido pelo avaliador.
+- [Henrique Torres](https://github.com/henriqtorresl), o qual será responsável por realizar a avaliação;
+- [Pablo Guilherme](https://github.com/PabloGJBS), o qual será responsável por realizar a revisão do artefato produzido pelo avaliador.
 
 ## Sumário Dos Dados - Checklists
 
