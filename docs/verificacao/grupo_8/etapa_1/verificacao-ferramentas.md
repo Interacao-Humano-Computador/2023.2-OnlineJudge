@@ -66,7 +66,7 @@ Dessa forma, a partir das respostas coletas nos checklists acima foi possível s
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Gráfico com resultado dos Checklists Geral e Checklists do Storyboard</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1GBaL-sg-ltZjTHPGaiLzQxTtb6HRFe9Upy-WWck7CkQ/edit?usp=sharing"></iframe><figcaption><font size="3">Fonte: Eric Camargo, 2023.</font></figcaption>
+<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSTaJqaMZQ7dKFHZH7WRW1Hy8CXuZf9ks1gEDj-gQOUpt6xmD9K2tGUNq-pd9EnQm5X6miDzNr3sHxm/pubchart?oid=1769706020&format=interactive"></iframe><figcaption><font size="3">Fonte: Eric Camargo, 2023.</font></figcaption>
 </figure>
 
 ## Sugestões de Correções
