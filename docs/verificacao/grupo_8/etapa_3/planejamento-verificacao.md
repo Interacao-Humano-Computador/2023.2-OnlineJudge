@@ -47,6 +47,7 @@ A verificação será realizada no período de 11 de novembro de 2023 até dia 1
 | 14/11/2023 | Verificação dos Princípios Gerais do Projeto.         | [Kallyne Macedo](https://github.com/kalipassos) |
 | 14/11/2023 | Verificação das Metas de Usabilidade.                   | [Kallyne Macedo](https://github.com/kalipassos) |
 | 14/11/2023 | Verificação do Guia de Estilo                           | [Kallyne Macedo](https://github.com/kalipassos) |
+| 15/11/2023 | Revisão geral das verificações                         | [Luana Torres](https://github.com/luanatorress) |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
@@ -54,7 +55,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Barbosa e Silva<a id=anchor_1 href="#REF1">`<sup>`1`</sup></a>`.
+As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Barbosa e Silva<a id=anchor_1 href="#REF1">`<sup>`1 `</sup></a>`.
 Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do grupo em questão, [Milena Aires](https://github.com/milenaaires).
 
 As checklist serão divididas em 4 checklists, sendo a checklist geral obrigatória em todos os artefatos da etapa. As checklists são as seguintes: Geral, Características Gerais da Plataforma,  Princípios Gerais do Projeto, Metas de Usabilidade, Guia de Estilo. Elas estão apresentadas nas tabelas de 2 a 6 listadas a seguir:
@@ -82,7 +83,7 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 ### Características Gerais da Plataforma
 
-A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)<a href="#REF1"><sup>1 </sup></a>, no contexto da verificação de características gerais da plataforma.
+A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)`<a href="#REF1"><sup>`1 `</sup></a>`, no contexto da verificação de características gerais da plataforma.
 
 <center>
 
@@ -103,7 +104,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ### Princípios Gerais do Projeto
 
-A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)<a href="#REF1"><sup>1 </sup></a>, no contexto da verificação dos Princípios Gerais do Projeto.
+A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)`<a href="#REF1"><sup>`1 `</sup></a>`, no contexto da verificação dos Princípios Gerais do Projeto.
 
 <center>
 
@@ -129,7 +130,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ### Metas de Usabilidade
 
-A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)<a href="#REF1"><sup>1 </sup></a>, no contexto da verificação das Metas de Usabilidade.
+A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)`<a href="#REF1"><sup>`1 `</sup></a>`, no contexto da verificação das Metas de Usabilidade.
 
 <center>
 
@@ -139,7 +140,7 @@ A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o do
 | :-: | :--------------------------------------------------------------------------------------------------- | :------: | :---------: |
 | 1 | O artefato define quais metas de usabilidade devem ser alcançadas?                                 |          |            |
 | 2 | O artefato apresenta a razão da escolha de quais metas de usabilidade que devem ser alcançadas? |          |            |
-| 3 | O artefato indica que as metas de usabilidades foram definidas conforme o perfil de usuário?       |          |            |
+| 3 | O artefato indica que as metas de usabilidades foram definidas conforme o perfil de usuário?        |          |            |
 | 4 | O artefato apresenta uma contextualização das metas em relação ao site avaliado?                 |          |            |
 | 5 | O artefato apresenta como as metas de usabilidade serão verificadas nas avaliações?              |          |            |
 
@@ -149,16 +150,14 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ### Guia de Estilo
 
-A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)<a href="#REF1"><sup>1 </sup></a>, no contexto da verificação do Guia de Estilo.
-
+A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)`<a href="#REF1"><sup>`1 `</sup></a>`, no contexto da verificação do Guia de Estilo.
 
 *Tabela 6* - Checklist para o Guia de Estilo.
-
 
 | ID | Questão                                                                                                                                                                            | Resposta | Comentário |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :---------: |
 | 1 | O artefato apresenta um guia de estilo correspondente ao site avaliado?                                                                                                             |          |            |
-| 2 | O artefato apresenta um guia de estilo que representa as metas de usabilidade?                                                                                                     |          |            |
+| 2 | O artefato apresenta um guia de estilo que representa as metas de usabilidade?                                                                                                      |          |            |
 | 3 | O artefato apresenta um guia de estilo com introdução, resultados da análise, elementos de interface, elementos de interação, elementos de ação e voculabulário e padrões? |          |            |
 | 4 | O artefato apresenta introdução com objetivo, organização, conteúdo, público-alvo, modo de uso e de manutenção do guia de estilo?                                          |          |            |
 | 5 | O artefato apresenta resultados da análise com descrição do ambiente de trabalho do usuário?                                                                                    |          |            |
@@ -177,10 +176,11 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ## [Referências Bibliográficas](%3Chttps://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/)
 
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.(%3Chttps://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/)
+> `<a id="REF1" href="#anchor_1">`1.`</a>` BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.(%3Chttps://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/)
 
 ## [Histórico de Versões](%3Chttps://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/)
 
-| Versão | Data       | Descrição                                                      | Autor(es)                                    | Revisor(es) |
-| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------- | ----------- |
-| `1.0` | 14/11/2023 | Criação da página de Planejamento de Verificação - Etapa 3 | [Kallyne Macedo](https://github.com/kalipassos) |        [Ester Lino](https://github.com/esteerlino)     |
+| Versão | Data       | Descrição                                                      | Autor(es)                                    | Revisor(es)                                  |
+| ------- | ---------- | ---------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| `1.0` | 14/11/2023 | Criação da página de Planejamento de Verificação - Etapa 3 | [Kallyne Macedo](https://github.com/kalipassos) | [Luana Torres](https://github.com/luanatorress) |
+| `1.1` | 14/11/2023 | Alteração no cronograma                                        | [Kallyne Macedo](https://github.com/kalipassos) | [Luana Torres](https://github.com/luanatorress) |
