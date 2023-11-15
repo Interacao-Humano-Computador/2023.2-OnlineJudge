@@ -130,7 +130,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ### Metas de Usabilidade
 
-A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)`<a href="#REF1"><sup>`1 `</sup></a>`, no contexto da verificação das Metas de Usabilidade.
+A tabela 5 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)<a href="#REF1"><sup>1 </sup></a>, no contexto da verificação das Metas de Usabilidade.
 
 <center>
 
@@ -150,7 +150,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ### Guia de Estilo
 
-A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)`<a href="#REF1"><sup>`1 `</sup></a>`, no contexto da verificação do Guia de Estilo.
+A tabela 6 a seguir apresenta a checklist referente aos itens exigidos para o documento de relato dos resultados, conforme Barbosa e Silva (2011, p.358-362)<a href="#REF1"><sup>1 </sup></a>, no contexto da verificação do Guia de Estilo.
 
 *Tabela 6* - Checklist para o Guia de Estilo.
 
@@ -176,7 +176,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ## [Referências Bibliográficas](%3Chttps://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/)
 
-> `<a id="REF1" href="#anchor_1">`1.`</a>` BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.(%3Chttps://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/)
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.(%3Chttps://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/)
 
 ## [Histórico de Versões](%3Chttps://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/)
 

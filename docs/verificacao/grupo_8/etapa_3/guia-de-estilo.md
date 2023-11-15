@@ -124,7 +124,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ## Bibliografia
 
-> `<a id="REF1" href="#anchor_1">`1.`</a>` BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 

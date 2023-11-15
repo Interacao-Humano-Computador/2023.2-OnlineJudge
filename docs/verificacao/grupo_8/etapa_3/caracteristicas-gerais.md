@@ -42,7 +42,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 </center>
 
-Já a Tabela 2 apresenta o checklist referente aos itens exigidos para o relato dos resultados segundo Barbosa e Silva (2011, p.358-362)`<a href="#REF1"><sup>`1`</sup></a>`.
+Já a Tabela 2 apresenta o checklist referente aos itens exigidos para o relato dos resultados segundo Barbosa e Silva (2011, p.358-362)<a href="#REF1"><sup>1</sup></a>.
 
 <center>
 
@@ -120,7 +120,7 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ## Bibliografia
 
-> `<a id="REF1" href="#anchor_1">`1.`</a>` BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
