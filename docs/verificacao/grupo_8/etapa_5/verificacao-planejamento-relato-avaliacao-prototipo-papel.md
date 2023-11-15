@@ -40,6 +40,8 @@ _Tabela 1_ - Checklist para os Itens Gerais.
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
+</center>
+
 Já a Tabela 2 apresenta o checklist referente aos itens exigidos para o relato dos resultados da avaliação do Protótipo de papel segundo Barbosa e Silva (2011, p.358-362).<a href="#REF1"><sup>1</sup></a>
 
 <center>
