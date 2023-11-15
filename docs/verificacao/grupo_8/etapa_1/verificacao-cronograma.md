@@ -71,6 +71,10 @@ O Cronograma não possui atividades redundantes tendo em vista que todas são de
 
 Não é possivel identificar no cronograma planos para prever eríodos de folga ou contingência para imprevistos.
 
+### Problemas Gerais
+
+O cronograma no geral não está completo, não são listadas todas as etapas
+
 ## Síntese dos dados encontrados
 
 Dessa forma, a partir das respostas coletas nos checklists acima foi possível sintetizar dados encontrados em formato de gráfico, conforme pode ser visto na Figura 1
