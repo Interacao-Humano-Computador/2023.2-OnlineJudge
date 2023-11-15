@@ -38,7 +38,7 @@ _Tabela 1_ - Checklist para os Itens Gerais.
 | 5   | Todos os textos estão na norma padrão?                                                                             | SIM        |                                                                    |
 | 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  | -          | Não convém resposta uma vez que o artefato não necessita de vídeos |
 
-Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 </center>
 
