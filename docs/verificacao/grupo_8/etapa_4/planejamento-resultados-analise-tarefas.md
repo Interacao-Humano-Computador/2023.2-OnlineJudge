@@ -115,6 +115,7 @@ Caso necessário, outros membros do grupo 8 podem realizar as correções propos
 O responsável do grupo 7 por essa verificação irá realizar uma revisão das correções feitas, verificando se as correções foram executadas com exatidão. Assim que todas as alterações forem implementadas, deve-se alterar o campo "Status" da Tabela 4 apresentada a seguir de "Em análise" para "Finalizado".
 
 <center>
+
 **Tabela 4** - Cronograma de Retrabalho.
 
 | Data de Correção | Descrição                          |                Responsável(eis)                |                   Revisor(es)                    |   Status   |
