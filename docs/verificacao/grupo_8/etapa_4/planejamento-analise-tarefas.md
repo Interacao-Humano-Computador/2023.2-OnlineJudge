@@ -52,7 +52,7 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para o planejament
 |  3  | O artefato apresenta a metodologia que será utilizada na Avaliação da Análise de tarefas ?                                                                           |        SIM  |            |
 |  4  | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação da Análise de tarefas ?                                                        |    SIM     |            |
 |  5  | O artefato identifica como ocorrerá o recrutamento dos participantes da Avaliação da Análise de tarefas (perfil e local) ?                                           |     SIM    |            |
-|  6  | O artefato identifica quantos usuários participarão da Avaliação da Análise de tarefas e a justificativa dessa quantidade ?                                          |     NÃO     |      |
+|  6  | O artefato identifica quantos usuários participarão da Avaliação da Análise de tarefas e a justificativa dessa quantidade ?                                          |     NÃO     |   Falta a justificativa   |
 |  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação da Análise de tarefas ?                                              |     SIM     |     Porém, seria interessantes demonstrar em formato de tabela       |
 |  8  | O artefato possui um cronograma com data e horário para realização da Avaliação da Análise de tarefas ?                                                              |     SIM     |            |
 |  9  | O artefato identifica o orçamento necessário para a Avaliação da Análise de tarefas ?                                                                                SIM          |            |
