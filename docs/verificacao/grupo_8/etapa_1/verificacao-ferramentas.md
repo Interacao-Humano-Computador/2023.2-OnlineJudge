@@ -85,4 +85,4 @@ Não tem necessidade de retrabalho
 
 | Versão | Data       | Descrição                            | Autor(es)                                        | Revisor(es)                                     |
 | ------ | ---------- | ------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-| 1.0  | 14/11/2023 | Criação da página Verificação das ferramentas  | [Eric Camargo](https://github.com/Ericcs10) | [Eric Camargo1](https://github.com/esteerlino) |
+| 1.0  | 14/11/2023 | Criação da página Verificação das ferramentas  | [Eric Camargo](https://github.com/Ericcs10) | [Ester Lino](https://github.com/esteerlino) |
