@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Este documento destina-se à verificação do cronograma produzido pelo [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/) na disciplina de Interação Humano-Computador (IHC), focando no projeto direcionado ao site SEI GDF. A análise do cronograma será conduzida conforme os princípios e diretrizes da literatura de Interação Humano-Computador de Barbosa e Silva. O objetivo é garantir que o cronograma atenda aos padrões estabelecidos na disciplina e forneça uma estrutura sólida para a execução do projeto.
+Este documento destina-se à verificação das ferramentas produzido pelo [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/) na disciplina de Interação Humano-Computador (IHC), focando no projeto direcionado ao site SEI GDF. A análise do cronograma será conduzida conforme os princípios e diretrizes da literatura de Interação Humano-Computador de Barbosa e Silva. O objetivo é garantir que as ferramentas atendam aos padrões estabelecidos na disciplina e forneça uma estrutura sólida para a execução do projeto.
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas no que tange os artefatos [Ferramentas](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/ferramentas)  da Etapa 1 do [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/).
+O objetivo deste documento é relatar os resultados das verificações realizadas no que tange os artefatos [Ferramentas](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/planejamento/ferramentas)  da Etapa 1 do [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/).
 
 ## Metodologia
 
@@ -14,7 +14,7 @@ Os resultados desta análise foram obtidos através da avaliação dos checklist
 
 ## Participantes envolvidos
 
-Conforme explicitado no tópico "Cronograma" do Planejamento da Verificação da Etapa 1, o participante do Grupo 7 responsável por essa verificação foi: [Eric Camargo](https://github.com/Ericcs10).
+Conforme explicitado no tópico "Ferramentas" do Planejamento da Verificação da Etapa 1, o participante do Grupo 7 responsável por essa verificação foi: [Eric Camargo](https://github.com/Ericcs10).
 
 ## Sumário Dos Dados - Checklists
 
@@ -37,7 +37,7 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 </center>
 
-Tabela 2 apresenta o checklist referente aos itens exigidos para o [Cronograma](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/cronograma)
+Tabela 2 apresenta o checklist referente aos itens exigidos para as [Ferramentas](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/planejamento/ferramentas)
 
 <center>
 

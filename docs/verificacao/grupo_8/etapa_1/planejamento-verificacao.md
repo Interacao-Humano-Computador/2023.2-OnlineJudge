@@ -117,11 +117,10 @@ _Tabela 5_ - Checklist para os Itens Gerais.
 | --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
 | 1   | Existe um plano de mitigação para os riscos identificados no ciclo de vida?                                        |           |             |
 | 2   | Foram considerados riscos potenciais associados ao ciclo de vida escolhido?                                                                            |           |             |
-| 3   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  |           |             |
-| 4   | As figuras de cada ciclo de vida referenciam a fonte?                                                              |           |             |
-| 5   | A escolha do ciclo de vida foi justificada?                                                                       |           |             |
-| 6   | O ciclo de vida escolhido foi detalhado?                                                                          |           |             |
-| 7  | A forma como será executado o ciclo de vida é detalhada?                                                           |           |             |
+| 3   | As figuras de cada ciclo de vida referenciam a fonte?                                                              |           |             |
+| 4   | A escolha do ciclo de vida foi justificada?                                                                       |           |             |
+| 5   | O ciclo de vida escolhido foi detalhado?                                                                          |           |             |
+| 6  | A forma como será executado o ciclo de vida é detalhada?                                                           |           |             |
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 

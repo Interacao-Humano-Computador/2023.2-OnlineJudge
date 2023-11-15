@@ -6,7 +6,7 @@ Este documento destina-se à verificação do cronograma produzido pelo [Grupo 8
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas no que tange os artefatos [Cronograma](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/cronograma)  da Etapa 1 do [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/).
+O objetivo deste documento é relatar os resultados das verificações realizadas no que tange os artefatos [Cronograma](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/planejamento/cronograma)  da Etapa 1 do [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/).
 
 ## Metodologia
 
@@ -37,7 +37,7 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 </center>
 
-Tabela 2 apresenta o checklist referente aos itens exigidos para o [Cronograma](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/cronograma)
+Tabela 2 apresenta o checklist referente aos itens exigidos para o [Cronograma](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/planejamento/cronograma)
 
 <center>
 
@@ -115,4 +115,4 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 | Versão | Data       | Descrição                            | Autor(es)                                        | Revisor(es)                                     |
 | ------ | ---------- | ------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-| 1.0  | 14/11/2023 | Criação da página Verificação ddo cronograma  | [Eric Camargo](https://github.com/Ericcs10) | [Eric Camargo1](https://github.com/esteerlino) |
+| 1.0  | 14/11/2023 | Criação da página Verificação ddo cronograma  | [Eric Camargo](https://github.com/Ericcs10) | [Ester Lino](https://github.com/esteerlino) |
