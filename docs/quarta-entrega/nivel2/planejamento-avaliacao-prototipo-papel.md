@@ -122,8 +122,6 @@ A seguir está disponível o vídeo do Teste de Piloto, realizado di 10/11/2023 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PR2VGULENYA?si=1KzL3EQfuqmPO3SV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Vale ressaltar que, apesar do Teste Piloto ter sido realizado com apenas uma tarefa, nas entrevistas todas as tarefas selecionadas pela equipe devem ser apresentadas aos usuários.
-
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
