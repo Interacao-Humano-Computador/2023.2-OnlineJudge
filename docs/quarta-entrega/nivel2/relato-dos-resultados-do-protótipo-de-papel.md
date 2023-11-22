@@ -59,8 +59,6 @@ Realizar uma avaliação do prototipo de papel feito pela equipe, com o objetivo
 
 De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo de papel, a metodologia escolhida foi a observação e entrevista, uma vez que ela possibilita a coleta de dados com base na percepção de um usuário real. Na tabela 5 segue o cronograma da entrevista realizada
 
-[Link para o storyboard avaliado](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/storyboards/#contact-us)
-
 <center>
 
 *Tabela 5* - Cronograma da avaliação do prototipo de papel.
@@ -118,7 +116,7 @@ O usuário se mostrou satisfeito com o protótipo de papel apresentado.
 
 #### 3.9 Sugestões de melhoria
 
-O usuário não sugeriu melhorias
+O usuário não sugeriu melhorias.
 
 ### **Entrevista 4 (Luana)**
 
@@ -193,11 +191,31 @@ O objetivo é avaliar o protótipo de papel, com o propósito de identificar pot
 
 #### 7.2 Método de avaliação empregado
 
+De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo de papel, a metodologia escolhida foi a observação e entrevista, uma vez que ela possibilita a coleta de dados com base na percepção de um usuário real. Na tabela 13 segue o cronograma da entrevista realizada
+
+<center>
+
+*Tabela 13* - Cronograma da avaliação do prototipo de papel.
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Henrique Torres](https://github.com/heriqtorresl) | Henrique Torres |       14:00       |     14:10      | 22/11/2023 | Universidade de Brasília - FGA |
+
+Fonte: [Henrique Torres](https://github.com/heriqtorresl)
+
+</center>
+
 #### 7.3 Atividades abordadas
+
+Durante a entrevista, foi pedido que o usuário interagisse com o protótipo de papel com o objetivo de realizar as tarefas de login e o acesso a página de minhas submissões.
 
 #### 7.4 Perfil do participante
 
+O participante selecionado está em conformidade com o perfil de usuário estabelecido para o projeto, sendo um estudante do curso de Engenharia na FGA, com uma média de experiência em tecnologia. Além disso, está dentro da faixa etária definida para o perfil de usuário, situando-se entre 19 e 24 anos, e demonstra um notável interesse por tecnologia.
+
 #### 7.5 Problemas encontrados
+
+Durante a entrevista, o entrevistado não demonstrou nenhuma dificuldade ao seguir os caminhos das tarefas propostas, assim como ao interagir com o protótipo.
 
 #### 7.6 Sumário dos dados coletados
 
@@ -205,7 +223,7 @@ Na tabela x é posível verificar as respostas obtidas pela entrevista.
 
 <center>
 
-*Tabela x* - Respostas obtidas durante a entrevista.
+*Tabela 14* - Respostas obtidas durante a entrevista.
 
 | Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
@@ -225,9 +243,15 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl)
 
 #### 7.7 Análise e interpretação dos dados coletados
 
+Com base nas respostas obtidas, é possível concluir que o fluxo realizado foi bem simples e intuitivo, e também que o protótipo de papel é de fácil compreensão e foi elaborado de maneira clara e está alinhado com seus objetivos.
+
 #### 7.8 Feedback do usuário
 
+O entrevistado demonstrou satisfação com o protótipo de papel apresentado e não encontrou dificultades ao realizar o fluxo necessário dentro da aplicação.
+
 #### 7.9 Sugestões de melhoria
+
+O usuário entrevistado não sugeriu nenhuma melhoria ao protótipo de papel.
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
