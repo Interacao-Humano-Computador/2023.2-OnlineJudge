@@ -248,7 +248,7 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10).
 
 [Link da gravação da entrevista](https://youtu.be/EYAjke806Cg)
 
-<iframe width="1481" height="554" src="https://youtu.be/EYAjke806Cg" title="entrevista com a Luisa (análise de tarefas)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EYAjke806Cg?si=WXsg7fMhyZFHJrIz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **4. Editar Conta - Luana T**
 
