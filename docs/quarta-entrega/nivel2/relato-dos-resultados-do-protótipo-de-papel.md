@@ -50,7 +50,6 @@ No que tange a tarefa de "Browse Problems", foi possível identificar os seguint
 Agora no que tange a tarefa de "Editar Conta", foi possível identificar os seguintes problemas:
 
 - Dificuldade para identificar que "My Profile" estaria em "Pages";
-- Dificuldade para compreender a diferença entre "Upload Images" e "Enter Image from gallery";
 
 #### 1.6 Sumário dos dados coletados
 
@@ -73,11 +72,29 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXaYvfxA6cw?si=nh-JhAD33A5hULQS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+</center>
+
 #### 1.7 Análise e interpretação dos dados coletados
+
+Através das respostas obtidas nesta entrevista foi possível concluir que o protótipo de papel apresenta algumas inconsistências, entre elas pode-se citar uma falha de design intuitivo, uma vez que o usuário apresentou extrema dificuldade em encontrar intuitivamente onde estavam as páginas "My Profile" e "Browse Problems".
+
+A entrevistada também apresentou certa dificuldade em diferenciar as páginas contidas em "Browse Problems", de modo que conforme ia selecionando as opções e transitando entre distintas páginas, ela claramente transmitia uma feição de dúvida como se mesmo selencionando coisas diferentes não estivesse "saindo do mesmo lugar". Ao ser questionada sobre sua feição, a entrevistada não havia sequer percebido que havia uma distinção entre a página de "Volumes" e a página de "Pastas".
+
+Por fim, ao encontrar a tabela contendo todos os problemas da respectiva pasta e volume selecionado, ao invés da entrevistada clicar onde o link do problema estava inserido, ao qual inclusive apresentava uma cor diferente do restante do papel conforme é apresentado no site, ela clicou de forma intuitiva no final da linha mesmo que o título fosse "Total users/ solving %".
 
 #### 1.8 Feedback do usuário
 
+A entrevistada apresentou como feedback uma modificação na localização da página "My profile". Dessa forma, ela sugeriu a possibilidade de incluisão de um ícone próprio para acessar diretamente a página de perfil do usuário.
+
 #### 1.9 Sugestões de melhoria
+
+A partir das dificuldade apresentadas durante a entrevista, foi possível sugerir algumas opções de melhorias. Sendo elas:
+
+- Alteração da opção "Pages" por "Others", de forma a esclarecer para o usuário que se tratam de outras opções;
+- Criação de ícones mais distintos para diferenciar "Pastas" e "Volumes";
+- Criação de um título dinâmico para diferenciar a entrada em diferentes páginas, de modo a transmitir para o usuário através das cores distintas que há alteração nas páginas;
+- Retorno de ícones coloridos para apresentar o total de usuários e submissões, pois foi perceptível uma falta de atenção no caso em que não haviam imagens para simbolizar do que se tratava;
+- Inclusão de um botão próprio e específico para selecionar cada problema;
 
 ### **Entrevista 2 (Pablo)**
 
