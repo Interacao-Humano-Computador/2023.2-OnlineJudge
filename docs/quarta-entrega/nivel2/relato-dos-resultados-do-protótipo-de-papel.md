@@ -189,6 +189,8 @@ O usuário não sugeriu melhorias
 
 #### 7.1 Objetivos e escopo da avaliação
 
+O objetivo é avaliar o protótipo de papel, com o propósito de identificar potenciais desafios de usabilidade, explorar conceitos de design, receber sugestões de alternativas e coletar ideias para aprimorar o protótipo.
+
 #### 7.2 Método de avaliação empregado
 
 #### 7.3 Atividades abordadas
@@ -198,6 +200,28 @@ O usuário não sugeriu melhorias
 #### 7.5 Problemas encontrados
 
 #### 7.6 Sumário dos dados coletados
+
+Na tabela x é posível verificar as respostas obtidas pela entrevista.
+
+<center>
+
+*Tabela x* - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
+| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto?                          | Não sei afirmar      |
+| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Não     |
+| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl)
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/embed/Ko1TC6WaK8w?si=iz45KE2xmQoIEfk7)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ko1TC6WaK8w?si=iz45KE2xmQoIEfk7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 #### 7.7 Análise e interpretação dos dados coletados
 
