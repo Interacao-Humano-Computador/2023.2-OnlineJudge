@@ -106,7 +106,7 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10).
 
 [Link da gravação da entrevista](https://youtu.be/RiTeXYMExAQ)
 
-<iframe width="560" height="315" src="https://youtu.be/RiTeXYMExAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RiTeXYMExAQ?si=4OC5li05hBh9oEvG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### 3.7 Análise e interpretação dos dados coletados
 
