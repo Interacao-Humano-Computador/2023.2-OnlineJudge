@@ -90,6 +90,71 @@ Esse artefato serve para registrar as descobertas feitas ao avaliar o modelo ini
 
 #### 4.9 Sugestões de melhoria
 
+
+### **Entrevista 5 (Ester)**
+
+#### 5.1 Objetivos e escopo da avaliação
+
+#### 5.2 Método de avaliação empregado
+
+#### 5.3 Atividades abordadas
+
+#### 5.4 Perfil do participante
+
+#### 5.5 Problemas encontrados
+
+#### 5.6 Sumário dos dados coletados
+
+#### 5.7 Análise e interpretação dos dados coletados
+
+#### 5.8 Feedback do usuário
+
+#### 5.9 Sugestões de melhoria
+
+
+
+### **Entrevista 6 (Kallyne)**
+
+#### 6.1 Objetivos e escopo da avaliação
+
+#### 6.2 Método de avaliação empregado
+
+#### 6.3 Atividades abordadas
+
+#### 6.4 Perfil do participante
+
+#### 6.5 Problemas encontrados
+
+#### 6.6 Sumário dos dados coletados
+
+#### 6.7 Análise e interpretação dos dados coletados
+
+#### 6.8 Feedback do usuário
+
+#### 6.9 Sugestões de melhoria
+
+
+
+### **Entrevista 7 (Henrique)**
+
+#### 7.1 Objetivos e escopo da avaliação
+
+#### 7.2 Método de avaliação empregado
+
+#### 7.3 Atividades abordadas
+
+#### 7.4 Perfil do participante
+
+#### 7.5 Problemas encontrados
+
+#### 7.6 Sumário dos dados coletados
+
+#### 7.7 Análise e interpretação dos dados coletados
+
+#### 7.8 Feedback do usuário
+
+#### 7.9 Sugestões de melhoria
+
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
