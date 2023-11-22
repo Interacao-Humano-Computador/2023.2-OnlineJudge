@@ -10,14 +10,14 @@ Para este planejamento utilizaremos o framework DECIDE o qual propõe seis (6) e
 
 <center><b>Tabela 1:</b> Definição do DECIDE</center>
 
-| Letra | <center>Descrição                                          |
-| ----- | ---------------------------------------------------------------- |
-| D     | Determinar os objetivos da avaliação.                          |
-| E     | Explorar perguntas a serem respondidas com a avaliação.        |
-| C     | Escolher os métodos de avaliação a serem utilizados.          |
+| Letra | <center>Descrição                                            |
+| ----- | ------------------------------------------------------------ |
+| D     | Determinar os objetivos da avaliação.                        |
+| E     | Explorar perguntas a serem respondidas com a avaliação.      |
+| C     | Escolher os métodos de avaliação a serem utilizados.         |
 | I     | Identificar e administrar as questões práticas da avaliação. |
-| D     | Decidir como lidar com as questões éticas.                     |
-| E     | Avaliar, interpretar e apresentar os dados                       |
+| D     | Decidir como lidar com as questões éticas.                   |
+| E     | Avaliar, interpretar e apresentar os dados                   |
 
 Além disto, estaremos seguindo como base o perfil de usuário proposto anteriormente em busca de uma maior precisão na análise a partir dos possíveis usuários primários do sistema.
 
@@ -37,8 +37,8 @@ Selecionamos perguntas com base no Capitulo 11 de Barbosa e Silva(2011)<a id="an
 
 ## C - Escolher métodos de avaliação
 
-Para conduzir esta avaliação será utilizado o método de observação, através da realização de testes de usabilidade. Dessa forma, a usabilidade será avaliada a partir da experiência do usuário com a interface do protótipo criado e serão definidas perguntas a serem realizadas antes e após o teste, de modo a analisar os critérios definidos para o projeto e o avanço alcançado no seu atingimento, conforme definição nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/terceira-entrega/metas-usabilidade/#metas-a-serem-alcancadas). Além disso, as opiniões do usuário e seu desempenho na realização da tarefa deverão ser registrados. 
- 
+Para conduzir esta avaliação será utilizado o método de observação, através da realização de testes de usabilidade. Dessa forma, a usabilidade será avaliada a partir da experiência do usuário com a interface do protótipo criado e serão definidas perguntas a serem realizadas antes e após o teste, de modo a analisar os critérios definidos para o projeto e o avanço alcançado no seu atingimento, conforme definição nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/terceira-entrega/metas-usabilidade/#metas-a-serem-alcancadas). Além disso, as opiniões do usuário e seu desempenho na realização da tarefa deverão ser registrados.
+
 ## I - Identificar questões práticas da avaliação
 
 ### Recrutamento
@@ -47,7 +47,7 @@ Devido a necessidade de que cada membro do grupo faça uma avaliação, e, porta
 
 ### Preparação
 
-Os membros que conduzirão o teste deverão realizar a observação da sessão, registrando anotações acerca do que for pontuado pelos usuários, e seguir as perguntas presentes no roteiro de entrevista pós-teste. Essa sessão de avaliação deverá conter uma tarefa proposta na análise de tarefas e o usuário se encarregará de realizar uma tentativa de cumprimento da tarefa. A sessão poderá ser conduzida por apenas um membro ou por uma dupla, no qual um ficará responsável por tomar notas e outro ficará responsável por realizar as perguntas. Além disso, as avaliações serão realizadas presencialmente e a equipe deverá fornecer informações de login e/ou outros dados que o usuário tiver necessidade para que se realize a tarefa. A estratégia de *think aloud* pode ser encorajada.
+Os membros que conduzirão o teste deverão realizar a observação da sessão, registrando anotações acerca do que for pontuado pelos usuários, e seguir as perguntas presentes no roteiro de entrevista pós-teste. Essa sessão de avaliação deverá conter uma tarefa proposta na análise de tarefas e o usuário se encarregará de realizar uma tentativa de cumprimento da tarefa. A sessão poderá ser conduzida por apenas um membro ou por uma dupla, no qual um ficará responsável por tomar notas e outro ficará responsável por realizar as perguntas. Além disso, as avaliações serão realizadas presencialmente e a equipe deverá fornecer informações de login e/ou outros dados que o usuário tiver necessidade para que se realize a tarefa. A estratégia de _think aloud_ pode ser encorajada.
 
 #### Script
 
@@ -80,15 +80,15 @@ Apesar de serem realizadas presencialmente, as sessões deverão ser gravadas e 
 
 **Tabela 2** - Cronograma Planejado.
 
-|                Entrevistador(es)                |     Entrevistado     | Horário de Início | Horário de Fim |    Data    |   Local   |
-| :----------------------------------------------: | :------------------: | :-----------------: | :-------------: | :--------: | :-------: |
-|     [Eric Camargo](https://github.com/ericcs10)     |    Caio Vinícius    |        10:50        |      11:00      | 26/11/2023 | a definir |
-|     [Ester Lino](https://github.com/esteerlino)     |     Pedro Miguel     |        10:00        |      10:10      | 26/11/2023 | a definir |
-| [Henrique Torres](https://github.com/henriqtorresl) |   Josué Teixeira   |        15:30        |      15:45      | 26/11/2023 | a definir |
-|   [Kallyne Macedo](https://github.com/kalipassos)   |   Leonardo Aguiar   |        16:10        |      16:20      | 26/11/2023 | a definir |
-|   [Luana Torres](https://github.com/luanatorress)   |     Ingrid Alves     |        18:20        |      18:30      | 26/11/2023 | a definir |
-|   [Pablo Guilherme](https://github.com/PabloGJBS)   | João Pedro Anacleto |        19:00        |      19:10      | 26/10/2023 | a definir |
-|  [Suzane Duarte](https://github.com/suzaneduarte)  |  Letícia Picanço  |        11:10        |      11:20      | 26/11/2023 | a definir |
+|                  Entrevistador(es)                  |    Entrevistado     | Horário de Início | Horário de Fim |    Data    |   Local   |
+| :-------------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :-------: |
+|     [Eric Camargo](https://github.com/ericcs10)     |    Caio Vinícius    |       10:50       |     11:00      | 26/11/2023 | a definir |
+|     [Ester Lino](https://github.com/esteerlino)     |    Pedro Miguel     |       10:00       |     10:10      | 26/11/2023 | a definir |
+| [Henrique Torres](https://github.com/henriqtorresl) |   Josué Teixeira    |       15:30       |     15:45      | 26/11/2023 | a definir |
+|   [Kallyne Macedo](https://github.com/kalipassos)   |   Leonardo Aguiar   |       16:10       |     16:20      | 26/11/2023 | a definir |
+|   [Luana Torres](https://github.com/luanatorress)   |    Ingrid Alves     |       18:20       |     18:30      | 26/11/2023 | a definir |
+|   [Pablo Guilherme](https://github.com/PabloGJBS)   | João Pedro Anacleto |       19:00       |     19:10      | 26/10/2023 | a definir |
+|  [Suzane Duarte](https://github.com/suzaneduarte)   |   Letícia Picanço   |       11:10       |     11:20      | 26/11/2023 | a definir |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos).
 
@@ -100,26 +100,25 @@ A tabela a seguir apresenta as perguntas a serem respondidas pelo usuário após
 
 <center><b>Tabela 3:</b> Questionário pós testes de usabilidade</center>
 
-| Número da pergunta | Enunciado da pergunta                                                                  | Resposta e Justificativa |
-| ------------------- | -------------------------------------------------------------------------------------- | ------------------------ |
-| 1                   | Foi possível realizar a tarefa?                                                       | Aberta                   |
-| 2                   | Foi identificado algum problema de usabilidade?                                       | Aberta                   |
-| 3                   | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Aberta                   |
-| 4                   | Foi experienciada alguma dificuldade de entendimento do protótipo?                    | Aberta                   |
-| 5                   | Foi experienciada alguma dificuldade de realização da tarefa?                        | Aberta                   |
-| 6                   | Foi observada alguma sugestão de melhoria para o protótipo proposto?                 | Aberta                   |
-
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------------------- | ------------------------ |
+| 1                  | Foi possível realizar a tarefa?                                                    | Aberta                   |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Aberta                   |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Aberta                   |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Aberta                   |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Aberta                   |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Aberta                   |
 
 <center><b>Tabela 3:</b> Registro das sessões de testes de usabilidade</center>
 
-| Número da pergunta | Enunciado da pergunta                                                     | Resposta e Justificativa     |
-| ------------------- | ------------------------------------------------------------------------- | ---------------------------- |
-| 1                   | Quantos erros o usuário cometeu?                                         | Fechada. Valor numérico.    |
-| 2                   | Quanto tempo foi necessário para a execução da tarefa?                 | Fechada. Medição de tempo. |
-| 3                   | O usuário precisou de ajuda externa ou do sistema?                       | Aberta                       |
-| 4                   | O usuário enfrentou algum problema para realizar a tarefa?               | Aberta                       |
-| 5                   | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Aberta                       |
-| 6                   | As dúvidas do usuário foram esclarecidas? | Aberta                       |
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa   |
+| ------------------ | ---------------------------------------------------------------------- | -------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | Fechada. Valor numérico.   |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | Fechada. Medição de tempo. |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Aberta                     |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Aberta                     |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Aberta                     |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Aberta                     |
 
 ## D - Lidando com questões éticas
 
@@ -132,6 +131,10 @@ Dessa forma, para iniciar a entrevista a equipe solicita que o entrevistado pron
 Após a realização das entrevistas os dados obtidos devem ser documentados, e a partir destes dados poderemos fazer uma analise das dificuldades e obstáculos que os usuários tiveram em cada tarefa, além de que também poderemos observar questões de usabilidade, desempenho ou funcionalidades ausentes. Serão observados os feedbacks dos usuários bem como suas sugestões para melhoria.
 
 Após realizado este processo, estaremos enviando os dados coletados ao time de desenvolvimento do [Online Judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1)
+
+## Prototipo de alta fidelidade
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FNGcLbMFzbKyHIc4cHZB63M%2FIHC---Proposta-de-Interven%25C3%25A7%25C3%25A3o%3Ftype%3Ddesign%26node-id%3D294-532%26t%3D3lrt4075YU0FoML0-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D294%253A532%26mode%3Ddesign" allowfullscreen></iframe>
 
 ## Planejamento do Teste Piloto
 
@@ -149,7 +152,7 @@ A seguir está disponível o vídeo do Teste de Piloto, realizado dia 23/11/2023
 
 ## Hitórico de versão
 
-| Versão | Data       | Descrição                        | Autor(es)                                    | Revisor(es)                                  |
-| ------- | ---------- | ---------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| 1.0     | 21/11/2023 | Criação da página               | [Ester Lino](https://github.com/esteerlino)     | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.1     | 22/11/2023 | Definições gerais da avaliação | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino)                                              |
+| Versão | Data       | Descrição                      | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | ------------------------------ | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 21/11/2023 | Criação da página              | [Ester Lino](https://github.com/esteerlino)     | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.1    | 22/11/2023 | Definições gerais da avaliação | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino)     |
