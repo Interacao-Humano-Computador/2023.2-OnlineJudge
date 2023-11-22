@@ -42,7 +42,7 @@ O método utilizado para a avaliação será o método que emprega a entrevista.
 |     [Ester Lino](https://github.com/esteerlino)     |    Pedro Miguel     |       10:00      |     10:10       | 26/11/2023 | a definir |
 | [Henrique Torres](https://github.com/henriqtorresl) |   Josué Teixeira    |       15:30       |     15:45      | 26/11/2023 | a definir |
 |   [Kallyne Macedo](https://github.com/kalipassos)   |   Leonardo Aguiar   |       16:10       |     16:20      | 26/11/2023 | a definir |
-|   [Luana Torres](https://github.com/luanatorress)   |    Ingrid Alves     |       18:20       |     18:30      | 26/11/2023 ||
+|   [Luana Torres](https://github.com/luanatorress)   |    Ingrid Alves     |       18:20       |     18:30      | 26/11/2023 | a definir |
 |   [Pablo Guilherme](https://github.com/PabloGJBS)   | João Pedro Anacleto |       19:00       |     19:10      | 26/10/2023 | a definir |
 |  [Suzane Duarte](https://github.com/suzaneduarte)   |    Ana Carolina     |       11:10       |     11:20      | 26/11/2023 | a definir |
 
