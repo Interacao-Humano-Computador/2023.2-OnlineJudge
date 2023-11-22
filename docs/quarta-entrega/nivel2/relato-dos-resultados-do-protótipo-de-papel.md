@@ -305,21 +305,70 @@ O usuário sugeriu a alteração do menu inicial de forma a incluir um ícone de
 
 #### 5.1 Objetivos e escopo da avaliação
 
+A avaliação do Protótipo de Papel foi realizada para a tarefa "Acessar Contest System". O objetivo desta avaliação é identificar incosistências no protótipo de baixa fidelidade, a fim de buscar possíveis problemas de usabilidade. Com esta avaliação é possível explorar conceitos de design e coletar sugestões de melhorias para o design do site avaliado.
+
 #### 5.2 Método de avaliação empregado
+
+Assim, como o proposto no Planejamento da Avaliação do Protótipo de Papel, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 9.
+
+<center>
+
+**Tabela 9** - Cronograma da avaliação do Protótipo de Papel - Acessar o Contest System.
+
+|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :-----------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Ester Lino](https://github.com/esteerlino) |  Pedro Miguel   |       10:00       |     10:10      | 22/11/2023 | Faculdade do Gama |
+
+Fonte: [Ester Lino](https://github.com/esteerlino)
+
+</center>
 
 #### 5.3 Atividades abordadas
 
+A tarefa realizada pelo usuário durante a entrevista foi a de acessar o Contest System.
+
 #### 5.4 Perfil do participante
+
+O participante selecionado se encaixa com o perfil de usuário definido no projeto. Ele é um estudante do curso Engenharia de Software com experiência média em tecnologia e é tecnófilo. Além disso, ele está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
 
 #### 5.5 Problemas encontrados
 
+O participante teve dificuldade em encontrar a página "Constest System" para executar a tarefa de acessar o sistema de competições do site. O obstáculo foi identificar onde a página estava localizada, porque a mesma se encontra na aba "Pages" e não no header do site. Durante a entrevista, é possível observar que o usuário tenta acessar a página "Contest System" pelas opções exibidas na tela inicial e, na sua segunda tentativa, ele busca na aba "My submissions". Apesar da dificuldade o participante conseguiu realizar a tarefa solicitada.
+
 #### 5.6 Sumário dos dados coletados
+
+Na tabela 10 é posível verificar as respostas obtidas pela entrevista.
+
+<center>
+
+**Tabela 8** - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                               | Resposta |
+| ------------------ | ------------------------------------------------------------------- | -------- |
+| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design? | Sim      |
+| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto? | Sim      |
+| 3                  | Foi possivel identificar problemas de usabilidade preliminares?     | Sim      |
+| 4                  | Foi possivel identificar ideias principais de design?               | Sim      |
+
+Fonte: [Ester Lino](https://github.com/esteerlino)
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=mKgEv_qdCbM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mKgEv_qdCbM?si=IptVAWEHcqQDIXqO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### 5.7 Análise e interpretação dos dados coletados
 
+Considerando os dados coletados, conclui-se que o protótipo é de fácil compreensão. No entanto, é necessário que a página do Contest System esteja mais visível e não dentro da aba "Pages". Além disso, como o site tem como objetivo divulgar as competições, é preciso que esse sistema esteja visível também na tela inicial, facilitando o acesso do usuário.
+
 #### 5.8 Feedback do usuário
 
+Para o usuário, a página "Contest System" deveria estar mais visível na tela inicial, facilitando a usabilidade do site.
+
 #### 5.9 Sugestões de melhoria
+
+O usuário sugeriu que as opções de contests fossem adicionadas já na tela inicial. Assim, seria mais fácil e rápido acessar o sistema de competições.
 
 ### **Entrevista 6 (Kallyne)**
 
@@ -459,9 +508,11 @@ O usuário entrevistado não sugeriu nenhuma melhoria ao protótipo de papel.
 
 ## Hitórico de versão
 
-| Versão | Data       | Descrição                | Autor(es)                                       | Revisor(es)                                         |
-| ------ | ---------- | ------------------------ | ----------------------------------------------- | --------------------------------------------------- |
-| 1.0    | 21/11/2023 | Criação da página        | [Eric Camargo](https://github.com/ericcs10)     | [Henrique Torres](https://github.com/henriqtorresl) |
-| 1.1    | 22/11/2023 | Adicionando entrevista 2 | [Pablo Guilherme](https://github.com/PabloGJBS) | [Henrique Torres](https://github.com/henriqtorresl) |
-| 1.2    | 22/11/2023 | Adicionando entrevista 4 | [Luana Torres](https://github.com/luanatorress) | [Eric Camargo](https://github.com/ericcs10)         |
-| 1.3    | 22/11/2023 | Adicionando entrevista 6 | [Kallyne Macedo](https://github.com/kalipassos) | [Eric Camargo](https://github.com/ericcs10)         |
+| Versão | Data       | Descrição                | Autor(es)                                        | Revisor(es)                                         |
+| ------ | ---------- | ------------------------ | ------------------------------------------------ | --------------------------------------------------- |
+| 1.0    | 21/11/2023 | Criação da página        | [Eric Camargo](https://github.com/ericcs10)      | [Henrique Torres](https://github.com/henriqtorresl) |
+| 1.1    | 22/11/2023 | Adicionando entrevista 2 | [Pablo Guilherme](https://github.com/PabloGJBS)  | [Henrique Torres](https://github.com/henriqtorresl) |
+| 1.2    | 22/11/2023 | Adicionando entrevista 4 | [Luana Torres](https://github.com/luanatorress)  | [Eric Camargo](https://github.com/ericcs10)         |
+| 1.3    | 22/11/2023 | Adicionando entrevista 6 | [Kallyne Macedo](https://github.com/kalipassos)  | [Eric Camargo](https://github.com/ericcs10)         |
+| 1.4    | 22/11/2023 | Adicionando entrevista 5 | [Ester Lino](https://github.com/esteerlino)      | [Eric Camargo](https://github.com/ericcs10)         |
+| 1.5    | 22/11/2023 | Adicionando entrevista 1 | [Suzane Duarte](https://github.com/suzaneduarte) | [Henrique Torres](https://github.com/henriqtorresl) |
