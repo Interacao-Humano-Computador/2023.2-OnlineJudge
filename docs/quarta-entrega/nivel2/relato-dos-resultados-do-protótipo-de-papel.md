@@ -1,32 +1,79 @@
-## Relato dos Resultados do Protótipo de papel
+## Introdução
 
-### **Introdução**
+Esse artefato tem como objetivo registrar as descobertas obtidas ao avaliar o protótipo inicial no papel. Serão abordados os tópicos referidos no planejamento dos relatos dos resultados.
 
-Esse artefato serve para registrar as descobertas feitas ao avaliar o modelo inicial no papel. Serão abordados os tópicos referidos no planejamento dos relatos dos resultados
-
-### Entrevistas
+## Entrevistas
 
 ### **Entrevista 1 (Suzane)**
 
 #### 1.1 Objetivos e escopo da avaliação
 
+O principal objetivo desta avaliação consiste em realizar uma verificação do protótipo de papel de, no máximo, três atividades por entrevista. Dessa forma, a entrevista será realizada para tentar identificar possíveis problemas de usabilidade, explorar conceitos de design, receber propostas de alternativas e coletar sugestões para aprimorar o [Protótipo de Papel utilizado.](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel2/planejamento-do-relato-dos-resultados-prototipo-de-papel/#prototipo-de-papel)
+
 #### 1.2 Método de avaliação empregado
+
+De acordo com o que foi estabelecido no Planejamento da Avaliação do protótipo de papel, a metodologia escolhida foi a observação e entrevista, uma vez que ela possibilita a coleta de dados com base na percepção de um usuário real. Na tabela 1 apresentada a seguir é possível visualizar o cronograma realizado da entrevista.
+
+<center>
+
+_Tabela 1_ - Cronograma Realizado da avaliação do protótipo de papel.
+
+|                  Entrevistador                   | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local           |
+| :----------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------------------: |
+| [Suzane Duarte](https://github.com/suzaneduarte) | Letícia Picanço |       13:00       |     13:15      | 21/11/2023 | Universidade de Brasília |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
 
 #### 1.3 Atividades abordadas
 
+Durante a entrevista foi solicitado que o usuário interagisse com o protótipo de papel com o objetivo de realizar as seguintes tarefas:
+
+- Procurar um Problema (Browse Problems)
+- Editar Conta (My Profile)
+
 #### 1.4 Perfil do participante
+
+É possível verificar que a entrevistada está alinhada com o perfil de usuário estabelecido no projeto, pois é uma estudante do curso de Engenharia Aeroespacial com uma média experiência em tecnologia. Apesar de não se enquadrar exatamente no curso de computação ou afins, a participante relata que já realizou diversas disciplinas voltadas para a área de Software, e que utilizou plataformas de juiz online para submissão de problemas proposto por seus professores. Além de ter demonstrado um forte interesse pela área de tecnologia, uma vez que utiliza bastante de técnicas de programação em se curso. Por fim, ela também se enquadra na faixa etária definida pelo perfil de usuário, situando-se entre os 19 e 24 anos.
 
 #### 1.5 Problemas encontrados
 
+Foi possível observar que o usuário obteve alguns problemas durante a realização das duas tarefas avaliadas.
+
+No que tange a tarefa de "Browse Problems", foi possível identificar os seguintes problemas:
+
+- Dificuldade para identificar que "Browse Problems" estaria em "Pages";
+- Dificuldade para diferenciar as páginas de "Pasta" e "Volume";
+- Para acessar o problema, a entrevistada clicou em "Total Users / Solving %" e não onde estaria o link de fato;
+
+Agora no que tange a tarefa de "Editar Conta", foi possível identificar os seguintes problemas:
+
+- Dificuldade para identificar que "My Profile" estaria em "Pages";
+- Dificuldade para compreender a diferença entre "Upload Images" e "Enter image from gallery";
+
 #### 1.6 Sumário dos dados coletados
+
+Na tabela 2 é posível verificar as respostas obtidas a partir da entrevista. De forma que, no decorrer da entrevista e a depender da resposta para cada pergunta realizada, era solicitado para que a entrevistada justificasse o motivo da escolha. Sendo assim, foi possível coletar dados para feedbacks e sugestões de melhoria apresentadas nos próximos tópicos.
+
+<center>
+
+_Tabela 2_ - Respostas obtidas durante a entrevista com Letícia Picanço.
+
+| Número da pergunta | Enunciado da pergunta                                                | Resposta |
+| ------------------ | -------------------------------------------------------------------- | -------- |
+| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?  | Sim      |
+| 2                  | Foi observado alguma sugestão de melhoria para o protótipo proposto? | Sim      |
+| 3                  | Foi possivel identificar problemas de usabilidade preliminares?      | Sim      |
+| 4                  | Foi possivel identificar ideias principais de design?                | Sim      |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
 
 #### 1.7 Análise e interpretação dos dados coletados
 
 #### 1.8 Feedback do usuário
 
 #### 1.9 Sugestões de melhoria
-
-
 
 ### **Entrevista 2 (Pablo)**
 
@@ -48,7 +95,6 @@ Esse artefato serve para registrar as descobertas feitas ao avaliar o modelo ini
 
 #### 2.9 Sugestões de melhoria
 
-
 ### **Entrevista 3 (Eric)**
 
 #### 3.1 Objetivos e escopo da avaliação
@@ -63,10 +109,10 @@ De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo
 
 <center>
 
-*Tabela 5* - Cronograma da avaliação do prototipo de papel.
+_Tabela 5_ - Cronograma da avaliação do prototipo de papel.
 
-|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |          Local           |
+| :-----------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------------------: |
 | [Eric Camargo](https://github.com/Ericcs10) | Gabriel Esteves |       15:10       |     15:19      | 22/11/2023 | Universidade de Brasília |
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10)
@@ -91,14 +137,14 @@ Na tabela 6 é posível verificar as respostas obtidas pela entrevista.
 
 <center>
 
-*Tabela 6* - Respostas obtidas durante a entrevista.
+_Tabela 6_ - Respostas obtidas durante a entrevista.
 
-| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
-| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
-| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto?                          | Não      |
-| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Não sei afirmar      |
-| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
+| Número da pergunta | Enunciado da pergunta                                               | Resposta        |
+| ------------------ | ------------------------------------------------------------------- | --------------- |
+| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design? | Sim             |
+| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto? | Não             |
+| 3                  | Foi possivel identificar problemas de usabilidade preliminares?     | Não sei afirmar |
+| 4                  | Foi possivel identificar ideias principais de design?               | Sim             |
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10).
 
@@ -140,7 +186,6 @@ O usuário não sugeriu melhorias
 
 #### 4.9 Sugestões de melhoria
 
-
 ### **Entrevista 5 (Ester)**
 
 #### 5.1 Objetivos e escopo da avaliação
@@ -161,8 +206,6 @@ O usuário não sugeriu melhorias
 
 #### 5.9 Sugestões de melhoria
 
-
-
 ### **Entrevista 6 (Kallyne)**
 
 #### 6.1 Objetivos e escopo da avaliação
@@ -182,8 +225,6 @@ O usuário não sugeriu melhorias
 #### 6.8 Feedback do usuário
 
 #### 6.9 Sugestões de melhoria
-
-
 
 ### **Entrevista 7 (Henrique)**
 
@@ -206,10 +247,11 @@ O usuário não sugeriu melhorias
 #### 7.9 Sugestões de melhoria
 
 ## Referências Bibliográficas
+
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Hitórico de versão
 
-| Versão | Data       | Descrição                    | Autor(es)                                                                                         | Revisor(es)                                 |
-| ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 1.0    | 21/11/2023 | Criação da página  | [Eric Camargo](https://github.com/ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) | 
+| Versão | Data       | Descrição         | Autor(es)                                   | Revisor(es)                                         |
+| ------ | ---------- | ----------------- | ------------------------------------------- | --------------------------------------------------- |
+| 1.0    | 21/11/2023 | Criação da página | [Eric Camargo](https://github.com/ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) |
