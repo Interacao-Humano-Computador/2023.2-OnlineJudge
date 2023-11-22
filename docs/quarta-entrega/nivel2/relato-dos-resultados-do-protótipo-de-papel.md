@@ -32,22 +32,68 @@ Esse artefato serve para registrar as descobertas feitas ao avaliar o modelo ini
 
 #### 2.1 Objetivos e escopo da avaliação
 
+Realizar uma avaliação do prototipo de papel feito pela equipe, com o objetivo de identificar possíveis problemas de usabilidade, explorar conceitos de design,receber propostas de alternativas e coletar sugestões para aprimorar o prototipo.
+
 #### 2.2 Método de avaliação empregado
+
+De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo de papel, a metodologia escolhida foi a observação e entrevista, uma vez que ela possibilita a coleta de dados com base na percepção de um usuário real. Na tabela 5 segue o cronograma da entrevista realizada
+
+<center>
+
+*Tabela 3* - Cronograma da avaliação do prototipo de papel.
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Pablo Guilherme](https://github.com/PabloGJBS) | Arthur Marmo |       13:40       |     13:55     | 21/11/2023 | Universidade de Brasília |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)
+
+</center>
 
 #### 2.3 Atividades abordadas
 
+Durante a entrevista foi pedido para que o usuário interagisse com o prototipo de papel com o intuíto de realizar as tarefas de login, Quick Submit, Browse Problems e visualizar My Submissions.
+
 #### 2.4 Perfil do participante
+
+O participante escolhido está alinhado com o perfil de usuário estabelecido no projeto, pois é um estudante do curso de Ciência da Computação com uma média de experiência em tecnologia. Além disso, ele se enquadra na faixa etária definida pelo perfil de usuário, situando-se entre os 19 e 24 anos. Além disso, demonstra um forte interesse por tecnologia.
 
 #### 2.5 Problemas encontrados
 
+Durante a entrevista o usuário demonstrou dificuldade ao acessar a aba pages do site que não era tão clara, fora isto ele seguiu corretamento os caminhos propostos para as atividades.
+
 #### 2.6 Sumário dos dados coletados
+
+<center>
+
+*Tabela 4* - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
+| 2                  | Foi observado alguma sugestão de melhoria para o protóipo proposto?                          | Sim      |
+| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Sim      |
+| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=xj8GdvEsp_c)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xj8GdvEsp_c?si=oyWv3Hne8cnWFyo-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### 2.7 Análise e interpretação dos dados coletados
 
+Com base nas respostas obtidas, é viável concluir que o protótipo de papel é de fácil compreensão, foi elaborado de maneira clara e está em conformidade com seus objetivos, porem possui uma dificuldade de entendimento na aba "pages" o que deve ser corrigido nas próximas etapas do projeto.
+
 #### 2.8 Feedback do usuário
+
+O usuário se mostrou satisfeito com o protótipo de papel apresentado.
 
 #### 2.9 Sugestões de melhoria
 
+O usuário apresentou apenas a sugestão de alteração da aba "pages".
 
 ### **Entrevista 3 (Eric)**
 
@@ -58,8 +104,6 @@ Realizar uma avaliação do prototipo de papel feito pela equipe, com o objetivo
 #### 3.2 Método de avaliação empregado
 
 De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo de papel, a metodologia escolhida foi a observação e entrevista, uma vez que ela possibilita a coleta de dados com base na percepção de um usuário real. Na tabela 5 segue o cronograma da entrevista realizada
-
-[Link para o storyboard avaliado](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/storyboards/#contact-us)
 
 <center>
 
@@ -118,7 +162,7 @@ O usuário se mostrou satisfeito com o protótipo de papel apresentado.
 
 #### 3.9 Sugestões de melhoria
 
-O usuário não sugeriu melhorias
+O usuário não sugeriu melhorias.
 
 ### **Entrevista 4 (Luana)**
 
@@ -240,19 +284,67 @@ O usuário sugeriu a alteração do menu inicial de forma a incluir um ícone de
 
 #### 7.2 Método de avaliação empregado
 
+De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo de papel, a metodologia escolhida foi a observação e entrevista, uma vez que ela possibilita a coleta de dados com base na percepção de um usuário real. Na tabela 13 segue o cronograma da entrevista realizada
+
+<center>
+
+*Tabela 13* - Cronograma da avaliação do prototipo de papel.
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Henrique Torres](https://github.com/heriqtorresl) | Henrique Torres |       14:00       |     14:10      | 22/11/2023 | Universidade de Brasília - FGA |
+
+Fonte: [Henrique Torres](https://github.com/heriqtorresl)
+
+</center>
+
 #### 7.3 Atividades abordadas
+
+Durante a entrevista, foi pedido que o usuário interagisse com o protótipo de papel com o objetivo de realizar as tarefas de login e o acesso a página de minhas submissões.
 
 #### 7.4 Perfil do participante
 
+O participante selecionado está em conformidade com o perfil de usuário estabelecido para o projeto, sendo um estudante do curso de Engenharia na FGA, com uma média de experiência em tecnologia. Além disso, está dentro da faixa etária definida para o perfil de usuário, situando-se entre 19 e 24 anos, e demonstra um notável interesse por tecnologia.
+
 #### 7.5 Problemas encontrados
+
+Durante a entrevista, o entrevistado não demonstrou nenhuma dificuldade ao seguir os caminhos das tarefas propostas, assim como ao interagir com o protótipo.
 
 #### 7.6 Sumário dos dados coletados
 
+Na tabela x é posível verificar as respostas obtidas pela entrevista.
+
+<center>
+
+*Tabela 14* - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
+| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto?                          | Não sei afirmar      |
+| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Não     |
+| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl)
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/embed/Ko1TC6WaK8w?si=iz45KE2xmQoIEfk7)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ko1TC6WaK8w?si=iz45KE2xmQoIEfk7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 #### 7.7 Análise e interpretação dos dados coletados
+
+Com base nas respostas obtidas, é possível concluir que o fluxo realizado foi bem simples e intuitivo, e também que o protótipo de papel é de fácil compreensão e foi elaborado de maneira clara e está alinhado com seus objetivos.
 
 #### 7.8 Feedback do usuário
 
+O entrevistado demonstrou satisfação com o protótipo de papel apresentado e não encontrou dificultades ao realizar o fluxo necessário dentro da aplicação.
+
 #### 7.9 Sugestões de melhoria
+
+O usuário entrevistado não sugeriu nenhuma melhoria ao protótipo de papel.
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -262,4 +354,5 @@ O usuário sugeriu a alteração do menu inicial de forma a incluir um ícone de
 | Versão | Data       | Descrição                    | Autor(es)                                                                                         | Revisor(es)                                 |
 | ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 21/11/2023 | Criação da página  | [Eric Camargo](https://github.com/ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) | 
-| 1.1    | 22/11/2023 | Adicionando a entrevista de Editar Conta  | [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) | 
+| 1.1    | 22/11/2023 | Adicionando entrevista 2  | [Pablo Guilherme](https://github.com/PabloGJBS) | [Henrique Torres](https://github.com/henriqtorresl) | 
+| 1.2    | 22/11/2023 | Adicionando entrevista 4  | [Luana Torres](https://github.com/luanatorress) | [Eric Camargo](https://github.com/ericcs10)  | 
