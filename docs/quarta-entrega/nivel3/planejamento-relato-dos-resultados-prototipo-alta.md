@@ -28,13 +28,13 @@ Nesse tópico, o avaliador deverá explicar quais foram os objetivos da avaliaç
 
 ### 2. Método de avaliação
 
-O método utilizado para a avaliação será o método que emprega a entrevista. Este método será adotado em todas as entrevistas. Para tanto, foi definido um cronograma, na Tabela 1, para qual cada entrevistador irá entrevistar um usuário, de acordo com as tarefas definidas no protótipo. O cronograma planejado está na tabela a seguir:
+O método utilizado para a avaliação será o método de observação, através da realização de testes de usabilidade. Este método será adotado em todas as avaliações. Para tanto, foi definido um cronograma, na Tabela 1, para qual cada entrevistador irá observar um usuário, de acordo com as tarefas definidas no protótipo. O cronograma planejado está descrito na tabela a seguir:
 
 <center>
 
 **Tabela 1** - Cronograma Planejado.
 
-|                    Entrevistador                    |    Entrevistado     | Horário de Início | Horário de Fim |    Data    |   Local   |
+|                    Avaliador                   |    Usuário     | Horário de Início | Horário de Fim |    Data    |   Local   |
 | :-------------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :-------: |
 |     [Eric Camargo](https://github.com/ericcs10)     |    Caio Vinícius    |       10:50       |     11:00      | 26/11/2023 | a definir |
 |     [Ester Lino](https://github.com/esteerlino)     |    Pedro Miguel     |       10:00       |     10:10      | 26/11/2023 | a definir |
@@ -50,7 +50,7 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 
 ### 3. Perfil dos participantes selecionados
 
-Este tópico apresenta quais foram os participantes da avaliação seguindo os padrões definidos no [perfil de usuário](../../segunda-entrega/perfil-usuario.md). Cada avaliador deve justificar a escolha do entrevistado e se ele se encaixa ou não no perfil de usuário definido, a fim de realizar a entrevista com o público alvo do site em questão.
+Este tópico apresenta quais foram os participantes da avaliação seguindo os padrões definidos no [perfil de usuário](../../segunda-entrega/perfil-usuario.md). Cada avaliador deve justificar a escolha do usuário e se ele se encaixa ou não no perfil de usuário definido, a fim de realizar a avaliação com o público alvo do site em questão.
 
 ### 4. Problemas encontrados
 
@@ -58,21 +58,21 @@ Neste tópico o avaliador deve apresentar uma análise e interpretação dos res
 
 ### 5. Sumário dos Dados coletados
 
-No sumário dos dados coletados, o avaliador deve registrar os dados obtidos de maneira resumida com uma breve descrição, apresentando os dados por meio de uma tabela resultado. Deve ser também disponibilizado neste tópico o link da gravação da entrevista.
+No sumário dos dados coletados, o avaliador deve registrar os dados obtidos de maneira resumida com uma breve descrição, apresentando os dados por meio de uma tabela resultado. Deve ser também disponibilizado neste tópico o link da gravação da avaliação.
 
 ### 6. Análise e interpretação dos dados coletados
 
-O integrante da equipe deve analisar os dados obtidos através da enrevista do protótipo de alta fidelidade, buscando padrões e tendências nos resultados para assim, obter conclusões relevantes ao projeto. Neste tópico também é interessante contextualizar os resultados para o escopo definido e seu impacto no projeto como um todo.
+O integrante da equipe deve analisar os dados obtidos através da avaliação do protótipo de alta fidelidade, buscando padrões e tendências nos resultados para assim, obter conclusões relevantes ao projeto. Neste tópico também é interessante contextualizar os resultados para o escopo definido e seu impacto no projeto como um todo.
 
 ### 7. Feedback do usuário
 
 Segundo Courage e Baxter<a id="anchor_2" href="#REF2">²</a>, podemos buscar dados que nos ajudem a aprender sobre o produto através de diferentes fontes, tais como o feedback dos usuários. Sendo assim, é essencial que o entrevistador colete feedbacks dos usuários que foram entrevistados durante a avaliação do protótipo de alta fidelidade.
 
-Para isso, é necessário realizar uma escuta atenta às opiniões, sugestões e comentários expressos pelos usuários durante a interação com o sistema ou produto avaliado, tentando compreender as expectativas dos usuários, identificar os pontos fortes e fracos do sistema e obter insights sobre possíveis melhorias. Sendo assim, é fundamental que o entrevistador registre de forma precisa e completa esse feedback, considerando todas as percepções, experiências e necessidades dos usuários entrevistados, pois essas informações são inestimáveis para aprimorar a qualidade do sistema e garantir a satisfação final dos usuários.
+Para isso, é necessário realizar uma escuta atenta às opiniões, sugestões e comentários expressos pelos usuários durante a interação com o sistema ou produto avaliado, tentando compreender as expectativas dos usuários, identificar os pontos fortes e fracos do sistema e obter insights sobre possíveis melhorias. Sendo assim, é fundamental que o avaliador registre de forma precisa e completa esse feedback, considerando todas as percepções, experiências e necessidades dos usuários observados, pois essas informações são inestimáveis para aprimorar a qualidade do sistema e garantir a satisfação final dos usuários.
 
 ### 8. Sugestões de melhoria
 
-Na tentativa de consolidar os dados de forma clara e objetiva, é necessário que o entrevistador documente de forma completa as sugestões e melhorias com base nos problemas identificados durante o levantamento de melhorias do protótipo de papel. Dessa forma, deve-se apresentar sugestões para cada problema encontrado, descrevendo o contexto em que a ação foi realizada, o problema identificado e a sugestão de melhoria decorrente do mesmo. Isto é, cabe aos analisadores responsáveis recomendar possíveis sugestões para corrigir tais problemas, oferecendo, por exemplo, ajustes de design, melhorias na interface do usuário ou até mesmo alterações na própria funcionalidade.
+Na tentativa de consolidar os dados de forma clara e objetiva, é necessário que o avaliador documente de forma completa as sugestões e melhorias com base nos problemas identificados durante o levantamento de melhorias do protótipo. Dessa forma, deve-se apresentar sugestões para cada problema encontrado, descrevendo o contexto em que a ação foi realizada, o problema identificado e a sugestão de melhoria decorrente do mesmo. Isto é, cabe aos analisadores responsáveis recomendar possíveis sugestões para corrigir tais problemas, oferecendo, por exemplo, ajustes de design, melhorias na interface do usuário ou até mesmo alterações na própria funcionalidade.
 
 ### 9. Planejamento de reprojeto
 
@@ -108,3 +108,4 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
 | :----: | :--------: | :---------------------------------------------------------------------------------------: | :-----------------------------------------------: | :------------------------------------------------: |
 |  1.0   | 21/11/2023 | Criação da página "Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade" | [Luana Torres](https://github.com/luanatorress)   |  [Suzane Duarte](https://github.com/suzaneduarte)  |
 |  1.1   | 21/11/2023 |                         Inserção dos tópicos restantes da página                          | [Suzane Duarte](https://github.com/suzaneduarte)  |  [Luana Torres](https://github.com/luanatorress)   |
+|  1.2   | 22/11/2023 |                         Modificação do método utilizado                     | [Luana Torres](https://github.com/luanatorress)   |  [Suzane Duarte](https://github.com/suzaneduarte)    |
