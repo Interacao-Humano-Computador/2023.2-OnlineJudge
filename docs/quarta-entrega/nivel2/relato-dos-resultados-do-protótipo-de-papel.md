@@ -124,22 +124,71 @@ O usuário não sugeriu melhorias
 
 #### 4.1 Objetivos e escopo da avaliação
 
+A avaliação do Protótipo de Papel contou com 2 tarefas, "Editar Conta" e "Submeter Problema". A avaliação tem como objetivo identificar incoerências no protótipo de baixa fidelidade para assim, identificar possíveis problemas de usabilidade, explorar conceitos de design e receber sugestões alternativas para o design do site em questão.
+
 #### 4.2 Método de avaliação empregado
+
+Assim, como o proposto no Planejamento da Avaliação do Protótipo de Papel, o método utilizado foi o de entrevista, visto que permite a coleta de dados a partir da percepção de um usuário real. Os dados da entrevista estão representados na tabela 7.
+
+<center>
+
+**Tabela 7** - Cronograma da avaliação do Protótipo de Papel - Editar Conta e Submeter Problema.
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Luana Torres](https://github.com/luanatorress) |   Caio Mesquita     |       09:50       |     10:00      | 21/11/2023 | Faculdade do Gama |
+
+Fonte: [Luana Torres](https://github.com/luanatorress)
+
+</center>
 
 #### 4.3 Atividades abordadas
 
+Foram escolhidas 2 tarefas para realizar como atividade durante o processo da entrevista com o usuário. As tarefas escolhidas foram as tarefas de "Editar Conta" e "Submeter Problema(Quick Submit)".
+ 
 #### 4.4 Perfil do participante
+
+O participante selecionado se encaixa com o perfil de usuário definido no projeto. Ele é um estudante do curso Engenharia de Software com experiência média em tecnologia e é tecnófilo. Além disso, ele está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
 
 #### 4.5 Problemas encontrados
 
+O usuário teve dificuldade de encontrar a página "My Profile" para fazer a tarefa de editar conta, uma vez que esta está dentro da aba "Pages" e não na barra de menu inicial diretamente.
+
 #### 4.6 Sumário dos dados coletados
+
+Na tabela 8 é posível verificar as respostas obtidas pela entrevista.
+
+<center>
+
+**Tabela 8** - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
+| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto?                          | Sim      |
+| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Sim     |
+| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
+
+
+Fonte: [Luana Torres](https://github.com/luanatorress).
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=DcsOQ2Y4_LE)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DcsOQ2Y4_LE?si=IptVAWEHcqQDIXqO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### 4.7 Análise e interpretação dos dados coletados
 
+A partir dos dados coletados, é possível observar que o protótipo de papel é fácil e intuitivo. Porém, faz-se necessário uma mudança para retirar todas as opções resumidas na opção "pages" e coloca-las em evidência no menu de opções.
+
 #### 4.8 Feedback do usuário
+
+O usuário demonstrou facilidade para compreender o site, entretanto, acredita que a falta da opção "My Profile Page" dentre as opções do menu inicial ocasione um equívoco no usuário, ocasionando em problemas de usabilidade.
 
 #### 4.9 Sugestões de melhoria
 
+O usuário sugeriu a alteração do menu inicial de forma a incluir um ícone de perfil para garantir uma melhor usabilidade e evitar confusões nos usuários.
 
 ### **Entrevista 5 (Ester)**
 
@@ -213,3 +262,4 @@ O usuário não sugeriu melhorias
 | Versão | Data       | Descrição                    | Autor(es)                                                                                         | Revisor(es)                                 |
 | ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 21/11/2023 | Criação da página  | [Eric Camargo](https://github.com/ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) | 
+| 1.1    | 22/11/2023 | Adicionando a entrevista de Editar Conta  | [Luana Torres](https://github.com/luanatorress) | [Suzane Duarte](https://github.com/suzaneduarte) | 
