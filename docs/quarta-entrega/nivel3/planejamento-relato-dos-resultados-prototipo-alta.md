@@ -24,7 +24,8 @@ A documentação do relato dos resultados da avaliação deverá conter os tópi
 
 ### 1. Objetivo e Escopo da Avaliação
 
-Nesse tópico, o avaliador deverá explicar quais foram os objetivos da avaliação realizada, e o objetivo que se pretende alcançar com o protótipo de papel, apresentando uma visão geral da avaliação.
+No planejamento da avaliação, foram colocados como objetivos detectar possíveis problemas, avaliar a eficácia do design, e verificar a conformidade com as tarefas elaboradas.
+Desta forma, nesse tópico, o avaliador deverá explicar quais foram os objetivos da avaliação realizada, e o objetivo que se pretende alcançar com o protótipo de papel, apresentando uma visão geral da avaliação.
 
 ### 2. Método de avaliação
 
