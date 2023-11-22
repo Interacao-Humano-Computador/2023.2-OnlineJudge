@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A avaliação de uma solução de Interação Humano-Computador através de um protótipo de alta fidelidade, conforme Barbosa e Silva <a id="anchor_1" href="#REF1">¹</a>, é de suma importância para determinar se as metas de design foram atingidas e se o produto atende aos níveis desejados de qualidade de uso. Por isso, neste artefato, é definido o planejamento da avaliação do protótipo de alta fidelidade desenvolvido para o site OnlineJudge, objetivando a identificação de problemas de usabilidade.
+A avaliação de uma solução de Interação Humano-Computador através de um protótipo de alta fidelidade, conforme Barbosa e Silva <a id="anchor_1" href="#REF1">¹</a>, é de suma importância para determinar se as metas de design foram atingidas e se o produto atende aos níveis desejados de qualidade de uso. Por isso, neste artefato, é definido o planejamento da avaliação do protótipo de alta fidelidade desenvolvido para o site Online Judge, objetivando a identificação de problemas de usabilidade.
 
 ## Metodologia
 
@@ -35,12 +35,10 @@ Com base nos objetivos descritos anteriormente, foram preparadas questões basea
 
 Selecionamos perguntas com base no Capitulo 11 de Barbosa e Silva(2011)<a id="anchor_1" href="#REF1">¹</a>, as quais podem ser observadas no roteiro de perguntas.
 
-
 ## C - Escolher métodos de avaliação
 
 Para conduzir esta avaliação será utilizado o método de observação, através da realização de testes de usabilidade. Dessa forma, a usabilidade será avaliada a partir da experiência do usuário com a interface do protótipo criado e serão definidas perguntas a serem realizadas antes e após o teste, de modo a analisar os critérios definidos para o projeto e o avanço alcançado no seu atingimento, conforme definição nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/terceira-entrega/metas-usabilidade/#metas-a-serem-alcancadas). Além disso, as opiniões do usuário e seu desempenho na realização da tarefa deverão ser registrados. 
  
-
 ## I - Identificar questões práticas da avaliação
 
 ### Recrutamento
@@ -49,7 +47,15 @@ Devido a necessidade de que cada membro do grupo faça uma avaliação, e, porta
 
 ### Preparação
 
-Os membros que conduzirão o teste deverão realizar a observação da sessão, registrando anotações acerca do que for pontuado pelos usuários, e seguir as perguntas presentes no roteiro de entrevista pós-teste. Essa sessão de avaliação deverá conter uma tarefa proposta na análise de tarefas e o usuário se encarregará de realizar uma tentativa de cumprimento da tarefa. A sessão poderá ser conduzida por apenas um membro ou por uma dupla, no qual um ficará responsável por tomar notas e outro ficará responsável por realizar as perguntas. Além disso, as avaliações serão realizadas presencialmente e a equipe deverá fornecer informações de login e/ou outros dados que o usuário tiver necessidade para que se realize a tarefa. A estratégia de *think aloud* pode ser encorajada. 
+Os membros que conduzirão o teste deverão realizar a observação da sessão, registrando anotações acerca do que for pontuado pelos usuários, e seguir as perguntas presentes no roteiro de entrevista pós-teste. Essa sessão de avaliação deverá conter uma tarefa proposta na análise de tarefas e o usuário se encarregará de realizar uma tentativa de cumprimento da tarefa. A sessão poderá ser conduzida por apenas um membro ou por uma dupla, no qual um ficará responsável por tomar notas e outro ficará responsável por realizar as perguntas. Além disso, as avaliações serão realizadas presencialmente e a equipe deverá fornecer informações de login e/ou outros dados que o usuário tiver necessidade para que se realize a tarefa. A estratégia de *think aloud* pode ser encorajada.
+
+#### Script
+
+O entrevistador passará um script ao participante para a realização das tarefas, com as seguintes informações:
+
+- Login;
+- Senha;
+- Nome de usuário.
 
 ### Custos
 
