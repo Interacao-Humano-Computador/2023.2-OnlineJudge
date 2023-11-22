@@ -53,22 +53,68 @@ Esse artefato serve para registrar as descobertas feitas ao avaliar o modelo ini
 
 #### 3.1 Objetivos e escopo da avaliação
 
+Realizar uma avaliação do prototipo de papel feito pela equipe, com o objetivo de identificar possíveis problemas de usabilidade, explorar conceitos de design,receber propostas de alternativas e coletar sugestões para aprimorar o prototipo.
+
 #### 3.2 Método de avaliação empregado
+
+De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo de papel, a metodologia escolhida foi a observação e entrevista, uma vez que ela possibilita a coleta de dados com base na percepção de um usuário real. Na tabela 5 segue o cronograma da entrevista realizada
+
+[Link para o storyboard avaliado](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel1/storyboard/storyboards/#contact-us)
+
+<center>
+
+*Tabela 5* - Cronograma da avaliação do prototipo de papel.
+
+|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Eric Camargo](https://github.com/Ericcs10) | Gabriel Esteves |       15:10       |     15:19      | 22/11/2023 | Universidade de Brasília |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10)
+
+</center>
 
 #### 3.3 Atividades abordadas
 
+Durante a entrevista foi pedido para que o usuário interagisse com o prototipo de papel com o intuíto de realizar as tarefas de login, recuperação de login e contact us.
+
 #### 3.4 Perfil do participante
+
+O participante escolhido está alinhado com o perfil de usuário estabelecido no projeto, pois é um estudante do curso de Ciência da Computação com uma média de experiência em tecnologia. Além disso, ele se enquadra na faixa etária definida pelo perfil de usuário, situando-se entre os 19 e 24 anos. Além disso, demonstra um forte interesse por tecnologia.
 
 #### 3.5 Problemas encontrados
 
+O entrevistado não apresentou nenhuma dificuldado no decorrer da entrevista ao prosseguir pelos caminhos das tarefas, nem ao interagir com o prototipo.
+
 #### 3.6 Sumário dos dados coletados
+
+Na tabela 6 é posível verificar as respostas obtidas pela entrevista.
+
+<center>
+
+*Tabela 6* - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
+| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto?                          | Não      |
+| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Não sei afirmar      |
+| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10).
+
+</center>
 
 #### 3.7 Análise e interpretação dos dados coletados
 
+Com base nas respostas obtidas, é viável concluir que o protótipo de papel é de fácil compreensão, foi elaborado de maneira clara e está em conformidade com seus objetivos.
+
 #### 3.8 Feedback do usuário
+
+O usuário se mostrou satisfeito com o protótipo de papel apresentado.
 
 #### 3.9 Sugestões de melhoria
 
+O usuário não sugeriu melhorias
 
 ### **Entrevista 4 (Luana)**
 
