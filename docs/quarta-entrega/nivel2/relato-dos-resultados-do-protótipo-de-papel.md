@@ -104,6 +104,10 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10).
 
 </center>
 
+[Link da gravação da entrevista](https://youtu.be/RiTeXYMExAQ)
+
+<iframe width="560" height="315" src="https://youtu.be/RiTeXYMExAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### 3.7 Análise e interpretação dos dados coletados
 
 Com base nas respostas obtidas, é viável concluir que o protótipo de papel é de fácil compreensão, foi elaborado de maneira clara e está em conformidade com seus objetivos.
