@@ -26,8 +26,6 @@ Esse artefato serve para registrar as descobertas feitas ao avaliar o modelo ini
 
 #### 1.9 Sugestões de melhoria
 
-
-
 ### **Entrevista 2 (Pablo)**
 
 #### 2.1 Objetivos e escopo da avaliação
@@ -42,9 +40,9 @@ De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo
 
 *Tabela 3* - Cronograma da avaliação do prototipo de papel.
 
-|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Pablo Guilherme](https://github.com/PabloGJBS) | Arthur Marmo |       13:40       |     13:55     | 21/11/2023 | Universidade de Brasília |
+|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |           Local           |
+| :------------------------------------------: | :-------------: | :-----------------: | :-------------: | :--------: | :-----------------------: |
+| [Pablo Guilherme](https://github.com/PabloGJBS) |  Arthur Marmo  |        13:40        |      13:55      | 21/11/2023 | Universidade de Brasília |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)
 
@@ -68,12 +66,12 @@ Durante a entrevista o usuário demonstrou dificuldade ao acessar a aba pages do
 
 *Tabela 4* - Respostas obtidas durante a entrevista.
 
-| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
-| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
-| 2                  | Foi observado alguma sugestão de melhoria para o protóipo proposto?                          | Sim      |
-| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Sim      |
-| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
+| Número da pergunta | Enunciado da pergunta                                                 | Resposta |
+| ------------------- | --------------------------------------------------------------------- | -------- |
+| 1                   | Com o prototipo de papel foi possivel explorar conceitos de design?   | Sim      |
+| 2                   | Foi observado alguma sugestão de melhoria para o protóipo proposto? | Sim      |
+| 3                   | Foi possivel identificar problemas de usabilidade preliminares?       | Sim      |
+| 4                   | Foi possivel identificar ideias principais de design?                 | Sim      |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)
 
@@ -109,9 +107,9 @@ De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo
 
 *Tabela 5* - Cronograma da avaliação do prototipo de papel.
 
-|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Eric Camargo](https://github.com/Ericcs10) | Gabriel Esteves |       15:10       |     15:19      | 22/11/2023 | Universidade de Brasília |
+|              Entrevistador              | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |           Local           |
+| :--------------------------------------: | :-------------: | :-----------------: | :-------------: | :--------: | :-----------------------: |
+| [Eric Camargo](https://github.com/Ericcs10) | Gabriel Esteves |        15:10        |      15:19      | 22/11/2023 | Universidade de Brasília |
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10)
 
@@ -137,12 +135,12 @@ Na tabela 6 é posível verificar as respostas obtidas pela entrevista.
 
 *Tabela 6* - Respostas obtidas durante a entrevista.
 
-| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
-| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
-| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto?                          | Não      |
-| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Não sei afirmar      |
-| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
+| Número da pergunta | Enunciado da pergunta                                                 | Resposta         |
+| ------------------- | --------------------------------------------------------------------- | ---------------- |
+| 1                   | Com o prototipo de papel foi possivel explorar conceitos de design?   | Sim              |
+| 2                   | Foi observado alguma sugestão de melhoria para o proótipo proposto? | Não             |
+| 3                   | Foi possivel identificar problemas de usabilidade preliminares?       | Não sei afirmar |
+| 4                   | Foi possivel identificar ideias principais de design?                 | Sim              |
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10).
 
@@ -178,9 +176,9 @@ Assim, como o proposto no Planejamento da Avaliação do Protótipo de Papel, o 
 
 **Tabela 7** - Cronograma da avaliação do Protótipo de Papel - Editar Conta e Submeter Problema.
 
-|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Luana Torres](https://github.com/luanatorress) |   Caio Mesquita     |       09:50       |     10:00      | 21/11/2023 | Faculdade do Gama |
+|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :------------------------------------------: | :-------------: | :-----------------: | :-------------: | :--------: | :---------------: |
+| [Luana Torres](https://github.com/luanatorress) |  Caio Mesquita  |        09:50        |      10:00      | 21/11/2023 | Faculdade do Gama |
 
 Fonte: [Luana Torres](https://github.com/luanatorress)
 
@@ -189,7 +187,7 @@ Fonte: [Luana Torres](https://github.com/luanatorress)
 #### 4.3 Atividades abordadas
 
 Foram escolhidas 2 tarefas para realizar como atividade durante o processo da entrevista com o usuário. As tarefas escolhidas foram as tarefas de "Editar Conta" e "Submeter Problema(Quick Submit)".
- 
+
 #### 4.4 Perfil do participante
 
 O participante selecionado se encaixa com o perfil de usuário definido no projeto. Ele é um estudante do curso Engenharia de Software com experiência média em tecnologia e é tecnófilo. Além disso, ele está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
@@ -206,13 +204,12 @@ Na tabela 8 é posível verificar as respostas obtidas pela entrevista.
 
 **Tabela 8** - Respostas obtidas durante a entrevista.
 
-| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
-| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
-| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto?                          | Sim      |
-| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Sim     |
-| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
-
+| Número da pergunta | Enunciado da pergunta                                                 | Resposta |
+| ------------------- | --------------------------------------------------------------------- | -------- |
+| 1                   | Com o prototipo de papel foi possivel explorar conceitos de design?   | Sim      |
+| 2                   | Foi observado alguma sugestão de melhoria para o proótipo proposto? | Sim      |
+| 3                   | Foi possivel identificar problemas de usabilidade preliminares?       | Sim      |
+| 4                   | Foi possivel identificar ideias principais de design?                 | Sim      |
 
 Fonte: [Luana Torres](https://github.com/luanatorress).
 
@@ -254,29 +251,71 @@ O usuário sugeriu a alteração do menu inicial de forma a incluir um ícone de
 
 #### 5.9 Sugestões de melhoria
 
-
-
 ### **Entrevista 6 (Kallyne)**
 
 #### 6.1 Objetivos e escopo da avaliação
 
+Realizar uma avaliação do protótipo de papel feito pela equipe, com o objetivo de identificar possíveis problemas de usabilidade, explorar conceitos de design, receber propostas de alternativas e coletar sugestões para seu aprimoramento.
+
 #### 6.2 Método de avaliação empregado
+
+Foi empregado o método da entrevista por permitir a coleta de dados a partir da percepção de um usuário real, assim como proposto no Planejamento da Avaliação do Protótipo de Papel.  Os dados da entrevista estão representados na tabela 9.
+
+<center>
+
+**Tabela 9** - Cronograma da avaliação do protótipo de papel.
+
+|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |           Local           |
+| :------------------------------------------: | :-------------: | :-----------------: | :-------------: | :--------: | :-----------------------: |
+| [Kallyne Macedo](https://github.com/kalipassos) | Júlia Gabriela |        10:15        |      10:19      | 21/11/2023 | Universidade de Brasília |
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos).
+
+</center>
 
 #### 6.3 Atividades abordadas
 
+A avaliação tratou da tarefa "Recuperação de login". O usuário foi instruído a realizar o fluxo que achasse apropriado para que pudesse recuperar seu login de acesso ao OnlineJudge. 
+
 #### 6.4 Perfil do participante
+
+A participante foi selecionada conforme sua compatibilidade com o perfil de usuário definido no projeto, pois possui perfil universitário (é estudante de Engenharia de Software), tecnófila e se encontra dentro da faixa etária do projeto (19 a 24 anos).
 
 #### 6.5 Problemas encontrados
 
+Nenhum problema de usabilidade ou na realização da tarefa foi encontrado. 
+
 #### 6.6 Sumário dos dados coletados
+
+<center>
+
+**Tabela 10** - Respostas obtidas durante a entrevista.
+
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta         |
+| ------------------- | ---------------------------------------------------------------------- | ---------------- |
+| 1                   | Com o protótipo de papel foi possível explorar conceitos de design?  | Sim              |
+| 2                   | Foi observado alguma sugestão de melhoria para o protótipo proposto? | Não             |
+| 3                   | Foi possivel identificar problemas de usabilidade preliminares?        | Não             |
+| 4                   | Foi possivel identificar ideias principais de design?                  | Não sei afirmar |
+
+Fonte: [Kallyne Macedo](https://github.com/kalipassos). 
+
+</center>
+
 
 #### 6.7 Análise e interpretação dos dados coletados
 
+A usuária entendeu a premissa da tarefa e demonstrou facilidade para realizá-la. Não necessitou de ajuda e não identificou problemas.
+
 #### 6.8 Feedback do usuário
+
+A usuária indicou que a interface está com navegabilidade simples e prática, adequada para a realização da tarefa, mas não soube identificar ideias principais de design no protótipo.
 
 #### 6.9 Sugestões de melhoria
 
+Não foram levantadas sugestões de melhoria. 
 
+[Link da gravação da entrevista](https://www.youtube.com)
 
 ### **Entrevista 7 (Henrique)**
 
@@ -290,9 +329,9 @@ De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo
 
 *Tabela 13* - Cronograma da avaliação do prototipo de papel.
 
-|                  Entrevistador                  |   Entrevistado(s)   | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :---------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Henrique Torres](https://github.com/heriqtorresl) | Henrique Torres |       14:00       |     14:10      | 22/11/2023 | Universidade de Brasília - FGA |
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |              Local              |
+| :---------------------------------------------: | :-------------: | :-----------------: | :-------------: | :--------: | :-----------------------------: |
+| [Henrique Torres](https://github.com/heriqtorresl) | Henrique Torres |        14:00        |      14:10      | 22/11/2023 | Universidade de Brasília - FGA |
 
 Fonte: [Henrique Torres](https://github.com/heriqtorresl)
 
@@ -318,12 +357,12 @@ Na tabela x é posível verificar as respostas obtidas pela entrevista.
 
 *Tabela 14* - Respostas obtidas durante a entrevista.
 
-| Número da pergunta | Enunciado da pergunta                                                                                            | Resposta |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- |
-| 1                  | Com o prototipo de papel foi possivel explorar conceitos de design?                            | Sim      |
-| 2                  | Foi observado alguma sugestão de melhoria para o proótipo proposto?                          | Não sei afirmar      |
-| 3                  | Foi possivel identificar problemas de usabilidade preliminares?                                | Não     |
-| 4                  | Foi possivel identificar ideias principais de design?                                  | Sim      |
+| Número da pergunta | Enunciado da pergunta                                                 | Resposta         |
+| ------------------- | --------------------------------------------------------------------- | ---------------- |
+| 1                   | Com o prototipo de papel foi possivel explorar conceitos de design?   | Sim              |
+| 2                   | Foi observado alguma sugestão de melhoria para o proótipo proposto? | Não sei afirmar |
+| 3                   | Foi possivel identificar problemas de usabilidade preliminares?       | Não             |
+| 4                   | Foi possivel identificar ideias principais de design?                 | Sim              |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl)
 
@@ -332,7 +371,6 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl)
 [Link da gravação da entrevista](https://www.youtube.com/embed/Ko1TC6WaK8w?si=iz45KE2xmQoIEfk7)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ko1TC6WaK8w?si=iz45KE2xmQoIEfk7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 #### 7.7 Análise e interpretação dos dados coletados
 
@@ -347,12 +385,14 @@ O entrevistado demonstrou satisfação com o protótipo de papel apresentado e n
 O usuário entrevistado não sugeriu nenhuma melhoria ao protótipo de papel.
 
 ## Referências Bibliográficas
+
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Hitórico de versão
 
-| Versão | Data       | Descrição                    | Autor(es)                                                                                         | Revisor(es)                                 |
-| ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 1.0    | 21/11/2023 | Criação da página  | [Eric Camargo](https://github.com/ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) | 
-| 1.1    | 22/11/2023 | Adicionando entrevista 2  | [Pablo Guilherme](https://github.com/PabloGJBS) | [Henrique Torres](https://github.com/henriqtorresl) | 
-| 1.2    | 22/11/2023 | Adicionando entrevista 4  | [Luana Torres](https://github.com/luanatorress) | [Eric Camargo](https://github.com/ericcs10)  | 
+| Versão | Data       | Descrição              | Autor(es)                                    | Revisor(es)                                      |
+| ------- | ---------- | ------------------------ | -------------------------------------------- | ------------------------------------------------ |
+| 1.0     | 21/11/2023 | Criação da página     | [Eric Camargo](https://github.com/ericcs10)     | [Henrique Torres](https://github.com/henriqtorresl) |
+| 1.1     | 22/11/2023 | Adicionando entrevista 2 | [Pablo Guilherme](https://github.com/PabloGJBS) | [Henrique Torres](https://github.com/henriqtorresl) |
+| 1.2     | 22/11/2023 | Adicionando entrevista 4 | [Luana Torres](https://github.com/luanatorress) | [Eric Camargo](https://github.com/ericcs10)         |
+| 1.3     | 22/11/2023 | Adicionando entrevista 6 | [Kallyne Macedo](https://github.com/kalipassos) | [Eric Camargo](https://github.com/ericcs10)         |
