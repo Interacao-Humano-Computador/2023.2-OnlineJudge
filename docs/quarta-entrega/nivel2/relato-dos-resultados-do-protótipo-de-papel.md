@@ -433,7 +433,7 @@ A usuária indicou que a interface está com navegabilidade simples e prática, 
 
 Não foram levantadas sugestões de melhoria.
 
-[Link da gravação da entrevista](https://www.youtube.com)
+[Link da gravação da entrevista](https://youtu.be/iWnNiiw4nnM)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iWnNiiw4nnM?si=7kUJioP3KJHFjUJ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

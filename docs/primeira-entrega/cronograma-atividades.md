@@ -212,4 +212,4 @@
 |   1.6   | 08/11/2023 |  Alteração responsáveis e cronograma executado Etapa 5  |                        [Kallyne Macedo](https://github.com/kalipassos)                        | [Luana Torres](https://github.com/luanatorress) |
 |   1.7   | 14/11/2023 | Alteração responsáveis e cronograma executado Etapa 6.1 |                        [Kallyne Macedo](https://github.com/kalipassos)                        | [Suzane Duarte](https://github.com/suzaneduarte) |
 |   1.8   | 15/11/2023 |            Correções de forma e de revisores            |                        [Kallyne Macedo](https://github.com/kalipassos)                        | [Suzane Duarte](https://github.com/suzaneduarte) |
-|   1.9   | 22/11/2023 |  Alteração responsáveis e cronograma executado Etapa 7  |                        [Kallyne Macedo](https://github.com/kalipassos)                        |                                              |
+|   1.9   | 22/11/2023 |  Alteração responsáveis e cronograma executado Etapa 7  |                        [Kallyne Macedo](https://github.com/kalipassos)                        | [Suzane Duarte](https://github.com/suzaneduarte) |
