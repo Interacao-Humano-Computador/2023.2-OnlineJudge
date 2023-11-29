@@ -322,19 +322,86 @@ O usuário sugeriu que o "System Contest" estivesse mais acessível. Ele sugeriu
 
 #### 7.1 Objetivos e escopo da avaliação
 
+A avaliação do Protótipo de Alta Fidelidade, por meio do Teste de Usabilidade, abrangeu duas atividades específicas: "Acessar o Past Constest" e "Editar Conta". Essa análise busca identificar eventuais questões relacionadas à usabilidade do Protótipo de Alta Fidelidade, ao mesmo tempo em que examina o design e assegura a conformidade com as tarefas propostas.
+
 #### 7.2 Método de avaliação
+
+Como proposto no planejamento da avaliação, o método empregado foi o método de observação, mais especificamente, o método de teste de usabilidade. Este método permite avaliar, a partir da experiência do usuário com a interface do protótipo criado, os critérios definidos para o projeto e o avanço alcançado no seu atingimento, conforme definição nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/terceira-entrega/metas-usabilidade/#metas-a-serem-alcancadas).Os dados da entrevista estão representados na tabela 19.
+
+<center>
+
+**Tabela 13** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Acessar a página de minhas submissões.
+
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Henrique Torres](https://github.com/henriqtorresl) | João Pedro Gomes  |       13:00       |     13:10     | 29/11/2023 | Faculdade do Gama |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl)
+
+</center>
 
 #### 7.3 Perfil do participante
 
+O participante que foi entrevistado está de acordo com o perfil de usuário pré estabelecido no projeto. 
+É estudante da FGA com experiência média em tecnologia e está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
+
 #### 7.4 Problemas encontrados
+
+Não foram encontrados problemas durante a avaliação.
 
 #### 7.5 Sumário dos dados coletados
 
+Na tabela 20 e 21 é posível verificar as respostas obtidas durante a avaliação e após.
+
+<center>
+
+**Tabela 20** - Respostas obtidas durante a avaliação.
+
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------------------- | ------------------------ |
+| 1                  | Foi possível realizar a tarefa?                                                    |        Sim, foi possível.                   |
+| 2                  | Foi identificado algum problema de usabilidade?                                    |        Não                                  |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? |        Facilitou, estava tudo bem claro!    |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 |        Não.                                 |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      |        Não.                                 |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               |        Não possuo sugestões de melhoria.    |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl).
+
+</center>
+
+<center>
+
+**Tabela 21** - Respostas obtidas após análise do avaliador.
+
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa   |
+| ------------------ | ---------------------------------------------------------------------- | -------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       |  Com relação a navegação, nenhum.   |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 |  Em média, 15 segundos por tarefa.  |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     |  Não.                               |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             |  Não.                               |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? |  Não.                               |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              |  Não houveram dúvidas.              |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl).
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### 7.6 Análise e interpretação dos dados coletados
+
+A partir da avaliação, foi possível perceber que o fluxo realizado no protótipo (acessar a página de minhas submissões) está claro e de fácil usabilidade.
 
 #### 7.7 Feedback do usuário
 
+O usuário sentiu facilidade e conforto ao navegar no protótipo de alta fidelidade.
+
 #### 7.8 Sugestões de melhoria
+
+O usuário entrevistado não sugeriu nenhuma melhoria.
 
 ## Bibliografia
 
@@ -348,4 +415,5 @@ O usuário sugeriu que o "System Contest" estivesse mais acessível. Ele sugeriu
 | 1.1    | 29/11/2023 | Adicionando Avaliação 4       |  [Luana Torres](https://github.com/luanatorress)  | [Ester Lino](https://github.com/esteerlino)|
 | 1.2    | 29/11/2023 | Adicionando Avaliação 2       |  [Pablo Guilherme](https://github.com/PabloGJBS)  | [Ester Lino](https://github.com/esteerlino)|
 | 1.3    | 29/11/2023 | Adicionando Avaliação 5       |  [Ester Lino](https://github.com/esteerlino)  | [Kallyne Macedo](https://github.com/kalipassos)|
+| 1.4    | 29/11/2023 | Adicionando Avaliação 7       |  [Henrique Torres](https://github.com/henriqtorresl)  | |
 
