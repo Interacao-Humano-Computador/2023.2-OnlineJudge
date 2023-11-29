@@ -2,9 +2,9 @@
 
 Esse artefato tem como objetivo registrar as descobertas obtidas ao avaliar o protótipo de alta fidelidade. Serão abordados os tópicos referidos no planejamento dos relatos dos resultados.
 
-## Entrevistas
+## Testes de Usabilidade
 
-### **Entrevista 1 (Suzane)**
+### **Teste de Usabilidade 1 (Suzane)**
 
 #### 1.1 Objetivos e escopo da avaliação
 
@@ -22,7 +22,7 @@ Esse artefato tem como objetivo registrar as descobertas obtidas ao avaliar o pr
 
 #### 1.8 Sugestões de melhoria
 
-### **Entrevista 2 (Pablo)**
+### **Teste de Usabilidade 2 (Pablo)**
 
 #### 2.1 Objetivos e escopo da avaliação
 
@@ -77,7 +77,7 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 <center>
 
-**Tabela 12** - Respostas obtidas após análise do avaliador.
+**Tabela 6** - Respostas obtidas após análise do avaliador.
 
 | Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa   |
 | ------------------ | ---------------------------------------------------------------------- | -------------------------- |
@@ -112,7 +112,7 @@ O usuário deu um feedback positivo em relação a organização das paginas e d
 
 Não existiu nenhuma proposta de melhoria para o protótipo.
 
-### **Entrevista 3 (Eric)**
+### **Teste de Usabilidade 3 (Eric)**
 
 #### 3.1 Objetivos e escopo da avaliação
 
@@ -130,7 +130,7 @@ Não existiu nenhuma proposta de melhoria para o protótipo.
 
 #### 3.8 Sugestões de melhoria
 
-### **Entrevista 4 (Luana)**
+### **Teste de Usabilidade 4 (Luana)**
 
 #### 4.1 Objetivos e escopo da avaliação
 
@@ -216,25 +216,91 @@ O usuário demonstrou facilidade para compreender a interface e as tarefas reali
 
 O usuário não apresentou sugestão de melhoria por acreditar não ser necessário.
 
-### **Entrevista 5 (Ester)**
+### **Teste de Usabilidade 5 (Ester)**
 
 #### 5.1 Objetivos e escopo da avaliação
 
+O Teste de Usabilidade realizado para o Protótipo de Alta Fidelidade avaliou duas atrefas, "Acessar o Past Constest" e "Editar Conta". Esta avaliação tem como objetivo detectar possíveis problemas de usabiliade do Protótiopo de Alta Fidelidade, além de avaliar o design e verificar a conformidade com as tarefas elaboradas.
+
 #### 5.2 Método de avaliação
+
+Como proposto no [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel3/planejamento-avaliacao-prototipo-alta-fidelidade/), o método empregado foi o método de observação, mais especificamente, o método de teste de usabilidade. Este método permite avaliar, a partir da experiência do usuário com a interface do protótipo criado, os critérios definidos para o projeto e o avanço alcançado no seu atingimento, conforme definição nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/terceira-entrega/metas-usabilidade/#metas-a-serem-alcancadas). O planejamneto do teste de usabilidade está apresentado na tabela 13.
+
+<center>
+
+**Tabela 13** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Acessar o Past Contest e Editar Conta.
+
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Ester Lino](https://github.com/esteerlino) | Emivalto da Costa  |       11:40       |     12:10     | 29/11/2023 | Faculdade do Gama |
+
+Fonte: [Ester Lino](https://github.com/esteerlino)
+
+</center>
 
 #### 5.3 Perfil do participante
 
+O participante selecionado se encaixa com o perfil de usuário definido no projeto. Ele é estudante do curso Engenharia de Software com experiência média em tecnologia e é tecnófila. Além disso, está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
+
 #### 5.4 Problemas encontrados
+
+Durante a avaliação, o usuário teve dificuldade em encontrar a página "System Contest", a qual contém o link de acesso à página da tarefa proposta("Past Contest).
 
 #### 5.5 Sumário dos dados coletados
 
+Na tabela 14 é posível verificar as respostas obtidas durante o teste de usabilidade. E na tabela 15 estão apresentadas a análise do avaliador sobre a sessão realizada.
+
+<center>
+
+**Tabela 14** - Respostas obtidas durante a avaliação.
+
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------------------- | ------------------------ |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim                      |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                      |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                      |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                      |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Não                      |
+
+Fonte: [Ester Lino](https://github.com/esteerlino).
+
+</center>
+
+<center>
+
+**Tabela 15** - Respostas obtidas após análise do avaliador.
+
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa   |
+| ------------------ | ---------------------------------------------------------------------- | -------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | Para acessar o Past Conteste, o usuário cometeu 2 erros. Já para realizar a tarefa de Editar Conta, nenhum erro foi cometido.   |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | Acessar Past Contest: 52 segundos e Editar Conta: 24 segundos. |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Sim. Foi preciso esclarecer que o header continham links de acessos às páginas.                  |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Sim. O participante teve dificuldade de encontrar a página solicitada na primeira tarefa.                |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | O participante teve algumas dificuldades, mas não demonstrou insatisfação.                    |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                    |
+
+Fonte: [Ester Lino](https://github.com/esteerlino).
+
+</center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=itI5F5zmLk8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/itI5F5zmLk8?si=aSdvnL-eb9tSL6Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### 5.6 Análise e interpretação dos dados coletados
+
+A partir dos dados coletados, é possível observar que o protótipo de alta fidelidade é intuitivo e cumpre sua função de avaliar a eficácia do desgin. A partir das respostas obtidas, observa-se que o design pode melhorar sua eficiência, dispondo todos os links importantes no header, a fim de facilitar a busca do usuário.
 
 #### 5.7 Feedback do usuário
 
+O usuário conseguiu compreender e realizar as tarefas solicitadas, mas para ele é necessário mudar a rota da página "Past Contest".
+
 #### 5.8 Sugestões de melhoria
 
-### **Entrevista 6 (Kallyne)**
+O usuário sugeriu que o "System Contest" estivesse mais acessível. Ele sugeriu que no haeder fosse adicionado mais um link de acesso rápido para a página, porque no atual design ela se encontra dentro de outro link ("Others") o que dificulta o acesso.
+
+### **Teste de Usabilidade 6 (Kallyne)**
 
 #### 6.1 Objetivos e escopo da avaliação
 
@@ -252,7 +318,7 @@ O usuário não apresentou sugestão de melhoria por acreditar não ser necessá
 
 #### 6.8 Sugestões de melhoria
 
-### **Entrevista 7 (Henrique)**
+### **Teste de Usabilidade 7 (Henrique)**
 
 #### 7.1 Objetivos e escopo da avaliação
 
@@ -280,4 +346,6 @@ O usuário não apresentou sugestão de melhoria por acreditar não ser necessá
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | --------------------------------------------------- |
 | 1.0    | 29/11/2023 | Criação da página        |  [Ester Lino](https://github.com/esteerlino)  | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.1    | 29/11/2023 | Adicionando Avaliação 4       |  [Luana Torres](https://github.com/luanatorress)  | [Ester Lino](https://github.com/esteerlino)|
+| 1.2    | 29/11/2023 | Adicionando Avaliação 2       |  [Pablo Guilherme](https://github.com/PabloGJBS)  | [Ester Lino](https://github.com/esteerlino)|
+| 1.3    | 29/11/2023 | Adicionando Avaliação 5       |  [Ester Lino](https://github.com/esteerlino)  | [Kallyne Macedo](https://github.com/kalipassos)|
 
