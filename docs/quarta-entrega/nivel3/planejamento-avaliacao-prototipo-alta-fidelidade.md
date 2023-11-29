@@ -142,9 +142,11 @@ Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹<
 
 ## Resultado do Teste Piloto
 
-A seguir está disponível o vídeo do Teste de Piloto, realizado dia 23/11/2023 às 12:00 e contou com a presença de 2 integrantes da equipe: [Ester Lino](https://github.com/esteerlino) - câmera; [Kallyne Macedo](https://github.com/kalipassos) - entrevistadora.
+A seguir está disponível o vídeo do Teste de Piloto, realizado dia 29/11/2023 e contou com a presença de 2 integrantes da equipe: [Ester Lino](https://github.com/esteerlino) e [Luana Torres](https://github.com/luanatorress).
 
-[Link da gravação do Teste Piloto]()
+[Link da gravação do Teste Piloto](https://www.youtube.com/watch?v=bqWuNlgDEvs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bqWuNlgDEvs?si=aSdvnL-eb9tSL6Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Referências Bibliográficas
 
