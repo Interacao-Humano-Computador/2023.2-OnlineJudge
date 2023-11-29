@@ -284,9 +284,9 @@ Fonte: [Ester Lino](https://github.com/esteerlino).
 
 </center>
 
-[Link da gravação da entrevista](https://www.youtube.com/watch?v=itI5F5zmLk8)
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=bidzhrtmMng)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/itI5F5zmLk8?si=aSdvnL-eb9tSL6Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bidzhrtmMng?si=aSdvnL-eb9tSL6Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### 5.6 Análise e interpretação dos dados coletados
 
