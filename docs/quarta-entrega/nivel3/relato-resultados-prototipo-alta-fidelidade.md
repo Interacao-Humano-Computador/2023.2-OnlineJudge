@@ -116,19 +116,89 @@ Não existiu nenhuma proposta de melhoria para o protótipo.
 
 #### 3.1 Objetivos e escopo da avaliação
 
+A análise do modelo de alta fidelidade envolveu a execução de duas atividades específicas: "Quick Submit" e "Contact Us". O propósito subjacente a essa avaliação consistiu em identificar potenciais desafios, avaliar a eficácia do design e assegurar a conformidade com as tarefas delineadas.
+
 #### 3.2 Método de avaliação
+
+Conforme delineado no plano de avaliação, a abordagem adotada consistiu no método de observação, mais precisamente, no método de teste de usabilidade. Este método viabiliza a avaliação dos critérios estabelecidos para o projeto, bem como a análise do progresso alcançado na sua consecução, com base na interação do usuário com a interface do protótipo desenvolvido. Os parâmetros para o projeto e os avanços obtidos em sua realização foram definidos nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/terceira-entrega/metas-usabilidade/#metas-a-serem-alcancadas). Os dados provenientes das entrevistas estão apresentados na tabela a seguir
+
+<center>
+
+**Tabela 7** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Eric Camargo](https://github.com/Ericcs10) |  André  |       13:45       |     13:50     | 29/11/2023 | Faculdade do Gama |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10)
+
+</center>
 
 #### 3.3 Perfil do participante
 
+O indivíduo escolhido para participar está alinhado com o perfil de usuário estipulado no projeto. Trata-se de um estudante do curso de Engenharia de Software, apresentando uma experiência tecnológica moderada e uma afinidade notável com a tecnologia. Adicionalmente, sua faixa etária está compreendida dentro dos limites estabelecidos pelo perfil de usuário, situando-se entre 19 e 24 anos
+
 #### 3.4 Problemas encontrados
+
+Ao longo da avaliação, o participante não manifestou qualquer dificuldade ou problema ao conduzir o teste de usabilidade e executar as tarefas designadas.
 
 #### 3.5 Sumário dos dados coletados
 
+Na tabela 8 e 9 é posível verificar as respostas obtidas durante a avaliação e após.
+
+<center>
+
+**Tabela 8** - Respostas obtidas durante a avaliação.
+
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------------------- | ------------------------ |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim todas as tarefas foram realizadas de maneira clara                 |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou            |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                 |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                  |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | O usuário achou interessante que as cores fossem reconsideradas                   |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10).
+
+</center>
+
+<center>
+
+**Tabela 9** - Respostas obtidas após análise do avaliador.
+
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa   |
+| ------------------ | ---------------------------------------------------------------------- | -------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | 0   |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | cerca de 1 minuto cada tarefa |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não                  |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não                 |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                     |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                    |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10).
+
+</center>
+
+<center>
+
+[Link da gravação da entrevista](https://youtu.be/4wz3twrxB3w)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4wz3twrxB3w?si=IjQWdr0xokHiAwo6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 #### 3.6 Análise e interpretação dos dados coletados
+
+A partir dos dados coletados durante a entrevista foi possivel verificar que o usuário não possuiu nenhuma dificuldade na utilização do sistema proposto.
 
 #### 3.7 Feedback do usuário
 
+O usuário deu um feedback positivo em relação a organização das paginas e do funcionamento esperado do protótipo afirmou que era bem claro e objetivo e que acreditava que este era o propósito do produto.
+
 #### 3.8 Sugestões de melhoria
+
+Não existiu nenhuma proposta de melhoria para a usabilidade do protótipo, apenas nas cores escolhidas
 
 ### **Teste de Usabilidade 4 (Luana)**
 
