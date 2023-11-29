@@ -302,7 +302,7 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 <center>
 
-**Tabela 1** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Procurar um Problema e Editar Conta.
+**Tabela 10** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Procurar um Problema e Editar Conta.
 
 |                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
 | :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
@@ -468,6 +468,7 @@ A avaliação do protótipo de alta fidelidade abrangeu a  realização de 2 tar
 
 Como proposto no planejamento da avaliação, o método empregado foi o método de observação, mais especificamente, o método de teste de usabilidade. Este método permite avaliar, a partir da experiência do usuário com a interface do protótipo criado, os critérios definidos para o projeto e o avanço alcançado no seu atingimento, conforme definição nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/terceira-entrega/metas-usabilidade/#metas-a-serem-alcancadas). Os dados da entrevista estão representados na tabela 16.
 
+<center>
 
 **Tabela 16** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Recuperação de login e editar conta.
 
@@ -477,6 +478,7 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos)
 
+</center>
 
 #### 6.3 Perfil do participante
 
@@ -521,6 +523,8 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 | 6                   | As dúvidas do usuário foram esclarecidas?                                | Sim                                                         |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos).
+
+</center>
 
 #### 6.6 Análise e interpretação dos dados coletados
 
