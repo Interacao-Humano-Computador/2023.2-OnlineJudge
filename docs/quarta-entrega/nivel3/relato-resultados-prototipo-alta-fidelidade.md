@@ -8,19 +8,111 @@ Esse artefato tem como objetivo registrar as descobertas obtidas ao avaliar o pr
 
 #### 1.1 Objetivos e escopo da avaliação
 
+Conforme consta no planejamento, entre as principais finalidades desta avaliação é possível mencionar a busca por problemas de usabilidade referente à interface proposta para o site do Online Judge, avaliar a eficácia do design, e coletar sugestões de melhorias relativas às tarefas de "Procurar um problema" e "Submeter um problema".
+
 #### 1.2 Método de avaliação
+
+Como proposto no planejamento da avaliação, o método empregado foi o método de observação, mais especificamente, o método de teste de usabilidade. Logo, de acordo com Barbosa e Silva, este método foi projetado para avaliar o desempenho dos usuários em determinada tarefa. Dessa forma, ao definir o Online Judge para realizar a avaliação, o perfil dos participantes e as duas atividades que eles iriam efetuar, cada membro realizou as atividades presencialmente conforme consta o cronograma realizado apresentados na tabela 1.
+
+<center>
+
+**Tabela 1** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+
+|                  Entrevistador                   |    Entrevistado(s)    | Horário de Início | Horário de Fim |    Data    |          Local          |
+| :----------------------------------------------: | :-------------------: | :---------------: | :------------: | :--------: | :---------------------: |
+| [Suzane Duarte](https://github.com/suzaneduarte) | Ana Carolina Monteiro |       13:00       |     13:30      | 29/11/2023 | Faculdade do Gama (FGA) |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
+
+</center>
 
 #### 1.3 Perfil do participante
 
+O perfil dos participantes do teste era de estudantes que já conheciam sites de juiz online para submissão de problemas de programação, de forma que foram recrutados sete pessoas ao total, dentre os quais cinco homens e duas mulheres.
+
 #### 1.4 Problemas encontrados
+
+Durante a avaliação, o usuário não apresentou dificuldades ou problemas para realizar as tarefas definidas para o teste de usabilidade.
 
 #### 1.5 Sumário dos dados coletados
 
+A seguir, é apresentado as tabelas 2 e 3 para que seja possível verificar as respostas obtidas durante o teste, e após o usuário finalizá-lo.
+
+<center>
+
+**Tabela 2** - Respostas obtidas durante o teste.
+
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa                                                         |
+| ------------------ | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim, pois foi possível chegar ao final do que foi solicitado.                    |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                                                                              |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou, devido as formas distintas utilizadas para diferenciar as atividades. |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                                                                              |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                                                                              |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Sim, uma alteração da cor da barra da lista de procurando problema.              |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
+
+<center>
+
+**Tabela 3** - Respostas obtidas após análise do avaliador.
+
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa                                                                           |
+| ------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | 0                                                                                                  |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | Para a tarefa de "Procurar um problema", 1m14. Já para a atividade de "Submeter um problema", 40s. |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não                                                                                                |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não                                                                                                |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                                                                                                |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                                                                                                |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
+
+<center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=jZ2TIIrFelc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZ11QOdbLo4?si=uCVPeaHV3EgrOPHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 #### 1.6 Análise e interpretação dos dados coletados
+
+A partir dos dados coletados, como o tempo para conclusão da tarefa e o número de erros cometidos durante o teste, foi possível concluir que o protótipo de alta fidelidade apresenta clareza referente a usabilidade do usuário com o sistema a partir das experiências.
 
 #### 1.7 Feedback do usuário
 
+O usuário apresentou satisfação ao realizar todas as tarefas, porém, quando questionada especificamente sobre melhorias na forma de representação da tabela contendo a lista de problemas, ela apresenta como feedback uma alteração nas cores para representar as informações dispostas.
+
 #### 1.8 Sugestões de melhoria
+
+O usuário apresentou como sugestão de melhoria alterar a cor vermelha da barra apresentada na Imagem 1 a seguir:
+
+<center>
+
+**Imagem 1** - Versão do protótipo de alta fidelidade apresentado ao usuário
+
+![](/assets/images/procurar-problema-barra.png)
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
+
+</center>
+
+De forma que, a apresentação da porcentagem de pessoas que resolveu em formato de barra pudesse ser mantida, mas alterando a cor vermelha pois a cor pode gerar um pouco de confusão para quem olha rapidamente. Dessa forma, a cor da barra foi alterada para uma cor mais neutra, e também outros itens da tabela foram modificados para que fosse possível ornar melhor com a alteração realizada através do feedback do usuário, conforme pode ser visto na Imagem 2 a seguir.
+
+<center>
+
+**Imagem 2** - Versão do protótipo de alta fidelidade com alterações após feedbacks do usuário
+
+![](/assets/images/procurar-problema-barraalterada.png)
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
+
+</center>
 
 ### **Teste de Usabilidade 2 (Pablo)**
 
@@ -36,9 +128,9 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 **Tabela 4** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
 
-|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :------------------------------------------: | :-------------: | :-----------------: | :-------------: | :--------: | :---------------: |
-| [Pablo Guilherme](https://github.com/PabloGJBS) | Gabriel Mariano |        13:40        |      13:45      | 29/11/2023 | Faculdade do Gama |
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Pablo Guilherme](https://github.com/PabloGJBS) | Gabriel Mariano |       13:40       |     13:45      | 29/11/2023 | Faculdade do Gama |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)
 
@@ -54,20 +146,20 @@ Durante a avaliação, o usuário não apresentou nenhuma dificuldade ou problem
 
 #### 2.5 Sumário dos dados coletados
 
-Na tabela 5 e 6 é posível verificar as respostas obtidas durante a avaliação e após.
+Nas tabelas 5 e 6 é posível verificar as respostas obtidas durante a avaliação e após.
 
 <center>
 
 **Tabela 5** - Respostas obtidas durante a avaliação.
 
-| Número da pergunta | Enunciado da pergunta                                                                  | Resposta e Justificativa                               |
-| ------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 1                   | Foi possível realizar a tarefa?                                                       | Sim todas as tarefas foram realizadas de maneira clara |
-| 2                   | Foi identificado algum problema de usabilidade?                                       | Não                                                   |
-| 3                   | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                                              |
-| 4                   | Foi experienciada alguma dificuldade de entendimento do protótipo?                    | Não                                                   |
-| 5                   | Foi experienciada alguma dificuldade de realização da tarefa?                        | Não                                                   |
-| 6                   | Foi observada alguma sugestão de melhoria para o protótipo proposto?                 | Não                                                   |
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa                               |
+| ------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim todas as tarefas foram realizadas de maneira clara |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                                                    |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                                              |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                                                    |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                                                    |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Não                                                    |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
@@ -77,14 +169,14 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 **Tabela 6** - Respostas obtidas após análise do avaliador.
 
-| Número da pergunta | Enunciado da pergunta                                                     | Resposta e Justificativa      |
-| ------------------- | ------------------------------------------------------------------------- | ----------------------------- |
-| 1                   | Quantos erros o usuário cometeu?                                         | 0                             |
-| 2                   | Quanto tempo foi necessário para a execução da tarefa?                 | cerca de 1 minuto cada tarefa |
-| 3                   | O usuário precisou de ajuda externa ou do sistema?                       | Não                          |
-| 4                   | O usuário enfrentou algum problema para realizar a tarefa?               | Não                          |
-| 5                   | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                          |
-| 6                   | As dúvidas do usuário foram esclarecidas?                               | Sim                           |
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa      |
+| ------------------ | ---------------------------------------------------------------------- | ----------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | 0                             |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | cerca de 1 minuto cada tarefa |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não                           |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não                           |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                           |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                           |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
@@ -114,19 +206,89 @@ Não existiu nenhuma proposta de melhoria para o protótipo.
 
 #### 3.1 Objetivos e escopo da avaliação
 
+A análise do modelo de alta fidelidade envolveu a execução de duas atividades específicas: "Quick Submit" e "Contact Us". O propósito subjacente a essa avaliação consistiu em identificar potenciais desafios, avaliar a eficácia do design e assegurar a conformidade com as tarefas delineadas.
+
 #### 3.2 Método de avaliação
+
+Conforme delineado no plano de avaliação, a abordagem adotada consistiu no método de observação, mais precisamente, no método de teste de usabilidade. Este método viabiliza a avaliação dos critérios estabelecidos para o projeto, bem como a análise do progresso alcançado na sua consecução, com base na interação do usuário com a interface do protótipo desenvolvido. Os parâmetros para o projeto e os avanços obtidos em sua realização foram definidos nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/terceira-entrega/metas-usabilidade/#metas-a-serem-alcancadas). Os dados provenientes das entrevistas estão apresentados na tabela a seguir
+
+<center>
+
+**Tabela 7** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+
+|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :-----------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Eric Camargo](https://github.com/Ericcs10) |      André      |       13:45       |     13:50      | 29/11/2023 | Faculdade do Gama |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10)
+
+</center>
 
 #### 3.3 Perfil do participante
 
+O indivíduo escolhido para participar está alinhado com o perfil de usuário estipulado no projeto. Trata-se de um estudante do curso de Engenharia de Software, apresentando uma experiência tecnológica moderada e uma afinidade notável com a tecnologia. Adicionalmente, sua faixa etária está compreendida dentro dos limites estabelecidos pelo perfil de usuário, situando-se entre 19 e 24 anos
+
 #### 3.4 Problemas encontrados
+
+Ao longo da avaliação, o participante não manifestou qualquer dificuldade ou problema ao conduzir o teste de usabilidade e executar as tarefas designadas.
 
 #### 3.5 Sumário dos dados coletados
 
+Na tabela 8 e 9 é posível verificar as respostas obtidas durante a avaliação e após.
+
+<center>
+
+**Tabela 8** - Respostas obtidas durante a avaliação.
+
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa                                        |
+| ------------------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim todas as tarefas foram realizadas de maneira clara          |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                                                             |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                                                       |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                                                             |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                                                             |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | O usuário achou interessante que as cores fossem reconsideradas |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10).
+
+</center>
+
+<center>
+
+**Tabela 9** - Respostas obtidas após análise do avaliador.
+
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa      |
+| ------------------ | ---------------------------------------------------------------------- | ----------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | 0                             |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | cerca de 1 minuto cada tarefa |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não                           |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não                           |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                           |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                           |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10).
+
+</center>
+
+<center>
+
+[Link da gravação da entrevista](https://youtu.be/4wz3twrxB3w)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4wz3twrxB3w?si=IjQWdr0xokHiAwo6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 #### 3.6 Análise e interpretação dos dados coletados
+
+A partir dos dados coletados durante a entrevista foi possivel verificar que o usuário não possuiu nenhuma dificuldade na utilização do sistema proposto.
 
 #### 3.7 Feedback do usuário
 
+O usuário deu um feedback positivo em relação a organização das paginas e do funcionamento esperado do protótipo afirmou que era bem claro e objetivo e que acreditava que este era o propósito do produto.
+
 #### 3.8 Sugestões de melhoria
+
+Não existiu nenhuma proposta de melhoria para a usabilidade do protótipo, apenas nas cores escolhidas
 
 ### **Teste de Usabilidade 4 (Luana)**
 
@@ -140,11 +302,11 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 <center>
 
-**Tabela 10** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+**Tabela 1** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Procurar um Problema e Editar Conta.
 
-|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :------------------------------------------: | :-------------: | :-----------------: | :-------------: | :--------: | :---------------: |
-| [Luana Torres](https://github.com/luanatorress) | Isadora Maciel |        11:00        |      11:30      | 29/11/2023 | Faculdade do Gama |
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Luana Torres](https://github.com/luanatorress) | Isadora Maciel  |       11:00       |     11:30      | 29/11/2023 | Faculdade do Gama |
 
 Fonte: [Luana Torres](https://github.com/luanatorress)
 
@@ -166,14 +328,14 @@ Na tabela 11 e 12 é posível verificar as respostas obtidas durante a avaliaç�
 
 **Tabela 11** - Respostas obtidas durante a avaliação.
 
-| Número da pergunta | Enunciado da pergunta                                                                  | Resposta e Justificativa |
-| ------------------- | -------------------------------------------------------------------------------------- | ------------------------ |
-| 1                   | Foi possível realizar a tarefa?                                                       | Sim                      |
-| 2                   | Foi identificado algum problema de usabilidade?                                       | Não                     |
-| 3                   | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                |
-| 4                   | Foi experienciada alguma dificuldade de entendimento do protótipo?                    | Não                     |
-| 5                   | Foi experienciada alguma dificuldade de realização da tarefa?                        | Não                     |
-| 6                   | Foi observada alguma sugestão de melhoria para o protótipo proposto?                 | Não                     |
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------------------- | ------------------------ |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim                      |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                      |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                      |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                      |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Não                      |
 
 Fonte: [Luana Torres](https://github.com/luanatorress).
 
@@ -183,14 +345,14 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 
 **Tabela 12** - Respostas obtidas após análise do avaliador.
 
-| Número da pergunta | Enunciado da pergunta                                                     | Resposta e Justificativa |
-| ------------------- | ------------------------------------------------------------------------- | ------------------------ |
-| 1                   | Quantos erros o usuário cometeu?                                         | 0                        |
-| 2                   | Quanto tempo foi necessário para a execução da tarefa?                 | 40 segundos              |
-| 3                   | O usuário precisou de ajuda externa ou do sistema?                       | Não                     |
-| 4                   | O usuário enfrentou algum problema para realizar a tarefa?               | Não                     |
-| 5                   | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                     |
-| 6                   | As dúvidas do usuário foram esclarecidas?                               | Sim                      |
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------- | ------------------------ |
+| 1                  | Quantos erros o usuário cometeu?                                       | 0                        |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | 40 segundos              |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não                      |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não                      |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                      |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                      |
 
 Fonte: [Luana Torres](https://github.com/luanatorress).
 
@@ -226,9 +388,9 @@ Como proposto no [Planejamento da Avaliação do Protótipo de Alta Fidelidade](
 
 **Tabela 13** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Acessar o Past Contest e Editar Conta.
 
-|              Entrevistador              |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :--------------------------------------: | :---------------: | :-----------------: | :-------------: | :--------: | :---------------: |
-| [Ester Lino](https://github.com/esteerlino) | Emivalto da Costa |        11:40        |      12:10      | 29/11/2023 | Faculdade do Gama |
+|                Entrevistador                |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :-----------------------------------------: | :---------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Ester Lino](https://github.com/esteerlino) | Emivalto da Costa |       11:40       |     12:10      | 29/11/2023 | Faculdade do Gama |
 
 Fonte: [Ester Lino](https://github.com/esteerlino)
 
@@ -267,14 +429,14 @@ Fonte: [Ester Lino](https://github.com/esteerlino).
 
 **Tabela 15** - Respostas obtidas após análise do avaliador.
 
-| Número da pergunta | Enunciado da pergunta                                                     | Resposta e Justificativa                                                                                                        |
-| ------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 1                   | Quantos erros o usuário cometeu?                                         | Para acessar o Past Conteste, o usuário cometeu 2 erros. Já para realizar a tarefa de Editar Conta, nenhum erro foi cometido. |
-| 2                   | Quanto tempo foi necessário para a execução da tarefa?                 | Acessar Past Contest: 52 segundos e Editar Conta: 24 segundos.                                                                  |
-| 3                   | O usuário precisou de ajuda externa ou do sistema?                       | Sim. Foi preciso esclarecer que o header continham links de acessos às páginas.                                               |
-| 4                   | O usuário enfrentou algum problema para realizar a tarefa?               | Sim. O participante teve dificuldade de encontrar a página solicitada na primeira tarefa.                                      |
-| 5                   | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | O participante teve algumas dificuldades, mas não demonstrou insatisfação.                                                   |
-| 6                   | As dúvidas do usuário foram esclarecidas?                               | Sim                                                                                                                             |
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa                                                                                                      |
+| ------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | Para acessar o Past Conteste, o usuário cometeu 2 erros. Já para realizar a tarefa de Editar Conta, nenhum erro foi cometido. |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | Acessar Past Contest: 52 segundos e Editar Conta: 24 segundos.                                                                |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Sim. Foi preciso esclarecer que o header continham links de acessos às páginas.                                               |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Sim. O participante teve dificuldade de encontrar a página solicitada na primeira tarefa.                                     |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | O participante teve algumas dificuldades, mas não demonstrou insatisfação.                                                    |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                                                                                                                           |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -352,11 +514,11 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 | Número da pergunta | Enunciado da pergunta                                                     | Resposta e Justificativa                                    |
 | ------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | 1                   | Quantos erros o usuário cometeu?                                         | Nenhum erro foi cometido.                                   |
-| 2                   | Quanto tempo foi necessário para a execução da tarefa?                 | Recuperar login: 37 segundos / Editar Conta: 59 segundos. |
+| 2                   | Quanto tempo foi necessário para a execução da tarefa?                   | Recuperar login: 37 segundos / Editar Conta: 59 segundos. |
 | 3                   | O usuário precisou de ajuda externa ou do sistema?                       | Não.                                                       |
 | 4                   | O usuário enfrentou algum problema para realizar a tarefa?               | Não.                                                       |
-| 5                   | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | O participante não demonstrou insatisfação.             |
-| 6                   | As dúvidas do usuário foram esclarecidas?                               | Sim                                                         |
+| 5                   | O usuário demonstrou insatisfação ou teve dificuldade com a interface?   | O participante não demonstrou insatisfação.             |
+| 6                   | As dúvidas do usuário foram esclarecidas?                                | Sim                                                         |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 
@@ -373,9 +535,9 @@ A participante destacou, de maneira positiva e identificando como um fator facil
 A participante não sugeriu nenhuma melhoria na disposição da interface, mas pontuou o armazenamento das alterações em memória do protótipo como algo positivo a se acrescentar.
 
 
+[Link da gravação da entrevista](https://youtu.be/jLxI51pckNU)
 
-[Link da gravação da entrevista](https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jLxI51pckNU?si=FgPP4xTLzW1n2-pa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### **Teste de Usabilidade 7 (Henrique)**
 
@@ -391,9 +553,9 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 **Tabela 19** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Acessar a página de minhas submissões.
 
-|                  Entrevistador                  |  Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
-| :----------------------------------------------: | :---------------: | :-----------------: | :-------------: | :--------: | :---------------: |
-| [Henrique Torres](https://github.com/henriqtorresl) | João Pedro Gomes |        13:00        |      13:10      | 29/11/2023 | Faculdade do Gama |
+|                    Entrevistador                    | Entrevistado(s)  | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :-------------------------------------------------: | :--------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Henrique Torres](https://github.com/henriqtorresl) | João Pedro Gomes |       13:00       |     13:10      | 29/11/2023 | Faculdade do Gama |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl)
 
@@ -410,20 +572,20 @@ Não foram encontrados problemas durante a avaliação.
 
 #### 7.5 Sumário dos dados coletados
 
-Na tabela 20 e 21 é posível verificar as respostas obtidas durante a avaliação e após.
+Na tabela 20 e 21 é possível verificar as respostas obtidas durante a avaliação e após.
 
 <center>
 
 **Tabela 20** - Respostas obtidas durante a avaliação.
 
-| Número da pergunta | Enunciado da pergunta                                                                  | Resposta e Justificativa            |
-| ------------------- | -------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1                   | Foi possível realizar a tarefa?                                                       | Sim, foi possível.                 |
-| 2                   | Foi identificado algum problema de usabilidade?                                       | Não                                |
-| 3                   | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou, estava tudo bem claro!   |
-| 4                   | Foi experienciada alguma dificuldade de entendimento do protótipo?                    | Não.                               |
-| 5                   | Foi experienciada alguma dificuldade de realização da tarefa?                        | Não.                               |
-| 6                   | Foi observada alguma sugestão de melhoria para o protótipo proposto?                 | Não possuo sugestões de melhoria. |
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa          |
+| ------------------ | ---------------------------------------------------------------------------------- | --------------------------------- |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim, foi possível.                |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                               |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou, estava tudo bem claro! |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não.                              |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não.                              |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Não possuo sugestões de melhoria. |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
@@ -433,14 +595,14 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
 **Tabela 21** - Respostas obtidas após análise do avaliador.
 
-| Número da pergunta | Enunciado da pergunta                                                     | Resposta e Justificativa             |
-| ------------------- | ------------------------------------------------------------------------- | ------------------------------------ |
-| 1                   | Quantos erros o usuário cometeu?                                         | Com relação a navegação, nenhum. |
-| 2                   | Quanto tempo foi necessário para a execução da tarefa?                 | Em média, 15 segundos por tarefa.   |
-| 3                   | O usuário precisou de ajuda externa ou do sistema?                       | Não.                                |
-| 4                   | O usuário enfrentou algum problema para realizar a tarefa?               | Não.                                |
-| 5                   | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não.                                |
-| 6                   | As dúvidas do usuário foram esclarecidas?                               | Não houveram dúvidas.              |
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa          |
+| ------------------ | ---------------------------------------------------------------------- | --------------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | Com relação a navegação, nenhum.  |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | Em média, 15 segundos por tarefa. |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não.                              |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não.                              |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não.                              |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Não houveram dúvidas.             |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
@@ -464,15 +626,16 @@ O usuário entrevistado não sugeriu nenhuma melhoria.
 
 ## Bibliografia
 
-> `<a id="REF1" href="#anchor_1">`1.`</a>` BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Hitórico de versão
 
-| Versão | Data       | Descrição                                         | Autor(es)                                        | Revisor(es)                                  |
-| ------- | ---------- | --------------------------------------------------- | ------------------------------------------------ | -------------------------------------------- |
-| 1.0     | 29/11/2023 | Criação da página                                | [Ester Lino](https://github.com/esteerlino)         | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.1     | 29/11/2023 | Adicionando Avaliação 4                           | [Luana Torres](https://github.com/luanatorress)     | [Ester Lino](https://github.com/esteerlino)     |
-| 1.2     | 29/11/2023 | Adicionando Avaliação 2                           | [Pablo Guilherme](https://github.com/PabloGJBS)     | [Ester Lino](https://github.com/esteerlino)     |
-| 1.3     | 29/11/2023 | Adicionando Avaliação 5                           | [Ester Lino](https://github.com/esteerlino)         | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.4     | 29/11/2023 | Adicionando Avaliação 7                           | [Henrique Torres](https://github.com/henriqtorresl) | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.5     | 29/11/2023 | Adicionando Avaliação 6 e Revisões de gramática | [Kallyne Macedo](https://github.com/kalipassos)     | [Ester Lino](https://github.com/esteerlino)     |
+| Versão | Data       | Descrição               | Autor(es)                                           | Revisor(es)                                         |
+| ------ | ---------- | ----------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| 1.0    | 29/11/2023 | Criação da página       | [Ester Lino](https://github.com/esteerlino)         | [Kallyne Macedo](https://github.com/kalipassos)     |
+| 1.1    | 29/11/2023 | Adicionando Avaliação 4 | [Luana Torres](https://github.com/luanatorress)     | [Ester Lino](https://github.com/esteerlino)         |
+| 1.2    | 29/11/2023 | Adicionando Avaliação 2 | [Pablo Guilherme](https://github.com/PabloGJBS)     | [Ester Lino](https://github.com/esteerlino)         |
+| 1.3    | 29/11/2023 | Adicionando Avaliação 5 | [Ester Lino](https://github.com/esteerlino)         | [Kallyne Macedo](https://github.com/kalipassos)     |
+| 1.4    | 29/11/2023 | Adicionando Avaliação 7 | [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte)    |
+| 1.5    | 29/11/2023 | Adicionando Avaliação 1 | [Suzane Duarte](https://github.com/suzaneduarte)    | [Henrique Torres](https://github.com/henriqtorresl) |
+| 1.6    | 29/11/2023 | Adicionando Avaliação 6 | [Kallyne Macedo](https://github.com/kalipassos)    | [Suzane Duarte](https://github.com/suzaneduarte) |
