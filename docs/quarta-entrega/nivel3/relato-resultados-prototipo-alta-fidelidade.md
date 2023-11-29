@@ -8,7 +8,23 @@ Esse artefato tem como objetivo registrar as descobertas obtidas ao avaliar o pr
 
 #### 1.1 Objetivos e escopo da avaliação
 
+Conforme consta no planejamento, entre as principais finalidades desta avaliação é possível mencionar a busca por problemas de usabilidade referente à interface proposta para o site do Online Judge, avaliar a eficácia do design, e coletar sugestões de melhorias relativas às tarefas de "Procurar um problema" e "Editar conta".
+
 #### 1.2 Método de avaliação
+
+Como proposto no planejamento da avaliação, o método empregado foi o método de observação, mais especificamente, o método de teste de usabilidade.
+
+De acordo com Barbosa e Silva, este método foi projetado para avaliar o desempenho dos usuários em determinada tarefa. Dessa forma, ao definir o Online Judge para realizar a avaliação, o perfil dos participantes e as atividades que eles iriam realizar cada membro realizou as atividades presencialmente conforme consta o cronograma realizado apresentados na tabela 1.
+
+<center>
+
+**Tabela 1** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+
+|                  Entrevistador                   |    Entrevistado(s)    | Horário de Início | Horário de Fim |    Data    |          Local          |
+| :----------------------------------------------: | :-------------------: | :---------------: | :------------: | :--------: | :---------------------: |
+| [Suzane Duarte](https://github.com/suzaneduarte) | Ana Carolina Monteiro |       13:00       |     13:30      | 29/11/2023 | Faculdade do Gama (FGA) |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
 
 #### 1.3 Perfil do participante
 
@@ -70,16 +86,15 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 <center>
 
-**Tabela 10** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+**Tabela 1** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Procurar um Problema e Editar Conta.
 
 |                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
 | :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
-| [Luana Torres](https://github.com/luanatorress) |  Isadora Maciel  |       11:00       |     11:30     | 29/11/2023 | Faculdade do Gama |
+| [Luana Torres](https://github.com/luanatorress) | Isadora Maciel  |       11:00       |     11:30      | 29/11/2023 | Faculdade do Gama |
 
 Fonte: [Luana Torres](https://github.com/luanatorress)
 
 </center>
-
 
 #### 4.3 Perfil do participante
 
@@ -99,12 +114,12 @@ Na tabela 11 e 12 é posível verificar as respostas obtidas durante a avaliaç�
 
 | Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa |
 | ------------------ | ---------------------------------------------------------------------------------- | ------------------------ |
-| 1                  | Foi possível realizar a tarefa?                                                    | Sim                 |
-| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                 |
-| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou            |
-| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                 |
-| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                  |
-| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Não                   |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim                      |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                      |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                      |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                      |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Não                      |
 
 Fonte: [Luana Torres](https://github.com/luanatorress).
 
@@ -116,14 +131,14 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 
 **Tabela 12** - Respostas obtidas após análise do avaliador.
 
-| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa   |
-| ------------------ | ---------------------------------------------------------------------- | -------------------------- |
-| 1                  | Quantos erros o usuário cometeu?                                       | 0   |
-| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | 40 segundos |
-| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não                  |
-| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não                 |
-| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                     |
-| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                    |
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------- | ------------------------ |
+| 1                  | Quantos erros o usuário cometeu?                                       | 0                        |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | 40 segundos              |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não                      |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não                      |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                      |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                      |
 
 Fonte: [Luana Torres](https://github.com/luanatorress).
 
@@ -205,8 +220,7 @@ O usuário não apresentou sugestão de melhoria por acreditar não ser necessá
 
 ## Hitórico de versão
 
-| Versão | Data       | Descrição                | Autor(es)                                        | Revisor(es)                                         |
-| ------ | ---------- | ------------------------ | ------------------------------------------------ | --------------------------------------------------- |
-| 1.0    | 29/11/2023 | Criação da página        |  [Ester Lino](https://github.com/esteerlino)  | [Kallyne Macedo](https://github.com/kalipassos) |
-| 1.1    | 29/11/2023 | Adicionando Avaliação 4       |  [Luana Torres](https://github.com/luanatorress)  | [Ester Lino](https://github.com/esteerlino)|
-
+| Versão | Data       | Descrição               | Autor(es)                                       | Revisor(es)                                     |
+| ------ | ---------- | ----------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 29/11/2023 | Criação da página       | [Ester Lino](https://github.com/esteerlino)     | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.1    | 29/11/2023 | Adicionando Avaliação 4 | [Luana Torres](https://github.com/luanatorress) | [Ester Lino](https://github.com/esteerlino)     |
