@@ -26,19 +26,91 @@ Esse artefato tem como objetivo registrar as descobertas obtidas ao avaliar o pr
 
 #### 2.1 Objetivos e escopo da avaliação
 
+A avalição do protótipo de alta fidelidade contou com 2 tarefas, "Browse Problems", "Quick Submit" e "My submissions". Esta avaliação tem como objetivo detectar possíveis problemas, avaliar a eficácia do design, assim como verificar a conformidade com as tarefas elaboradas.
+
 #### 2.2 Método de avaliação
+
+Como proposto no planejamento da avaliação, o método empregado foi o método de observação, mais especificamente, o método de teste de usabilidade. Este método permite avaliar, a partir da experiência do usuário com a interface do protótipo criado, os critérios definidos para o projeto e o avanço alcançado no seu atingimento, conforme definição nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/terceira-entrega/metas-usabilidade/#metas-a-serem-alcancadas). Os dados da entrevista estão representados na tabela 4.
+
+
+<center>
+
+**Tabela 4** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
+| [Pablo Guilherme](https://github.com/PabloGJBS) |  Gabriel Mariano  |       13:40       |     13:45     | 29/11/2023 | Faculdade do Gama |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)
+
+</center>
+
 
 #### 2.3 Perfil do participante
 
+O participante selecionado se encaixa com o perfil de usuário definido no projeto. Ele é estudante do curso Engenharia de Software com experiência média em tecnologia e é tecnófila. Além disso, está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
+
 #### 2.4 Problemas encontrados
+
+Durante a avaliação, o usuário não apresentou nenhuma dificuldade ou problema para realizar o teste de usabilidade e as tarefas definidas.
 
 #### 2.5 Sumário dos dados coletados
 
+Na tabela 5 e 6 é posível verificar as respostas obtidas durante a avaliação e após.
+
+<center>
+
+**Tabela 5** - Respostas obtidas durante a avaliação.
+
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------------------- | ------------------------ |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim todas as tarefas foram realizadas de maneira clara                 |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou            |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                 |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                  |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Não                   |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
+
+</center>
+
+<center>
+
+**Tabela 12** - Respostas obtidas após análise do avaliador.
+
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa   |
+| ------------------ | ---------------------------------------------------------------------- | -------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | 0   |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | cerca de 1 minuto cada tarefa |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não                  |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não                 |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                     |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                    |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
+
+</center>
+
+<center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=jZ2TIIrFelc)
+
+<iframe width="1185" height="480" src="https://www.youtube.com/embed/jZ2TIIrFelc" title="Entrevista prototipo de alta fidelidade com Gabriel Mariano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 #### 2.6 Análise e interpretação dos dados coletados
+
+A partir dos dados coletados durante a entrevista foi possivel verificar que o usuário não possuiu nenhuma dificuldade na utilização do sistema proposto.
 
 #### 2.7 Feedback do usuário
 
+O usuário deu um feedback positivo em relação a organização das paginas e do funcionamento esperado do protótipo afirmou que era bem claro e objetivo e que acreditava que este era o propósito do produto.
+
 #### 2.8 Sugestões de melhoria
+
+Não existiu nenhuma proposta de melhoria para o protótipo.
 
 ### **Entrevista 3 (Eric)**
 
@@ -83,7 +155,7 @@ Fonte: [Luana Torres](https://github.com/luanatorress)
 
 #### 4.3 Perfil do participante
 
-OA participante selecionada se encaixa com o perfil de usuário definido no projeto. Ela é estudante do curso Engenharia de Energia com experiência média em tecnologia e é tecnófila. Além disso, está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
+A participante selecionada se encaixa com o perfil de usuário definido no projeto. Ela é estudante do curso Engenharia de Energia com experiência média em tecnologia e é tecnófila. Além disso, está entre a faixa de idade definida pelo perfil de usuário (19 a 24 anos).
 
 #### 4.4 Problemas encontrados
 
@@ -112,8 +184,6 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 
 <center>
 
-<center>
-
 **Tabela 12** - Respostas obtidas após análise do avaliador.
 
 | Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa   |
@@ -132,6 +202,7 @@ Fonte: [Luana Torres](https://github.com/luanatorress).
 [Link da gravação da entrevista](https://www.youtube.com/watch?v=itI5F5zmLk8)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/itI5F5zmLk8?si=aSdvnL-eb9tSL6Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 #### 4.6 Análise e interpretação dos dados coletados
 
