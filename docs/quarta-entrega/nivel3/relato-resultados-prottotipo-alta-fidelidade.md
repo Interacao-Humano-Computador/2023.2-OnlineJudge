@@ -138,4 +138,4 @@ Esse artefato tem como objetivo registrar as descobertas obtidas ao avaliar o pr
 
 | Versão | Data       | Descrição                | Autor(es)                                        | Revisor(es)                                         |
 | ------ | ---------- | ------------------------ | ------------------------------------------------ | --------------------------------------------------- |
-| 1.0    | 21/11/2023 | Criação da página        |  [Ester Lino](https://github.com/esteerlino)  | [Kallyne Macedo](https://github.com/kalipassos) |
+| 1.0    | 29/11/2023 | Criação da página        |  [Ester Lino](https://github.com/esteerlino)  | [Kallyne Macedo](https://github.com/kalipassos) |
