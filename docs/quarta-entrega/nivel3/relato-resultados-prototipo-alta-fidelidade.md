@@ -8,13 +8,11 @@ Esse artefato tem como objetivo registrar as descobertas obtidas ao avaliar o pr
 
 #### 1.1 Objetivos e escopo da avaliação
 
-Conforme consta no planejamento, entre as principais finalidades desta avaliação é possível mencionar a busca por problemas de usabilidade referente à interface proposta para o site do Online Judge, avaliar a eficácia do design, e coletar sugestões de melhorias relativas às tarefas de "Procurar um problema" e "Editar conta".
+Conforme consta no planejamento, entre as principais finalidades desta avaliação é possível mencionar a busca por problemas de usabilidade referente à interface proposta para o site do Online Judge, avaliar a eficácia do design, e coletar sugestões de melhorias relativas às tarefas de "Procurar um problema" e "Submeter um problema".
 
 #### 1.2 Método de avaliação
 
-Como proposto no planejamento da avaliação, o método empregado foi o método de observação, mais especificamente, o método de teste de usabilidade.
-
-De acordo com Barbosa e Silva, este método foi projetado para avaliar o desempenho dos usuários em determinada tarefa. Dessa forma, ao definir o Online Judge para realizar a avaliação, o perfil dos participantes e as atividades que eles iriam realizar cada membro realizou as atividades presencialmente conforme consta o cronograma realizado apresentados na tabela 1.
+Como proposto no planejamento da avaliação, o método empregado foi o método de observação, mais especificamente, o método de teste de usabilidade. Logo, de acordo com Barbosa e Silva, este método foi projetado para avaliar o desempenho dos usuários em determinada tarefa. Dessa forma, ao definir o Online Judge para realizar a avaliação, o perfil dos participantes e as duas atividades que eles iriam efetuar, cada membro realizou as atividades presencialmente conforme consta o cronograma realizado apresentados na tabela 1.
 
 <center>
 
@@ -26,17 +24,95 @@ De acordo com Barbosa e Silva, este método foi projetado para avaliar o desempe
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
 
+</center>
+
 #### 1.3 Perfil do participante
+
+O perfil dos participantes do teste era de estudantes que já conheciam sites de juiz online para submissão de problemas de programação, de forma que foram recrutados sete pessoas ao total, dentre os quais cinco homens e duas mulheres.
 
 #### 1.4 Problemas encontrados
 
+Durante a avaliação, o usuário não apresentou dificuldades ou problemas para realizar as tarefas definidas para o teste de usabilidade.
+
 #### 1.5 Sumário dos dados coletados
+
+A seguir, é apresentado as tabelas 2 e 3 para que seja possível verificar as respostas obtidas durante o teste, e após o usuário finalizá-lo.
+
+<center>
+
+**Tabela 2** - Respostas obtidas durante o teste.
+
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa                                                         |
+| ------------------ | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim, pois foi possível chegar ao final do que foi solicitado.                    |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                                                                              |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou, devido as formas distintas utilizadas para diferenciar as atividades. |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                                                                              |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                                                                              |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Sim, uma alteração da cor da barra da lista de procurando problema.              |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
+
+<center>
+
+**Tabela 3** - Respostas obtidas após análise do avaliador.
+
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa                                                                           |
+| ------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | 0                                                                                                  |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | Para a tarefa de "Procurar um problema", 1m14. Já para a atividade de "Submeter um problema", 40s. |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não                                                                                                |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não                                                                                                |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | Não                                                                                                |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                                                                                                |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte).
+
+</center>
+
+<center>
+
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=jZ2TIIrFelc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZ11QOdbLo4?si=uCVPeaHV3EgrOPHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 #### 1.6 Análise e interpretação dos dados coletados
 
+A partir dos dados coletados, como o tempo para conclusão da tarefa e o número de erros cometidos durante o teste, foi possível concluir que o protótipo de alta fidelidade apresenta clareza referente a usabilidade do usuário com o sistema a partir das experiências.
+
 #### 1.7 Feedback do usuário
 
+O usuário apresentou satisfação ao realizar todas as tarefas, porém, quando questionada especificamente sobre melhorias na forma de representação da tabela contendo a lista de problemas, ela apresenta como feedback uma alteração nas cores para representar as informações dispostas.
+
 #### 1.8 Sugestões de melhoria
+
+O usuário apresentou como sugestão de melhoria alterar a cor vermelha da barra apresentada na Imagem 1 a seguir:
+
+<center>
+
+**Imagem 1** - Versão do protótipo de alta fidelidade apresentado ao usuário
+
+![](/assets/images/procurar-problema-barra.png)
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
+
+</center>
+
+De forma que, a apresentação da porcentagem de pessoas que resolveu em formato de barra pudesse ser mantida, mas alterando a cor vermelha pois a cor pode gerar um pouco de confusão para quem olha rapidamente. Dessa forma, a cor da barra foi alterada para uma cor mais neutra, e também outros itens da tabela foram modificados para que fosse possível ornar melhor com a alteração realizada através do feedback do usuário, conforme pode ser visto na Imagem 2 a seguir.
+
+<center>
+
+**Imagem 2** - Versão do protótipo de alta fidelidade com alterações após feedbacks do usuário
+
+![](/assets/images/procurar-problema-barraalterada.png)
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
+
+</center>
 
 ### **Teste de Usabilidade 2 (Pablo)**
 
@@ -70,7 +146,7 @@ Durante a avaliação, o usuário não apresentou nenhuma dificuldade ou problem
 
 #### 2.5 Sumário dos dados coletados
 
-Na tabela 5 e 6 é posível verificar as respostas obtidas durante a avaliação e após.
+Nas tabelas 5 e 6 é posível verificar as respostas obtidas durante a avaliação e após.
 
 <center>
 
