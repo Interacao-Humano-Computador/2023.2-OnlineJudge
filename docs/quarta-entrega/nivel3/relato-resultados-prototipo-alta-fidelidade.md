@@ -16,7 +16,7 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 <center>
 
-**Tabela 1** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+**Tabela 1** - Cronograma da avaliação do Protótipo de Alta Fidelidade - "Procurar um problema" e "Submeter um problema".
 
 |                  Entrevistador                   |    Entrevistado(s)    | Horário de Início | Horário de Fim |    Data    |          Local          |
 | :----------------------------------------------: | :-------------------: | :---------------: | :------------: | :--------: | :---------------------: |
@@ -118,7 +118,7 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
 
 #### 2.1 Objetivos e escopo da avaliação
 
-A avalição do protótipo de alta fidelidade contou com 2 tarefas, "Browse Problems", "Quick Submit" e "My submissions". Esta avaliação tem como objetivo detectar possíveis problemas, avaliar a eficácia do design, assim como verificar a conformidade com as tarefas elaboradas.
+A avalição do protótipo de alta fidelidade contou com três tarefas, "Browse Problems", "Quick Submit" e "My submissions". Esta avaliação tem como objetivo detectar possíveis problemas, avaliar a eficácia do design, assim como verificar a conformidade com as tarefas elaboradas.
 
 #### 2.2 Método de avaliação
 
@@ -126,7 +126,7 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 <center>
 
-**Tabela 4** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+**Tabela 4** - Cronograma da avaliação do Protótipo de Alta Fidelidade - "Browse Problems", "Quick Submit" e "My submissions"
 
 |                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
 | :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
@@ -214,7 +214,7 @@ Conforme delineado no plano de avaliação, a abordagem adotada consistiu no mé
 
 <center>
 
-**Tabela 7** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Editar Conta e Submeter Problema.
+**Tabela 7** - Cronograma da avaliação do Protótipo de Alta Fidelidade - "Quick Submit" e "Contact Us"
 
 |                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
 | :-----------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
@@ -302,7 +302,7 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 <center>
 
-**Tabela 10** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Procurar um Problema e Editar Conta.
+**Tabela 10** - Cronograma da avaliação do Protótipo de Alta Fidelidade - "Editar Conta" e "Submeter Problema".
 
 |                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |       Local       |
 | :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :---------------: |
@@ -412,14 +412,14 @@ Na tabela 14 é possível verificar as respostas obtidas durante o teste de usab
 
 **Tabela 14** - Respostas obtidas durante a avaliação.
 
-| Número da pergunta | Enunciado da pergunta                                                                  | Resposta e Justificativa |
-| ------------------- | -------------------------------------------------------------------------------------- | ------------------------ |
-| 1                   | Foi possível realizar a tarefa?                                                       | Sim                      |
-| 2                   | Foi identificado algum problema de usabilidade?                                       | Não                     |
-| 3                   | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                |
-| 4                   | Foi experienciada alguma dificuldade de entendimento do protótipo?                    | Não                     |
-| 5                   | Foi experienciada alguma dificuldade de realização da tarefa?                        | Não                     |
-| 6                   | Foi observada alguma sugestão de melhoria para o protótipo proposto?                 | Não                     |
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------------------- | ------------------------ |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim                      |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                      |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                      |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                      |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Não                      |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -462,7 +462,7 @@ O usuário sugeriu que o "System Contest" estivesse mais acessível. Ele sugeriu
 
 #### 6.1 Objetivos e escopo da avaliação
 
-A avaliação do protótipo de alta fidelidade abrangeu a  realização de 2 tarefas, sendo elas "Recuperar login" e "Editar Conta", objetivando detectar possíveis problemas de usabilidade, avaliar a eficácia do design proposto e verificar a conformidade com as tarefas elaboradas na respectiva análise, de forma a avaliar a qualidade do protótipo como um todo.
+A avaliação do protótipo de alta fidelidade abrangeu a realização de 2 tarefas, sendo elas "Recuperar login" e "Editar Conta", objetivando detectar possíveis problemas de usabilidade, avaliar a eficácia do design proposto e verificar a conformidade com as tarefas elaboradas na respectiva análise, de forma a avaliar a qualidade do protótipo como um todo.
 
 #### 6.2 Método de avaliação
 
@@ -472,9 +472,9 @@ Como proposto no planejamento da avaliação, o método empregado foi o método 
 
 **Tabela 16** - Cronograma da avaliação do Protótipo de Alta Fidelidade - Recuperação de login e editar conta.
 
-|                Entrevistador                | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |  Local  |
-| :------------------------------------------: | :-------------: | :-----------------: | :-------------: | :--------: | :------: |
-| [Kallyne Macedo](https://github.com/kalipassos) |  Luísa Musse  |        16:00        |      16:15      | 29/11/2023 | Gama, DF |
+|                  Entrevistador                  | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |  Local   |
+| :---------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :------: |
+| [Kallyne Macedo](https://github.com/kalipassos) |   Luísa Musse   |       16:00       |     16:15      | 29/11/2023 | Gama, DF |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos)
 
@@ -496,14 +496,14 @@ Na tabela 17 é possível verificar as respostas obtidas durante o teste de usab
 
 **Tabela 17** - Respostas obtidas durante a avaliação.
 
-| Número da pergunta | Enunciado da pergunta                                                                  | Resposta e Justificativa |
-| ------------------- | -------------------------------------------------------------------------------------- | ------------------------ |
-| 1                   | Foi possível realizar a tarefa?                                                       | Sim                      |
-| 2                   | Foi identificado algum problema de usabilidade?                                       | Não                     |
-| 3                   | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                |
-| 4                   | Foi experienciada alguma dificuldade de entendimento do protótipo?                    | Não                     |
-| 5                   | Foi experienciada alguma dificuldade de realização da tarefa?                        | Não                     |
-| 6                   | Foi observada alguma sugestão de melhoria para o protótipo proposto?                 | Não                     |
+| Número da pergunta | Enunciado da pergunta                                                              | Resposta e Justificativa |
+| ------------------ | ---------------------------------------------------------------------------------- | ------------------------ |
+| 1                  | Foi possível realizar a tarefa?                                                    | Sim                      |
+| 2                  | Foi identificado algum problema de usabilidade?                                    | Não                      |
+| 3                  | A disposição dos elementos na tela facilitou ou dificultou a realização da tarefa? | Facilitou                |
+| 4                  | Foi experienciada alguma dificuldade de entendimento do protótipo?                 | Não                      |
+| 5                  | Foi experienciada alguma dificuldade de realização da tarefa?                      | Não                      |
+| 6                  | Foi observada alguma sugestão de melhoria para o protótipo proposto?               | Não                      |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 
@@ -513,18 +513,22 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 
 **Tabela 18** - Respostas obtidas após análise do avaliador.
 
-| Número da pergunta | Enunciado da pergunta                                                     | Resposta e Justificativa                                    |
-| ------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 1                   | Quantos erros o usuário cometeu?                                         | Nenhum erro foi cometido.                                   |
-| 2                   | Quanto tempo foi necessário para a execução da tarefa?                   | Recuperar login: 37 segundos / Editar Conta: 59 segundos. |
-| 3                   | O usuário precisou de ajuda externa ou do sistema?                       | Não.                                                       |
-| 4                   | O usuário enfrentou algum problema para realizar a tarefa?               | Não.                                                       |
-| 5                   | O usuário demonstrou insatisfação ou teve dificuldade com a interface?   | O participante não demonstrou insatisfação.             |
-| 6                   | As dúvidas do usuário foram esclarecidas?                                | Sim                                                         |
+| Número da pergunta | Enunciado da pergunta                                                  | Resposta e Justificativa                                  |
+| ------------------ | ---------------------------------------------------------------------- | --------------------------------------------------------- |
+| 1                  | Quantos erros o usuário cometeu?                                       | Nenhum erro foi cometido.                                 |
+| 2                  | Quanto tempo foi necessário para a execução da tarefa?                 | Recuperar login: 37 segundos / Editar Conta: 59 segundos. |
+| 3                  | O usuário precisou de ajuda externa ou do sistema?                     | Não.                                                      |
+| 4                  | O usuário enfrentou algum problema para realizar a tarefa?             | Não.                                                      |
+| 5                  | O usuário demonstrou insatisfação ou teve dificuldade com a interface? | O participante não demonstrou insatisfação.               |
+| 6                  | As dúvidas do usuário foram esclarecidas?                              | Sim                                                       |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 
 </center>
+
+[Link da gravação da entrevista](https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### 6.6 Análise e interpretação dos dados coletados
 
@@ -532,12 +536,11 @@ A partir dos dados coletados, é possível observar que o protótipo de alta fid
 
 #### 6.7 Feedback do usuário
 
-A participante destacou, de maneira positiva e identificando como um fator facilitador da navegação na interface, a conformidade do protótipo com as convenções gerais de design, como a padronização do botão de login no topo direito da tela. Além disso, a participante explorou as páginas e buscou verificar se as alterações que fez no protótipo eram salvas em memória. Após notar que não eram, não mostrou insatisfação. Por fim, pontuou que a interface está acessível e é fácil de localizar as funções desejadas. 
+A participante destacou, de maneira positiva e identificando como um fator facilitador da navegação na interface, a conformidade do protótipo com as convenções gerais de design, como a padronização do botão de login no topo direito da tela. Além disso, a participante explorou as páginas e buscou verificar se as alterações que fez no protótipo eram salvas em memória. Após notar que não eram, não mostrou insatisfação. Por fim, pontuou que a interface está acessível e é fácil de localizar as funções desejadas.
 
 #### 6.8 Sugestões de melhoria
 
 A participante não sugeriu nenhuma melhoria na disposição da interface, mas pontuou o armazenamento das alterações em memória do protótipo como algo positivo a se acrescentar.
-
 
 [Link da gravação da entrevista](https://youtu.be/jLxI51pckNU)
 
@@ -547,7 +550,7 @@ A participante não sugeriu nenhuma melhoria na disposição da interface, mas p
 
 #### 7.1 Objetivos e escopo da avaliação
 
-A avaliação do Protótipo de Alta Fidelidade, por meio do Teste de Usabilidade, abrangeu duas atividades específicas: "Acessar o Past Constest" e "Editar Conta". Essa análise busca identificar eventuais questões relacionadas à usabilidade do Protótipo de Alta Fidelidade, ao mesmo tempo em que examina o design e assegura a conformidade com as tarefas propostas.
+A avaliação do Protótipo de Alta Fidelidade, por meio do Teste de Usabilidade, abrangeu duas atividades específicas: "Acessar submissões" e "Editar Conta". Essa análise busca identificar eventuais questões relacionadas à usabilidade do Protótipo de Alta Fidelidade, ao mesmo tempo em que examina o design e assegura a conformidade com as tarefas propostas.
 
 #### 7.2 Método de avaliação
 
@@ -612,10 +615,6 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
 </center>
 
-[Link da gravação da entrevista](https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 #### 7.6 Análise e interpretação dos dados coletados
 
 A partir da avaliação, foi possível perceber que o fluxo realizado no protótipo (acessar a página de minhas submissões) está claro e de fácil usabilidade.
@@ -634,12 +633,13 @@ O usuário entrevistado não sugeriu nenhuma melhoria.
 
 ## Hitórico de versão
 
-| Versão | Data       | Descrição               | Autor(es)                                           | Revisor(es)                                         |
-| ------ | ---------- | ----------------------- | --------------------------------------------------- | --------------------------------------------------- |
-| 1.0    | 29/11/2023 | Criação da página       | [Ester Lino](https://github.com/esteerlino)         | [Kallyne Macedo](https://github.com/kalipassos)     |
-| 1.1    | 29/11/2023 | Adicionando Avaliação 4 | [Luana Torres](https://github.com/luanatorress)     | [Ester Lino](https://github.com/esteerlino)         |
-| 1.2    | 29/11/2023 | Adicionando Avaliação 2 | [Pablo Guilherme](https://github.com/PabloGJBS)     | [Ester Lino](https://github.com/esteerlino)         |
-| 1.3    | 29/11/2023 | Adicionando Avaliação 5 | [Ester Lino](https://github.com/esteerlino)         | [Kallyne Macedo](https://github.com/kalipassos)     |
-| 1.4    | 29/11/2023 | Adicionando Avaliação 7 | [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte)    |
-| 1.5    | 29/11/2023 | Adicionando Avaliação 1 | [Suzane Duarte](https://github.com/suzaneduarte)    | [Henrique Torres](https://github.com/henriqtorresl) |
-| 1.6    | 29/11/2023 | Adicionando Avaliação 6 | [Kallyne Macedo](https://github.com/kalipassos)    | [Suzane Duarte](https://github.com/suzaneduarte) |
+| Versão | Data       | Descrição                      | Autor(es)                                           | Revisor(es)                                                  |
+| ------ | ---------- | ------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
+| 1.0    | 29/11/2023 | Criação da página              | [Ester Lino](https://github.com/esteerlino)         | [Kallyne Macedo](https://github.com/kalipassos)              |
+| 1.1    | 29/11/2023 | Adicionando Avaliação 4        | [Luana Torres](https://github.com/luanatorress)     | [Ester Lino](https://github.com/esteerlino)                  |
+| 1.2    | 29/11/2023 | Adicionando Avaliação 2        | [Pablo Guilherme](https://github.com/PabloGJBS)     | [Ester Lino](https://github.com/esteerlino)                  |
+| 1.3    | 29/11/2023 | Adicionando Avaliação 5        | [Ester Lino](https://github.com/esteerlino)         | [Kallyne Macedo](https://github.com/kalipassos)              |
+| 1.4    | 29/11/2023 | Adicionando Avaliação 7        | [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte)             |
+| 1.5    | 29/11/2023 | Adicionando Avaliação 1        | [Suzane Duarte](https://github.com/suzaneduarte)    | [Henrique Torres](https://github.com/henriqtorresl)          |
+| 1.6    | 29/11/2023 | Adicionando Avaliação 6        | [Kallyne Macedo](https://github.com/kalipassos)     | [Suzane Duarte](https://github.com/suzaneduarte)             |
+| 2.0    | 29/11/2023 | Realizando ajustes no artefato | [Suzane Duarte](https://github.com/suzaneduarte)    | [Kallyne Macedo](https://github.com/kalipassos)suzaneduarte) |
