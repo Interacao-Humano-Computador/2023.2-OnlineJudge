@@ -642,4 +642,4 @@ O usuário entrevistado não sugeriu nenhuma melhoria.
 | 1.4    | 29/11/2023 | Adicionando Avaliação 7        | [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte)             |
 | 1.5    | 29/11/2023 | Adicionando Avaliação 1        | [Suzane Duarte](https://github.com/suzaneduarte)    | [Henrique Torres](https://github.com/henriqtorresl)          |
 | 1.6    | 29/11/2023 | Adicionando Avaliação 6        | [Kallyne Macedo](https://github.com/kalipassos)     | [Suzane Duarte](https://github.com/suzaneduarte)             |
-| 2.0    | 29/11/2023 | Realizando ajustes no artefato | [Suzane Duarte](https://github.com/suzaneduarte)    | [Kallyne Macedo](https://github.com/kalipassos)suzaneduarte) |
+| 2.0    | 29/11/2023 | Realizando ajustes no artefato | [Suzane Duarte](https://github.com/suzaneduarte)    | [Kallyne Macedo](https://github.com/kalipassos) |
