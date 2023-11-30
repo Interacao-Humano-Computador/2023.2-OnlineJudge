@@ -96,7 +96,7 @@ O usuário apresentou como sugestão de melhoria alterar a cor vermelha da barra
 
 **Imagem 1** - Versão do protótipo de alta fidelidade apresentado ao usuário
 
-![](/assets/images/procurar-problema-barra.png)
+![Imagem 1](../../../assets/images/procurar-problema-barra.png)
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
 
@@ -108,7 +108,7 @@ De forma que, a apresentação da porcentagem de pessoas que resolveu em formato
 
 **Imagem 2** - Versão do protótipo de alta fidelidade com alterações após feedbacks do usuário
 
-![](/assets/images/procurar-problema-barraalterada.png)
+![Imagem 2](../../../assets/images/procurar-problema-barraalterada.png)
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte)
 
