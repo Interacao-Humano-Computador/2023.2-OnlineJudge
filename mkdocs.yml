@@ -101,7 +101,17 @@ nav:
               - Verificação do relato dos resultados do StoryBoard e da Análise de Tarefas: verificacao/grupo_8/etapa_5/verificacao-relato-dos-resultados-storyboard-e-analise.md
 
       - Verificação do próprio grupo (grupo 7):
-          - Planejamento da verificação: verificacao/grupo_7/planejamento-verificacao.md
+            - Planejamento da verificação: verificacao/grupo_7/planejamento-verificacao.md
+            - Etapa 3:
+                - Verificação do planejamento da avaliação da análise de tarefas: verificacao/grupo_7/etapa_3/verificacao-planejamento-da-avaliacao-da-analise-de-tarefas.md
+                - Verificação do planejamento de avaliação do StoryBoard: verificacao/grupo_7/etapa_3/verificacao-planejamento-de-avaliacao-do-storyboard.md
+                - Verificação do planejamento do relato dos resultados na avaliação do StoryBoard: verificacao/grupo_7/etapa_3/verificacao-planejamento-relato-dos-resultados-na-aval-storyboard.md
+                - Verificação do planejamento do relato dos resultados na avaliação de analise de tarefas: verificacao/grupo_7/etapa_3/verificacao-planejamento-relato-dos-resultados-na-aval.-analise-de-tarefas.md
+            - Etapa 6:
+                - Verificação do planejamento da avaliação do prototipo de alta fidelidade: verificacao/grupo_7/etapa_6/verificacao-planejamento-da-avaliacao-do-prototipo-de-alta-fidelidade.md
+                - Verificação do planejamento do relato dos resultados da valiação do protótipo de alta fidelidade: verificacao/grupo_7/etapa_6/verificacao-planejamento-relato-dos-resultados-prototipo-alta.md
+                - Verificação do relato dos resultados do protótipo de papel: verificacao/grupo_7/etapa_6/verificacao-relato-dos-resultados-do-prototipo-de-papel.md
+            
 
 theme:
   name: material
