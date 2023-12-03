@@ -93,4 +93,4 @@ OBS: Apenas um dos integrantes da dupla precisa estar presente, de preferência 
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 21/11/2023 | Criação e desenvolvimento de toda a página |  [Suzane Duarte](https://github.com/suzaneduarte) | [esteerlino](https://github.com/esteerlino) |
+|  1.0   | 21/11/2023 | Criação e desenvolvimento de toda a página |  [Suzane Duarte](https://github.com/suzaneduarte) | [Ester Lino](https://github.com/esteerlino) |

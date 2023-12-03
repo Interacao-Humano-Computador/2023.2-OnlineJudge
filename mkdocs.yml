@@ -102,11 +102,24 @@ nav:
 
       - Verificação do próprio grupo (grupo 7):
             - Planejamento da verificação: verificacao/grupo_7/planejamento-verificacao.md
+            - Etapa 1:
+              - Sites Avaliados: verificacao/grupo_7/etapa_1/verificacao-sites-avaliados.md
+              - Site Escolhido: verificacao/grupo_7/etapa_1/verificacao-site-escolhido.md
+              - Metodologia: verificacao/grupo_7/etapa_1/verificacao-metodologia.md
+              - Ferramentas: verificacao/grupo_7/etapa_1/verificacao-ferramentas.md
+              - Processo de Design: verificacao/grupo_7/etapa_1/verificacao-processo-design.md
+              - Cronograma: verificacao/grupo_7/etapa_1/verificacao-cronograma.md
             - Etapa 3:
                 - Verificação do planejamento da avaliação da análise de tarefas: verificacao/grupo_7/etapa_3/verificacao-planejamento-da-avaliacao-da-analise-de-tarefas.md
                 - Verificação do planejamento de avaliação do StoryBoard: verificacao/grupo_7/etapa_3/verificacao-planejamento-de-avaliacao-do-storyboard.md
                 - Verificação do planejamento do relato dos resultados na avaliação do StoryBoard: verificacao/grupo_7/etapa_3/verificacao-planejamento-relato-dos-resultados-na-aval-storyboard.md
                 - Verificação do planejamento do relato dos resultados na avaliação de analise de tarefas: verificacao/grupo_7/etapa_3/verificacao-planejamento-relato-dos-resultados-na-aval.-analise-de-tarefas.md
+            - Etapa 4:
+              - Planejamento da Avaliação da Análise de Tarefas: verificacao/grupo_7/etapa_4/verificacao-planejamento-avaliacao-analise-tarefas.md
+              - Planejamento da Avaliação do Storyboard: verificacao/grupo_7/etapa_4/verificacao-planejamento-avaliacao-storyboard.md
+              - Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas: verificacao/grupo_7/etapa_4/verificacao-planejamento-resultados-analise-tarefas.md
+              - Planejamento da Relato dos Resultados da Avaliação do Storyboard: verificacao/grupo_7/etapa_4/verificacao-planejamento-resultados-storyboard.md
+              - Verificação dos Storyboards: verificacao/grupo_7/etapa_4/verificacao-storyboards.md
             - Etapa 6:
                 - Verificação do planejamento da avaliação do prototipo de alta fidelidade: verificacao/grupo_7/etapa_6/verificacao-planejamento-da-avaliacao-do-prototipo-de-alta-fidelidade.md
                 - Verificação do planejamento do relato dos resultados da valiação do protótipo de alta fidelidade: verificacao/grupo_7/etapa_6/verificacao-planejamento-relato-dos-resultados-prototipo-alta.md
