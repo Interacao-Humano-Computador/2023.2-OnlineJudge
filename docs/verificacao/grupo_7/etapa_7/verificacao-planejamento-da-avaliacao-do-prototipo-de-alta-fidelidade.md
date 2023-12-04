@@ -1,4 +1,4 @@
-# **Verificação do planejamento da avaliação do prototipo de alta fidelidade**
+# **Verificação do Planejamento da Avaliação do Prototipo de Alta Fidelidade**
 
 ## Introdução
 
@@ -20,10 +20,8 @@
 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
 
-## Bibliografia
-
 ## Histórico de versão
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [esteerlino](https://github.com/esteerlino) |
+|  1.0   | 03/12/2023 | Criação da página |  [Eric Camrgo](https://github.com/ericcs10) | |
