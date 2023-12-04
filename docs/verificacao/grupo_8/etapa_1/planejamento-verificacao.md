@@ -19,6 +19,15 @@ O responsável pela verificação é o integrante do [Grupo 7](https://interacao
 
 ### Objetos de Verificação
 
+### Objetos de Verificação
+
+Os artefatos alvos dessa verificação são:
+
+- A [Cronograma](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/planejamento/cronograma) na versão 2.0 de data 14/11/2023 produzida por [João Pedro Veras Gomes](https://github.com/JoosPerro) e revisada por [Felipe de Sousa](https://github.com/fsousac).
+- A [Ferramentas](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/planejamento/ferramentas) na versão 1.2 de data 29/11/2023 produzida por [Felipe de Sousa](https://github.com/fsousac) e revisada por [Lucas Caldas](https://github.com/lucascaldasb).
+- Os [Processo de Design](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/planejamento/processo-design) na versão 1.2 de data 05/10/2023 produzida por [Felipe de Sousa](https://github.com/fsousac) e revisada por [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [João Pedro](https://github.com/JoosPerro), [Lucas Caldas](https://github.com/lucascaldasb), [Millena Queiroz](https://github.com/MillenaQueiroz), [Pablo Santos](https://github.com/pabloheika).
+- O [Site escolhido](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/analise-de-requisitos/perfil-de-usuario) na versão 1.1 de data 04/10/2023 produzida por [Lucas Caldas](https://github.com/lucascaldasb) e revisada por [Artur Ricardo](https://github.com/algorithmorphic), [Caio Mesquita](https://github.com/Caiomesvie), [João Pedro](https://github.com/JoosPerro), [Felipe de Sousa](https://github.com/fsousac), [Millena Queiroz](https://github.com/MillenaQueiroz), [Pablo Santos](https://github.com/pabloheika).
+
 ### Cronograma
 
 A verificação será realizada no período de 13 de novembro de 2023 até dia 14 de novembro de 2023, com os resultados sendo relatados através da página de documentação do grupo até o dia 15 de novembro de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
