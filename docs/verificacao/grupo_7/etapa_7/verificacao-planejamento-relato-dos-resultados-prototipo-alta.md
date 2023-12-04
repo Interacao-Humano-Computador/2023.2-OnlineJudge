@@ -41,7 +41,13 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
 | ID | Questão                                                               | Resposta individual(Sim / Não /Incompleto)  | Resposta em dupla| Comentário |
 | :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |---|
-| |  | | | |
+| 1 | O documento possui um tópico sobre quais são os objetivos do relato? | | | |
+| 2 | O documento possui um tópico sobre o método de avaliação? | | | |
+| 3 | O documento possui um tópico sobre quais foram os participantes e os seus perfis? | | | |
+| 4 | O documento possui um tópico que trata sobre os possíveis problemas encontrados? | | | |
+| 5 | O documento possui um tópico sobre o sumário dos dados coletados? | | | |
+| 6 | O documento possui um tópico sobre análise e interpretação dos dados coletados? | | | |
+| 7 | O documento possui um tópico que fala sobre um possível feedback do usuário? | | | |
 
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
@@ -81,3 +87,4 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação da página |  [Eric Camrgo](https://github.com/ericcs10) | |
+|  1.1   | 03/12/2023 | Adicionando o checklist |  [Henrique Torres](https://github.com/henriqtorresl) | |

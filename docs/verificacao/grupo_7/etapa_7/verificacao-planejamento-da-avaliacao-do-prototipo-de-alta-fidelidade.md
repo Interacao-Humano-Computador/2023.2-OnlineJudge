@@ -40,8 +40,14 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
 | ID | Questão                                                               | Resposta individual(Sim / Não /Incompleto)  | Resposta em dupla| Comentário |
 | :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |---|
-| |  | | | |
-
+| 1 | O documento possui os objetivos do planejamento? | | | |
+| 2 | O documento possui quais são as perguntas a serem respondidas com a avaliação? | | | |
+| 2 | O documento possui quais são os métodos a serem utilizados na avaliação? | | | |
+| 4 | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? | | | |
+| 5 | O documento apresenta o protótipo de alta fidelidade? | | | |
+| 6 | O documento possui uma seção que lida com questões éticas? | | | |
+| 7 | O documento possui uma seção sobre os dados (avaliação, interpretação e apresentação)? | | | |
+| 8 | O documento apresenta tarefas de como deve ser realizada a avaliação? | | | |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
@@ -80,3 +86,4 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação da página |  [Eric Camrgo](https://github.com/ericcs10) | |
+|  1.1   | 03/12/2023 | Adicionando o checklist |  [Henrique Torres](https://github.com/henriqtorresl) | |
