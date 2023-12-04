@@ -40,14 +40,14 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
 | ID | Questão                                                               | Resposta individual(Sim / Não /Incompleto)  | Resposta em dupla| Comentário |
 | :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |---|
-| 1 | O documento possui os objetivos do planejamento? | | | |
-| 2 | O documento possui quais são as perguntas a serem respondidas com a avaliação? | | | |
-| 2 | O documento possui quais são os métodos a serem utilizados na avaliação? | | | |
-| 4 | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? | | | |
-| 5 | O documento apresenta o protótipo de alta fidelidade? | | | |
-| 6 | O documento possui uma seção que lida com questões éticas? | | | |
-| 7 | O documento possui uma seção sobre os dados (avaliação, interpretação e apresentação)? | | | |
-| 8 | O documento apresenta tarefas de como deve ser realizada a avaliação? | | | |
+| 1 | O documento possui os objetivos do planejamento? | Sim | | |
+| 2 | O documento possui quais são as perguntas a serem respondidas com a avaliação? | Sim | | |
+| 2 | O documento possui quais são os métodos a serem utilizados na avaliação? | Sim | | |
+| 3 | O documento apresenta o protótipo de alta fidelidade? | Sim | | |
+| 4 | O documento possui uma seção que lida com questões éticas? | Sim | | |
+| 5 | O documento possui uma seção sobre os dados (avaliação, interpretação e apresentação)? | Sim | | |
+| 6 | O documento apresenta tarefas de como deve ser realizada a avaliação? | Sim | | |
+| 7 | O planejamento segue o framework DECIDE? | Sim | | |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
@@ -69,7 +69,7 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
 <center>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wMQS6BGbGLs?si=1xp7PYZNn2HRhepb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
 

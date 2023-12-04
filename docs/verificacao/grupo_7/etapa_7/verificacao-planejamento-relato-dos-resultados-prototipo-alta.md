@@ -41,13 +41,13 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
 | ID | Questão                                                               | Resposta individual(Sim / Não /Incompleto)  | Resposta em dupla| Comentário |
 | :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |---|
-| 1 | O documento possui um tópico sobre quais são os objetivos do relato? | | | |
-| 2 | O documento possui um tópico sobre o método de avaliação? | | | |
-| 3 | O documento possui um tópico sobre quais foram os participantes e os seus perfis? | | | |
-| 4 | O documento possui um tópico que trata sobre os possíveis problemas encontrados? | | | |
-| 5 | O documento possui um tópico sobre o sumário dos dados coletados? | | | |
-| 6 | O documento possui um tópico sobre análise e interpretação dos dados coletados? | | | |
-| 7 | O documento possui um tópico que fala sobre um possível feedback do usuário? | | | |
+| 1 | O documento possui um tópico sobre quais são os objetivos do relato? | Sim | | |
+| 2 | O documento possui um tópico sobre o método de avaliação? | Sim | | |
+| 3 | O documento possui um tópico sobre quais foram os participantes e os seus perfis? | Sim | | |
+| 4 | O documento possui um tópico que trata sobre os possíveis problemas encontrados? | Sim | | |
+| 5 | O documento possui um tópico sobre o sumário dos dados coletados? | Sim | | |
+| 6 | O documento possui um tópico sobre análise e interpretação dos dados coletados? | Sim | | |
+| 7 | O documento possui um tópico que fala sobre um possível feedback do usuário? | Sim | | |
 
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
@@ -70,7 +70,7 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
 <center>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5PzffqVFlZ4?si=v_musd3VhvjbF5As" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
 
