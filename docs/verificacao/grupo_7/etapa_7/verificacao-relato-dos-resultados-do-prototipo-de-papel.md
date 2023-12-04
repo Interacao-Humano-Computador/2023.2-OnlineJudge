@@ -78,7 +78,7 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 <center>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8O6sCHquk5o?si=WYKDUrcT72-KoOIz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
 
@@ -94,7 +94,11 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
+
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Não foi necessário realizar nenhum vídeo para a correção do artefato, uma vez que como apresentado no tópico acima não consta nenhum problema e/ou alteração identificadas.
 
 ## Referências bibliográficas
 

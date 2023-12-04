@@ -15,20 +15,18 @@ Dessa forma, foi desenvolvido um checklist de verificação, levando em consider
 Os participantes envolvidos nessa verificação são:
 
 - [Henrique Torres](https://github.com/henriqtorresl): Autor original do artefato analisado em questão
-
 - [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos): Dupla de avaliadores principais da verificação
-
 - [Ester Lino](https://github.com/esteerlino): Um dos membros da dupla que avaliou (Avaliador principal)
 
 <center>
 
 **Tabela 1** - Cronograma Completo dos Participantes da verificação
 
-|                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
-| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       17:00      |     17:10      | 04/12/2023 | Microsoft Teams |
-|                          [Ester Lino](https://github.com/esteerlino)                           |              Realização de um vídeo da inspeção individual do avaliador principal               |       17:20       |     17:30     | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       17:40       |    17:50      | 04/12/2023 | Microsoft Teams |
+|                                        Avaliador                                        |                                              Atividade                                              | Horário de Início | Horário de Fim |    Data    |      Local      |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------: | :-------------: | :--------: | :-------------: |
+| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |        16:00        |      16:05      | 04/12/2023 | Microsoft Teams |
+|                         [Ester Lino](https://github.com/esteerlino)                         |              Realização de um vídeo da inspeção individual do avaliador principal              |        16:10        |      16:15      | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        16:20        |      16:30      | 04/12/2023 | Microsoft Teams |
 
 Fonte:[Ester Lino](https://github.com/esteerlino).
 
@@ -42,14 +40,13 @@ A Tabela 2 apresenta o Checklist Geral com os dados obtidos a partir da verifica
 
 _Tabela 2_ - Checklist para os Itens Gerais.
 
-|  ID  |  Descrição  |  Avaliação  |  Observações  |
-|  --- | ----------- | ----------- | ------------- |
-| 1   | Os artefatos possuem introdução? |   |   |
-| 2   | Os artefatos possuem uma bibliografia/referência bibliográfica? |  |   |
-| 3   | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? |  |   |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? |  |    |
-| 5   | Todos os textos estão na norma padrão? |  |   |
-| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
+| ID | Descrição                                                                                                                | Avaliação | Observações                              |
+| -- | -------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------ |
+| 1  | Os artefatos possuem introdução?                                                                                         | SIM         |                                            |
+| 2  | Os artefatos possuem uma bibliografia/referência bibliográfica?                                                          | SIM         |                                            |
+| 3  | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | SIM         |                                            |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte?                                                | INCOMPLETO  | Imagem existente não foi chamada no texto |
+| 5  | Todos os textos estão na norma padrão?                                                                                   | SIM         |                                            |
 
 Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
@@ -61,11 +58,11 @@ Tabela 3 apresenta o checklist referente aos itens exigidos para o [Metodologia]
 
 _Tabela 3_ - Checklist para a Metodologia
 
-| ID  | Descrição                                                                                                          | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   |  Foi justificada a escolha das metodologias adotadas para o projeto?                                               |           |             |
-| 2   |  A escolha das metodologias adotadas está de acordo com os objetivos do projeto?                                   |           |             |
-| 3   |  Existe uma explicação sobre as metodologias adotas?                                                               |           |             |
+| ID | Descrição                                                                      | Avaliação | Observações                                              |
+| -- | -------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------- |
+| 1  | Foi justificada a escolha das metodologias adotadas para o projeto?              | INCOMPLETO  | Precisa de justificativa mais abrangente do uso no projeto |
+| 2  | A escolha das metodologias adotadas está de acordo com os objetivos do projeto? | SIM         |                                                            |
+| 3  | Existe uma explicação sobre as metodologias adotadas?                          | INCOMPLETO  | Falta contextualização das metodologias                  |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
@@ -81,26 +78,22 @@ Link e frame do vídeo não listado no youtube do avaliador principal [Ester Lin
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-Todos os problemas encontrados e sugestões de melhoria
+* A imagem do heatmap está em formato de link externo, sendo necessário chamá-la no texto, acrescida de legenda e fonte.
+* Cabe explicar o que é o Scrum e o Kanban, como forma de adicionar contexto às escolhas.
+* É possível detalhar mais a aplicação no projeto e a motivação da escolha.
+* Priorizar a escrita do texto de forma corrida, e não em tópicos.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
 Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Henrique Torres](https://github.com/henriqtorresl)) mostrando as alterações que ela realizou a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Ester Lino](https://github.com/esteerlino).
 
-## Referências bibliográficas
+## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
 
-## Bibliografia
-
-> 1. IHC - Domínio Público. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/. Acesso em: 03 de dezembro 2023.<br></br>
-
-> 2. André Barros,Plano de Ensino de Interação humano-computador, Disponível em : https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf, Acesso em: 03 de dezembro 2023.<br></br>
-
-> 3. IHC - Plataforma Lattes. Disponível em: https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verifica%C3%A7%C3%A3o/Grupo%2003/planejamento%20da%20verifica%C3%A7%C3%A3o/ Acesso em: 03 de dezembro 2023.<br></br>
-
 ## Histórico de versão
 
-| Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
-| :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 04/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
+| Versão |    Data    |      Descrição      |                                     Responsáveis                                     |                     Revisor                     |
+| :-----: | :--------: | :--------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------: |
+|   1.0   | 04/12/2023 | Criação do documento | [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
+|   1.1   | 04/12/2023 |  Inspeção em dupla  | [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |

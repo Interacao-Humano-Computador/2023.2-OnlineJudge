@@ -26,9 +26,9 @@ Os participantes envolvidos nessa verificação são:
 
 |                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       18:00      |     18:10      | 04/12/2023 | Microsoft Teams |
-|                          [Kallyne Macedo](https://github.com/kalipassos)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       18:20       |     18:30     | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       18:40       |    18:50      | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       16:40      |     16:45      | 04/12/2023 | Microsoft Teams |
+|                          [Kallyne Macedo](https://github.com/kalipassos)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       16:50       |     16:55     | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       17:00       |    17:10      | 04/12/2023 | Microsoft Teams |
 
 Fonte:[Ester Lino](https://github.com/esteerlino).
 
@@ -90,17 +90,9 @@ Todos os problemas encontrados e sugestões de melhoria
 
 Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefato ([Ester Lino](https://github.com/esteerlino) e [Pablo Guilherme](https://github.com/PabloGJBS)) mostrando as alterações que eles realizaram a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Kallyne Macedo](https://github.com/kalipassos).
 
-## Referências bibliográficas
-
-> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
-
 ## Bibliografia
 
-> 1. IHC - Domínio Público. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/. Acesso em: 03 de dezembro 2023.<br></br>
-
-> 2. André Barros,Plano de Ensino de Interação humano-computador, Disponível em : https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf, Acesso em: 03 de dezembro 2023.<br></br>
-
-> 3. IHC - Plataforma Lattes. Disponível em: https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verifica%C3%A7%C3%A3o/Grupo%2003/planejamento%20da%20verifica%C3%A7%C3%A3o/ Acesso em: 03 de dezembro 2023.<br></br>
+> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
 
 ## Histórico de versão
 

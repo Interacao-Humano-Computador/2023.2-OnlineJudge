@@ -441,6 +441,8 @@ Não foram levantadas sugestões de melhoria.
 
 #### 7.1 Objetivos e escopo da avaliação
 
+Realizar uma avaliação do protótipo de papel feito pela equipe, com o objetivo de identificar possíveis problemas de usabilidade, explorar conceitos de design, receber propostas de alternativas e coletar sugestões para seu aprimoramento.
+
 #### 7.2 Método de avaliação empregado
 
 De acordo com o que foi estabelecido no Planejamento da Avaliação do prototipo de papel, a metodologia escolhida foi a observação e entrevista, uma vez que ela possibilita a coleta de dados com base na percepção de um usuário real. Na tabela 13 segue o cronograma da entrevista realizada
