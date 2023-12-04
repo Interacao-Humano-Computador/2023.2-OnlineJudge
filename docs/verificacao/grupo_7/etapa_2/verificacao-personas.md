@@ -36,19 +36,30 @@ Fonte:[Suzane Duarte](https://github.com/suzaneduarte).
 
 ## Checklists
 
-A Tabela 1 apresenta o checklist referente aos itens exigidos para a Análise de Tarefas.
+A Tabela 1 apresenta o checklist referente aos itens exigidos para Personas.
 
 <center>
 
-**Tabela 2** - Checklist para a Análise de Tarefas GOMS
+**Tabela 2** - Checklist para Personas
 
-| ID  |                                                           Questão                                                           | Resposta | Comentário |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :------: | :--------: |
-|  1  |   Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?    |          |            |
-|  2  |          O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?           |          |            |
-|  3  | A análise de tarefas com o método GOMS apresenta todos os quatro componentes (Goals, Operators, Methods e Selection Rules)? |          |            |
+| ID  | Questão                                                              | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
+| :-: | -------------------------------------------------------------------- | :---------------------------: | :------------------------------: | :---------: |
+|  1  | Existe o artefato Personas?                                          |                               |                                  |             |
+|  2  | As personas foram definidas a partir dos dados do perfil do usuário? |                               |                                  |             |
+|  3  | As personas possuem identidade (nome e sobrenome)?                   |                               |                                  |             |
+|  4  | As Personas possuem idade e dados demográficos?                      |                               |                                  |
+|  5  | As Personas possuem foto?                                            |                               |                                  |             |
+|  6  | As Personas possuem status (primária, secundária...)?                |                               |                                  |             |
+|  7  | As Personas possuem objetivos?                                       |                               |                                  |             |
+|  8  | As Personas possuem habilidades?                                     |                               |                                  |             |
+|  9  | As Personas possuem tarefas?                                         |                               |                                  |             |
+| 10  | As Personas possuem relacionamentos?                                 |                               |                                  |             |
+| 11  | As Personas possuem requisitos?                                      |                               |                                  |             |
+| 12  | As Personas possuem expectativas?                                    |                               |                                  |             |
+| 13  | A razão da quantidade de personas é justificada?                     |                               |                                  |             |
+| 14  | Existe uma explicação da utilização das personas no projeto?         |                               |                                  |             |
 
-Fonte:[Suzane Duarte](https://github.com/suzaneduarte).
+Fonte:[Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 </center>
 
@@ -72,9 +83,9 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 
 <center>
 
-[Link para o video da inspeção individual]()
+[Link para o video da inspeção individual](https://www.youtube.com/watch?v=W-Kujgzn9Ec)
 
-frame
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W-Kujgzn9Ec?si=XffXmfT7wlkYTz8t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
