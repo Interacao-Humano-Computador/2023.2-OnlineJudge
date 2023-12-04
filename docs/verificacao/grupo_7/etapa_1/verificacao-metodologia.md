@@ -16,7 +16,7 @@ Os participantes envolvidos nessa verificação são:
 
 - [Henrique Torres](https://github.com/henriqtorresl): Autor original do artefato analisado em questão
 - [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos): Dupla de avaliadores principais da verificação
-- [Ester Lino](https://github.com/esteerlino): Um dos membros da dupla que avaliou (Avaliador principal)
+- [Ester Lino](https://github.com/esteerlino): Avaliador principal
 
 <center>
 
@@ -25,8 +25,7 @@ Os participantes envolvidos nessa verificação são:
 |                                        Avaliador                                        |                                              Atividade                                              | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------: | :-------------: | :--------: | :-------------: |
 | [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |        16:00        |      16:05      | 04/12/2023 | Microsoft Teams |
-|                         [Ester Lino](https://github.com/esteerlino)                         |              Realização de um vídeo da inspeção individual do avaliador principal              |        16:10        |      16:15      | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        16:20        |      16:30      | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        16:20        |      16:30      | 04/12/2023 | Microsoft Teams |
 
 Fonte:[Ester Lino](https://github.com/esteerlino).
 
@@ -71,10 +70,6 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 ## Um vídeo da inspeção em dupla
 
 Link e frame do vídeo não listado no youtube entre a dupla [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos).
-
-## Um vídeo de uma inspeção individual
-
-Link e frame do vídeo não listado no youtube do avaliador principal [Ester Lino](https://github.com/esteerlino).
 
 ## Problemas Encontrados e Sugestões de melhorias
 

@@ -42,11 +42,11 @@ A Tabela 1 apresenta o checklist referente aos itens exigidos para a Análise de
 
 **Tabela 2** - Checklist para a Análise de Tarefas GOMS
 
-| ID  |                                                           Questão                                                           | Resposta | Comentário |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :------: | :--------: |
-|  1  |   Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?    |          |            |
-|  2  |          O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?           |          |            |
-|  3  | A análise de tarefas com o método GOMS apresenta todos os quatro componentes (Goals, Operators, Methods e Selection Rules)? |          |            |
+| ID  |                                                           Questão                                                           | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------: | :------------------------------: | :---------: |
+|  1  |   Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?    |              Sim              |               Sim                |             |
+|  2  |          O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?           |              Sim              |               Sim                |             |
+|  3  | A análise de tarefas com o método GOMS apresenta todos os quatro componentes (Goals, Operators, Methods e Selection Rules)? |              Sim              |               Sim                |             |
 
 Fonte:[Suzane Duarte](https://github.com/suzaneduarte).
 
@@ -72,9 +72,9 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 
 <center>
 
-[Link para o video da inspeção individual]()
+[Link para o video da inspeção individual](https://www.youtube.com/watch?v=UbobM6soqTE)
 
-frame
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbobM6soqTE?si=OmAbuoRYhJY7l3kA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
@@ -82,7 +82,7 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não existe nenhuma sugestão de melhoria para ser realizada nessa etapa. Apenas pequenas alterações de correções de ortografia, os quais são foram realizadas pelo autor do artefato.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
@@ -96,6 +96,7 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 
 ## Histórico de versão
 
-| Versão |    Data    |     Descrição     |                   Responsáveis                    |                     Revisor                     |
-| :----: | :--------: | :---------------: | :-----------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
+| Versão |    Data    |           Descrição           |                   Responsáveis                    |                     Revisor                     |
+| :----: | :--------: | :---------------------------: | :-----------------------------------------------: | :---------------------------------------------: |
+|  1.0   | 03/12/2023 |       Criação da página       |  [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
+|  1.1   | 04/12/2023 | Inserindo gravação dos vídeos |  [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |

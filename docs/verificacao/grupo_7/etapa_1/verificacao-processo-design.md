@@ -16,9 +16,7 @@ Os participantes envolvidos nessa verificação são:
 
 - [Ester Lino](https://github.com/esteerlino) e [Pablo Guilherme](https://github.com/PabloGJBS): Autores originais do artefato analisado em questão
 
-- [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos): Dupla de avaliadores principais da verificação
-
-- [Kallyne Macedo](https://github.com/kalipassos): Um dos membros da dupla que avaliou (Avaliador principal)
+- [Kallyne Macedo](https://github.com/kalipassos): Avaliador principal
 
 <center>
 
@@ -26,11 +24,10 @@ Os participantes envolvidos nessa verificação são:
 
 |                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       16:40      |     16:45      | 04/12/2023 | Microsoft Teams |
 |                          [Kallyne Macedo](https://github.com/kalipassos)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       16:50       |     16:55     | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       17:00       |    17:10      | 04/12/2023 | Microsoft Teams |
+|  [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       17:00       |    17:10      | 04/12/2023 | Microsoft Teams |
 
-Fonte:[Ester Lino](https://github.com/esteerlino).
+Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 
 </center>
 
@@ -51,7 +48,7 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 | 5   | Todos os textos estão na norma padrão? |  |   |
 | 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 </center>
 
@@ -70,13 +67,10 @@ _Tabela 3_ - Checklist para o Processo de Design
 | 5   | O ciclo de vida escolhido foi detalhado?                                                                           |           |             |
 | 6  | A forma como será executado o ciclo de vida é detalhada?                                                            |           |             |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 </center>
 
-## Um vídeo da inspeção em dupla
-
-Link e frame do vídeo não listado no youtube entre a dupla [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos).
 
 ## Um vídeo de uma inspeção individual
 
