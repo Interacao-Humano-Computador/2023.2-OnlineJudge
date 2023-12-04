@@ -40,10 +40,10 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
 | ID | Questão                                                               | Resposta(Sim / Não /Incompleto)  |                                   Comentário                |
 | :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |
-| 1 | As metas de usabilidade são representadas de forma clara? |        |                                                                                                    |
-| 2 | As metas foram definidas considerando o perfil de usuário? |        |                                                                                                   |
-| 3 | Cada meta de usabilidade possui uma explicação concisa e compreensível? |        |                                                                                      |
-| 4 | Os requisitos de usabilidade, necessários para atingir as metas propostas, foram identificados? |        |                                                              |
+| 1 | As metas de usabilidade são representadas de forma clara? |    Sim    |                                                                                                    |
+| 2 | As metas foram definidas considerando o perfil de usuário? |    Sim    |                                                                                                   |
+| 3 | Cada meta de usabilidade possui uma explicação concisa e compreensível? |     Sim   |                                                                                      |
+| 4 | Os requisitos de usabilidade, necessários para atingir as metas propostas, foram identificados? |   Sim     |                                                              |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 

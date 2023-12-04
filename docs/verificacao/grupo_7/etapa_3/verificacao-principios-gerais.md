@@ -40,13 +40,13 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 | ID | Questão                                                               | Resposta(Sim / Não /Incompleto)  |                                   Comentário                |
 | :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |
-| 1 | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ? |        |                                                                    |
-| 2 | Os princípios gerais do projeto contém consistência e padronização ? |        |                                                                                         |
-| 3 | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ? |        |                                                                    |
-| 4 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ? |        |                                                                             |
-| 5 | Os princípios gerais do projeto contém antecipação das necessidades do usuário ? |        |                                                                             |
-| 6 | Os princípios gerais do projeto contém visibilidade e reconhecimento ? |        |                                                                                       |
-| 7 | Os princípios gerais do projeto contém projeto para erros ? |        |                                                                                                  |
+| 1 | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ? |    Sim    |                                                                    |
+| 2 | Os princípios gerais do projeto contém consistência e padronização ? |    Sim    |                                                                                         |
+| 3 | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ? |    Sim    |                                                                    |
+| 4 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ? |    Sim    |                                                                             |
+| 5 | Os princípios gerais do projeto contém antecipação das necessidades do usuário ? |    Sim    |                                                                             |
+| 6 | Os princípios gerais do projeto contém visibilidade e reconhecimento ? |   Sim     |                                                                                       |
+| 7 | Os princípios gerais do projeto contém projeto para erros ? |    Sim    |                                                                                                  |
 
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
