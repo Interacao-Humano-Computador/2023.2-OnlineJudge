@@ -2,7 +2,7 @@
 
 ## Introdução
 
-sse documento se trata da etapa de verificação do artefato [Planejamento da Avaliação do Protótipo de papel](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/primeira-entrega/planejamento-avaliacao-prototipo-papel/), produzido por [Pablo Guilherme](https://github.com/PabloGJBS) e [Ester Lino](https://github.com/esteerlino) no decorrer do projeto.
+Esse documento se trata da etapa de verificação do artefato [Planejamento da Avaliação do Protótipo de papel](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel2/planejamento-avaliacao-prototipo-papel/), produzido por [Pablo Guilherme](https://github.com/PabloGJBS) e [Ester Lino](https://github.com/esteerlino) no decorrer do projeto.
 
 ## Metodologia
 
@@ -53,7 +53,7 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10) e [Luana Torres](https://gith
 
 </center>
 
-Tabela 3 apresenta o checklist referente aos itens exigidos para o [Planejamento da Avaliação do Protótipo de papel](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/primeira-entrega/planejamento-avaliacao-prototipo-papel/).
+Tabela 3 apresenta o checklist referente aos itens exigidos para o [Planejamento da Avaliação do Protótipo de papel](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel2/planejamento-avaliacao-prototipo-papel/).
 
 <center>
 
@@ -61,16 +61,16 @@ _Tabela 3_ - Checklist para o Planejamento da Avaliação do protótipo de papel
 
 | ID  | Descrição                                                                                                | Avaliação | Observações                                |
 | --- | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------ |
-| 1   | Os objetivos do planejamento estão documentados?                                                         | Sim       |                                            |
-| 2   | O planejamento está de acordo com o framework DECIDE?                                                    | Sim       |                                            |
-| 3   | A documentação inclui a lista de participantes da avaliação?                                             | Sim       |                                            |
-| 4  | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? | Sim       |                                            |
-| 5  | Cada participante tem um papel claramente definido no documento?                                         | Sim       |                                            |
-| 6  | O cronograma, contendo data, hora e local da avaliação, está detalhadamente descrito no documento?       | Sim       |                                            |
-| 7  | As ferramentas e equipamentos a serem utilizados na avaliação estão especificados no documento?          | Sim       |                                            |
-| 8  | Existe uma gravação do teste piloto disponível?                                                          | Sim       |                                            |
-| 9  | O documento contém instruções claras sobre as tarefas a serem realizadas durante a avaliação?            | Sim       | O documento possui um roteiro de perguntas |
-| 10  | O protótipo de papel é apresentado no documento?                                                         | Não       |                                            |
+| 1   | Os objetivos do planejamento estão documentados?                                                         |       |                                            |
+| 2   | O planejamento está de acordo com o framework DECIDE?                                                    |       |                                            |
+| 3   | A documentação inclui a lista de participantes da avaliação?                                             |       |                                            |
+| 4  | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? |       |                                            |
+| 5  | Cada participante tem um papel claramente definido no documento?                                         |       |                                            |
+| 6  | O cronograma, contendo data, hora e local da avaliação, está detalhadamente descrito no documento?       |       |                                            |
+| 7  | As ferramentas e equipamentos a serem utilizados na avaliação estão especificados no documento?          |       |                                            |
+| 8  | Existe uma gravação do teste piloto disponível?                                                          |        |                                            |
+| 9  | O documento contém instruções claras sobre as tarefas a serem realizadas durante a avaliação?            |       | O documento possui um roteiro de perguntas |
+| 10  | O protótipo de papel é apresentado no documento?                                                         |        |                                            |
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10) e [Luana Torres](https://github.com/luanatorress), 2023.
 
