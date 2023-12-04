@@ -120,6 +120,7 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 ## Histórico de versão
 
-| Versão |    Data    |     Descrição     |                   Responsáveis                    |                     Revisor                     |
-| :----: | :--------: | :---------------: | :-----------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
+| Versão |    Data    |           Descrição           |                   Responsáveis                    |                     Revisor                     |
+| :----: | :--------: | :---------------------------: | :-----------------------------------------------: | :---------------------------------------------: |
+|  1.0   | 03/12/2023 |       Criação da página       |  [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
+|  1.1   | 04/12/2023 | Inserindo gravação dos vídeos |  [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |

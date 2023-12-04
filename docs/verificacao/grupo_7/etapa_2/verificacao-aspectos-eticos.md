@@ -44,11 +44,11 @@ A Tabela 1 apresenta o checklist referente aos itens exigidos para os Aspectos �
 
 | ID  |                                                              Questão                                                               | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------: | :---------------------------: | :------------------------------: | :---------: |
-|  1  |                                                 Existe o artefato Aspectos Éticos?                                                 |                               |                                  |             |
-|  2  |                        Esse artefato considera Aspectos Éticos de Pesquisas Envolvendo Pessoas no projeto?                         |                               |                                  |             |
-|  3  |    O artefato apresenta os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)?    |                               |                                  |             |
-|  4  | O artefato informa que o grupo solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |                               |                                  |             |
-|  5  |                               Possui o termo de consentimento livre e esclarecido dos participantes?                               |                               |                                  |             |
+|  1  |                                                 Existe o artefato Aspectos Éticos?                                                 |              Sim              |               Sim                |             |
+|  2  |                        Esse artefato considera Aspectos Éticos de Pesquisas Envolvendo Pessoas no projeto?                         |              Sim              |               Sim                |             |
+|  3  |    O artefato apresenta os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)?    |              Sim              |               Sim                |             |
+|  4  | O artefato informa que o grupo solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |              Sim              |               Sim                |             |
+|  5  |                               Possui o termo de consentimento livre e esclarecido dos participantes?                               |              Sim              |               Sim                |             |
 
 Fonte:[Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
@@ -84,7 +84,7 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não há nenhuma sugestão de melhoria para ser realizado nessa etapa.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
@@ -98,6 +98,7 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 
 ## Histórico de versão
 
-| Versão |    Data    |     Descrição     |                   Responsáveis                    |                     Revisor                     |
-| :----: | :--------: | :---------------: | :-----------------------------------------------: | :---------------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
+| Versão |    Data    |           Descrição           |                   Responsáveis                    |                     Revisor                     |
+| :----: | :--------: | :---------------------------: | :-----------------------------------------------: | :---------------------------------------------: |
+|  1.0   | 03/12/2023 |       Criação da página       |  [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
+|  1.1   | 04/12/2023 | Inserindo gravação dos vídeos |  [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
