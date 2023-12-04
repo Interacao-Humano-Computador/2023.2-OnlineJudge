@@ -26,9 +26,9 @@ Os participantes envolvidos nessa verificação são:
 
 |                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       18:00      |     18:10      | 04/12/2023 | Microsoft Teams |
-|                          [Kallyne Macedo](https://github.com/kalipassos)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       18:20       |     18:30     | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       18:40       |    18:50      | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       16:40      |     16:45      | 04/12/2023 | Microsoft Teams |
+|                          [Kallyne Macedo](https://github.com/kalipassos)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       16:50       |     16:55     | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       17:00       |    17:10      | 04/12/2023 | Microsoft Teams |
 
 Fonte:[Ester Lino](https://github.com/esteerlino).
 

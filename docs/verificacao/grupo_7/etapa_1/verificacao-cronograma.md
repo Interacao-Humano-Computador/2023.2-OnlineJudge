@@ -26,9 +26,9 @@ Os participantes envolvidos nessa verificação são:
 
 |                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       15:00       |     15:10      | 04/12/2023 | Microsoft Teams |
-|                          [Ester Lino](https://github.com/esteerlino)                           |              Realização de um vídeo da inspeção individual do avaliador principal               |       15:20       |     15:30     | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       15:40       |    15:50      | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       15:00       |     15:05      | 04/12/2023 | Microsoft Teams |
+|                          [Ester Lino](https://github.com/esteerlino)                           |              Realização de um vídeo da inspeção individual do avaliador principal               |       15:10       |     15:15     | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       15:20       |    15:25      | 04/12/2023 | Microsoft Teams |
 
 Fonte:[Ester Lino](https://github.com/esteerlino).
 
