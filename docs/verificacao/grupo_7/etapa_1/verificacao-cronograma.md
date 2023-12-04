@@ -16,9 +16,7 @@ Os participantes envolvidos nessa verificação são:
 
 - [Luana Torres](https://github.com/luanatorress) e [Kallyne Macedo](https://github.com/kalipassos): Autores originais do artefato analisado em questão
 
-- [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos): Dupla de avaliadores principais da verificação
-
-- [Ester Lino](https://github.com/esteerlino): Um dos membros da dupla que avaliou (Avaliador principal)
+- [Ester Lino](https://github.com/esteerlino): Avaliador principal
 
 <center>
 
@@ -26,7 +24,6 @@ Os participantes envolvidos nessa verificação são:
 
 |                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       15:00       |     15:05      | 04/12/2023 | Microsoft Teams |
 |                          [Ester Lino](https://github.com/esteerlino)                           |              Realização de um vídeo da inspeção individual do avaliador principal               |       15:10       |     15:15     | 04/12/2023 | Microsoft Teams |
 | [Ester Lino](https://github.com/esteerlino)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       15:20       |    15:25      | 04/12/2023 | Microsoft Teams |
 
@@ -51,7 +48,7 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 | 5   | Todos os textos estão na norma padrão? |  |   |
 | 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 </center>
 
@@ -73,13 +70,9 @@ _Tabela 3_ - Checklist para o Cronograma.
 | 8   | Há uma sequência lógica e realista de execução das tarefas no cronograma?                                          |           |             |
 | 9   | Os responsáveis por cada tarefa estão claramente indicados no cronograma?                                          |           |             |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 </center>
-
-## Um vídeo da inspeção em dupla
-
-Link e frame do vídeo não listado no youtube entre a dupla [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos).
 
 ## Um vídeo de uma inspeção individual
 
@@ -101,4 +94,4 @@ Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefat
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 03/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
+|  1.0   | 03/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino) | [Henrique Torres](https://github.com/henriqtorresl) |
