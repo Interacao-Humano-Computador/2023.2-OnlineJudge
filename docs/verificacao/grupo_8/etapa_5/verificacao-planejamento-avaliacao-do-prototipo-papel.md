@@ -11,6 +11,7 @@ Dessa forma, inicialmente serão apresentados os objetivos dessa verificação, 
 O objetivo deste documento é relatar os resultados das verificações realizadas no que tange o artefato [Planejamento da avaliação do Protótipo de papel](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/design-avaliacao-desenvolvimento/planejamento/prototipo-papel/Planejamento-avaliacao-protot-papel) da Etapa 5 do [Grupo 8](https://interacao-humano-computador.github.io/2023.2-SEI-GDF/#/).
 
 ## Metodologia
+
 Os resultados da análise deste artefato foram obtidos através da análise dos checklists de verificação preparados na página de planejamento. Dessa forma, o avaliador irá verificar o respectivo artefato do grupo e responder às questões apresentadas nos checklists, utilizando as opções **"Sim", "Não" ou "Incompleto"** para as respostas, além de também poder registrar comentários em cada questão analisada para detalhar alguma observação pertinente.
 
 ## Participantes envolvidos
@@ -30,12 +31,12 @@ _Tabela 1_ - Checklist para os Itens Gerais.
 
 | ID  | Descrição                                                                                                          | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | O artefato possui introdução?                                                                                      |    Sim      |      <center>-       |
-| 2   | O artefato possui uma bibliografia/referência bibliográfica?                                                       |    Sim      |     <center>-        |
-| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? |    Sim       |       <center>-      |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte?                                         |    Sim      |      <center>-   |
-| 5   | Todos os textos estão na norma padrão?                                                                             |    Sim      |        <center>-     |
-| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  |    Sim      |        <center>-     |
+| 1   | O artefato possui introdução?                                                                                      | Sim       | <center>-   |
+| 2   | O artefato possui uma bibliografia/referência bibliográfica?                                                       | Sim       | <center>-   |
+| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | Sim       | <center>-   |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte?                                         | Sim       | <center>-   |
+| 5   | Todos os textos estão na norma padrão?                                                                             | Sim       | <center>-   |
+| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  | Sim       | <center>-   |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -47,18 +48,18 @@ Já a Tabela 2 apresenta o checklist referente aos itens exigidos para a avalia�
 
 _Tabela 2_ - Checklist para a avaliação do Protótipo de papel
 
-| ID  | Descrição                                                                                                          | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 7   | Os objetivos do planejamento estão documentados?	                                                                                   |      Sim     |             |
-| 8   | O planejamento está de acordo com o framework DECIDE?                                                                                   |      Sim     |             |
-| 9   | A documentação inclui a lista de participantes da avaliação?                                                                                 |     Sim      |             |
-| 10   | 	O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento?                                                                                  |    Sim       |             |
-| 11   | Cada participante tem um papel claramente definido no documento?                                                                                  |     Sim      |             |
-| 12   | O cronograma, contendo data, hora e local da avaliação, está detalhadamente descrito no documento?                                                                                 |     Sim      |             |
-| 13   | As ferramentas e equipamentos a serem utilizados na avaliação estão especificados no documento?                                                                                   |     Sim      |             |
-| 14   | Existe uma gravação do teste piloto disponível?                                                                               |     Sim      |             |
-| 15   | O documento contém instruções claras sobre as tarefas a serem realizadas durante a avaliação?                                                                                 |      Sim     |      O documento possui um roteiro de perguntas        |
-| 16   | O protótipo de papel é apresentado no documento?                                                                                   |     Não      |             |
+| ID  | Descrição                                                                                                | Avaliação | Observações                                |
+| --- | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------ |
+| 7   | Os objetivos do planejamento estão documentados?                                                         | Sim       |                                            |
+| 8   | O planejamento está de acordo com o framework DECIDE?                                                    | Sim       |                                            |
+| 9   | A documentação inclui a lista de participantes da avaliação?                                             | Sim       |                                            |
+| 10  | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? | Sim       |                                            |
+| 11  | Cada participante tem um papel claramente definido no documento?                                         | Sim       |                                            |
+| 12  | O cronograma, contendo data, hora e local da avaliação, está detalhadamente descrito no documento?       | Sim       |                                            |
+| 13  | As ferramentas e equipamentos a serem utilizados na avaliação estão especificados no documento?          | Sim       |                                            |
+| 14  | Existe uma gravação do teste piloto disponível?                                                          | Sim       |                                            |
+| 15  | O documento contém instruções claras sobre as tarefas a serem realizadas durante a avaliação?            | Sim       | O documento possui um roteiro de perguntas |
+| 16  | O protótipo de papel é apresentado no documento?                                                         | Não       |                                            |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
@@ -80,7 +81,8 @@ O documento não inclui um protótipo de papel.
 </figure>
 
 ## Sugestões de Correções
-Por fim, a partir das informações coletadas e analisadas acima, sugere-se realizar as seguintes correções: 
+
+Por fim, a partir das informações coletadas e analisadas acima, sugere-se realizar as seguintes correções:
 
 - Talvez seria interessante adicionar um tópico contendo um protótipo de papel.
 
@@ -96,8 +98,8 @@ O responsável do grupo 7 por essa verificação irá realizar uma revisão das 
 
 **Tabela 3** - Cronograma de Retrabalho.
 
-| Data de Correção | Descrição                          |                Responsável(eis)                |                   Revisor(es)                    |   Status   |
-| ---------------- | :--------------------------------- | :--------------------------------------------: | :----------------------------------------------: | :--------: |
+| Data de Correção | Descrição                          |                                       Responsável(eis)                                        |                     Revisor(es)                     |   Status   |
+| ---------------- | :--------------------------------- | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------: | :--------: |
 | 17/11/2023       | Realizar os ajustes da verificação | [Caio Mesquita](https://github.com/Caiomesvie), [Felipe de Souza](https://github.com/fsousac) | [Henrique Torres](https://github.com/henriqtorresl) | Em análise |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
@@ -114,7 +116,7 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                     |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------------------------- |
-| `1.0`  | 14/11/2023 | Criação da página base | [Pablo Guilherme](https://github.com/PabloGJBS) | [Henrique Torres](https://github.com/henriqtorresl) |
-| `1.1`  | 15/11/2023 | Adicionando a verificação do artefato | [Henrique Torres](https://github.com/henriqtorresl) |  |
+| Versão | Data       | Descrição                             | Autor(es)                                           | Revisor(es)                                         |
+| ------ | ---------- | ------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| `1.0`  | 14/11/2023 | Criação da página base                | [Pablo Guilherme](https://github.com/PabloGJBS)     | [Henrique Torres](https://github.com/henriqtorresl) |
+| `1.1`  | 15/11/2023 | Adicionando a verificação do artefato | [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte)    |

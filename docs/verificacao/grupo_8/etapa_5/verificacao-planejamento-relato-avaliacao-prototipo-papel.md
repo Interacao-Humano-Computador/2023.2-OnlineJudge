@@ -31,12 +31,12 @@ _Tabela 1_ - Checklist para os Itens Gerais.
 
 | ID  | Descrição                                                                                                          | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | O artefato possui introdução?                                                                                      |     Sim     |      <center>-       |
-| 2   | O artefato possui uma bibliografia/referência bibliográfica?                                                       |     Sim      |     <center>-        |
-| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? |     Sim      |       <center>-      |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte?                                         |     Sim      |      <center>-   |
-| 5   | Todos os textos estão na norma padrão?                                                                             |     Sim      |        <center>-     |
-| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  |         Sim  |        <center>-     |
+| 1   | O artefato possui introdução?                                                                                      | Sim       | <center>-   |
+| 2   | O artefato possui uma bibliografia/referência bibliográfica?                                                       | Sim       | <center>-   |
+| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | Sim       | <center>-   |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte?                                         | Sim       | <center>-   |
+| 5   | Todos os textos estão na norma padrão?                                                                             | Sim       | <center>-   |
+| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  | Sim       | <center>-   |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -48,14 +48,14 @@ Já a Tabela 2 apresenta o checklist referente aos itens exigidos para o relato 
 
 _Tabela 2_ - Checklist para o relato dos resultados da avaliação do Protótipo de papel.
 
-| ID  | Descrição                                                                                                          | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 7   | Os objetivos do planejamento estão documentados?	                                                                                   |     Sim      |             |
-| 8   | Existe um tópico dedicado à metodologia de prototipação de papel no documento?                                                                                  |      Sim     |             |
-| 9   | Há um tópico que descreve os participantes e seus perfis na avaliação?                                                                             |     Sim      |             |
-| 10   | 		O documento inclui um tópico sobre as tarefas designadas aos participantes durante a avaliação?                                                                              |     Não      |             |
-| 11   | Existe um tópico dedicado à lista dos problemas de usabilidade ainda não corrigidos?                                                                                |      Não     |             |
-| 12   | A estrutura do documento segue os padrões estabelecidos em relatos de avaliações anteriores?                                                                               |      Sim     |             |
+| ID  | Descrição                                                                                       | Avaliação | Observações |
+| --- | ----------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 7   | Os objetivos do planejamento estão documentados?                                                | Sim       |             |
+| 8   | Existe um tópico dedicado à metodologia de prototipação de papel no documento?                  | Sim       |             |
+| 9   | Há um tópico que descreve os participantes e seus perfis na avaliação?                          | Sim       |             |
+| 10  | O documento inclui um tópico sobre as tarefas designadas aos participantes durante a avaliação? | Não       |             |
+| 11  | Existe um tópico dedicado à lista dos problemas de usabilidade ainda não corrigidos?            | Não       |             |
+| 12  | A estrutura do documento segue os padrões estabelecidos em relatos de avaliações anteriores?    | Sim       |             |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
@@ -82,7 +82,7 @@ O documento não inclui um tópico dedicado à lista dos problemas de usabilidad
 
 ## Sugestões de Correções
 
-Por fim, a partir das informações coletadas e analisadas acima, sugere-se realizar as seguintes correções: 
+Por fim, a partir das informações coletadas e analisadas acima, sugere-se realizar as seguintes correções:
 
 - Talvez seria interessante adicionar um tópico sobre as tarefas designadas aos participantes durante a avaliação e também um dedicado à lista dos problemas de usabilidade.
 
@@ -98,8 +98,8 @@ O responsável do grupo 7 por essa verificação irá realizar uma revisão das 
 
 **Tabela 3** - Cronograma de Retrabalho.
 
-| Data de Correção | Descrição                          |                Responsável(eis)                |                   Revisor(es)                    |   Status   |
-| ---------------- | :--------------------------------- | :--------------------------------------------: | :----------------------------------------------: | :--------: |
+| Data de Correção | Descrição                          |                                        Responsável(eis)                                         |                     Revisor(es)                     |   Status   |
+| ---------------- | :--------------------------------- | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------: | :--------: |
 | 17/11/2023       | Realizar os ajustes da verificação | [Lucas Caldas](https://github.com/lucascaldasb), [Caio Mesquita](https://github.com/Caiomesvie) | [Henrique Torres](https://github.com/henriqtorresl) | Em análise |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
@@ -116,7 +116,7 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                     |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------------------------- |
-| `1.0`  | 14/11/2023 | Criação da página base | [Pablo Guilherme](https://github.com/PabloGJBS) | [Henrique Torres](https://github.com/henriqtorresl) |
-| `1.1`  | 15/11/2023 | Adicionando a verificação do artefato | [Henrique Torres](https://github.com/henriqtorresl) |  |
+| Versão | Data       | Descrição                             | Autor(es)                                           | Revisor(es)                                         |
+| ------ | ---------- | ------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| `1.0`  | 14/11/2023 | Criação da página base                | [Pablo Guilherme](https://github.com/PabloGJBS)     | [Henrique Torres](https://github.com/henriqtorresl) |
+| `1.1`  | 15/11/2023 | Adicionando a verificação do artefato | [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte)    |
