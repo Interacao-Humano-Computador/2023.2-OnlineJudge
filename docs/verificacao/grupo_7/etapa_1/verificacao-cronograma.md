@@ -16,7 +16,7 @@ Os participantes envolvidos nessa verificação são:
 
 - [Luana Torres](https://github.com/luanatorress) e [Kallyne Macedo](https://github.com/kalipassos): Autores originais do artefato analisado em questão
 
-- [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos): Dupla de avaliadores principais da verificação
+- [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos): Dupla de avaliadores principais da verificação
 
 - [Ester Lino](https://github.com/esteerlino): Um dos membros da dupla que avaliou (Avaliador principal)
 
@@ -24,11 +24,13 @@ Os participantes envolvidos nessa verificação são:
 
 **Tabela 1** - Cronograma Completo dos Participantes da verificação
 
-|                            Avaliador                            |                  Atividade                  | Horário de Início | Horário de Fim |    Data    |      Local      |
-| :-------------------------------------------------------------: | :-----------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos) | Realização de um vídeo da inspeção em dupla |       16:00      |     16:10     | 04/12/2023 | Microsoft Teams |
+|                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
+| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
+| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       15:00       |     15:10      | 04/12/2023 | Microsoft Teams |
+|                          [Ester Lino](https://github.com/esteerlino)                           |              Realização de um vídeo da inspeção individual do avaliador principal               |       15:20       |     15:30     | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       15:40       |    15:50      | 04/12/2023 | Microsoft Teams |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos)
+Fonte:[Ester Lino](https://github.com/esteerlino).
 
 </center>
 
@@ -85,7 +87,7 @@ Link e frame do vídeo não listado no youtube do avaliador principal [Ester Lin
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-Link e frame do vídeo não listado no youtube com um vídeo apresentando todos os problemas encontrados e sugestões de melhoria
+Todos os problemas encontrados e sugestões de melhoria
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 

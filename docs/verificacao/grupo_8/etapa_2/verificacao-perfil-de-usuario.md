@@ -112,8 +112,9 @@ Dessa forma, a partir das respostas coletas nos checklists acima foi possível s
 
 <center>Figura 1 - Gráfico com resultado dos Checklists Geral e Perfil de Usuário.
 
-![](../../../assets/images/verificacao-perfil-de-usuario.png)<br>
-<b>Fonte:</b> <a href="https://github.com/esteerlino">Ester Lino</a>, 2023.</a></center></center>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6uBeMBfFbFcgkNFM9vBblB4T3xSV3C5lI9QlrwbdLBrRjeWjjrJGoax1yjsphpijGHPuyOCbm_bxt/pubchart?oid=1200741344&amp;format=interactive"></iframe>
+
+</center>
 
 ## Sugestões de Correções
 
