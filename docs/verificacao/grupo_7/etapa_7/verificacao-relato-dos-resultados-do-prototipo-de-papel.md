@@ -34,16 +34,41 @@ Fonte: [Eric Camrgo](https://github.com/ericcs10).
 
 ## Checklists
 
+A Tabela 2 apresenta o Checklist Geral com os dados obtidos a partir da verificação de aspectos gerais que os artefatos devem seguir.
+
 <center>
 
-**Tabela 2** - Checklist para o Relato dos Resultados do Protótipo de Papel
+_Tabela 2_ - Checklist para os Itens Gerais.
 
-| ID | Questão                                                               | Resposta individual(Sim / Não /Incompleto)  | Resposta em dupla| Comentário |
-| :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |---|
-| |  | | | |
+|  ID  |  Descrição  |  Avaliação  |  Observações  |
+|  --- | ----------- | ----------- | ------------- |
+| 1   | Os artefatos possuem introdução? |   |   |
+| 2   | Os artefatos possuem uma bibliografia/referência bibliográfica? |  |   |
+| 3   | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? |  |   |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? |  |    |
+| 5   | Todos os textos estão na norma padrão? |  |   |
+| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
 
+Fonte: [Eric Camargo](https://github.com/Ericcs10) e [Luana Torres](https://github.com/luanatorress), 2023.
 
-Fonte: [Eric Camrgo](https://github.com/ericcs10), 2023.
+</center>
+
+Tabela 3 apresenta o checklist referente aos itens exigidos para o [Relato dos Resultados do Protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel/relato-resultados-prototipo-alta-fidelidade/).
+
+<center>
+
+_Tabela 3_ - Checklist para o Planejamento da Avaliação do protótipo de papel.
+
+| ID  | Descrição                                                                                                | Avaliação | Observações                                |
+| --- | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------ |
+| 1   | Os objetivos das entrevistas estão documentados?                                                         |       |                                            |
+| 2   | Foi explicada a metodologia utilizada durante as entrevistas?                                                    |       |                                            |
+| 3   | Foram descritas quais as atividades avaliadas no prototipo?                                             |       |                                            |
+| 4  | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? |       |                                            |
+| 5  | Cada participante teve participação nas entrevistas?                                         |       |                                            |
+| 6  | As entrevistas estão devidamente registradas no documento?       |       |                                            |
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 </center>
 
