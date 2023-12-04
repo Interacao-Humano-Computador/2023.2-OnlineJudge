@@ -42,13 +42,13 @@ Fonte:[Pablo Guilherme](https://github.com/PabloGJBS).
 
 | ID  | Pergunta                                                                                  | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | --- | ----------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | ----------- |
-| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | Não                           |       não                           |             |
+| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | Sim                           |       não                           |             |
 | 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           |         sim                         |             |
-| 3   | Existe a análise dos resultados de cada verificação?                                      | Incompleto                    |          incompleto                        |             |
-| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Incompleto                    |         incompleto                         |             |
+| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                    |          Sim                        |             |
+| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                    |         Sim                         |             |
 | 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           |          sim                        |             |
 | 6   | São identificados os autores do artefato do grupo 8?                                      | Sim                           |          sim                        |             |
-| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Incompleto                    |           incompleto                       |             |
+| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                    |           Sim                       |             |
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -76,7 +76,6 @@ Fonte:[Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-- Refazer a verificação da parte de personas pois atualmente essa página do grupo 8 existe.
 - Sugerimos padronizar todas as cores dos gráficos (verificação da análise de tarefas ta diferente), e a verificação de personas está sem os gráficos.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
