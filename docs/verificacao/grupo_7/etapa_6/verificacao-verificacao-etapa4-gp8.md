@@ -40,11 +40,26 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 ## Um vídeo da inspeção em dupla
 
+<center>
+
+[Link para o video da inspeção em dupla](https://youtu.be/1Xic9hTx54c)
+
+<iframe width="1185" height="480" src="https://www.youtube.com/embed/1Xic9hTx54c" title="Verificação da verificação etapa 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Um vídeo de uma inspeção individual
 
 ## Problemas Encontrados e Sugestões de melhorias
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+<center>
+
+[Link para o video da inspeção em dupla](https://youtu.be/uoOCsyPo3K0)
+
+<iframe width="1185" height="480" src="https://www.youtube.com/embed/uoOCsyPo3K0" title="Correções da verificação da verificação da etapa 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
 ## Referências bibliográficas
 

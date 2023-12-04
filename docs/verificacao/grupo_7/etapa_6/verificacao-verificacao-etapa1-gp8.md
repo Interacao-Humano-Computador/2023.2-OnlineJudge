@@ -56,6 +56,14 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](http
 
 ## Um vídeo da inspeção em dupla
 
+<center>
+
+[Link para o video da inspeção em dupla](https://youtu.be/JPUp8S9YzEQ)
+
+<iframe width="1185" height="480" src="https://www.youtube.com/embed/JPUp8S9YzEQ" title="Verificação da verificação da etapa 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Um vídeo de uma inspeção individual
 
 ## Problemas Encontrados e Sugestões de melhorias

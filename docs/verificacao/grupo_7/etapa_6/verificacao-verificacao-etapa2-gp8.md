@@ -40,6 +40,14 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 ## Um vídeo da inspeção em dupla
 
+<center>
+
+[Link para o video da inspeção em dupla](https://youtu.be/_JmpSZh_DUc)
+
+<iframe width="1185" height="480" src="https://www.youtube.com/embed/_JmpSZh_DUc" title="Verificação da verificação etapa 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Um vídeo de uma inspeção individual
 
 ## Problemas Encontrados e Sugestões de melhorias
