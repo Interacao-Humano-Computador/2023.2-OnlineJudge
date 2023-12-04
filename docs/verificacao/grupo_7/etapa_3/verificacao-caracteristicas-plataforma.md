@@ -40,12 +40,12 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 | ID | Questão                                                               | Resposta individual(Sim / Não /Incompleto)  | Resposta em dupla| comentários |
 | :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |---|
-| 1 | O artefato apresenta as características da plataforma para o projeto? ||||
-| 2 | O artefato descreve que hardware é necessário para acessar o site?    ||||
-| 3 | O artefato descreve que software é necessário para acessar o site?    ||||
-| 4 | O artefato descreve as possibilidades da plataforma?                  ||||
-| 5 | O artefato descreve as limitações da plataforma?                      ||||
-| 6 | O artefato identifica as tecnologias utilizadas na plataforma?        ||||
+| 1 | O artefato apresenta as características da plataforma para o projeto? |Sim|||
+| 2 | O artefato descreve que hardware é necessário para acessar o site?    |Sim|||
+| 3 | O artefato descreve que software é necessário para acessar o site?    |Sim|||
+| 4 | O artefato descreve as possibilidades da plataforma?                  |Sim|||
+| 5 | O artefato descreve as limitações da plataforma?                      |Sim|||
+| 6 | O artefato identifica as tecnologias utilizadas na plataforma?        |Sim|||
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -57,7 +57,11 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
+
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Não foi necessário realizar nenhum vídeo para a correção do artefato, uma vez que como apresentado no tópico acima não consta nenhum problema e/ou alteração identificadas.
 
 ## Referências bibliográficas
 
@@ -70,3 +74,4 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [esteerlino](https://github.com/esteerlino) |
+|  1.1   | 04/12/2023 | Preenchimento das tabelas | [Pablo Guilherme](https://github.com/PabloJBS)  |  [Suzane Duarte](https://github.com/suzaneduarte)  |
