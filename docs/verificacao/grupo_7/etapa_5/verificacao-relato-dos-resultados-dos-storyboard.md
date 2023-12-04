@@ -1,4 +1,4 @@
-# **Sites Avaliados**
+# **Relato dos Resultados do Storyboard**
 
 ## Introdução
 
@@ -28,4 +28,4 @@
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 03/12/2023 | Criação do documento |  [Eric Camargo](https://github.com/Ericcs10), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
+|  1.0   | 03/12/2023 | Criação do documento |  [Eric Camargo](https://github.com/Ericcs10), [Luana Torres](https://github.com/luanatorress) | [Kallyne Macedo](https://github.com/kalipassos) |

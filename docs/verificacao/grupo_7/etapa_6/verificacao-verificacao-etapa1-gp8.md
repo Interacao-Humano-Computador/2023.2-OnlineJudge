@@ -42,13 +42,13 @@ Fonte:[Pablo Guilherme](https://github.com/PabloGJBS).
 
 | ID  | Pergunta                                                                                  | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | --- | ----------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | ----------- |
-| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | sim                           |                                  |             |
-| 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           |                                  |             |
-| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                           |                                  |             |
-| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                           |                                  |             |
-| 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           |                                  |             |
-| 6   | São identificados os autores do artefato do grupo 8?                                      | Não                           |                                  |             |
-| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                           |                                  |             |
+| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | sim                           |         sim                         |             |
+| 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           |           sim                       |             |
+| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                           |              sim                    |             |
+| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                           |          sim                        |             |
+| 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           |              sim                    |             |
+| 6   | São identificados os autores do artefato do grupo 8?                                      | Não                           |           não                       |             |
+| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                           |               sim                   |             |
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -66,6 +66,16 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](http
 
 ## Um vídeo de uma inspeção individual
 
+<center>
+
+[Link para o video da inspeção individual](https://youtu.be/ncoBKTECW2M)
+
+<iframe width="1185" height="480" src="https://www.youtube.com/embed/ncoBKTECW2M" title="individual verificação da verificação da etapa 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte:[Pablo Guilherme](https://github.com/PabloGJBS), 2023.
+
+</center>
+
 ## Problemas Encontrados e Sugestões de melhorias
 
 - Adicionar os autores do grupo 8 no planejamento dessa inspeção.
@@ -82,4 +92,7 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](http
 
 | Versão |    Data    |     Descrição     |                  Responsáveis                   |                     Revisor                      |
 | :----: | :--------: | :---------------: | :---------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.0   | 03/12/2023 |     Criação da página     |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 03/12/2023 | Preenchimento das tabelas |  [Suzane Duarte](https://github.com/suzaneduarte) |  [Pablo Guilherme](https://github.com/PabloJBS)  |
+|  1.2   | 04/12/2023 | correções nos titulos dos videos e adição de videos|  [Pablo Guilherme](https://github.com/PabloJBS) |  [Suzane Duarte](https://github.com/suzaneduarte)  |
+

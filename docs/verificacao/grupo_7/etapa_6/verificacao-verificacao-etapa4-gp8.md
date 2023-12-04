@@ -42,13 +42,13 @@ Fonte:[Pablo Guilherme](https://github.com/PabloGJBS).
 
 | ID  | Pergunta                                                                                  | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | --- | ----------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | ----------- |
-| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | Sim                           |                                  |             |
-| 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           |                                  |             |
-| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                           |                                  |             |
-| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                           |                                  |             |
-| 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           |                                  |             |
-| 6   | São identificados os autores do artefato do grupo 8?                                      | Sim                           |                                  |             |
-| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                           |                                  |             |
+| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | Sim                           |      Sim                            |             |
+| 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           |       Sim                           |             |
+| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                           |             Sim                     |             |
+| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                           |                Sim                  |             |
+| 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           |           Sim                       |             |
+| 6   | São identificados os autores do artefato do grupo 8?                                      | Sim                           |         Sim                         |             |
+| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                           |         Sim                        |             |
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -68,13 +68,25 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](http
 
 ## Um vídeo de uma inspeção individual
 
+<center>
+
+[Link para o video de inspeção individual](https://youtu.be/8dEdergRor8)
+
+<iframe width="1185" height="480" src="https://www.youtube.com/embed/8dEdergRor8" title="individual verificação da verificação da etapa 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte:[Pablo Guilherme](https://github.com/PabloGJBS), 2023.
+
+</center>
+
 ## Problemas Encontrados e Sugestões de melhorias
+
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
 <center>
 
-[Link para o video da inspeção em dupla](https://youtu.be/uoOCsyPo3K0)
+[Link para o video de correção](https://youtu.be/uoOCsyPo3K0)
 
 <iframe width="1185" height="480" src="https://www.youtube.com/embed/uoOCsyPo3K0" title="Correções da verificação da verificação da etapa 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -92,4 +104,6 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](http
 
 | Versão |    Data    |     Descrição     |                  Responsáveis                   |                     Revisor                      |
 | :----: | :--------: | :---------------: | :---------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.0   | 03/12/2023 |     Criação da página     |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 03/12/2023 | Preenchimento das tabelas |  [Suzane Duarte](https://github.com/suzaneduarte) |  [Pablo Guilherme](https://github.com/PabloJBS)  |
+|  1.2   | 04/12/2023 | correções nos titulos dos videos e adição de videos |  [Pablo Guilherme](https://github.com/PabloJBS) |  [Suzane Duarte](https://github.com/suzaneduarte)  |

@@ -38,19 +38,19 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 _Tabela 2_ - Checklist para o Guia de Estilo
 
-| ID | Questão                                                                                                                                                                            |  Resposta(Sim / Não / Incompleto) |   Comentário   |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :--------------: |
-| 1 | O artefato apresenta um guia de estilo correspondente ao site avaliado?                                                                                                             |        |                  |
-| 2 | O artefato apresenta um guia de estilo que representa as metas de usabilidade?                                                                                                      |       |                  |
-| 3 | O artefato apresenta um guia de estilo com introdução, resultados da análise, elementos de interface, elementos de interação, elementos de ação e voculabulário e padrões? |       |                  |
-| 4 | O artefato apresenta introdução com objetivo, organização, conteúdo, público-alvo, modo de uso e de manutenção do guia de estilo?                                          |      |                  |
-| 5 | O artefato apresenta resultados da análise com descrição do ambiente de trabalho do usuário?                                                                                    |       |                  |
-| 6 | O artefato apresenta elementos de interface com disposição espacial, grid, janelas, tipografia e cores?                                                                           |       |   Link externo   |
-| 7 | O artefato apresenta elementos de interação com estilos de interação, aceleradores e seleção do estilo?                                                                       | INCOMPLETO | Sem aceleradores |
-| 8 | O artefato apresenta elementos de ação com preenchimento de campos, seleção e ativação?                                                                                       |        |                  |
-| 9 | O planejamento apresenta vocabulário e padrões com terminologia, tipos de tela e sequência de diálogos?                                                                         |      |                  |
+| ID | Questão                                                                                                                                                                            |  Resposta(Sim / Não / Incompleto) |  Resposta em dupla   |comentários|
+| :-: | :---: | :--: | :--: |---|
+| 1 | O artefato apresenta um guia de estilo correspondente ao site avaliado? |Sim|||
+| 2 | O artefato apresenta um guia de estilo que representa as metas de usabilidade?|Sim|||
+| 3 | O artefato apresenta um guia de estilo com introdução, resultados da análise, elementos de interface, elementos de interação, elementos de ação e voculabulário e padrões?|Sim|||
+| 4 | O artefato apresenta introdução com objetivo, organização, conteúdo, público-alvo, modo de uso e de manutenção do guia de estilo?|Sim|||
+| 5 | O artefato apresenta resultados da análise com descrição do ambiente de trabalho do usuário?|Sim|||
+| 6 | O artefato apresenta elementos de interface com disposição espacial, grid, janelas, tipografia e cores?|Sim|||
+| 7 | O artefato apresenta elementos de interação com estilos de interação, aceleradores e seleção do estilo?|Sim|||
+| 8 | O artefato apresenta elementos de ação com preenchimento de campos, seleção e ativação?|Sim|||
+| 9 | O planejamento apresenta vocabulário e padrões com terminologia, tipos de tela e sequência de diálogos?|Sim|||
 
-Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 </center>
 
@@ -60,7 +60,11 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
+
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Não foi necessário realizar nenhum vídeo para a correção do artefato, uma vez que como apresentado no tópico acima não consta nenhum problema e/ou alteração identificadas.
 
 ## Referências bibliográficas
 
@@ -73,3 +77,4 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [esteerlino](https://github.com/esteerlino) |
+|  1.1   | 04/12/2023 | Preenchimento das tabelas | [Pablo Guilherme](https://github.com/PabloJBS)  |  [Suzane Duarte](https://github.com/suzaneduarte)  |
