@@ -15,17 +15,17 @@ Dessa forma, foi desenvolvido um checklist de verificação, levando em consider
 Os participantes envolvidos nessa verificação são:
 
 - [Ester Lino](https://github.com/esteerlino): Autor original do artefato analisado em questão
-- [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos): Dupla de avaliadores principais da verificação
-- [Kallyne Macedo](https://github.com/kalipassos): Um dos membros da dupla que avaliou (Avaliador principal)
+
+- [Kallyne Macedo](https://github.com/kalipassos): Avaliador principal
 
 <center>
 
 **Tabela 1** - Cronograma Completo dos Participantes da verificação
 
-|                                        Avaliador                                        |                                              Atividade                                              | Horário de Início | Horário de Fim |    Data    |      Local      |
-| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------: | :-------------: | :--------: | :-------------: |
-|                       [Kallyne Macedo](https://github.com/kalipassos)                       |              Realização de um vídeo da inspeção individual do avaliador principal              |        20:55        |      21:00      | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        21:10        |      21:20      | 04/12/2023 | Microsoft Teams |
+|                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
+| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
+|                          [Kallyne Macedo](https://github.com/kalipassos)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       20:55       |     21:00     | 04/12/2023 | Microsoft Teams |
+| [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       21:10       |    21:20    | 04/12/2023 | Microsoft Teams |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -48,7 +48,7 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 | 5  | Todos os textos estão na norma padrão?                                                                                   | INCOMPLETO  | Erros de digitação e ortografia |
 | 6  | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                       | SIM         |                                   |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 </center>
 
@@ -72,7 +72,7 @@ _Tabela 3_ - Checklist para o Planejamento do Relato dos Resultados do Storyboar
 | 10 | O planejamento apresenta instruções com relação às sugestões de melhorias?                                       |    SIM    |                                                |
 | 11 | O planejamento define tópico para sumarizar os principais resultados?                                                 |    SIM    |                                                |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 </center>
 

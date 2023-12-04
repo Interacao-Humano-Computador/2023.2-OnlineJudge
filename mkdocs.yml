@@ -111,11 +111,11 @@ nav:
               - Cronograma: verificacao/grupo_7/etapa_1/verificacao-cronograma.md
           - Etapa 2:
               - Verificação das Personas: verificacao/grupo_7/etapa_2/verificacao-personas.md
+              - Verificação do Perfil de Usuário: verificacao/grupo_7/etapa_2/verificacao-perfil-usuario.md
+              - Verificação dos Cenários: verificacao/grupo_7/etapa_2/verificacao-cenarios.md
               - Verificação da Análise de Tarefas (GOMS): verificacao/grupo_7/etapa_2/verificacao-analisetarefas-goms.md
               - Verificação da Análise de Tarefas (HTA): verificacao/grupo_7/etapa_2/verificacao-analisetarefas-hta.md
               - Verificação dos Aspectos Éticos: verificacao/grupo_7/etapa_2/verificacao-aspectos-eticos.md
-              - Verificação dos Cenários: verificacao/grupo_7/etapa_2/verificacao-cenarios.md
-              - Verificação do Perfil de Usuário: verificacao/grupo_7/etapa_2/verificacao-perfil-usuario.md
           - Etapa 3:
               - Verificação das Características da Plataforma: verificacao/grupo_7/etapa_3/verificacao-caracteristicas-plataforma.md
               - Verificação do Guia de Estilo: verificacao/grupo_7/etapa_3/verificacao-guia-estilo.md
@@ -128,10 +128,10 @@ nav:
               - Verificação do Planejamento da Relato dos Resultados da Avaliação do Storyboard: verificacao/grupo_7/etapa_4/verificacao-planejamento-resultados-storyboard.md
               - Verificação dos Storyboards: verificacao/grupo_7/etapa_4/verificacao-storyboards.md
           - Etapa 5:
-              - Verificação dos Relatos dos Resultados do Storyboard: verificacao/grupo_7/etapa_5/verificacao-relatos-dos-resultados-dos-storyboard.md
-              - Verificação dos Relatos dos Resultados da Analise de Tarefas: verificacao/grupo_7/etapa_5/verificacao-relatos-dos-resultados-analise-de-tarefas.md
+              - Verificação dos Relatos dos Resultados do Storyboard: verificacao/grupo_7/etapa_5/verificacao-relato-dos-resultados-dos-storyboard.md
+              - Verificação dos Relatos dos Resultados da Analise de Tarefas: verificacao/grupo_7/etapa_5/verificacao-relato-dos-resultados-analise-de-tarefas.md
               - Verificação do Planejamento da Avaliação do Protótipo de Papel: verificacao/grupo_7/etapa_5/verificacao-planejamento-avaliacao-prototipo-de-papel.md
-              - Verificação do Planejamento dos Relatos dos Resultados do Protótipo de Papel: verificacao/grupo_7/etapa_5/verificacao-planejamento-do-relato-dos-resultados-prototipo-de-papel.md 
+              - Verificação do Planejamento dos Relatos dos Resultados do Protótipo de Papel: verificacao/grupo_7/etapa_5/verificacao-planejamento-do-relato-dos-resultados-prototipo-de-papel.md
           - Etapa 6:
               - Verificação da verificação do grupo 8 (etapa 1): verificacao/grupo_7/etapa_6/verificacao-verificacao-etapa1-gp8.md
               - Verificação da verificação do grupo 8 (etapa 2): verificacao/grupo_7/etapa_6/verificacao-verificacao-etapa2-gp8.md

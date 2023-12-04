@@ -84,7 +84,7 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não há nenhuma sugestão de melhoria para ser realizado nessa etapa.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
@@ -98,9 +98,8 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 
 ## Histórico de versão
 
-| Versão |    Data    |         Descrição         |                   Responsáveis                    |                     Revisor                      |
-| :----: | :--------: | :-----------------------: | :-----------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 03/12/2023 |     Criação da página     |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
-|  1.1   | 03/12/2023 | Preenchimento das tabelas |  [Suzane Duarte](https://github.com/suzaneduarte) |  [Pablo Guilherme](https://github.com/PabloJBS)  |
-|  1.2   | 04/12/2023 | correções nos titulos dos videos |  [Pablo Guilherme](https://github.com/PabloJBS) |  [Suzane Duarte](https://github.com/suzaneduarte)  |
-
+| Versão |    Data    |            Descrição             |                   Responsáveis                    |                     Revisor                      |
+| :----: | :--------: | :------------------------------: | :-----------------------------------------------: | :----------------------------------------------: |
+|  1.0   | 03/12/2023 |        Criação da página         |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 03/12/2023 |    Preenchimento das tabelas     |  [Suzane Duarte](https://github.com/suzaneduarte) |  [Pablo Guilherme](https://github.com/PabloJBS)  |
+|  1.2   | 04/12/2023 | correções nos titulos dos videos |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |

@@ -16,9 +16,7 @@ Os participantes envolvidos nessa verificação são:
 
 - [Eric Camargo](https://github.com/ericcs10)   e [Henrique Torres](https://github.com/henriqtorresl): Autor original do artefato analisado em questão
 
-- [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos): Dupla de avaliadores principais da verificação
-
-- [Kallyne Macedo](https://github.com/kalipassos): Um dos membros da dupla que avaliou (Avaliador principal)
+- [Ester Lino](https://github.com/esteerlino): Avaliador principal
 
 <center>
 
@@ -26,9 +24,8 @@ Os participantes envolvidos nessa verificação são:
 
 |                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       20:10      |     20:15      | 04/12/2023 | Microsoft Teams |
-|                          [Kallyne Macedo](https://github.com/kalipassos)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       20:20       |     20:25     | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       20:30       |    20:40     | 04/12/2023 | Microsoft Teams |
+|                          [Ester Lino](https://github.com/esteerlino)                           |              Realização de um vídeo da inspeção individual do avaliador principal               |       20:20       |     20:25     | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       20:30       |    20:40     | 04/12/2023 | Microsoft Teams |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -51,7 +48,7 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 | 5   | Todos os textos estão na norma padrão? |  |   |
 | 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 </center>
 
@@ -75,17 +72,13 @@ _Tabela 3_ - Checklist para o Planejamento do Relato dos Resultados da Análise 
 | 10  | O planejamento apresenta instruções com relação às sugestões de melhorias ?                                            |          |            |
 | 11  | O planejamento define tópico para sumarizar os principais resultados?                                                  |          |            |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 </center>
 
-## Um vídeo da inspeção em dupla
-
-Link e frame do vídeo não listado no youtube entre a dupla [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos).
-
 ## Um vídeo de uma inspeção individual
 
-Link e frame do vídeo não listado no youtube do avaliador principal [Kallyne Macedo](https://github.com/kalipassos).
+Link e frame do vídeo não listado no youtube do avaliador principal [Ester Lino](https://github.com/esteerlino).
 
 ## Problemas Encontrados e Sugestões de melhorias
 
@@ -93,7 +86,7 @@ Todos os problemas encontrados e sugestões de melhoria
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
-Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Eric Camargo](https://github.com/ericcs10)   e [Henrique Torres](https://github.com/henriqtorresl)) mostrando as alterações que ela realizou a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Kallyne Macedo](https://github.com/kalipassos).
+Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Eric Camargo](https://github.com/ericcs10)   e [Henrique Torres](https://github.com/henriqtorresl)) mostrando as alterações que ela realizou a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Ester Lino](https://github.com/esteerlino).
 
 ## Bibliografia
 
@@ -103,4 +96,4 @@ Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Er
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 04/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.0   | 04/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
