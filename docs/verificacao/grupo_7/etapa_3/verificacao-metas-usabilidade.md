@@ -1,8 +1,8 @@
-# **Verificação das metas de usabilidade**
+# **Verificação das Metas de Usabilidade**
 
 ## Introdução
 
-Esse documento se trata da etapa de verificação do artefato Planejamento da avaliação da análise de tarefas, produzido por [Luana Torres](https://github.com/luanatorress) e [Ester Lino](https://github.com/esteerlino) no decorrer do projeto.
+Esse documento se trata da etapa de verificação do artefato Metas de Usabilidade, produzido por [Luana Torres](https://github.com/luanatorress) e [Ester Lino](https://github.com/esteerlino) no decorrer do projeto.
 
 ## Metodologia
 
@@ -18,7 +18,7 @@ Os participantes envolvidos nessa verificação são:
 
 - [Pablo Guilherme](https://github.com/PabloGJBS) e [Henrique Torres](https://github.com/henriqtorresl): Dupla de avaliadores principais da verificação
 
-- [Pablo Guilherme](https://github.com/PabloGJBS): Um dos membros da dupla que avaliou (Avaliador principal)
+- [Henrique Torres](https://github.com/henriqtorresl): Um dos membros da dupla que avaliou (Avaliador principal)
 
 <center>
 
@@ -28,15 +28,26 @@ Os participantes envolvidos nessa verificação são:
 | :-------------------------------------------------------------: | :-----------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
 | [Pablo Guilherme](https://github.com/PabloGJBS) e [Henrique Torres](https://github.com/henriqtorresl) | Realização de um vídeo da inspeção em dupla |       10:50       |     11:00      | 03/12/2023 | Microsoft Teams |
 
-Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
+Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
 </center>
 
 ## Checklists
 
-|ID|Pergunta|Resposta|Observações|
-|---|---|---|---|
-|---|---|---|---|
+<center>
+
+**Tabela 2** - Checklist para as Metas de Usabilidade
+
+| ID | Questão                                                               | Resposta(Sim / Não /Incompleto)  |                                   Comentário                |
+| :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |
+| 1 | As metas de usabilidade são representadas de forma clara? |        |                                                                                                    |
+| 2 | As metas foram definidas considerando o perfil de usuário? |        |                                                                                                   |
+| 3 | Cada meta de usabilidade possui uma explicação concisa e compreensível? |        |                                                                                      |
+| 4 | Os requisitos de usabilidade, necessários para atingir as metas propostas, foram identificados? |        |                                                              |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
+
+</center>
 
 ## Um vídeo da inspeção em dupla
 
@@ -57,3 +68,4 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [esteerlino](https://github.com/esteerlino) |
+|  1.1   | 03/12/2023 | Adicionando o checklist |  [Henrique Torres](https://github.com/henriqtorresl) |  |

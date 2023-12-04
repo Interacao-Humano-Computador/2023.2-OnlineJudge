@@ -1,8 +1,8 @@
-# **Verificação dos principios gerais do projeto**
+# **Verificação dos Principios Gerais do Projeto**
 
 ## Introdução
 
-Esse documento se trata da etapa de verificação do artefato Planejamento da avaliação da análise de tarefas, produzido por [Kallyne Macedo](https://github.com/kalipassos) e [Pablo Guilherme](https://github.com/PabloGJBS) no decorrer do projeto.
+Esse documento se trata da etapa de verificação do artefato Principios Gerais do Projeto, produzido por [Kallyne Macedo](https://github.com/kalipassos) e [Pablo Guilherme](https://github.com/PabloGJBS) no decorrer do projeto.
 
 ## Metodologia
 
@@ -18,7 +18,7 @@ Os participantes envolvidos nessa verificação são:
 
 - [Pablo Guilherme](https://github.com/PabloGJBS) e [Henrique Torres](https://github.com/henriqtorresl): Dupla de avaliadores principais da verificação
 
-- [Pablo Guilherme](https://github.com/PabloGJBS): Um dos membros da dupla que avaliou (Avaliador principal)
+- [Henrique Torres](https://github.com/henriqtorresl): Um dos membros da dupla que avaliou (Avaliador principal)
 
 <center>
 
@@ -33,6 +33,25 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 </center>
 
 ## Checklists
+
+<center>
+
+**Tabela 2** - Checklist para os Principios Gerais do Projeto
+
+| ID | Questão                                                               | Resposta(Sim / Não /Incompleto)  |                                   Comentário                |
+| :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |
+| 1 | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ? |        |                                                                    |
+| 2 | Os princípios gerais do projeto contém consistência e padronização ? |        |                                                                                         |
+| 3 | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ? |        |                                                                    |
+| 4 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ? |        |                                                                             |
+| 5 | Os princípios gerais do projeto contém antecipação das necessidades do usuário ? |        |                                                                             |
+| 6 | Os princípios gerais do projeto contém visibilidade e reconhecimento ? |        |                                                                                       |
+| 7 | Os princípios gerais do projeto contém projeto para erros ? |        |                                                                                                  |
+
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
+
+</center>
 
 ## Um vídeo da inspeção em dupla
 
@@ -53,3 +72,4 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [esteerlino](https://github.com/esteerlino) |
+|  1.1   | 03/12/2023 | Adicionando o checklist |  [Henrique Torres](https://github.com/henriqtorresl) |  |
