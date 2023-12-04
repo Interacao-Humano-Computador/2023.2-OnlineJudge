@@ -38,15 +38,15 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 **Tabela 2** - Checklist para os Principios Gerais do Projeto
 
-| ID | Questão                                                               | Resposta(Sim / Não /Incompleto)  |                                   Comentário                |
-| :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |
-| 1 | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ? |    Sim    |                                                                    |
-| 2 | Os princípios gerais do projeto contém consistência e padronização ? |    Sim    |                                                                                         |
-| 3 | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ? |    Sim    |                                                                    |
-| 4 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ? |    Sim    |                                                                             |
-| 5 | Os princípios gerais do projeto contém antecipação das necessidades do usuário ? |    Sim    |                                                                             |
-| 6 | Os princípios gerais do projeto contém visibilidade e reconhecimento ? |   Sim     |                                                                                       |
-| 7 | Os princípios gerais do projeto contém projeto para erros ? |    Sim    |                                                                                                  |
+| ID | Questão                                                                                                                                                                            |  Resposta(Sim / Não / Incompleto) |  Resposta em dupla   |Comentário|
+| :-: | :---: | :--: | :--: |---|
+| 1 |  Os princípios gerais do projeto contém correspondência com as expectativas dos usuários? |Sim|Sim||
+| 2 |Os princípios gerais do projeto contém consistência e padronização?|Sim|Sim|
+| 3 |  Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário?|Sim|Sim||
+| 4 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada?|Sim|Sim||
+| 5 | Os princípios gerais do projeto contém antecipação das necessidades do usuário?|Sim|Sim||
+| 6 | Os princípios gerais do projeto contém visibilidade e reconhecimento?|Sim|Sim||
+| 7 | Os princípios gerais do projeto contém projeto para erros? |Sim|Sim||
 
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
@@ -54,6 +54,14 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 </center>
 
 ## Um vídeo da inspeção em dupla
+
+- Vídeo da inspeção em dupla:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lnL4oirv9qU?si=lUlcjDrTG5I6ya70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 ## Um vídeo de uma inspeção individual
 
@@ -67,13 +75,15 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
+
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Não foi necessário realizar nenhum vídeo para a correção do artefato, uma vez que como apresentado no tópico acima não consta nenhum problema e/ou alteração identificadas.
 
 ## Referências bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
-
-## Bibliografia
 
 ## Histórico de versão
 

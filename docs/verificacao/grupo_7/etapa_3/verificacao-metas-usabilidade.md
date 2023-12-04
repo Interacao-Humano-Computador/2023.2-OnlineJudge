@@ -38,18 +38,26 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl).
 
 **Tabela 2** - Checklist para as Metas de Usabilidade
 
-| ID | Questão                                                               | Resposta(Sim / Não /Incompleto)  |                                   Comentário                |
-| :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |
-| 1 | As metas de usabilidade são representadas de forma clara? |    Sim    |                                                                                                    |
-| 2 | As metas foram definidas considerando o perfil de usuário? |    Sim    |                                                                                                   |
-| 3 | Cada meta de usabilidade possui uma explicação concisa e compreensível? |     Sim   |                                                                                      |
-| 4 | Os requisitos de usabilidade, necessários para atingir as metas propostas, foram identificados? |   Sim     |                                                              |
+| ID | Questão                                                               | Resposta(Sim / Não /Incompleto)  |       Resposta em dupla  |                            Comentário                |
+| :-: | :--------------------------------------------------------------------- | :--------: | :--------: | :-----------------------------------------------------------------------------: |
+| 1 | As metas de usabilidade são representadas de forma clara? |    Sim    |   Sim    |                                                                                             |
+| 2 | As metas foram definidas considerando o perfil de usuário? |    Sim    |     Sim      |                                                                                        |
+| 3 | Cada meta de usabilidade possui uma explicação concisa e compreensível? |     Sim   |   Sim    |                                                                               |
+| 4 | Os requisitos de usabilidade, necessários para atingir as metas propostas, foram identificados? |   Sim     |   Sim    |                                                       |
 
 Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
 </center>
 
 ## Um vídeo da inspeção em dupla
+
+- Vídeo da inspeção em dupla:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6GxVDPt0p6g?si=FKPvCD6SdtB2sY7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 ## Um vídeo de uma inspeção individual
 
@@ -63,13 +71,15 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
+
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Não foi necessário realizar nenhum vídeo para a correção do artefato, uma vez que como apresentado no tópico acima não consta nenhum problema e/ou alteração identificadas.
 
 ## Referências bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
-
-## Bibliografia
 
 ## Histórico de versão
 

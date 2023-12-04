@@ -38,20 +38,28 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 **Tabela 2** - Checklist para as Características Gerais da Plataforma
 
-| ID | Questão                                                               | Resposta individual(Sim / Não /Incompleto)  | Resposta em dupla| comentários |
+| ID | Questão                                                               | Resposta individual(Sim / Não /Incompleto)  | Resposta em dupla| Comentário |
 | :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |---|
-| 1 | O artefato apresenta as características da plataforma para o projeto? |Sim|||
-| 2 | O artefato descreve que hardware é necessário para acessar o site?    |Sim|||
-| 3 | O artefato descreve que software é necessário para acessar o site?    |Sim|||
-| 4 | O artefato descreve as possibilidades da plataforma?                  |Sim|||
-| 5 | O artefato descreve as limitações da plataforma?                      |Sim|||
-| 6 | O artefato identifica as tecnologias utilizadas na plataforma?        |Sim|||
+| 1 | O artefato apresenta as características da plataforma para o projeto? |Sim|Sim||
+| 2 | O artefato descreve que hardware é necessário para acessar o site?    |Sim|Sim||
+| 3 | O artefato descreve que software é necessário para acessar o site?    |Sim|Sim||
+| 4 | O artefato descreve as possibilidades da plataforma?                  |Sim|Sim||
+| 5 | O artefato descreve as limitações da plataforma?                      |Sim|Sim||
+| 6 | O artefato identifica as tecnologias utilizadas na plataforma?        |Sim|Sim||
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 </center>
 
 ## Um vídeo da inspeção em dupla
+
+- Vídeo da inspeção em dupla:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BcvJUHyf38o?si=et2rzP-eKVoeE3EN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 ## Um vídeo de uma inspeção individual
 
@@ -66,8 +74,6 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 ## Referências bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
-
-## Bibliografia
 
 ## Histórico de versão
 
