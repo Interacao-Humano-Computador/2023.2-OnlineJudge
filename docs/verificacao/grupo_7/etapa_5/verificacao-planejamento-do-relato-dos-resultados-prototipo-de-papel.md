@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse documento se trata da etapa de verificação da inspeção da etapa 5 do grupo 7, produzido por [Eric Camargo](https://github.com/Ericcs10) no decorrer do projeto. Apesar deste artefato possuir alterações realizadas por todos os membros, uma vez que na análises de tarefas cada um inseriu seu próprio diagrama HTA para a respectiva tarefa escolhida, o autor que realizou a criação da base do artefato será considerado como o autor original.
+Esse documento se trata da etapa de verificação da inspeção da etapa 5 do grupo 7, produzido por [Eric Camargo](https://github.com/Ericcs10) no decorrer do projeto. O artefato em questão é o planejamento do relato dos resultados do protótipo de papel.
 
 ## Metodologia
 
