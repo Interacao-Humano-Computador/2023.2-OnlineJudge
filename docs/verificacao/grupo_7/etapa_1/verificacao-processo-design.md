@@ -90,17 +90,9 @@ Todos os problemas encontrados e sugestões de melhoria
 
 Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefato ([Ester Lino](https://github.com/esteerlino) e [Pablo Guilherme](https://github.com/PabloGJBS)) mostrando as alterações que eles realizaram a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Kallyne Macedo](https://github.com/kalipassos).
 
-## Referências bibliográficas
-
-> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
-
 ## Bibliografia
 
-> 1. IHC - Domínio Público. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/. Acesso em: 03 de dezembro 2023.<br></br>
-
-> 2. André Barros,Plano de Ensino de Interação humano-computador, Disponível em : https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf, Acesso em: 03 de dezembro 2023.<br></br>
-
-> 3. IHC - Plataforma Lattes. Disponível em: https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verifica%C3%A7%C3%A3o/Grupo%2003/planejamento%20da%20verifica%C3%A7%C3%A3o/ Acesso em: 03 de dezembro 2023.<br></br>
+> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
 
 ## Histórico de versão
 
