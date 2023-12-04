@@ -38,17 +38,17 @@ Fonte:[Suzane Duarte](https://github.com/suzaneduarte).
 
 <center>
 
-## Checklists
+**Tabela 2** - Checklist para a verificação da verificação realizada no grupo +1 (etapa 6)
 
 | ID  | Pergunta                                                                                  | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | --- | ----------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | ----------- |
-| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | Sim                           |                                  |             |
-| 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           |                                  |             |
-| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                           |                                  |             |
-| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                           |                                  |             |
-| 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           |                                  |             |
-| 6   | São identificados os autores do artefato do grupo 8?                                      | Sim                           |                                  |             |
-| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                           |                                  |             |
+| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | Sim                           | Sim                              |             |
+| 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           | Sim                              |             |
+| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                           | Sim                              |             |
+| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                           | Sim                              |             |
+| 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           | Sim                              |             |
+| 6   | São identificados os autores do artefato do grupo 8?                                      | Sim                           | Sim                              |             |
+| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                           | Sim                              |             |
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -56,28 +56,39 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](http
 
 ## Um vídeo da inspeção em dupla
 
+A seguir é apresentado o vídeo realizado pela dupla da verificação.
+
 <center>
 
 [Link para o video da inspeção em dupla](https://youtu.be/5I8tu3wB6cc)
 
 <iframe width="1185" height="480" src="https://www.youtube.com/embed/5I8tu3wB6cc" title="Verificação da verificação etapa 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-</center>
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
+</center>
 
 ## Um vídeo de uma inspeção individual
 
 A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefato:
 
+<center>
+
+[Link para o video da inspeção em dupla](https://www.youtube.com/embed/zrALmmqsLRs?si=fVFP0NRi6Qaqb_Wf)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zrALmmqsLRs?si=fVFP0NRi6Qaqb_Wf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
+
+</center>
 
 ## Problemas Encontrados e Sugestões de melhorias
 
 Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Não foi necessário realizar nenhum vídeo para a correção do artefato, uma vez que como apresentado no tópico acima não consta nenhum problema e/ou alteração identificadas.
 
 ## Referências bibliográficas
 

@@ -38,7 +38,7 @@ Fonte:[Pablo Guilherme](https://github.com/PabloGJBS).
 
 <center>
 
-## Checklists
+**Tabela 2** - Checklist para a verificação da verificação realizada no grupo +1 (etapa 6)
 
 | ID  | Pergunta                                                                                  | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | --- | ----------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | ----------- |

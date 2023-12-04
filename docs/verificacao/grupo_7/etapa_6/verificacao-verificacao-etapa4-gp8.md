@@ -38,7 +38,7 @@ Fonte:[Pablo Guilherme](https://github.com/PabloGJBS).
 
 <center>
 
-## Checklists
+**Tabela 2** - Checklist para a verificação da verificação realizada no grupo +1 (etapa 6)
 
 | ID  | Pergunta                                                                                  | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | --- | ----------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | ----------- |
@@ -62,6 +62,8 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](http
 
 <iframe width="1185" height="480" src="https://www.youtube.com/embed/1Xic9hTx54c" title="Verificação da verificação etapa 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
+
 </center>
 
 ## Um vídeo de uma inspeção individual
@@ -75,6 +77,9 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](http
 [Link para o video da inspeção em dupla](https://youtu.be/uoOCsyPo3K0)
 
 <iframe width="1185" height="480" src="https://www.youtube.com/embed/uoOCsyPo3K0" title="Correções da verificação da verificação da etapa 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
+
 </center>
 
 ## Referências bibliográficas
