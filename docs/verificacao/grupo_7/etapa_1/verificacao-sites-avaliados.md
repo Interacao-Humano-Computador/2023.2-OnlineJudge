@@ -15,17 +15,15 @@ Para realizar essa inspeção, o grupo desenvolveu um checklist de verificação
 Os participantes envolvidos nessa verificação são:
 
 - [Ester Lino](https://github.com/esteerlino) e [Pablo Guilherme](https://github.com/PabloGJBS): Autores originais do artefato analisado em questão
-
 - [Kallyne Macedo](https://github.com/kalipassos):  Avaliador principal
 
 <center>
 
 **Tabela 1** - Cronograma Completo dos Participantes da verificação
 
-|                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
-| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-|                          [Kallyne Macedo](https://github.com/kalipassos)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       18:20       |     18:25     | 04/12/2023 | Microsoft Teams |
-| [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       18:30       |    18:50      | 04/12/2023 | Microsoft Teams |
+|                  Avaliador                  |                                 Atividade                                 | Horário de Início | Horário de Fim |    Data    |      Local      |
+| :------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------: | :-------------: | :--------: | :-------------: |
+| [Kallyne Macedo](https://github.com/kalipassos) | Realização de um vídeo da inspeção individual do avaliador principal |        18:20        |      18:25      | 04/12/2023 | Microsoft Teams |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 
@@ -39,14 +37,11 @@ A Tabela 2 apresenta o Checklist Geral com os dados obtidos a partir da verifica
 
 _Tabela 2_ - Checklist para os Itens Gerais.
 
-|  ID  |  Descrição  |  Avaliação  |  Observações  |
-|  --- | ----------- | ----------- | ------------- |
-| 1   | Os artefatos possuem introdução? |   |   |
-| 2   | Os artefatos possuem uma bibliografia/referência bibliográfica? |  |   |
-| 3   | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? |  |   |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? |  |    |
-| 5   | Todos os textos estão na norma padrão? |  |   |
-| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
+| ID | Descrição                                                                                                                | Avaliação | Observações |
+| -- | -------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- |
+| 1  | Os artefatos possuem introdução?                                                                                         | SIM         |               |
+| 2  | Os artefatos possuem um histórico de versões com o ID e descrição das versões, data, autores e revisores padronizado? | SIM         |               |
+| 3  | Todos os textos estão na norma padrão?                                                                                   | SIM         |               |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
@@ -58,12 +53,12 @@ Tabela 3 apresenta o checklist referente aos itens exigidos para o [Sites Avalia
 
 _Tabela 3_ - Checklist para o Sites avaliados.
 
-| ID  | Descrição                                                                                                          | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | Cada integrante do grupo realizou o planejamento e a avaliação de um site?                                         |           |             |
-| 2   | São abordada as heurísticas violadas em cada site escolhido?                                                       |           |             |
-| 3   | Para cada site foram identificados problemas de usabilidade?                                                       |           |             |
-| 4   | Foi utilizado o framework DECIDE para planejar a avaliação dos sites?                                              |           |             |
+| ID | Descrição                                                                  | Avaliação | Observações |
+| -- | ---------------------------------------------------------------------------- | ----------- | ------------- |
+| 1  | Cada integrante do grupo realizou o planejamento e a avaliação de um site? | SIM         |               |
+| 2  | São abordada as heurísticas violadas em cada site escolhido?               | SIM         |               |
+| 3  | Para cada site foram identificados problemas de usabilidade?                 | SIM         |               |
+| 4  | Foi utilizado o framework DECIDE para planejar a avaliação dos sites?      | SIM         |               |
 
 Fonte: [Kallyne Macedo](https://github.com/kalipassos), 20233.
 
@@ -71,15 +66,13 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 20233.
 
 ## Um vídeo de uma inspeção individual
 
-Link e frame do vídeo não listado no youtube do Avaliador principal [Kallyne Macedo](https://github.com/kalipassos)
+[Link da gravação](https://www.youtube.com/watch?v=9GHxDBMA2Kc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GHxDBMA2Kc?si=MjiVq7Dxo-ONTUJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-Todos os problemas encontrados e sugestões de melhorias
-
-## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
-
-Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefato ([Ester Lino](https://github.com/esteerlino) e [Pablo Guilherme](https://github.com/PabloGJBS)) mostrando as alterações que eles realizaram a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Kallyne Macedo](https://github.com/kalipassos).
+Não foram encontrados problemas no artefato.
 
 ## Bibliografia
 
@@ -87,7 +80,8 @@ Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefat
 
 ## Histórico de versão
 
-| Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
-| :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 03/12/2023 | Criação do documento |  [Eric Camargo](https://github.com/Ericcs10) | [Henrique Torres](https://github.com/henriqtorresl) |
-|  1.1   | 04/12/2023 | Alteração da dupla de avaliadores |  [Ester Lino](https://github.com/esteerlino) | [Henrique Torres](https://github.com/henriqtorresl) |
+| Versão |    Data    |             Descrição             |                Responsáveis                |                     Revisor                     |
+| :-----: | :--------: | :---------------------------------: | :------------------------------------------: | :----------------------------------------------: |
+|   1.0   | 03/12/2023 |       Criação do documento       |   [Eric Camargo](https://github.com/Ericcs10)   | [Henrique Torres](https://github.com/henriqtorresl) |
+|   1.1   | 04/12/2023 | Alteração da dupla de avaliadores |   [Ester Lino](https://github.com/esteerlino)   | [Henrique Torres](https://github.com/henriqtorresl) |
+|   1.2   | 04/12/2023 |        Inspeção individual        | [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
