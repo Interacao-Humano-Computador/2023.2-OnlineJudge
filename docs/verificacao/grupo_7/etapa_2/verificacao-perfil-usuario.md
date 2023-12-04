@@ -47,15 +47,15 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para Perfil de Usu
 | ID  |        Questão       | Resposta da inspeção em dupla | Respostas da inspeção individual |     Comentário     |
 | :-: | :-------------------:| :--------------: |  :--------------: |  :----------------: |
 |  1  | O Perfil de Usuário possui dados demográficos (idade, sexo, status socioeconômico)? |        |     INCOMPLETO      |     Não possui status socioeconomico       |
-|  2  | O Perfil de Usuário possui ocupação? |          |     SIM       |            |
-|  3  | O Perfil de Usuário possui grau de instrução? |         |    SIM    |            |
-|  4  | O Perfil de Usuário identifica como o usuário gosta de aprender (com ou sem ajuda)? |        |    NÃO    |            |
-|  5  | O Perfil de Usuário possui experiência com o produto ou similares ao avaliado? |        |     SIM     |            |
-|  6  | O Perfil de Usuário possui tecnologia disponível (dispositivos)? |        |    SIM    |            |
-|  7 | O Perfil de Usuário possui domínio tecnológico (tecnofóbico ou tecnófilo)? |         |      SIM      |            |
+|  2  | O Perfil de Usuário possui ocupação? |    SIM      |     SIM       |            |
+|  3  | O Perfil de Usuário possui grau de instrução? |     SIM    |    SIM    |            |
+|  4  | O Perfil de Usuário identifica como o usuário gosta de aprender (com ou sem ajuda)? |    NÃO    |    NÃO    |            |
+|  5  | O Perfil de Usuário possui experiência com o produto ou similares ao avaliado? |    NÃO    |     SIM     |            |
+|  6  | O Perfil de Usuário possui tecnologia disponível (dispositivos)? |   SIM     |    SIM    |            |
+|  7 | O Perfil de Usuário possui domínio tecnológico (tecnofóbico ou tecnófilo)? |     SIM    |      SIM      |            |
 |  8  | O Perfil de Usuário possui os objetivos do mesmo? |        |    NÃO        |            |
-|  9  | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários? |         |    SIM     |            |
-|  10  | O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema: idade, experiência; atitudes (tecnófilos, tecnófobos); e tarefas primárias? |         |     SIM       |            |
+|  9  | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários? |    SIM     |    SIM     |            |
+|  10  | O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema: idade, experiência; atitudes (tecnófilos, tecnófobos); e tarefas primárias? |    SIM     |     SIM       |            |
 
 Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
