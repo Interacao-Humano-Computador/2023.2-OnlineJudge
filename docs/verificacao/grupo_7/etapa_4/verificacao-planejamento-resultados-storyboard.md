@@ -59,7 +59,7 @@ Tabela 3 apresenta o checklist referente aos itens exigidos para o [Planejamento
 
 <center>
 
-_Tabela 3_ - Checklist para o Planejamento da Avaliação da Análise de Tarefas
+_Tabela 3_ - Checklist para o Planejamento do Relato dos Resultados do Storyboard
 
 | ID  | Questão                                                                                                               |  Resposta  |    Comentário          |
 | :-: | :-------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------------------------------: |
