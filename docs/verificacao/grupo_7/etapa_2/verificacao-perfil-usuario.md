@@ -44,19 +44,18 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para Perfil de Usu
 **Tabela 2** - Checklist para Perfil de Usuário
 
 
-| ID  |        Questão       |     Resposta     |     Comentário     |
-| :-: | :-------------------:| :--------------: | :----------------: |
-|  1  | O Perfil de Usuário possui dados demográficos (idade, sexo, status socioeconômico)? |        |           |
-|  2  | O Perfil de Usuário possui ocupação? |          |            |
-|  3  | O Perfil de Usuário possui grau de instrução? |         |        |
-|  4  | O Perfil de Usuário possui área de formação? |      |        |
-|  5  | O Perfil de Usuário identifica como o usuário gosta de aprender (com ou sem ajuda)? |        |        |
-|  6  | O Perfil de Usuário possui experiência com o produto ou similares ao avaliado? |        |          |
-|  7  | O Perfil de Usuário possui tecnologia disponível (dispositivos)? |        |         |
-|  8 | O Perfil de Usuário possui domínio tecnológico (tecnofóbico ou tecnófilo)? |         |            |
-|  9  | O Perfil de Usuário possui os objetivos do mesmo? |        |            |
-|  10  | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários? |         |            |
-|  11  | O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema: idade (criança, jovem, adulto, terceira idade etc.);experiência (leigo/ novato, especialista); atitudes (tecnófilos, tecnófobos); e tarefas primárias (compra, venda) |         |            |
+| ID  |        Questão       | Resposta da inspeção em dupla | Respostas da inspeção individual |     Comentário     |
+| :-: | :-------------------:| :--------------: |  :--------------: |  :----------------: |
+|  1  | O Perfil de Usuário possui dados demográficos (idade, sexo, status socioeconômico)? |        |     INCOMPLETO      |     Não possui status socioeconomico       |
+|  2  | O Perfil de Usuário possui ocupação? |          |     SIM       |            |
+|  3  | O Perfil de Usuário possui grau de instrução? |         |    SIM    |            |
+|  4  | O Perfil de Usuário identifica como o usuário gosta de aprender (com ou sem ajuda)? |        |    NÃO    |            |
+|  5  | O Perfil de Usuário possui experiência com o produto ou similares ao avaliado? |        |     SIM     |            |
+|  6  | O Perfil de Usuário possui tecnologia disponível (dispositivos)? |        |    SIM    |            |
+|  7 | O Perfil de Usuário possui domínio tecnológico (tecnofóbico ou tecnófilo)? |         |      SIM      |            |
+|  8  | O Perfil de Usuário possui os objetivos do mesmo? |        |    NÃO        |            |
+|  9  | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários? |         |    SIM     |            |
+|  10  | O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema: idade, experiência; atitudes (tecnófilos, tecnófobos); e tarefas primárias? |         |     SIM       |            |
 
 Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 

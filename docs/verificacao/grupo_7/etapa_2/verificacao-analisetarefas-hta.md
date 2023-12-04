@@ -42,12 +42,14 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para Analise de Ta
 <center>
 
 **Tabela 2** - Checklist para Análise de Tarefas
-| ID  |                                                           Questão                                                           | Resposta | Comentário |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :------: | :--------: |
-|  1  |   Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?    |          |            |
-|  2  |          O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?           |          |            |
-|  3  | A análise de tarefas com o método HTA apresenta os componentes corretos objetivo, operação e relações? |          |            |
-|  4  | Possui a tabela HTA da tarefa descrevendo a tarefa, descrição, recomendações e problemas com os componentes teorizados? |          |            |
+| ID  |                                                           Questão                                                           | Resposta da inspeção em dupla | Respostas da inspeção individual | Comentário |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :------: | :--------: |:--------: |
+|  1  |   Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?    |          |           |            |
+|  2  |          O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?           |          |          |            |
+|  3  | A análise de tarefas com o método HTA apresenta os componentes corretos objetivo, operação e relações? |          |            |            |
+|  4  | Possui a tabela HTA da tarefa descrevendo a tarefa, descrição, recomendações e problemas com os componentes teorizados? |          |           |            |
+|  5  | As tabelas apresentam as entradas, ações, feedbacks e os planos? |          |            |           |
+
 
 Fonte:[Luana Torres](https://github.com/luanatorress).
 

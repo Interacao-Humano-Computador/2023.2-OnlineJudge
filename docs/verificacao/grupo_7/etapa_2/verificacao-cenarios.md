@@ -43,20 +43,20 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para Cenários
 
 _Tabela 2_ - Checklist para Análise de Cenários
 
-| ID  | Questão                                                                                                                | Resposta | Comentário |
-| :-: | :--------------------------------------------------------------------------------------------------------------------- | :------: | :--------: |
-|  1  | Existe o artefato Cenários? |          |            |
-|  2  | Os Cenários possuem um título? |         |            |
-|  3  | Os Cenários possuem atores? |          |          |
-|  4  | Esses atores são as Personas definidas no projeto? |       |         |
-|  5  | Os cenários possuem ambiente ou contexto? |        |            |
-|  6  | Os Cenários possuem objetivo? |        |            |
-|  7  | Os Cenários possuem tarefas? |         |            |
-|  8  | Os Cenários possuem as ações dos atores? |         |            |
-|  9  | Os Cenários possuem os requisitos? |         |            |
-| 10  | Os Cenários possuem a avaliação do ator sobre o problema apresentado? |        |            |
+| ID  | Questão                                                                                                                | Resposta da inspeção em dupla | Respostas da inspeção individual | Comentário |
+| :-: | :--------------------------------------------------------------------------------------------------------------------- | :------: | :--------: | :--------: |
+|  1  | Existe o artefato Cenários? |          |            |            |
+|  2  | Os Cenários possuem um título? |         |            |            |
+|  3  | Os Cenários possuem atores? |          |          |            |
+|  4  | Esses atores são as Personas definidas no projeto? |       |         |            |
+|  5  | Os cenários possuem ambiente ou contexto? |        |            |            |
+|  6  | Os Cenários possuem objetivos que dirigem as tarefas que ele realiza? |        |            |            |
+|  7  | Os Cenários possuem tarefas? |         |            |            |
+|  8  | Os Cenários possuem as ações dos atores? |         |            |            |
+|  9  | Há ambiente, planejamento, ações, eventos, avaliação? |         |            |            |
 
-Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
+
+Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 </center>
 
