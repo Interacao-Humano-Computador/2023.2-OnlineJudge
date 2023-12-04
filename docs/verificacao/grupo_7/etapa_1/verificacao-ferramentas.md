@@ -26,7 +26,7 @@ Os participantes envolvidos nessa verificação são:
 
 |                            Avaliador                            |                  Atividade                  | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :-------------------------------------------------------------: | :-----------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos) | Realização de um vídeo da inspeção em dupla |       16:00      |     16:10     | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos) | Realização de um vídeo da inspeção em dupla |       16:20     |     16:30     | 04/12/2023 | Microsoft Teams |
 
 Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos)
 
@@ -53,23 +53,18 @@ Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://gi
 
 </center>
 
-Tabela 3 apresenta o checklist referente aos itens exigidos para o [Cronograma das Atividades](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/primeira-entrega/cronograma-atividades/).
+Tabela 3 apresenta o checklist referente aos itens exigidos para o [Ferramentas do Projeto](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/primeira-entrega/ferramentas/).
 
 <center>
 
-_Tabela 3_ - Checklist para o Cronograma.
+_Tabela 3_ - Checklist para as Ferramentas
 
 | ID  | Descrição                                                                                                          | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | Existe o artefato Cronograma?                                                                                      |          |             |
-| 2   | As tarefas do cronograma foram distribuídas entre todos os integrantes?                                           |          |             |
-| 3   | O cronograma executado é alterado de acordo com a realização das tarefas?                                         |          |             |
-| 4   | Existem atividades redundantes dentro do cronograma?                                                              |           |             |
-| 5   | O artefato estabelece relação planejado x executado?                                                              |          |             |
-| 6   | O cronograma prevê períodos de folga ou contingência para imprevistos?                                             |          |             |
-| 7   | As datas de início e término das tarefas estão claramente definidas no cronograma?                                 |          |             |
-| 8   | Há uma sequência lógica e realista de execução das tarefas no cronograma?                                         |           |             |
-| 9  | Os responsáveis por cada tarefa estão claramente indicados no cronograma?                                         |           |             |
+| 1   | As ferramentas utilizadas estão presentes na bibliografia?                                                         |           |             |
+| 2   | As ferramentas utilizadas possuem devida descrição?                                                                |           |             |
+| 3   | Está explicito o uso daquela ferramenta dentro do projeto?                                                         |           |             |
+| 4  |  Todas as ferramentas utilizadas no projeto estão presentes no artefato?                                            |           |             |
 
 Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
@@ -89,7 +84,7 @@ Link e frame do vídeo não listado no youtube com um vídeo apresentando todos 
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
-Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefato ([Luana Torres](https://github.com/luanatorress) e [Kallyne Macedo](https://github.com/kalipassos)) mostrando as alterações que elas realizaram a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Ester Lino](https://github.com/esteerlino).
+Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Suzane Duarte](https://github.com/suzaneduarte)) mostrando as alterações que ela realizou a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Ester Lino](https://github.com/esteerlino).
 
 ## Referências bibliográficas
 
@@ -107,4 +102,4 @@ Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefat
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 21/11/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino) | [Henrique Torres](https://github.com/henriqtorresl) |
+|  1.0   | 03/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |

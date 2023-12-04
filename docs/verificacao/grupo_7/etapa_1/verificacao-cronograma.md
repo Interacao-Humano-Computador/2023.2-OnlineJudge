@@ -61,15 +61,15 @@ _Tabela 3_ - Checklist para o Cronograma.
 
 | ID  | Descrição                                                                                                          | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | Existe o artefato Cronograma?                                                                                      |          |             |
-| 2   | As tarefas do cronograma foram distribuídas entre todos os integrantes?                                           |          |             |
-| 3   | O cronograma executado é alterado de acordo com a realização das tarefas?                                         |          |             |
-| 4   | Existem atividades redundantes dentro do cronograma?                                                              |           |             |
-| 5   | O artefato estabelece relação planejado x executado?                                                              |          |             |
-| 6   | O cronograma prevê períodos de folga ou contingência para imprevistos?                                             |          |             |
-| 7   | As datas de início e término das tarefas estão claramente definidas no cronograma?                                 |          |             |
-| 8   | Há uma sequência lógica e realista de execução das tarefas no cronograma?                                         |           |             |
-| 9  | Os responsáveis por cada tarefa estão claramente indicados no cronograma?                                         |           |             |
+| 1   | Existe o artefato Cronograma?                                                                                      |           |             |
+| 2   | As tarefas do cronograma foram distribuídas entre todos os integrantes?                                            |           |             |
+| 3   | O cronograma executado é alterado de acordo com a realização das tarefas?                                          |           |             |
+| 4   | Existem atividades redundantes dentro do cronograma?                                                               |           |             |
+| 5   | O artefato estabelece relação planejado x executado?                                                               |           |             |
+| 6   | O cronograma prevê períodos de folga ou contingência para imprevistos?                                             |           |             |
+| 7   | As datas de início e término das tarefas estão claramente definidas no cronograma?                                 |           |             |
+| 8   | Há uma sequência lógica e realista de execução das tarefas no cronograma?                                          |           |             |
+| 9   | Os responsáveis por cada tarefa estão claramente indicados no cronograma?                                          |           |             |
 
 Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
@@ -107,4 +107,4 @@ Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefat
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 21/11/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino) | [Henrique Torres](https://github.com/henriqtorresl) |
+|  1.0   | 03/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
