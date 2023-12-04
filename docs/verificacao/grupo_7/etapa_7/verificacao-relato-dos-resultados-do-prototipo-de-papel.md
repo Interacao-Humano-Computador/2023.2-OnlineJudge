@@ -42,14 +42,14 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 
 |  ID  |  Descrição  |  Avaliação  |  Observações  |
 |  --- | ----------- | ----------- | ------------- |
-| 1   | Os artefatos possuem introdução? |   |   |
-| 2   | Os artefatos possuem uma bibliografia/referência bibliográfica? |  |   |
-| 3   | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? |  |   |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? |  |    |
-| 5   | Todos os textos estão na norma padrão? |  |   |
-| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
+| 1   | Os artefatos possuem introdução? | SIM  |   |
+| 2   | Os artefatos possuem uma bibliografia/referência bibliográfica? | SIM |   |
+| 3   | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | SIM |   |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? | SIM |    |
+| 5   | Todos os textos estão na norma padrão? | SIM |   |
+| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  | SIM  |  |
 
-Fonte: [Eric Camargo](https://github.com/Ericcs10) e [Luana Torres](https://github.com/luanatorress), 2023.
+Fonte: [Eric Camargo](https://github.com/Ericcs10) , 2023.
 
 </center>
 
@@ -59,14 +59,15 @@ Tabela 3 apresenta o checklist referente aos itens exigidos para o [Relato dos R
 
 _Tabela 3_ - Checklist para o Planejamento da Avaliação do protótipo de papel.
 
-| ID  | Descrição                                                                                                | Avaliação | Observações                                |
-| --- | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------ |
-| 1   | Os objetivos das entrevistas estão documentados?                                                         |       |                                            |
-| 2   | Foi explicada a metodologia utilizada durante as entrevistas?                                                    |       |                                            |
-| 3   | Foram descritas quais as atividades avaliadas no prototipo?                                             |       |                                            |
-| 4  | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? |       |                                            |
-| 5  | Cada participante teve participação nas entrevistas?                                         |       |                                            |
-| 6  | As entrevistas estão devidamente registradas no documento?       |       |                                            |
+| ID  | Descrição                                                                                                | Avaliação | Resposta em Dupla | Observações                                |
+| --- | -------------------------------------------------------------------------------------------------------- | --------- | ----------------- | ------------------------------------------ |
+| 1   | Os objetivos das entrevistas estão documentados?                                                         |  SIM     |       SIM            |                                            |
+| 2   | Foi explicada a metodologia utilizada durante as entrevistas?                                              |   SIM    |       SIM            |                                            |
+| 3   | Foram descritas quais as atividades avaliadas no protótipo?                                               |  SIM     |       SIM            |                                            |
+| 4   | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? |   SIM    |       SIM            |                                            |
+| 5   | Cada participante teve participação nas entrevistas?                                                      |   SIM    |       SIM            |                                            |
+| 6   | As entrevistas estão devidamente registradas no documento?                                                |   SIM    |        SIM           |                                            |
+
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
@@ -78,7 +79,9 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 <center>
 
+[Link da gravação da entrevista](https://youtu.be/-UdqF409_PE)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-UdqF409_PE?si=fwtESC1kZH-zAYW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
 
@@ -88,7 +91,9 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 <center>
 
+[Link da gravação da entrevista](https://www.youtube.com/watch?v=j_DHl-iFMs4)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_DHl-iFMs4?si=ARRvtQGYp-VWOZnb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
 

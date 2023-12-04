@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse documento se trata da etapa de verificação da inspeção da etapa 3 do grupo 8, produzido por [Luana Torres](https://github.com/luanatorress) no decorrer do projeto.
+Esse documento se trata da etapa de verificação da inspeção da etapa 3 do grupo 8, produzido por [Eric Camargo](https://github.com/Ericcs10) no decorrer do projeto.
 
 ## Metodologia
 
@@ -14,7 +14,7 @@ Dessa forma, foi desenvolvido um checklist de verificação, levando em consider
 
 Os participantes envolvidos nessa verificação são:
 
-- [Luana Torres](https://github.com/luanatorress): Autor original do artefato analisado em questão
+- [Eric Camargo](https://github.com/Ericcs10): Autor original do artefato analisado em questão
 
 - [Luana Torres](https://github.com/luanatorress) e [Suzane Duarte](https://github.com/suzaneduarte): Dupla de avaliadores principais da verificação
 
@@ -36,17 +36,19 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 ## Checklists
 
-A Tabela 1 apresenta o checklist referente aos itens exigidos para a Análise de Tarefas.
+A Tabela 1 apresenta o checklist referente aos itens exigidos para os Aspectos Éticos.
 
 <center>
 
-**Tabela 2** - Checklist para a Análise de Tarefas GOMS
+**Tabela 2** - Checklist para a Análise de Aspectos Éticos
 
-| ID  |                                                           Questão                                                           | Resposta | Comentário |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :------: | :--------: |
-|  1  |   Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?    |          |            |
-|  2  |          O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?           |          |            |
-|  3  | A análise de tarefas com o método GOMS apresenta todos os quatro componentes (Goals, Operators, Methods e Selection Rules)? |          |            |
+| ID  |                                                              Questão                                                               | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------: | :---------------------------: | :------------------------------: | :---------: |
+|  1  |                                                 Existe o artefato Aspectos Éticos?                                                 |                               |                                  |             |
+|  2  |                        Esse artefato considera Aspectos Éticos de Pesquisas Envolvendo Pessoas no projeto?                         |                               |                                  |             |
+|  3  |    O artefato apresenta os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)?    |                               |                                  |             |
+|  4  | O artefato informa que o grupo solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |                               |                                  |             |
+|  5  |                               Possui o termo de consentimento livre e esclarecido dos participantes?                               |                               |                                  |             |
 
 Fonte:[Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
@@ -58,9 +60,9 @@ A seguir é apresentado o vídeo realizado pela dupla da verificação.
 
 <center>
 
-[Link para o video da inspeção em dupla](https://youtu.be/5I8tu3wB6cc)
+[Link para o video da inspeção em dupla](https://www.youtube.com/watch?v=N7Vu_M_klQ0)
 
-frame
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N7Vu_M_klQ0?si=sg-NYX1vhXJsEM2y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
