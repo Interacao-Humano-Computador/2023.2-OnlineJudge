@@ -49,7 +49,7 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 | 5   | Todos os textos estão na norma padrão? |  |   |
 | 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
 
-Fonte: [Eric Camargo](https://github.com/Ericcs10) e [Luana Torres](https://github.com/luanatorress), 2023.
+Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 </center>
 
@@ -59,20 +59,21 @@ Tabela 3 apresenta o checklist referente aos itens exigidos para o [Planejamento
 
 _Tabela 3_ - Checklist para o Planejamento da Avaliação do protótipo de papel.
 
-| ID  | Descrição                                                                                                | Avaliação | Observações                                |
-| --- | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------ |
-| 1   | Os objetivos do planejamento estão documentados?                                                         |       |                                            |
-| 2   | O planejamento está de acordo com o framework DECIDE?                                                    |       |                                            |
-| 3   | A documentação inclui a lista de participantes da avaliação?                                             |       |                                            |
-| 4  | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? |       |                                            |
-| 5  | Cada participante tem um papel claramente definido no documento?                                         |       |                                            |
-| 6  | O cronograma, contendo data, hora e local da avaliação, está detalhadamente descrito no documento?       |       |                                            |
-| 7  | As ferramentas e equipamentos a serem utilizados na avaliação estão especificados no documento?          |       |                                            |
-| 8  | Existe uma gravação do teste piloto disponível?                                                          |        |                                            |
-| 9  | O documento contém instruções claras sobre as tarefas a serem realizadas durante a avaliação?            |       | O documento possui um roteiro de perguntas |
-| 10  | O protótipo de papel é apresentado no documento?                                                         |        |                                            |
+| ID  | Descrição                                                                                                | Avaliação | Resposta em Dupla | Observações                                |
+| --- | -------------------------------------------------------------------------------------------------------- | --------- | ----------------- | ------------------------------------------ |
+| 1   | Os objetivos do planejamento estão documentados?                                                         |       |                   |                                            |
+| 2   | O planejamento está de acordo com o framework DECIDE?                                                    |       |                   |                                            |
+| 3   | A documentação inclui a lista de participantes da avaliação?                                             |       |                   |                                            |
+| 4   | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? |       |                   |                                            |
+| 5   | Cada participante tem um papel claramente definido no documento?                                         |       |                   |                                            |
+| 6   | O cronograma, contendo data, hora e local da avaliação, está detalhadamente descrito no documento?       |       |                   |                                            |
+| 7   | As ferramentas e equipamentos a serem utilizados na avaliação estão especificados no documento?          |       |                   |                                            |
+| 8   | Existe uma gravação do teste piloto disponível?                                                          |       |                   |                                            |
+| 9   | O documento contém instruções claras sobre as tarefas a serem realizadas durante a avaliação?            |       |                   | O documento possui um roteiro de perguntas |
+| 10  | O protótipo de papel é apresentado no documento?                                                         |       |                   |                                            |
 
-Fonte: [Eric Camargo](https://github.com/Ericcs10) e [Luana Torres](https://github.com/luanatorress), 2023.
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10) , 2023.
 
 </center>
 
