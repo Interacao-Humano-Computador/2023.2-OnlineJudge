@@ -45,7 +45,7 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 | 5   | Todos os textos estão na norma padrão? |  |   |
 | 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
 
-Fonte: [Eric Camargo](https://github.com/Ericcs10) e [Luana Torres](https://github.com/luanatorress), 2023.
+Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 </center>
 
@@ -56,22 +56,23 @@ Tabela 3 apresenta o checklist referente aos itens exigidos para o [Relato dos R
 _Tabela 3_ - Checklist para o Planejamento da Avaliação do protótipo de papel.
 
 
-| ID  | Descrição                                                         | Avaliação para Análise de Tarefas | Avaliação para StoryBoards|Observações |
-| --- | ----------------------------------------------------------------- | --------- | ----------- |---|
-|  1  | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>|        |          |       |
-|  2  | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>                                          |          |           |       |
-|  3  | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">¹</a>                                     |         |            |      |
-|  4  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">¹</a> |          |          |       |
-| 5  | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados?                                       |        |           |       |
-| 6  | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">¹</a>                                                  |         |           |       |
-| 7  | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">¹</a>                                     |           |           |       |
-| 8  | Aborda como foi realizada a análise da interação do usuário com o artefato?                                                |             |             |       |
-| 9  | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">¹</a>                             |           |           |       |
-| 10  | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">¹</a>              |           |             |       |
-| 11  | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">¹</a>                                |          |            |       |
-| 12  | O relato segue um padrão consolidado para todos os outros relatos?                                                         |         |            |      |
+| ID  | Descrição                                                         | Avaliação para Análise de Tarefas | Avaliação para StoryBoards | Resposta em dupla | Observações |
+| --- | ----------------------------------------------------------------- | ---------------------------------- | --------------------------- | ----------- | ----------------- |
+|  1  | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>|        |          |       |                   |
+|  2  | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">¹</a>                                          |          |           |       |                   |
+|  3  | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">¹</a>                                     |         |            |      |                   |
+|  4  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">¹</a> |          |          |       |                   |
+| 5  | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados?                                       |        |           |       |                   |
+| 6  | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">¹</a>                                                  |         |           |       |                   |
+| 7  | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">¹</a>                                     |           |           |       |                   |
+| 8  | Aborda como foi realizada a análise da interação do usuário com o artefato?                                                |             |             |       |                   |
+| 9  | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">¹</a>                             |           |           |       |                   |
+| 10  | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">¹</a>              |           |             |       |                   |
+| 11  | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">¹</a>                                |          |            |       |                   |
+| 12  | O relato segue um padrão consolidado para todos os outros relatos?                                                         |         |            |      |                   |
 
-Fonte: [Eric Camargo](https://github.com/Ericcs10) e [Luana Torres](https://github.com/luanatorress), 2023.
+
+Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 </center>
 
