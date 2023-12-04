@@ -71,7 +71,7 @@ A seguir é apresentado o vídeo realizado pela dupla da verificação.
 
 [Link para o video da inspeção em dupla](https://www.youtube.com/watch?v=PrqrPaWysqA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PrqrPaWysqA?si=phP__n3iJPjxLciE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64qQb-vvT7Y?si=7UHBmYa-trtx7am5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
@@ -98,8 +98,19 @@ Após realizar a verificação em dupla, e a verificação individual deste arte
 - Inserir sobrenome na Persona Ana Vitória;
 - No status não precisa necessariamente colocar a profissão do usuário, apenas o status (primário, secundário..);
 - A razão da quantidade de personas e a explicação da utilização das personas no projeto são imprecisas;
+- Alterar fonte da tabela do João da Silva (padronização).
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+<center>
+
+[Link para o video da correção do artefato](https://www.youtube.com/watch?v=gDA8vdQgykc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gDA8vdQgykc?si=ZyxanXzsRJiwRpgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
+
+</center>
 
 ## Referências bibliográficas
 
