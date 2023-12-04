@@ -34,9 +34,22 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 ## Checklists
 
-|ID|Pergunta|Resposta|Observações|
-|---|---|---|---|
-|---|---|---|---|
+<center>
+
+**Tabela 2** - Checklist para as Características Gerais da Plataforma
+
+| ID | Questão                                                               | Resposta(Sim / Não /Incompleto)  |                                   Comentário                                   |
+| :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |
+| 1 | O artefato apresenta as características da plataforma para o projeto? |        |                                                                                |
+| 2 | O artefato descreve que hardware é necessário para acessar o site?  | INCOMPLETO | Indica possibilidade de acesso por "qualquer dispositivo", sem especificações |
+| 3 | O artefato descreve que software é necessário para acessar o site?  |        |                                                                                |
+| 4 | O artefato descreve as possibilidades da plataforma?                   |        |            As possibilidades são apresentadas como funcionalidades            |
+| 5 | O artefato descreve as limitações da plataforma?                     |        |                                                                                |
+| 6 | O artefato identifica as tecnologias utilizadas na plataforma?       |        |                                                                                |
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
+
+</center>
 
 ## Um vídeo da inspeção em dupla
 
