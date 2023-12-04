@@ -16,9 +16,7 @@ Os participantes envolvidos nessa verificação são:
 
 - [Kallyne Macedo](https://github.com/kalipassos) e [Luana Torres](https://github.com/luanatorress): Autor original do artefato analisado em questão
 
-- [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos): Dupla de avaliadores principais da verificação
-
-- [Ester Lino](https://github.com/esteerlino): Um dos membros da dupla que avaliou (Avaliador principal)
+- [Ester Lino](https://github.com/esteerlino): Avaliador principal
 
 <center>
 
@@ -26,9 +24,8 @@ Os participantes envolvidos nessa verificação são:
 
 |                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |       19:00      |     19:05      | 04/12/2023 | Microsoft Teams |
-|                          [Kallyne Macedo](https://github.com/kalipassos)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       19:10       |     19:15     | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       19:20       |    19:30      | 04/12/2023 | Microsoft Teams |
+|                           [Ester Lino](https://github.com/esteerlino)                          |              Realização de um vídeo da inspeção individual do avaliador principal               |       19:10       |     19:15     | 04/12/2023 | Microsoft Teams |
+| [Ester Lino](https://github.com/esteerlino)  | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       19:20       |    19:30      | 04/12/2023 | Microsoft Teams |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -51,7 +48,7 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 | 5   | Todos os textos estão na norma padrão? |  |   |
 | 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 </center>
 
@@ -77,13 +74,9 @@ _Tabela 3_ - Checklist para o Planejamento da Avaliação da Análise de Tarefas
 | 12  | O artefato apresenta o termo de consentimento a ser utilizado na Avaliação da Análise de tarefas ?                                                                   |         |            |
 | 13  | O artefato apresenta quais dados devem ser coletados e como devem ser interpretados ?                                                                                |         |            |
 
-Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 </center>
-
-## Um vídeo da inspeção em dupla
-
-Link e frame do vídeo não listado no youtube entre a dupla [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos).
 
 ## Um vídeo de uma inspeção individual
 
@@ -105,4 +98,5 @@ Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Ka
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 04/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.0   | 04/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 04/12/2023 | Reorganizando o documento |  [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
