@@ -26,14 +26,14 @@ A Tabela 1 apresenta o Checklist Geral com os dados obtidos a partir da verifica
 
 _Tabela 1_ - Checklist para os Itens Gerais.
 
-|  ID  |  Descrição  |  Avaliação  |  Observações  |
-|  --- | ----------- | ----------- | ------------- |
-| 1   | O artefato possui introdução? |  NÃO  |   |
-| 2   | O artefato possui uma bibliografia/referência bibliográfica? | NÃO |   |
-| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | NÃO |    |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? | NÃO |   |
-| 5   | Todos os textos estão na norma padrão? | NÃO |   |
-| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |  -  |  O artefato não necessita de vídeos |
+| ID  | Descrição                                                                                                          | Avaliação | Observações                        |
+| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ---------------------------------- |
+| 1   | O artefato possui introdução?                                                                                      | NÃO       |                                    |
+| 2   | O artefato possui uma bibliografia/referência bibliográfica?                                                       | NÃO       |                                    |
+| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | NÃO       |                                    |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte?                                         | NÃO       |                                    |
+| 5   | Todos os textos estão na norma padrão?                                                                             | NÃO       |                                    |
+| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?                                                  | -         | O artefato não necessita de vídeos |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
@@ -45,22 +45,22 @@ Já a Tabela 2 apresenta o checklist referente aos itens exigidos para o Perfil 
 
 _Tabela 2_ - Checklist para as Personas
 
-| ID  |        Questão       |     Resposta     |     Comentário     |
-| :-: | :-------------------:| :--------------: | :----------------: |
-|  1  | Existe o artefato Personas? |     NÃO     |            |
-|  2  | As personas foram definidas a partir dos dados do perfil do usuário? |     NÃO     |            |
-|  3  | As personas possuem identidade (nome e sobrenome)? |    NÃO      |            |
-|  4  | As Personas possuem idade e dados demográficos? |      NÃO      |
-|  5  | As Personas possuem foto? |     NÃO     |            |
-|  6  | As Personas possuem status (primária, secundária...)? |     NÃO     |            |
-|  7  | As Personas possuem objetivos? |     NÃO     |            |
-|  8  | As Personas possuem habilidades? |     NÃO     |            |
-|  9  | As Personas possuem tarefas? |     NÃO     |            |
-| 10  | As Personas possuem relacionamentos? |     NÃO     |            |
-| 11  | As Personas possuem requisitos? |     NÃO     |            |
-| 12  | As Personas possuem expectativas? |     NÃO     |            |
-| 13  | A razão da quantidade de personas é justificada? |     NÃO     |            |
-| 14  | Existe uma explicação da utilização das personas no projeto? |     NÃO     |            |
+| ID  |                               Questão                                | Resposta | Comentário |
+| :-: | :------------------------------------------------------------------: | :------: | :--------: |
+|  1  |                     Existe o artefato Personas?                      |   NÃO    |            |
+|  2  | As personas foram definidas a partir dos dados do perfil do usuário? |   NÃO    |            |
+|  3  |          As personas possuem identidade (nome e sobrenome)?          |   NÃO    |            |
+|  4  |           As Personas possuem idade e dados demográficos?            |   NÃO    |
+|  5  |                      As Personas possuem foto?                       |   NÃO    |            |
+|  6  |        As Personas possuem status (primária, secundária...)?         |   NÃO    |            |
+|  7  |                    As Personas possuem objetivos?                    |   NÃO    |            |
+|  8  |                   As Personas possuem habilidades?                   |   NÃO    |            |
+|  9  |                     As Personas possuem tarefas?                     |   NÃO    |            |
+| 10  |                 As Personas possuem relacionamentos?                 |   NÃO    |            |
+| 11  |                   As Personas possuem requisitos?                    |   NÃO    |            |
+| 12  |                  As Personas possuem expectativas?                   |   NÃO    |            |
+| 13  |           A razão da quantidade de personas é justificada?           |   NÃO    |            |
+| 14  |     Existe uma explicação da utilização das personas no projeto?     |   NÃO    |            |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
@@ -105,8 +105,8 @@ O responsável do grupo 7 por essa verificação irá realizar uma revisão das 
 
 **Tabela 3** - Cronograma de Retrabalho.
 
-| Data de Correção | Descrição                          |                   Responsável(eis)                   |                   Revisor(es)                    |   Status   |
-| ---------------- | :--------------------------------- | :--------------------------------------------------: | :----------------------------------------------: | :--------: |
+| Data de Correção | Descrição                                       |                                           Responsável(eis)                                            |                 Revisor(es)                 |   Status   |
+| ---------------- | :---------------------------------------------- | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------: | :--------: |
 | 17/11/2023       | Realizar os ajustes da verificação das Personas | [Millena Queiroz](https://github.com/MillenaQueiroz), [Lucas Caldas](https://github.com/lucascaldasb) | [Ester Lino](https://github.com/esteerlino) | Em análise |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
@@ -119,6 +119,6 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                            | Autor(es)                                        | Revisor(es)                                     |
-| ------ | ---------- | ------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-| 1.0  | 15/11/2023 | Criação da página Verificação das Personas  | [Ester Lino](https://github.com/esteerlino) | [Eric Camargo](https://github.com/ericcs10) |
+| Versão | Data       | Descrição                                  | Autor(es)                                   | Revisor(es)                                 |
+| ------ | ---------- | ------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
+| 1.0    | 15/11/2023 | Criação da página Verificação das Personas | [Ester Lino](https://github.com/esteerlino) | [Eric Camargo](https://github.com/ericcs10) |

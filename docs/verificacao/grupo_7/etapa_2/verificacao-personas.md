@@ -44,20 +44,20 @@ A Tabela 1 apresenta o checklist referente aos itens exigidos para Personas.
 
 | ID  | Questão                                                              | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | :-: | -------------------------------------------------------------------- | :---------------------------: | :------------------------------: | :---------: |
-|  1  | Existe o artefato Personas?                                          |                               |                                  |             |
-|  2  | As personas foram definidas a partir dos dados do perfil do usuário? |                               |                                  |             |
-|  3  | As personas possuem identidade (nome e sobrenome)?                   |                               |                                  |             |
-|  4  | As Personas possuem idade e dados demográficos?                      |                               |                                  |
-|  5  | As Personas possuem foto?                                            |                               |                                  |             |
-|  6  | As Personas possuem status (primária, secundária...)?                |                               |                                  |             |
-|  7  | As Personas possuem objetivos?                                       |                               |                                  |             |
-|  8  | As Personas possuem habilidades?                                     |                               |                                  |             |
-|  9  | As Personas possuem tarefas?                                         |                               |                                  |             |
-| 10  | As Personas possuem relacionamentos?                                 |                               |                                  |             |
-| 11  | As Personas possuem requisitos?                                      |                               |                                  |             |
-| 12  | As Personas possuem expectativas?                                    |                               |                                  |             |
-| 13  | A razão da quantidade de personas é justificada?                     |                               |                                  |             |
-| 14  | Existe uma explicação da utilização das personas no projeto?         |                               |                                  |             |
+|  1  | Existe o artefato Personas?                                          |              Sim              |               Sim                |             |
+|  2  | As personas foram definidas a partir dos dados do perfil do usuário? |              Sim              |               Sim                |             |
+|  3  | As personas possuem identidade (nome e sobrenome)?                   |          Incompleto           |            Incompleto            |             |
+|  4  | As Personas possuem idade e dados demográficos?                      |              Sim              |               Sim                |
+|  5  | As Personas possuem foto?                                            |              Sim              |               Sim                |             |
+|  6  | As Personas possuem status (primária, secundária...)?                |              Sim              |               Sim                |             |
+|  7  | As Personas possuem objetivos?                                       |              Sim              |               Sim                |             |
+|  8  | As Personas possuem habilidades?                                     |              Sim              |               Sim                |             |
+|  9  | As Personas possuem tarefas?                                         |              Sim              |               Sim                |             |
+| 10  | As Personas possuem relacionamentos?                                 |              Sim              |               Sim                |             |
+| 11  | As Personas possuem requisitos?                                      |              Sim              |               Sim                |             |
+| 12  | As Personas possuem expectativas?                                    |              Sim              |               Sim                |             |
+| 13  | A razão da quantidade de personas é justificada?                     |              Sim              |               Sim                |             |
+| 14  | Existe uma explicação da utilização das personas no projeto?         |              Sim              |               Sim                |             |
 
 Fonte:[Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
@@ -69,9 +69,9 @@ A seguir é apresentado o vídeo realizado pela dupla da verificação.
 
 <center>
 
-[Link para o video da inspeção em dupla](https://youtu.be/5I8tu3wB6cc)
+[Link para o video da inspeção em dupla](https://www.youtube.com/watch?v=PrqrPaWysqA)
 
-frame
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PrqrPaWysqA?si=phP__n3iJPjxLciE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
@@ -93,11 +93,13 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar que não nenhuma sugestão de melhoria para ser realizado nessa etapa.
+Após realizar a verificação em dupla, e a verificação individual deste artefato foi possível identificar as seguintes sugestões de melhoria:
+
+- Inserir sobrenome na Persona Ana Vitória;
+- No status não precisa necessariamente colocar a profissão do usuário, apenas o status (primário, secundário..);
+- A razão da quantidade de personas e a explicação da utilização das personas no projeto são imprecisas;
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
-
-Não foi necessário realizar nenhum vídeo para a correção do artefato, uma vez que como apresentado no tópico acima não consta nenhum problema e/ou alteração identificadas.
 
 ## Referências bibliográficas
 

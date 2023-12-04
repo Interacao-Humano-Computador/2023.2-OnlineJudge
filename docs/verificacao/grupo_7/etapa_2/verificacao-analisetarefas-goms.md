@@ -58,9 +58,9 @@ A seguir é apresentado o vídeo realizado pela dupla da verificação.
 
 <center>
 
-[Link para o video da inspeção em dupla](https://youtu.be/5I8tu3wB6cc)
+[Link para o video da inspeção em dupla](https://www.youtube.com/watch?v=64qQb-vvT7Y)
 
-frame
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64qQb-vvT7Y?si=jf3oGLdM8xGwKVG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
