@@ -14,9 +14,9 @@ Dessa forma, foi desenvolvido um checklist de verificação, levando em consider
 
 Os participantes envolvidos nessa verificação são:
 
-- [Luana Torres](https://github.com/luanatorress): Autor original do artefato analisado em questão
+- [Eric Camargo](https://github.com/Ericcs10): Autor original do artefato analisado em questão
 
-- [Pablo Guilherme](https://github.com/PabloGJBS) e [Henrique Torres](https://github.com/henriqtorresl): Dupla de avaliadores principais da verificação
+- [Pablo Guilherme](https://github.com/PabloGJBS) e [Suzane Duarte](https://github.com/suzaneduarte): Dupla de avaliadores principais da verificação
 
 - [Pablo Guilherme](https://github.com/PabloGJBS): Um dos membros da dupla que avaliou (Avaliador principal)
 
@@ -24,25 +24,43 @@ Os participantes envolvidos nessa verificação são:
 
 **Tabela 1** - Cronograma Completo dos Participantes da verificação
 
-|                            Avaliador                            |                  Atividade                  | Horário de Início | Horário de Fim |    Data    |      Local      |
-| :-------------------------------------------------------------: | :-----------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-| [Pablo Guilherme](https://github.com/PabloGJBS) e [Henrique Torres](https://github.com/henriqtorresl) | Realização de um vídeo da inspeção em dupla |       10:50       |     11:00      | 03/12/2023 | Microsoft Teams |
+|                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
+| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
+| [Pablo Guilherme](https://github.com/PabloGJBS) e [Suzane Duarte](https://github.com/suzaneduarte) |                           Realização de um vídeo da inspeção em dupla                           |       22:30       |     23:00      | 03/12/2023 | Microsoft Teams |
+|                          [Pablo Guilherme](https://github.com/PabloGJBS)                           |              Realização de um vídeo da inspeção individual do avaliador principal               |       23:00       |     23:30      | 03/12/2023 | Microsoft Teams |
+| [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       23:30       |     00:00      | 03/12/2023 | Microsoft Teams |
 
-Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
+Fonte:[Pablo Guilherme](https://github.com/PabloGJBS).
 
 </center>
 
 ## Checklists
 
-|ID|Pergunta|Resposta|Observações|
-|---|---|---|---|
-|---|---|---|---|
+<center>
+
+## Checklists
+
+| ID  | Pergunta                                                                                  | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
+| --- | ----------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | ----------- |
+| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | sim                           |                                  |             |
+| 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           |                                  |             |
+| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                           |                                  |             |
+| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                           |                                  |             |
+| 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           |                                  |             |
+| 6   | São identificados os autores do artefato do grupo 8?                                      | Não                           |                                  |             |
+| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                           |                                  |             |
+
+Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
+
+</center>
 
 ## Um vídeo da inspeção em dupla
 
 ## Um vídeo de uma inspeção individual
 
 ## Problemas Encontrados e Sugestões de melhorias
+
+- Adicionar os autores do grupo 8 no planejamento dessa inspeção.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
@@ -54,6 +72,6 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 ## Histórico de versão
 
-| Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
-| :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [esteerlino](https://github.com/esteerlino) |
+| Versão |    Data    |     Descrição     |                  Responsáveis                   |                     Revisor                      |
+| :----: | :--------: | :---------------: | :---------------------------------------------: | :----------------------------------------------: |
+|  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [Suzane Duarte](https://github.com/suzaneduarte) |
