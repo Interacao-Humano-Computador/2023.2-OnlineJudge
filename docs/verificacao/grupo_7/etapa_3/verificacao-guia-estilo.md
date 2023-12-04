@@ -38,19 +38,19 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 _Tabela 2_ - Checklist para o Guia de Estilo
 
-| ID | Questão                                                                                                                                                                            |  Resposta(Sim / Não / Incompleto) |   Comentário   |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :--------------: |
-| 1 | O artefato apresenta um guia de estilo correspondente ao site avaliado?                                                                                                             |        |                  |
-| 2 | O artefato apresenta um guia de estilo que representa as metas de usabilidade?                                                                                                      |       |                  |
-| 3 | O artefato apresenta um guia de estilo com introdução, resultados da análise, elementos de interface, elementos de interação, elementos de ação e voculabulário e padrões? |       |                  |
-| 4 | O artefato apresenta introdução com objetivo, organização, conteúdo, público-alvo, modo de uso e de manutenção do guia de estilo?                                          |      |                  |
-| 5 | O artefato apresenta resultados da análise com descrição do ambiente de trabalho do usuário?                                                                                    |       |                  |
-| 6 | O artefato apresenta elementos de interface com disposição espacial, grid, janelas, tipografia e cores?                                                                           |       |   Link externo   |
-| 7 | O artefato apresenta elementos de interação com estilos de interação, aceleradores e seleção do estilo?                                                                       | INCOMPLETO | Sem aceleradores |
-| 8 | O artefato apresenta elementos de ação com preenchimento de campos, seleção e ativação?                                                                                       |        |                  |
-| 9 | O planejamento apresenta vocabulário e padrões com terminologia, tipos de tela e sequência de diálogos?                                                                         |      |                  |
+| ID | Questão                                                                                                                                                                            |  Resposta(Sim / Não / Incompleto) |  Resposta em dupla   |comentários|
+| :-: | :---: | :--: | :--: |---|
+| 1 | O artefato apresenta um guia de estilo correspondente ao site avaliado? ||||
+| 2 | O artefato apresenta um guia de estilo que representa as metas de usabilidade?||||
+| 3 | O artefato apresenta um guia de estilo com introdução, resultados da análise, elementos de interface, elementos de interação, elementos de ação e voculabulário e padrões?||||
+| 4 | O artefato apresenta introdução com objetivo, organização, conteúdo, público-alvo, modo de uso e de manutenção do guia de estilo?||||
+| 5 | O artefato apresenta resultados da análise com descrição do ambiente de trabalho do usuário?||||
+| 6 | O artefato apresenta elementos de interface com disposição espacial, grid, janelas, tipografia e cores?||||
+| 7 | O artefato apresenta elementos de interação com estilos de interação, aceleradores e seleção do estilo?||||
+| 8 | O artefato apresenta elementos de ação com preenchimento de campos, seleção e ativação?||||
+| 9 | O planejamento apresenta vocabulário e padrões com terminologia, tipos de tela e sequência de diálogos?||||
 
-Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 </center>
 

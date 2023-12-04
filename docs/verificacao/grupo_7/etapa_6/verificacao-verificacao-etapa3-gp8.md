@@ -74,7 +74,7 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 
 <center>
 
-[Link para o video da inspeção em dupla](https://www.youtube.com/embed/zrALmmqsLRs?si=fVFP0NRi6Qaqb_Wf)
+[Link para o video de inspeção individual](https://www.youtube.com/embed/zrALmmqsLRs?si=fVFP0NRi6Qaqb_Wf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zrALmmqsLRs?si=fVFP0NRi6Qaqb_Wf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -102,3 +102,5 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 | :----: | :--------: | :-----------------------: | :-----------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 03/12/2023 |     Criação da página     |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.1   | 03/12/2023 | Preenchimento das tabelas |  [Suzane Duarte](https://github.com/suzaneduarte) |  [Pablo Guilherme](https://github.com/PabloJBS)  |
+|  1.2   | 04/12/2023 | correções nos titulos dos videos |  [Pablo Guilherme](https://github.com/PabloJBS) |  [Suzane Duarte](https://github.com/suzaneduarte)  |
+

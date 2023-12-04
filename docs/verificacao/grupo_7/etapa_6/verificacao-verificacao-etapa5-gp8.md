@@ -74,7 +74,7 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 
 <center>
 
-[Link para o video da inspeção em dupla](https://youtu.be/S7C6o0v770c)
+[Link para o video da inspeção individual](https://youtu.be/S7C6o0v770c)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M5Wxm2T05ao?si=cItzIZTon2WjY5fp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -94,7 +94,7 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal e a pessoa q
 
 <center>
 
-[Link para o video da inspeção em dupla](https://youtu.be/zckwk5tDbjA)
+[Link para o video de correção](https://youtu.be/zckwk5tDbjA)
 
 <iframe width="1196" height="480" src="https://www.youtube.com/embed/zckwk5tDbjA" title="Correções da verificação da verificação da etapa 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -114,3 +114,4 @@ Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](http
 | :----: | :--------: | :-----------------------: | :-----------------------------------------------: | :----------------------------------------------: |
 |  1.0   | 03/12/2023 |     Criação da página     |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.1   | 03/12/2023 | Preenchimento das tabelas |  [Suzane Duarte](https://github.com/suzaneduarte) |  [Pablo Guilherme](https://github.com/PabloJBS)  |
+|  1.2   | 04/12/2023 | correções nos titulos dos videos |  [Pablo Guilherme](https://github.com/PabloJBS) |  [Suzane Duarte](https://github.com/suzaneduarte)  |
