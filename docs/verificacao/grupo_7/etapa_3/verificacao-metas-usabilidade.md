@@ -53,6 +53,14 @@ Fonte: [Henrique Torres](https://github.com/henriqtorresl), 2023.
 
 ## Um vídeo de uma inspeção individual
 
+- Vídeo da inspeção individual:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/si0apbbhSUk?si=Ei97T3Iwm25oHxWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Problemas Encontrados e Sugestões de melhorias
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
