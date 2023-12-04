@@ -14,7 +14,7 @@ Dessa forma, foi desenvolvido um checklist de verificação, levando em consider
 
 Os participantes envolvidos nessa verificação são:
 
-- [Luana Torres](https://github.com/luanatorress) e [Kallyne Macedo](https://github.com/kalipassos): Autores originais do artefato analisado em questão
+- [Kallyne Macedo](https://github.com/kalipassos): Autor original do artefato analisado em questão
 
 - [Ester Lino](https://github.com/esteerlino): Avaliador principal
 
@@ -41,12 +41,11 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 
 |  ID  |  Descrição  |  Avaliação  |  Observações  |
 |  --- | ----------- | ----------- | ------------- |
-| 1   | Os artefatos possuem introdução? |   |   |
-| 2   | Os artefatos possuem uma bibliografia/referência bibliográfica? |  |   |
-| 3   | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? |  |   |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? |  |    |
-| 5   | Todos os textos estão na norma padrão? |  |   |
-| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
+| 1   | O artefato possui introdução? | SIM |   |
+| 2   | Os artefatos possuem uma bibliografia/referência bibliográfica? | SIM |   |
+| 3   | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | SIM |   |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? | SIM |    |
+| 5   | Todos os textos estão na norma padrão? | SIM |   |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
@@ -60,15 +59,13 @@ _Tabela 3_ - Checklist para o Cronograma.
 
 | ID  | Descrição                                                                                                          | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | Existe o artefato Cronograma?                                                                                      |           |             |
-| 2   | As tarefas do cronograma foram distribuídas entre todos os integrantes?                                            |           |             |
-| 3   | O cronograma executado é alterado de acordo com a realização das tarefas?                                          |           |             |
-| 4   | Existem atividades redundantes dentro do cronograma?                                                               |           |             |
-| 5   | O artefato estabelece relação planejado x executado?                                                               |           |             |
-| 6   | O cronograma prevê períodos de folga ou contingência para imprevistos?                                             |           |             |
-| 7   | As datas de início e término das tarefas estão claramente definidas no cronograma?                                 |           |             |
-| 8   | Há uma sequência lógica e realista de execução das tarefas no cronograma?                                          |           |             |
-| 9   | Os responsáveis por cada tarefa estão claramente indicados no cronograma?                                          |           |             |
+| 1   | As tarefas do cronograma foram distribuídas entre todos os integrantes?                                            |         SIM  |             |
+| 2   | O cronograma executado é alterado de acordo com a realização das tarefas?                                          |      SIM    |             |
+| 3   | Existem atividades redundantes dentro do cronograma?                                                               |     NÃO    |             |
+| 4   | O artefato estabelece relação planejado x executado?                                                               |      SIM     |             |
+| 5   | As datas de início e término das tarefas estão claramente definidas no cronograma?                                 |       SIM    |             |
+| 6   | Há uma sequência lógica e realista de execução das tarefas no cronograma?                                          |    SIM      |             |
+| 7   | Os responsáveis por cada tarefa estão claramente indicados no cronograma?                                          |           |    SIM        |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
@@ -76,15 +73,21 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 ## Um vídeo de uma inspeção individual
 
-Link e frame do vídeo não listado no youtube do avaliador principal [Ester Lino](https://github.com/esteerlino).
+<center>
+
+[Link para o video da inspeção individual](https://www.youtube.com/watch?v=-mcdB0QpxaE)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-mcdB0QpxaE?si=VVRQfi9VWTNScHct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-Todos os problemas encontrados e sugestões de melhoria
+Após realizar a inspeção individual deste artefato foi possível identificar que não há nenhuma sugestão de melhoria para ser realizado nessa etapa.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
-Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefato ([Luana Torres](https://github.com/luanatorress) e [Kallyne Macedo](https://github.com/kalipassos)) mostrando as alterações que elas realizaram a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Ester Lino](https://github.com/esteerlino).
+Não foi necessário realizar nenhum vídeo para a correção do artefato, uma vez que como apresentado no tópico acima não consta nenhum problema e/ou alteração identificadas.
 
 ## Bibliografia
 
@@ -95,3 +98,4 @@ Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefat
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino) | [Henrique Torres](https://github.com/henriqtorresl) |
+|  1.1   | 04/12/2023 |  Inspeção individual | [Ester Lino](https://github.com/esteerlino) | [Henrique Torres](https://github.com/henriqtorresl) |

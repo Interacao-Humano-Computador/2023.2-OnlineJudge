@@ -80,7 +80,13 @@ Link e frame do vídeo não listado no youtube entre a dupla [Ester Lino](https:
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
-Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Suzane Duarte](https://github.com/suzaneduarte)) mostrando as alterações que ela realizou a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Ester Lino](https://github.com/esteerlino).
+<center>
+
+[Link para o video da correção](https://www.youtube.com/watch?v=gGw6980U8bo)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gGw6980U8bo?si=QF0hkDv3FTxn_2Q2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 ## Bibliografia
 
