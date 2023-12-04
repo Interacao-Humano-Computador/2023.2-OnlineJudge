@@ -42,13 +42,13 @@ Fonte:[Pablo Guilherme](https://github.com/PabloGJBS).
 
 | ID  | Pergunta                                                                                  | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | --- | ----------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | ----------- |
-| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | sim                           |         sim                         |             |
-| 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           |           sim                       |             |
-| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                           |              sim                    |             |
-| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                           |          sim                        |             |
-| 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           |              sim                    |             |
-| 6   | São identificados os autores do artefato do grupo 8?                                      | Não                           |           não                       |             |
-| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                           |               sim                   |             |
+| 1   | A verificação dessa etapa segue o planejamento da verificação proposto?                   | sim                           | sim                              |             |
+| 2   | No planejamento da verificação estão dispostas as checklists utilizadas nos artefatos?    | Sim                           | sim                              |             |
+| 3   | Existe a análise dos resultados de cada verificação?                                      | Sim                           | sim                              |             |
+| 4   | Existe uma descrição dos problemas encontrados em cada artefato?                          | Sim                           | sim                              |             |
+| 5   | Existem sugestões de melhoria para os artefatos?                                          | Sim                           | sim                              |             |
+| 6   | São identificados os autores do artefato do grupo 8?                                      | Não                           | não                              |             |
+| 7   | A etapa possui um gráfico iterativo para apresentar a síntese dos resultados encontrados? | Sim                           | sim                              |             |
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -82,6 +82,14 @@ Fonte:[Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
+<center>
+
+[Link para o video da correção](https://www.youtube.com/watch?v=ehCYOg9WbJE)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ehCYOg9WbJE?si=5at_ootT4QVeFbb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Referências bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
@@ -90,9 +98,8 @@ Fonte:[Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 ## Histórico de versão
 
-| Versão |    Data    |     Descrição     |                  Responsáveis                   |                     Revisor                      |
-| :----: | :--------: | :---------------: | :---------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 03/12/2023 |     Criação da página     |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
-|  1.1   | 03/12/2023 | Preenchimento das tabelas |  [Suzane Duarte](https://github.com/suzaneduarte) |  [Pablo Guilherme](https://github.com/PabloJBS)  |
-|  1.2   | 04/12/2023 | correções nos titulos dos videos e adição de videos|  [Pablo Guilherme](https://github.com/PabloJBS) |  [Suzane Duarte](https://github.com/suzaneduarte)  |
-
+| Versão |    Data    |                      Descrição                      |                   Responsáveis                    |                     Revisor                      |
+| :----: | :--------: | :-------------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------: |
+|  1.0   | 03/12/2023 |                  Criação da página                  |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 03/12/2023 |              Preenchimento das tabelas              |  [Suzane Duarte](https://github.com/suzaneduarte) |  [Pablo Guilherme](https://github.com/PabloJBS)  |
+|  1.2   | 04/12/2023 | correções nos titulos dos videos e adição de videos |   [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |
