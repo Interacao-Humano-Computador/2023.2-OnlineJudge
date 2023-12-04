@@ -74,9 +74,9 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 
 <center>
 
-[Link para o video da inspeção individual]()
+[Link para o video da inspeção individual](https://www.youtube.com/watch?v=hrBgUtoMDig)
 
-frame
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hrBgUtoMDig?si=ZeMZYNWw7mGcCOl-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 

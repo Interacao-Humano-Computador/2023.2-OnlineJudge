@@ -24,8 +24,8 @@ Os participantes envolvidos nessa verificação são:
 
 **Tabela 1** - Cronograma Completo dos Participantes da verificação
 
-|                            Avaliador                            |                  Atividade                  | Horário de Início | Horário de Fim |    Data    |      Local      |
-| :-------------------------------------------------------------: | :-----------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
+|                                               Avaliador                                               |                  Atividade                  | Horário de Início | Horário de Fim |    Data    |      Local      |
+| :---------------------------------------------------------------------------------------------------: | :-----------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
 | [Pablo Guilherme](https://github.com/PabloGJBS) e [Henrique Torres](https://github.com/henriqtorresl) | Realização de um vídeo da inspeção em dupla |       10:50       |     11:00      | 03/12/2023 | Microsoft Teams |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
@@ -38,14 +38,14 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS).
 
 **Tabela 2** - Checklist para as Características Gerais da Plataforma
 
-| ID | Questão                                                               | Resposta individual(Sim / Não /Incompleto)  | Resposta em dupla| Comentário |
-| :-: | :--------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------------------: |---|
-| 1 | O artefato apresenta as características da plataforma para o projeto? |Sim|Sim||
-| 2 | O artefato descreve que hardware é necessário para acessar o site?    |Sim|Sim||
-| 3 | O artefato descreve que software é necessário para acessar o site?    |Sim|Sim||
-| 4 | O artefato descreve as possibilidades da plataforma?                  |Sim|Sim||
-| 5 | O artefato descreve as limitações da plataforma?                      |Sim|Sim||
-| 6 | O artefato identifica as tecnologias utilizadas na plataforma?        |Sim|Sim||
+| ID  | Questão                                                               | Resposta individual(Sim / Não /Incompleto) | Resposta em dupla | Comentário |
+| :-: | :-------------------------------------------------------------------- | :----------------------------------------: | :---------------: | ---------- |
+|  1  | O artefato apresenta as características da plataforma para o projeto? |                    Sim                     |        Sim        |            |
+|  2  | O artefato descreve que hardware é necessário para acessar o site?    |                    Sim                     |        Sim        |            |
+|  3  | O artefato descreve que software é necessário para acessar o site?    |                    Sim                     |        Sim        |            |
+|  4  | O artefato descreve as possibilidades da plataforma?                  |                    Sim                     |        Sim        |            |
+|  5  | O artefato descreve as limitações da plataforma?                      |                    Sim                     |        Sim        |            |
+|  6  | O artefato identifica as tecnologias utilizadas na plataforma?        |                    Sim                     |        Sim        |            |
 
 Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
@@ -59,9 +59,21 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BcvJUHyf38o?si=et2rzP-eKVoeE3EN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
+
 </center>
 
 ## Um vídeo de uma inspeção individual
+
+[Link para o video da inspeção individual](https://www.youtube.com/watch?v=6tS7XLfJ_w4)
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6tS7XLfJ_w4?si=_BOrtPCdLHshq_Kl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
+
+</center>
 
 ## Problemas Encontrados e Sugestões de melhorias
 
@@ -77,7 +89,7 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 
 ## Histórico de versão
 
-| Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
-| :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [esteerlino](https://github.com/esteerlino) |
-|  1.1   | 04/12/2023 | Preenchimento das tabelas | [Pablo Guilherme](https://github.com/PabloJBS)  |  [Suzane Duarte](https://github.com/suzaneduarte)  |
+| Versão |    Data    |         Descrição         |                  Responsáveis                   |                     Revisor                      |
+| :----: | :--------: | :-----------------------: | :---------------------------------------------: | :----------------------------------------------: |
+|  1.0   | 03/12/2023 |     Criação da página     |  [Pablo Guilherme](https://github.com/PabloJBS) |   [esteerlino](https://github.com/esteerlino)    |
+|  1.1   | 04/12/2023 | Preenchimento das tabelas | [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |

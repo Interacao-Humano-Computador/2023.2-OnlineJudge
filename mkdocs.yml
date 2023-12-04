@@ -110,10 +110,10 @@ nav:
               - Processo de Design: verificacao/grupo_7/etapa_1/verificacao-processo-design.md
               - Cronograma: verificacao/grupo_7/etapa_1/verificacao-cronograma.md
           - Etapa 2:
-              - Verificação da Análise de Tarefas (HTA): verificacao/grupo_7/etapa_2/verificacao-analisetarefas-hta.md
-              - Verificação da Análise de Tarefas (GOMS): verificacao/grupo_7/etapa_2/verificacao-analisetarefas-goms.md
-              - Verificação dos Aspectos Éticos: verificacao/grupo_7/etapa_2/verificacao-aspectos-eticos.md
               - Verificação das Personas: verificacao/grupo_7/etapa_2/verificacao-personas.md
+              - Verificação da Análise de Tarefas (GOMS): verificacao/grupo_7/etapa_2/verificacao-analisetarefas-goms.md
+              - Verificação da Análise de Tarefas (HTA): verificacao/grupo_7/etapa_2/verificacao-analisetarefas-hta.md
+              - Verificação dos Aspectos Éticos: verificacao/grupo_7/etapa_2/verificacao-aspectos-eticos.md
               - Verificação dos Cenários: verificacao/grupo_7/etapa_2/verificacao-cenarios.md
               - Verificação do Perfil de Usuário: verificacao/grupo_7/etapa_2/verificacao-perfil-usuario.md
           - Etapa 3:

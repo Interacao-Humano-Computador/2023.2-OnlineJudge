@@ -20,16 +20,15 @@ Os participantes envolvidos nessa verificação são:
 
 - [Luana Torres](https://github.com/luanatorress): Um dos membros da dupla que avaliou (Avaliador principal)
 
-
 <center>
 
 **Tabela 1** - Cronograma Completo dos Participantes da verificação
 
-|                                                                      Avaliador                                                                       |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-|                          [Luana Torres](https://github.com/luanatorress) e [Suzane Duarte](https://github.com/suzaneduarte)                          |                           Realização de um vídeo da inspeção em dupla                           |       16:00       |     16:30      | 04/12/2023 | Microsoft Teams |
-|                                                   [Luana Torres](https://github.com/luanatorress)                                                   |              Realização de um vídeo da inspeção individual do avaliador principal               |       12:00       |     12:30      | 04/12/2023 | Microsoft Teams |
-| [Suzane Duarte](https://github.com/suzaneduarte) e [Luana Torres](https://github.com/luanatorress) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       16:00      |     16:30      | 04/12/2023 | Microsoft Teams |
+|                                             Avaliador                                              |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
+| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
+| [Luana Torres](https://github.com/luanatorress) e [Suzane Duarte](https://github.com/suzaneduarte) |                           Realização de um vídeo da inspeção em dupla                           |       16:00       |     16:30      | 04/12/2023 | Microsoft Teams |
+|                          [Luana Torres](https://github.com/luanatorress)                           |              Realização de um vídeo da inspeção individual do avaliador principal               |       12:00       |     12:30      | 04/12/2023 | Microsoft Teams |
+| [Suzane Duarte](https://github.com/suzaneduarte) e [Luana Torres](https://github.com/luanatorress) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       16:00       |     16:30      | 04/12/2023 | Microsoft Teams |
 
 Fonte:[Luana Torres](https://github.com/luanatorress).
 
@@ -42,14 +41,14 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para Analise de Ta
 <center>
 
 **Tabela 2** - Checklist para Análise de Tarefas
-| ID  |                                                           Questão                                                           | Resposta da inspeção em dupla | Respostas da inspeção individual | Comentário |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :------: | :--------: |:--------: |
-|  1  |   Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?    |          |           |            |
-|  2  |          O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?           |          |          |            |
-|  3  | A análise de tarefas com o método HTA apresenta os componentes corretos objetivo, operação e relações? |          |            |            |
-|  4  | Possui a tabela HTA da tarefa descrevendo a tarefa, descrição, recomendações e problemas com os componentes teorizados? |          |           |            |
-|  5  | As tabelas apresentam as entradas, ações, feedbacks e os planos? |          |            |           |
 
+| ID  |                                                         Questão                                                         | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
+| :-: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------: | :------------------------------: | :---------: |
+|  1  | Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?  |                               |                                  |             |
+|  2  |        O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?         |                               |                                  |             |
+|  3  |         A análise de tarefas com o método HTA apresenta os componentes corretos objetivo, operação e relações?          |                               |                                  |             |
+|  4  | Possui a tabela HTA da tarefa descrevendo a tarefa, descrição, recomendações e problemas com os componentes teorizados? |                               |                                  |             |
+|  5  |                            As tabelas apresentam as entradas, ações, feedbacks e os planos?                             |                               |                                  |             |
 
 Fonte:[Luana Torres](https://github.com/luanatorress).
 
@@ -65,10 +64,7 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-
-
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
-
 
 ## Referências bibliográficas
 
@@ -84,6 +80,6 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 
 ## Histórico de versão
 
-| Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
-| :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 04/12/2023 | Criação da página |  [Luana Torres](https://github.com/luanatorress)     | [Ester Lino](https://github.com/esteerlino) |
+| Versão |    Data    |     Descrição     |                   Responsáveis                   |                   Revisor                   |
+| :----: | :--------: | :---------------: | :----------------------------------------------: | :-----------------------------------------: |
+|  1.0   | 04/12/2023 | Criação da página |  [Luana Torres](https://github.com/luanatorress) | [Ester Lino](https://github.com/esteerlino) |
