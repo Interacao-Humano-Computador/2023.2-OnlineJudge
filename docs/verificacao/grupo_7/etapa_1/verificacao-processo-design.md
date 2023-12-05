@@ -75,7 +75,6 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Etbby_gwX5Y?si=2foOfpbdbgo2c9UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 ## Problemas Encontrados e Sugestões de melhorias
 
 * Em relação aos riscos do ciclo escolhido, cabe detalhar especificamente quais são e como podem ser mitigados
@@ -83,7 +82,10 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos), 2023.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
-Link e frame do vídeo não listado no youtube das pessoas que fizeram o artefato ([Ester Lino](https://github.com/esteerlino) e [Pablo Guilherme](https://github.com/PabloGJBS)) mostrando as alterações que eles realizaram a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Kallyne Macedo](https://github.com/kalipassos).
+[Link da gravação da correção](https://www.youtube.com/watch?v=EonZl0W_qfM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EonZl0W_qfM?si=rGmLbyQzPvXTCBMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Bibliografia
 
