@@ -45,7 +45,7 @@ Para a realização desta avaliação utilizaremos tanto a investigação quanto
 
 ### Recrutamento de entrevistados
 
-Dumas e Redish (1999) relatam que uma avaliação de IHC em geral envolve de cinco a 12 usuários. Nielsen (2000), por sua vez, afirma que bastam cinco usuários para encontrarmos a maioria dos problemas na interface (85%, segundo o seu experimento), alcançando uma boa relação custo–benefício. Caso seja necessário obter resultados estatisticamente significativos, a amostra de usuários deve ser suficientemente grande e representativa. Entretanto, o tempo e outros recursos necessários para a coleta e análise de dados de muitos usuários pode inviabilizar uma abordagem estatística. Por isso, uma avaliação de IHC com frequência pretende apenas obter indícios sobre a qualidade de uso do sistema e sobre como aumentá-la.
+Dumas e Redish (1999)<a id="anchor_2" href="#REF2">2</a> relatam que uma avaliação de IHC em geral envolve de cinco a 12 usuários. Nielsen (2000)<a id="anchor_3" href="#REF3">3</a>, por sua vez, afirma que bastam cinco usuários para encontrarmos a maioria dos problemas na interface (85%, segundo o seu experimento), alcançando uma boa relação custo–benefício. Caso seja necessário obter resultados estatisticamente significativos, a amostra de usuários deve ser suficientemente grande e representativa. Entretanto, o tempo e outros recursos necessários para a coleta e análise de dados de muitos usuários pode inviabilizar uma abordagem estatística. Por isso, uma avaliação de IHC com frequência pretende apenas obter indícios sobre a qualidade de uso do sistema e sobre como aumentá-la.
 
 Baseado nisso e também na necessidade de que cada membro do grupo faça uma avaliação, e, por consequência uma entrevista, estaremos recrutando sete (7) entrevistados que se encaixem em nosso perfil de usuário. Para realização das entrevistas, o recrutamento será realizado de forma presencial na Universidade de Brasília (UnB), Campus Gama (FGA).
 
@@ -131,13 +131,17 @@ Seguindo as recomendações de Barbosa e Silva <a id="anchor_1" href="#REF1">¹<
 
 ## Video do teste piloto
 
-Gravado na plataforma Teams.
+A seguir está disponível o vídeo do Teste de Piloto, realizado dia 30/10/2023 e contou com a presença de dois integrantes da equipe: [Suzane Duarte](https://github.com/suzaneduarte) e [Pablo Guilherme](https://github.com/PabloGJBS).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJyNemXJ1g8?si=wgqHyvc9jvFsXdqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Referências bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
+
+> <a id="REF2" href="#anchor_2">2.</a>Dumas, J.S. & Redish, J.C. A Practical Guide to Usability Testing, edição revisada. Exeter, UK: Intellect, 1999.<br>
+
+> <a id="REF3" href="#anchor_3">3.</a>Nielsen, J. Why You Only Need to Test with 5 Users, Alertbox. Disponível em http://www.useit.com/alertbox/20000319.html, 2000.<br>
 
 ## Histórico de versões
 
