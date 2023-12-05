@@ -105,9 +105,9 @@ O responsável do grupo 7 por essa verificação irá realizar uma revisão das 
 
 **Tabela 3** - Cronograma de Retrabalho.
 
-| Data de Correção | Descrição                                       |                                           Responsável(eis)                                            |                 Revisor(es)                 |   Status   |
-| ---------------- | :---------------------------------------------- | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------: | :--------: |
-| 17/11/2023       | Realizar os ajustes da verificação das Personas | [Millena Queiroz](https://github.com/MillenaQueiroz), [Lucas Caldas](https://github.com/lucascaldasb) | [Ester Lino](https://github.com/esteerlino) | Em análise |
+| Data de Correção | Descrição                                       |                                           Responsável(eis)                                            |                 Revisor(es)                 |   Status   | Novo Status |
+| ---------------- | :---------------------------------------------- | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------: | :--------: | :--------: |
+| 17/11/2023       | Realizar os ajustes da verificação das Personas | [Millena Queiroz](https://github.com/MillenaQueiroz), [Lucas Caldas](https://github.com/lucascaldasb) | [Ester Lino](https://github.com/esteerlino) | Em análise | Finalizado |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
@@ -122,3 +122,4 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 | Versão | Data       | Descrição                                  | Autor(es)                                   | Revisor(es)                                 |
 | ------ | ---------- | ------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
 | 1.0    | 15/11/2023 | Criação da página Verificação das Personas | [Ester Lino](https://github.com/esteerlino) | [Eric Camargo](https://github.com/ericcs10) |
+| 1.1    | 05/12/2023 | Atualização do status | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |

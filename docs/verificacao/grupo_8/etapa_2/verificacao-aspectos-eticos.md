@@ -120,3 +120,4 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 | Versão | Data       | Descrição                            | Autor(es)                                        | Revisor(es)                                     |
 | ------ | ---------- | ------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
 | 1.0  | 14/11/2023 | Criação da página Verificação dos Aspectos Éticos  | [Ester Lino](https://github.com/esteerlino) | [Eric Camargo](https://github.com/ericcs10) |
+|  1.1   | 04/12/2023 | Correção de acordo com a Verificação | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |

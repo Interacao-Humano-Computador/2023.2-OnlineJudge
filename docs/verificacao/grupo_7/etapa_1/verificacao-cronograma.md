@@ -65,7 +65,7 @@ _Tabela 3_ - Checklist para o Cronograma.
 | 4   | O artefato estabelece relação planejado x executado?                                                               |      SIM     |             |
 | 5   | As datas de início e término das tarefas estão claramente definidas no cronograma?                                 |       SIM    |             |
 | 6   | Há uma sequência lógica e realista de execução das tarefas no cronograma?                                          |    SIM      |             |
-| 7   | Os responsáveis por cada tarefa estão claramente indicados no cronograma?                                          |           |    SIM        |
+| 7   | Os responsáveis por cada tarefa estão claramente indicados no cronograma?                                          |     SIM      |           |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
@@ -73,13 +73,9 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 ## Um vídeo de uma inspeção individual
 
-<center>
-
 [Link para o video da inspeção individual](https://www.youtube.com/watch?v=-mcdB0QpxaE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-mcdB0QpxaE?si=VVRQfi9VWTNScHct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</center>
 
 ## Problemas Encontrados e Sugestões de melhorias
 

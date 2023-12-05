@@ -6,6 +6,10 @@
 
 Inicialmente, os integrantes do grupo realizaram avaliações de sites, utilizando o framework DECIDE para apresentar os problemas de usabilidade presentes em cada um. Durante a reunião 2, foi feita uma revisão das avaliações a fim de verificar se algum dos sites avaliados porderia ser o escolhido para o projeto. No entanto, após a discussão foi decidido que o sites eram estáticos, possuindo poucas funcionalidades a serem trabalhadas. Assim, o site Online Judge foi sugerido.
 
+## Metodologia
+
+A escolha do site foi realizada a partir de uma pesquisa preliminar realizada por todos os membros do grupo, com o objetivo de buscar um site que atendesse aos pré-requisitos exigidos. Após discussão em equipe, foi realizavada uma análise heurística do site [Online Judge](https://onlinejudge.org/) para pontuar quais são os problemas de usabilidade.
+
 ## Critérios para escolha
 
 * Site não ter sido trabalhado na disciplina.
@@ -33,6 +37,10 @@ A avaliação realizada seguindo o Framework DECIDE e as heurísticas de Nielsen
 
 ## [Link para a avaliação detalhada do site Online Judge.](avaliacoes/avaliacao-online-judge.pdf)
 
+## Bibliografia
+
+> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
+
 ## Histórico de versão
 
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |
@@ -40,3 +48,4 @@ A avaliação realizada seguindo o Framework DECIDE e as heurísticas de Nielsen
 |  1.0   | 30/09/2023 | Padronização de todas as avaliações de sites | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
 |  1.1   | 16/10/2023 | Critérios de Escolha e Motivação | [Luana Torres](https://github.com/luanatorress)| [Ester Lino](https://github.com/esteerlino) |
 |  1.2   | 16/10/2023 | Inclusão de PDF com a avaliação completa | [Ester Lino](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorress) |
+|  1.3   | 05/12/2023 | Correção de acordo com a Verificação | [Ester Lino](https://github.com/esteerlino) | [Kallyne Macedo](https://github.com/kalipassos) |
