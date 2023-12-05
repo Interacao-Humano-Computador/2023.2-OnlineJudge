@@ -45,15 +45,15 @@ _Tabela 2_ - Checklist de Verificação do Artefato
 
 | ID  | Pergunta                                                                                               | Resposta Verificação Individual | Resposta Verificação em Dupla | Observações                                |
 | --- | -------------------------------------------------------------------------------------------------------- | --------- |--------- | ------------------------------------------ |
-| 1   | Os objetivos do planejamento estão documentados?        |       |           |                            |
-| 2   | O planejamento está de acordo com o framework DECIDE? |      |                                      |       |
-| 3   | A documentação inclui a lista de participantes da avaliação? |    |              |       |
-| 4  | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? |        |                                            |       |
-| 5 | O cronograma, contendo data, hora e local da avaliação, está descrito no documento?       |   |                                |       |
-| 6  | As ferramentas e equipamentos a serem utilizados na avaliação estão especificados no documento?          |      |                             |       |
-| 7  | Existe uma gravação do teste piloto disponível?           |     |                                            |       |
-| 8  | O documento contém instruções claras sobre as tarefas a serem realizadas durante a avaliação?            |        |  |       |
-| 9  | O protótipo de papel é apresentado no documento?      |     |                         |       |
+| 1   | Os objetivos do planejamento estão documentados?        |    SIM   |      SIM     |                            |
+| 2   | A documentação inclui a lista de participantes da avaliação? |  SIM  |     SIM     |       |
+| 3  | O perfil dos participantes está definido de acordo com o perfil de usuário e é apresentado no documento? |    SIM    |                 SIM                     |       |
+| 4 | O cronograma, contendo data, hora e local da avaliação, está descrito no documento?       |  SIM  |            SIM           |       |
+| 5  | As ferramentas e equipamentos a serem utilizados na avaliação estão especificados no documento?          |   SIM   |             SIM             |       |
+| 6  | O documento contém sessão para feedback dos usuários?            |  SIM      | SIM |       |
+| 7  | O documento contém sessão para sugestões de melhoria?            |  SIM      | SIM |       |
+| 8  | O documento contém sessão para planejamento de reprojeto?           |  SIM      | SIM |       |
+| 9  | O protótipo de papel é apresentado no documento?      |   SIM  |        SIM       |       |
 
 Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
@@ -64,13 +64,34 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 A seguir encontra-se um vídeo da inspeção realizada em dupla:
 
+<center>
+
+[Link para o video da inspeção em dupla](https://www.youtube.com/watch?v=JXzppfJAy3o)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JXzppfJAy3o?si=Ftmbq5KRpi4QgCb6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Um vídeo de uma inspeção individual
 
 A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefato:
 
+<center>
+
+[Link para o video da inspeção individual](https://www.youtube.com/watch?v=x0q20tnqL_8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x0q20tnqL_8?si=SQDI8tDUCpBFYV5S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Problemas Encontrados e Sugestões de melhorias
 
+Através das respostas da checklist é possível notar que não houveram problemas encontrados ou sugestões de melhoria.
+
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Por não haver necessidade de correções, o vídeo de correção não foi necessário neste caso.
+
 
 ## Bibliografia
 
@@ -86,3 +107,4 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação do documento |  [Eric Camargo](https://github.com/Ericcs10), [Luana Torres](https://github.com/luanatorress) | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.1   | 04/12/2023 | Terminando a página |  [Eric Camargo](https://github.com/Ericcs10), [Luana Torres](https://github.com/luanatorress) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.1   | 04/12/2023 | Preenchimento das checklists |  [Eric Camargo](https://github.com/Ericcs10), [Luana Torres](https://github.com/luanatorress) | [Kallyne Macedo](https://github.com/kalipassos) |

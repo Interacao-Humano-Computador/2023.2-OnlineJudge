@@ -46,13 +46,13 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para Relato dos Re
 
 |        ID        | Questão                                                                                              | Resposta Verificação Individual  | Resposta Verificação em Dupla  | Comentário                                             |
 | :--------------: | ------------------------------------------------------------------------------------------------------ | :--------: |:--------: | -------------------------------------------------------- |
-|        1        | O documento possui um tópico sobre quais são os objetivos do relato?                                   |        |       |                                                          |
-|        2        | O documento possui um tópico sobre o método de avaliação?                          |        |                                                          |       |
-|        3         | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                      |       |              |       |
-|        4         | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                  |         |                      |       |
-|        5       | O documento possui um tópico sobre a lista dos problemas ainda não corrigidos?          |     |      |                                |                               
-|        6        | O documento está estruturado conforme o planejamento do relato realizado?      |       |               |       |
-|        7        | O documento tem cronograma para reprojeto?      |       |               |       |
+|        1        | O documento possui um tópico sobre quais são os objetivos do relato?                                   |    SIM    |   SIM    |                                                          |
+|        2        | O documento possui um tópico sobre o método de avaliação?                          |    SIM    |                   SIM                                       |       |
+|        3         | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                      |   SIM    |       SIM       |       |
+|        4         | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                  |    SIM     |           SIM           |       |
+|        5       | O documento possui um tópico sobre a lista dos problemas ainda não corrigidos?          |  SIM   |   SIM   |                                |                               
+|        6        | O documento está estruturado conforme o planejamento do relato realizado?      |    SIM   |        SIM       |       |
+|        7        | O documento tem cronograma para reprojeto?      |   SIM   |      SIM         |       |
 
 Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
@@ -62,13 +62,34 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 A seguir encontra-se um vídeo da inspeção realizada em dupla:
 
+<center>
+
+[Link para o video da inspeção em dupla](https://www.youtube.com/watch?v=MxnZi8iJtQw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxnZi8iJtQw?si=vcGO_Dl86zMtSRdP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Um vídeo de uma inspeção individual
 
 A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefato:
 
+<center>
+
+[Link para o video da inspeção individual](https://www.youtube.com/watch?v=4m8WkfGGD3k)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4m8WkfGGD3k?si=bDSjQ8L8oxtIayDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
+
 ## Problemas Encontrados e Sugestões de melhorias
 
+Através das respostas da checklist é possível notar que não houveram problemas encontrados ou sugestões de melhoria.
+
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Por não haver necessidade de correções, o vídeo de correção não foi necessário neste caso.
 
 ## Bibliografia
 
@@ -84,3 +105,4 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação do documento |  [Eric Camargo](https://github.com/Ericcs10), [Luana Torres](https://github.com/luanatorress) | [Kallyne Macedo](https://github.com/kalipassos) |
 |  1.1   | 04/12/2023 | Finalização do documento |  [Eric Camargo](https://github.com/Ericcs10), [Luana Torres](https://github.com/luanatorress) | [Kallyne Macedo](https://github.com/kalipassos) |
+|  1.1   | 04/12/2023 | Preenchimento das checklists |  [Eric Camargo](https://github.com/Ericcs10), [Luana Torres](https://github.com/luanatorress) | [Kallyne Macedo](https://github.com/kalipassos) |
