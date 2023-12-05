@@ -25,7 +25,7 @@ Os participantes envolvidos nessa verificação são:
 |                                        Avaliador                                        |                                              Atividade                                              | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------: | :-------------: | :--------: | :-------------: |
 | [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |        16:00        |      16:05      | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        16:20        |      16:30      | 04/12/2023 | Microsoft Teams |
+|                         [Ester Lino](https://github.com/esteerlino)                         | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        16:20        |      16:30      | 04/12/2023 | Microsoft Teams |
 
 Fonte:[Ester Lino](https://github.com/esteerlino).
 
@@ -69,7 +69,10 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 ## Um vídeo da inspeção em dupla
 
-Link e frame do vídeo não listado no youtube entre a dupla [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos).
+[Link para a gravação da inspeção](https://www.youtube.com/watch?v=f0A1Ye21ZeM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f0A1Ye21ZeM?si=A9PRqw6UgQjGfgxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Problemas Encontrados e Sugestões de melhorias
 

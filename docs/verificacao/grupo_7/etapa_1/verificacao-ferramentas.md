@@ -25,7 +25,7 @@ Os participantes envolvidos nessa verificação são:
 |                                        Avaliador                                        |                                              Atividade                                              | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------: | :-------------: | :--------: | :-------------: |
 | [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |        15:30        |      15:35      | 04/12/2023 | Microsoft Teams |
-| [Ester Lino](https://github.com/esteerlino) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        15:50        |      16:00      | 04/12/2023 | Microsoft Teams |
+|                         [Ester Lino](https://github.com/esteerlino)                         | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        15:50        |      16:00      | 04/12/2023 | Microsoft Teams |
 
 Fonte:[Ester Lino](https://github.com/esteerlino).
 
@@ -70,7 +70,10 @@ Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://gi
 
 ## Um vídeo da inspeção em dupla
 
-Link e frame do vídeo não listado no youtube entre a dupla [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos).
+[Link para o video da inspeção](https://www.youtube.com/watch?v=t33FledRwp0&source_ve_path=MjM4NTE&feature=emb_title)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t33FledRwp0?si=HMb7e7f9AhtPKt_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Problemas Encontrados e Sugestões de melhorias
 

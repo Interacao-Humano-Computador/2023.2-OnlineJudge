@@ -25,7 +25,7 @@ Os participantes envolvidos nessa verificação são:
 |                                        Avaliador                                        |                                              Atividade                                              | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------: | :-------------: | :--------: | :-------------: |
 | [Ester Lino](https://github.com/esteerlino) e  [Kallyne Macedo](https://github.com/kalipassos) |                           Realização de um vídeo da inspeção em dupla                           |        19:35        |      19:40      | 04/12/2023 | Microsoft Teams |
-| [Kallyne Macedo](https://github.com/kalipassos) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        19:55        |      20:10      | 04/12/2023 | Microsoft Teams |
+|                       [Kallyne Macedo](https://github.com/kalipassos)                       | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |        19:55        |      20:10      | 04/12/2023 | Microsoft Teams |
 
 Fonte: [Ester Lino](https://github.com/esteerlino).
 
@@ -80,7 +80,9 @@ Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://gi
 
 ## Um vídeo da inspeção em dupla
 
-Link e frame do vídeo não listado no youtube entre a dupla [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://github.com/kalipassos).
+[Link da gravação da inspeção]()
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CvZ9iBAwaMA?si=il5SJd3-8bkIvVmr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Problemas Encontrados e Sugestões de melhorias
 
