@@ -27,9 +27,9 @@ Os participantes envolvidos nessa verificação são:
 
 |                                                                      Avaliador                                                                       |                                            Atividade                                            | Horário de Início | Horário de Fim |    Data    |      Local      |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------: | :------------: | :--------: | :-------------: |
-|                          [Luana Torres](https://github.com/luanatorress) e [Suzane Duarte](https://github.com/suzaneduarte)                          |                           Realização de um vídeo da inspeção em dupla                           |       17:00       |     17:30      | 04/12/2023 | Microsoft Teams |
+|                          [Luana Torres](https://github.com/luanatorress) e [Ester Lino](https://github.com/esteerlino)                          |                           Realização de um vídeo da inspeção em dupla                           |       17:00       |     17:30      | 04/12/2023 | Microsoft Teams |
 |                                                   [Luana Torres](https://github.com/luanatorress)                                                   |              Realização de um vídeo da inspeção individual do avaliador principal               |       16:30       |     17:00      | 04/12/2023 | Microsoft Teams |
-| [Suzane Duarte](https://github.com/suzaneduarte) e [Luana Torres](https://github.com/luanatorress) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       17:00      |     17:30      | 04/12/2023 | Microsoft Teams |
+| [Luana Torres](https://github.com/luanatorress) | Realização de um vídeo da correção do artefato com a pessoa que o fez com o avaliador principal |       17:00      |     17:30      | 04/12/2023 | Microsoft Teams |
 
 Fonte:[Luana Torres](https://github.com/luanatorress).
 
@@ -46,20 +46,20 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para Relato dos Re
 
 |        ID        | Questão                                                                                              | Resposta  | Comentário                                             |
 | :--------------: | ------------------------------------------------------------------------------------------------------ | :--------: | -------------------------------------------------------- |
-|        1        | O documento possui um tópico sobre quais são os objetivos do relato?                                   |        |                                                          |
-|        2        | O documento possui um tópico sobre a metodologia de prototipação?                             |        |                                                          |
-|        3         | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                      |       |              |
-|        4         | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                  |         |                      |
-|        5       | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?          |     |      |                                                        
-|        6        | O documento está estruturado conforme o planejamento do relato realizado?      |       |               |
+|        1        | O documento possui um tópico sobre quais são os objetivos do relato?                                   |   SIM     |                                                          |
+|        2        | O documento possui um tópico sobre a método de avaliação                            |     SIM   |                                                          |
+|        3         | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                      |   SIM    |              |
+|        4         | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                  |     SIM    |                      |
+|        5       | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?          |  SIM   |      |
+|        6        | O documento está estruturado conforme o planejamento do relato realizado?      |    SIM   |               |
 
-Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
+Fonte: [Luana Torres](https://github.com/luanatorress) e [Ester Lino](https://github.com/esteerlino), 2023.
 
 </center>
 
 ## Um vídeo da inspeção em dupla
 
-A seguir encontra-se um vídeo da inspeção realizada em dupla:
+
 
 ## Um vídeo de uma inspeção individual
 
@@ -67,22 +67,15 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-
+Após realizar a inspeção individual deste artefato foi possível identificar que não há nenhuma sugestão de melhoria para ser realizado nessa etapa.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
-
-## Referências bibliográficas
-
-> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
+Não foi necessário realizar nenhum vídeo para a correção do artefato, uma vez que como apresentado no tópico acima não consta nenhum problema e/ou alteração identificadas.
 
 ## Bibliografia
 
-> 1. IHC - Domínio Público. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/. Acesso em: 03 de dezembro 2023.<br></br>
-
-> 2. André Barros,Plano de Ensino de Interação humano-computador, Disponível em : https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf, Acesso em: 03 de dezembro 2023.<br></br>
-
-> 3. IHC - Plataforma Lattes. Disponível em: https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Verifica%C3%A7%C3%A3o/Grupo%2003/planejamento%20da%20verifica%C3%A7%C3%A3o/ Acesso em: 03 de dezembro 2023.<br></br>
+> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
 
 ## Histórico de versão
 

@@ -101,3 +101,4 @@ Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://gi
 | :-----: | :--------: | :--------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |   1.0   | 03/12/2023 | Criação do documento | [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
 |   1.1   | 04/12/2023 |  Inspeção em dupla  | [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
+|   1.2   | 04/12/2023 |  Correção do artefato | [Ester Lino](https://github.com/esteerlino) | [Henrique Torres](https://github.com/henriqtorresl) |
