@@ -81,6 +81,14 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10) , 2023.
 
 Link e frame do vídeo não listado no youtube entre a dupla [Eric Camargo](https://github.com/Ericcs10) e [Luana Torres](https://github.com/luanatorress).
 
+<center>
+
+[Link da gravação da entrevista](https://youtu.be/sTuC2O23NvI )
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTuC2O23NvI?si=ughtqpz7tz2wt6dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Um vídeo de uma inspeção individual
 
 Link e frame do vídeo não listado no youtube do Avaliador principal[Eric Camargo](https://github.com/Ericcs10)
