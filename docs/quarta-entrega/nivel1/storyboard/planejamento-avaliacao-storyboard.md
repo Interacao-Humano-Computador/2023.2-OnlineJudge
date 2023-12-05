@@ -45,7 +45,9 @@ Para a realização desta avaliação utilizaremos tanto a investigação quanto
 
 ### Recrutamento de entrevistados
 
-Devido a necessidade de que cada membro do grupo faça uma avaliação, e, por consequência uma entrevista, estaremos recrutando sete (7) entrevistados que se encaixem em nosso perfil de usuário.
+Dumas e Redish (1999) relatam que uma avaliação de IHC em geral envolve de cinco a 12 usuários. Nielsen (2000), por sua vez, afirma que bastam cinco usuários para encontrarmos a maioria dos problemas na interface (85%, segundo o seu experimento), alcançando uma boa relação custo–benefício. Caso seja necessário obter resultados estatisticamente significativos, a amostra de usuários deve ser suficientemente grande e representativa. Entretanto, o tempo e outros recursos necessários para a coleta e análise de dados de muitos usuários pode inviabilizar uma abordagem estatística. Por isso, uma avaliação de IHC com frequência pretende apenas obter indícios sobre a qualidade de uso do sistema e sobre como aumentá-la.
+
+Baseado nisso e também na necessidade de que cada membro do grupo faça uma avaliação, e, por consequência uma entrevista, estaremos recrutando sete (7) entrevistados que se encaixem em nosso perfil de usuário. Para realização das entrevistas, o recrutamento será realizado de forma presencial na Universidade de Brasília (UnB), Campus Gama (FGA).
 
 ### Preparação
 
@@ -53,17 +55,16 @@ Os entrevistadores deverão seguir as perguntas presentes no roteiro, e realizar
 
 ### Custos
 
-Esta etapa de entrevistas não deverá custar nada para equipe ou para o entrevistado, portanto, elas deverão ser realizadas de modo online.
+Esta etapa de entrevistas não deverá custar nada para equipe ou para o entrevistado, porém, deverá ser feita presencialmente.
 
 Serão necessárias ferramentas para a entrevista dentre elas:
 
-- Plataforma de chamada com possibilidade de compartilhamento de tela: [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB), [Discord](https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fresponse_type%3Dcode%26prompt%3Dnone%26scope%3Didentify%2520email%26state%3D1600bb32a4158a47c1dbff574f26a2020dc34bf021f2070c769d6c0f0857af66%26redirect_uri%3Dhttps%253A%252F%252Fgarticphone.com%252Fapi%252Fauth%252Fcallback%252Fdiscord%26client_id%3D809431157959688243)
-
-- Perguntas a serem respondidas com a avaliação
-- Perguntas a serem respondidas com a entrevista
-- Termo de consentimento
-- StoryBoard de cada tarefa avaliada
-- Qualquer equipamento com acesso a internet e que possua navegador web
+- Plataforma de chamada com possibilidade de compartilhamento de tela para gravação do vídeo: [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB);
+- Perguntas a serem respondidas com a avaliação;
+- Perguntas a serem respondidas com a entrevista;
+- Termo de consentimento;
+- StoryBoard de cada tarefa avaliada;
+- Qualquer equipamento com acesso a internet e que possua navegador web.
 
 ### Prazos
 
@@ -97,7 +98,7 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 Na entrevista serão utilizadas as seguintes perguntas:
 
-<center><b>Tabela 2:</b> Registro das entrevistas
+<center><b>Tabela 3:</b> Registro das entrevistas
 
 | Número da pergunta | Enunciado da pergunta                                                                                            | Possíveis respostas                          |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
