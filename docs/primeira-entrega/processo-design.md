@@ -2,11 +2,15 @@
 
 ## Introdução
 
-Neste momento teremos uma breve descrição sobre os processos de desing assim como a explicação da escolha do processo de design do nosso grupo, o qual foi escolhido o modelo de Mayhew.
+Neste momento teremos uma breve descrição sobre os processos de design assim como a explicação da escolha do processo de design do nosso grupo, o qual foi escolhido o modelo de Mayhew.
 
 ### **Engenharia de Usabilidade de Mayhew**
 
 - Escolhemos este modelo em nosso projeto, uma vez que ele possui um maior detalhamento de um passo a passo a ser seguido deixando menos espaço para o erro e o engano. Também levamos em consideração as recomendações do professor em sala de aula.
+
+- Riscos: falta de experiencia sobre o modelo durante a aplicação do mesmo.
+
+- Mitigação do Risco: etapas de verificação e revisão do projeto.
 
 <br><figcaption align="center">Figura 1 - Engenharia de Usabilidade de Mayhew.</figcaption>
 
@@ -21,7 +25,6 @@ Neste momento teremos uma breve descrição sobre os processos de desing assim c
   - Design de Usabilidade: Após a análise de requisitos, a fase de design se concentra na criação de soluções que atendam aos requisitos de usabilidade identificados. Isso inclui a criação de protótipos, o desenvolvimento de interfaces de usuário e a consideração de princípios de design de usabilidade para garantir que o sistema seja eficaz, eficiente e agradável de usar.
 
   - Avaliação de Usabilidade: Na fase de avaliação, o sistema interativo é testado com usuários reais para identificar problemas de usabilidade. Isso pode envolver testes de usabilidade, observações e coleta de feedback dos usuários. Com base nos resultados da avaliação, as melhorias são feitas no sistema para corrigir os problemas identificados.
-
 
 ### **Ciclo de Vida Simples**
 
@@ -114,4 +117,6 @@ Após a introdução de um produto, dados devem ser coletados para avaliar o ret
 | Versão  | Data | Descrição | Responsáveis | Revisor
 -------- | ------ | ------ | ---------- | ----------
 | 1.0 | 21/09/2023 | Descrição da Metodologia | [Pablo Guilherme](https://github.com/PabloGJBS), [Ester Lino](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorress) |
-| 1.1 | 13/10/2023 | Inclusão de legnda, fonte e referências às imagens | [Luana Torres](https://github.com/luanatorress), [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+| 1.1 | 13/10/2023 | Inclusão de legenda, fonte e referências às imagens | [Luana Torres](https://github.com/luanatorress), [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+| 1.2 | 04/12/2023 | correção do artefato |[Pablo Guilherme](https://github.com/PabloGJBS)  |[Kallyne Macedo](https://github.com/kalipassos)
+
