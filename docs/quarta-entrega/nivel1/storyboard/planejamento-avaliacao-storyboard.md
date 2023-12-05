@@ -2,28 +2,34 @@
 
 ## Introdução
 
-Neste artefato estaremos realizando o planejamento para a avaliação do [Online Judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1), com o intuito de ao final do planejamento termos um roteiro para uma avaliação relacionada com as tarefas dos StoryBords criados. Dessa forma, será possível verificar possíveis problemas relacionados com as tarefas propostas.
+Neste artefato estaremos realizando o planejamento para a avaliação do [Online Judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1), com o intuito de ao final do planejamento termos um roteiro para uma avaliação relacionada com as tarefas dos StoryBoards criados. Dessa forma, será possível verificar possíveis problemas relacionados com as tarefas propostas.
 
 ## Metodologia
 
 Para este planejamento utilizaremos o framework DECIDE o qual propõe seis (6) etapas para o planejamento, dentre elas:
 
-<center><b>Tabela 1:</b> Definição do DECIDE</center>
+<center>
 
-| Letra | <center>Descrição                                            |
-| ----- | ------------------------------------------------------------ |
-| D     | Determinar os objetivos da avaliação.                        |
-| E     | Explorar perguntas a serem respondidas com a avaliação.      |
-| C     | Escolher os métodos de avaliação a serem utilizados.         |
-| I     | Identificar e administrar as questões práticas da avaliação. |
-| D     | Decidir como lidar com as questões éticas.                   |
-| E     | Avaliar, interpretar e apresentar os dados                   |
+Tabela 1: Definição do DECIDE
+
+| Letra |                          Descrição                           |
+| :---: | :----------------------------------------------------------: |
+|   D   |            Determinar os objetivos da avaliação.             |
+|   E   |   Explorar perguntas a serem respondidas com a avaliação.    |
+|   C   |     Escolher os métodos de avaliação a serem utilizados.     |
+|   I   | Identificar e administrar as questões práticas da avaliação. |
+|   D   |          Decidir como lidar com as questões éticas.          |
+|   E   |          Avaliar, interpretar e apresentar os dados          |
+
+Fonte: Barbosa e Silva.
+
+</center>
 
 Além disto, estaremos seguindo como base o perfil de usuário proposto anteriormente em busca de uma maior precisão na análise a partir dos possíveis usuários primários do sistema.
 
 ## D - Objetivos da avaliação
 
-Verificar se o que foi produzido durante a análise de tarefas possui um design alternativo e se estão ocorrendo corretamente, ou seja utilizaremos a avaliação para obter possíveis ideias e ou problemas não identificados anteriormente.
+Os objetivos do planejamento da avaliação do StoryBoard é de elaborar e planejar adequadamente um roteiro para realização da avaliação das tarefas através da utilização do StoryBoard. A partir disso, o objetivo secundário será mapear se os StoryBoards produzidos possuem coerência e se estão ocorrendo de acordo com a realidade. Por fim, poderemos utilizar essa avaliação para obter possíveis ideias e/ou problemas não identificados anteriormente.
 
 ## E - Explorar Perguntas a serem respondidas com a avaliação
 
@@ -56,7 +62,7 @@ Serão necessárias ferramentas para a entrevista dentre elas:
 - Perguntas a serem respondidas com a avaliação
 - Perguntas a serem respondidas com a entrevista
 - Termo de consentimento
-- Diagrama HTA ou GOMS de cada tarefa avaliada
+- StoryBoard de cada tarefa avaliada
 - Qualquer equipamento com acesso a internet e que possua navegador web
 
 ### Prazos
@@ -76,14 +82,14 @@ Para fins de documentação as entrevistas devem ser registradas em uma tabela c
 |                    Entrevistador                    |    Entrevistado     | Horário de Início | Horário de Fim |    Data    |                                                                                                                                                                                                                    Local                                                                                                                                                                                                                    |
 | :-------------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     [Eric Camargo](https://github.com/ericcs10)     |    Caio Vinícius    |       10:50       |     11:00      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
-|     [Ester Lino](https://github.com/esteerlino)     |    Pedro Miguel    |       10:00      |     10:10      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
+|     [Ester Lino](https://github.com/esteerlino)     |    Pedro Miguel     |       10:00       |     10:10      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 | [Henrique Torres](https://github.com/henriqtorresl) |     João Pedro      |       09:00       |     09:20      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 |   [Kallyne Macedo](https://github.com/kalipassos)   |   Leonardo Aguiar   |       16:10       |     16:20      | 03/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 |   [Luana Torres](https://github.com/luanatorress)   |    Ingrid Alves     |       18:20       |     18:30      | 01/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 |   [Pablo Guilherme](https://github.com/PabloGJBS)   | João Pedro Anacleto |       13:50       |     13:54      | 07/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 |  [Suzane Duarte](https://github.com/suzaneduarte)   |    Ana Carolina     |       11:10       |     11:20      | 04/11/2023 | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/compare-microsoft-teams-options-b?ef_id=_k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&OCID=AIDcmm744r0i0o_SEM__k_Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB_k_&gclid=Cj0KCQjwhfipBhCqARIsAH9msbkh56peWVo27EaDzR8EbqXYiLK6YwC1NKbGDkdcn2Cmym6qqf15RrcaAthyEALw_wcB) |
 
-Fonte: [Ester Lino](https://github.com/esteerlino).
+Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 </center>
 
@@ -102,7 +108,7 @@ Na entrevista serão utilizadas as seguintes perguntas:
 | 5                  | O storyboard possui uma composição visual com os seguintes itens (personagem, objetos, cenários) identificáveis? | [ ] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
 | 6                  | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | [ ] Sim<br>[ ] Não <br> [ ] Não sei afirmar  |
 
-Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte).
+Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte), 2023.
 
 </center>
 
@@ -140,3 +146,4 @@ Gravado na plataforma Teams.
 | 1.1    | 29/10/2023 | Correções de erros na página       | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10)     |
 | 1.2    | 29/10/2023 | Video do teste piloto              | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Eric Camargo](https://github.com/ericcs10)     |
 | 1.3    | 30/10/2023 | Miniatura do video do teste piloto | [Kallyne Macedo](https://github.com/kalipassos)                                                   | [Pablo Guilherme](https://github.com/PabloGJBS) |
+| 2.0    | 04/12/2023 | Correções do artefato              | [Suzane Duarte](https://github.com/suzaneduarte)                                                  | [Kallyne Macedo](https://github.com/kalipassos) |
