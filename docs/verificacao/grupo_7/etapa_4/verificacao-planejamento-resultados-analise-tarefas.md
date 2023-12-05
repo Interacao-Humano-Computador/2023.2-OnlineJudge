@@ -41,12 +41,11 @@ _Tabela 2_ - Checklist para os Itens Gerais.
 
 |  ID  |  Descrição  |  Avaliação  |  Observações  |
 |  --- | ----------- | ----------- | ------------- |
-| 1   | Os artefatos possuem introdução? |   |   |
-| 2   | Os artefatos possuem uma bibliografia/referência bibliográfica? |  |   |
-| 3   | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? |  |   |
-| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? |  |    |
-| 5   | Todos os textos estão na norma padrão? |  |   |
-| 6   | Os vídeos produzidos estão na categoria "não listado" no youtube?  |   |  |
+| 1   | Os artefatos possuem introdução? |  SIM |   |
+| 2   | Os artefatos possuem uma bibliografia/referência bibliográfica? | SIM |   |
+| 3   | Os artefatos possuem um histórico de versões com o id e descrição das versões, data, autores e revisores padronizado? | SIM |   |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legenda e fonte? | INCOMPLETO |  É necessário chamar as tabelas e imagens no texto  |
+| 5   | Todos os textos estão na norma padrão? | SIM |   |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
@@ -60,17 +59,17 @@ _Tabela 3_ - Checklist para o Planejamento do Relato dos Resultados da Análise 
 
 | ID  | Questão                                                                                                                | Resposta | Comentário |
 | :-: | :--------------------------------------------------------------------------------------------------------------------- | :------: | :--------: |
-|  1  | O artefato menciona a apresentação do cronograma realizado das Avaliações da Análise de tarefas ?                      |          |            |
-|  2  | O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações da Análise de tarefas ?                    |          |            |
-|  3  | O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ?                                |          |            |
-|  4  | O planejamento apresenta os participantes selecionados?                                                                |          |            |
-|  5  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                  |          |            |
-|  6  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato ? |          |            |
-|  7  | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados ?                   |          |            |
-|  8  | O planejamento apresenta uma seção para o feedback dos usuários ?                                                      |          |            |
-|  9  | O planejamento considera no resultado um planejamento para o reprojeto do sistema ?                                    |          |            |
-| 10  | O planejamento apresenta instruções com relação às sugestões de melhorias ?                                            |          |            |
-| 11  | O planejamento define tópico para sumarizar os principais resultados?                                                  |          |            |
+|  1  | O artefato menciona a apresentação do cronograma realizado das Avaliações da Análise de tarefas ?                      |     NÃO     |            |
+|  2  | O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações da Análise de tarefas ?                    |     SIM     |            |
+|  3  | O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ?                                |     NÃO     |            |
+|  4  | O planejamento apresenta os participantes selecionados?                                                                |     SIM     |            |
+|  5  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?                                  |     SIM     |            |
+|  6  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato ? |     NÃO     |            |
+|  7  | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados ?                   |    SIM      |            |
+|  8  | O planejamento apresenta uma seção para o feedback dos usuários ?                                                      |     SIM     |            |
+|  9  | O planejamento considera no resultado um planejamento para o reprojeto do sistema ?                                    |      SIM    |            |
+| 10  | O planejamento apresenta instruções com relação às sugestões de melhorias ?                                            |     SIM     |            |
+| 11  | O planejamento define tópico para sumarizar os principais resultados?                                                  |     NÃO     |            |
 
 Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
@@ -78,15 +77,23 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 ## Um vídeo de uma inspeção individual
 
-Link e frame do vídeo não listado no youtube do avaliador principal [Ester Lino](https://github.com/esteerlino).
+[Link para o video da inspeção individual](https://www.youtube.com/watch?v=Qb4Tny6ZRkg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qb4Tny6ZRkg?si=fw05faZx84_03YLq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Problemas Encontrados e Sugestões de melhorias
 
-Todos os problemas encontrados e sugestões de melhoria
+- Adicionar tabela de cronograma realizado;
+- Padronizar a página de acordo com as outras páginas de relatos;
+- Definir a quantidade de participantes e justificar esse número;
+- Ausência de detalhamento do tópico "Sumário dos principais resultados";
+- Correção no título da página.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
-Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Eric Camargo](https://github.com/ericcs10)   e [Henrique Torres](https://github.com/henriqtorresl)) mostrando as alterações que ela realizou a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Ester Lino](https://github.com/esteerlino).
+[Link para o video da correção](https://www.youtube.com/watch?v=5Wm96LzJkrQ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Wm96LzJkrQ?si=QtLMIFvCJG60lFtf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bibliografia
 
@@ -97,3 +104,5 @@ Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Er
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 04/12/2023 | Criação do documento |  [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 04/12/2023 | Inclusão do vídeo da inspeção |  [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.2   | 04/12/2023 | Inspeção Individual e correção do artefato |  [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |

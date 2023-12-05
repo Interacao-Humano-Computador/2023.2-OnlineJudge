@@ -81,6 +81,11 @@ Fonte: [Ester Lino](https://github.com/esteerlino) e [Kallyne Macedo](https://gi
 
 Nenhum problema foi encontrado nos storyboards em si - entretanto, o storyboard de número 5 está vazio.
 
+## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+[Link da gravação da correção](https://www.youtube.com/watch?v=y7cz9zJWlnk) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7cz9zJWlnk?si=LbH42fPQJdL_vuSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br>
@@ -91,3 +96,4 @@ Nenhum problema foi encontrado nos storyboards em si - entretanto, o storyboard 
 | :-----: | :--------: | :--------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------: |
 |   1.0   | 04/12/2023 | Criação do documento | [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |
 |   1.1   | 04/12/2023 |  Inspeção em dupla  | [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.2    | 04/12/2023 | Correção do artefato |  [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |

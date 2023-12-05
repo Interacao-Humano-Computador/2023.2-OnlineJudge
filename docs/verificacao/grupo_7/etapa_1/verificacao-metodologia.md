@@ -83,7 +83,9 @@ Fonte: [Ester Lino](https://github.com/esteerlino), 2023.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
-Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([Henrique Torres](https://github.com/henriqtorresl)) mostrando as alterações que ela realizou a partir dos problemas encontrados e sugestões de melhorias apontados pelo avaliador principal [Ester Lino](https://github.com/esteerlino).
+[Link para a gravação da correção](https://www.youtube.com/watch?v=DOFwwBDDEYc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DOFwwBDDEYc?si=G_wimDXwaxTpYdmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bibliografia
 
@@ -95,3 +97,4 @@ Link e frame do vídeo não listado no youtube da pessoa que fez o artefato ([He
 | :-----: | :--------: | :--------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------: |
 |   1.0   | 04/12/2023 | Criação do documento | [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
 |   1.1   | 04/12/2023 |  Inspeção em dupla  | [Ester Lino](https://github.com/esteerlino), [Kallyne Macedo](https://github.com/kalipassos) | [Henrique Torres](https://github.com/henriqtorresl) |
+|   1.2   | 04/12/2023 |  Correção do artefato | [Ester Lino](https://github.com/esteerlino) | [Henrique Torres](https://github.com/henriqtorresl) |
