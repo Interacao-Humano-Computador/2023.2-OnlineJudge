@@ -67,10 +67,6 @@ _Tabela 3_ - Checklist para o Planejamento da Avaliação do protótipo de papel
 | 7  | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">¹</a>                                     |     SIM      |                   |                   |
 | 8  | Aborda como foi realizada a análise da interação do usuário com o artefato?                                                |      SIM       |                   |                   |
 | 9  | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">¹</a>                             |     SIM      |                   |                   |
-| 10  | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">¹</a>              |     SIM      |                   |                   |
-| 11  | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">¹</a>                                |     SIM     |                   |                   |
-| 12  | O relato segue um padrão consolidado para todos os outros relatos?                                                         |    SIM     |                   |                   |
-
 
 
 Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
@@ -84,6 +80,16 @@ Link e frame do vídeo não listado no youtube entre a dupla [Eric Camargo](http
 ## Um vídeo de uma inspeção individual
 
 Link e frame do vídeo não listado no youtube do Avaliador principal[Eric Camargo](https://github.com/Ericcs10)
+
+- Vídeo da inspeção individual:
+
+<center>
+
+[Link da gravação da entrevista](https://youtu.be/UmXA0gk4WKA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UmXA0gk4WKA?si=UFKPL4YKk_0AvGTB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 
 

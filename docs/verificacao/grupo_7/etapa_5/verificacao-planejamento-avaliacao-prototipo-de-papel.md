@@ -85,6 +85,16 @@ Link e frame do vídeo não listado no youtube entre a dupla [Eric Camargo](http
 
 Link e frame do vídeo não listado no youtube do Avaliador principal[Eric Camargo](https://github.com/Ericcs10)
 
+- Vídeo da inspeção individual:
+
+<center>
+
+[Link da gravação da entrevista](https://youtu.be/qOHQJFfc6Ts)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qOHQJFfc6Ts?si=TIl46pvxrPHJq3o2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Problemas Encontrados e Sugestões de melhorias
 
 Link e frame do vídeo não listado no youtube com um vídeo apresentando todos os problemas encontrados e sugestões de melhoria
