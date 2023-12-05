@@ -59,7 +59,9 @@ Fonte: [Luana Torres](https://github.com/luanatorress) e [Ester Lino](https://gi
 
 ## Um vídeo da inspeção em dupla
 
+[Link para o video da inspeção](https://www.youtube.com/watch?v=e46ZgJlzYus)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e46ZgJlzYus?si=NsoPWM0bnvOsdA2h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Um vídeo de uma inspeção individual
 
