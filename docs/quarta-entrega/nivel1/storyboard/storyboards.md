@@ -53,15 +53,11 @@ Na figura 4, apresenta-se um storyboard no qual o usuário deseja editar sua con
 
 <b>Fonte:</b> <a href="https://github.com/luanatorress">Luana Torres</a> </a></center>
 
-### **Visualizar minhas submissões**
-
-Na figura 5, apresenta-se um storyboard no qual o usuário deseja visualizar suas submissões.
-
 ### **Acessar o Contest System**
 
-Na figura 6, apresenta-se um storyboard no qual o usuário deseja acessar o sistema de contests do site, mais especificamente a aba "Past Contests".
+Na figura 5, apresenta-se um storyboard no qual o usuário deseja acessar o sistema de contests do site, mais especificamente a aba "Past Contests".
 
-<center>Figura 6 - Storyboard acessar o Contest System.
+<center>Figura 5 - Storyboard acessar o Contest System.
 
 ![](../../../assets/images/storyboard-ester.jpg)
 
@@ -69,9 +65,9 @@ Na figura 6, apresenta-se um storyboard no qual o usuário deseja acessar o sist
 
 ### **Acessar o "Forgot Login?" - Recuperação de login**
 
-Na figura 7, apresenta-se um storyboard no qual o usuário deseja recuperar seu login no site.
+Na figura 6, apresenta-se um storyboard no qual o usuário deseja recuperar seu login no site.
 
-<center>Figura 7 - Storyboard acessar o "Forgot Login?" - Recuperação de login
+<center>Figura 6 - Storyboard acessar o "Forgot Login?" - Recuperação de login
 
 ![](../../../assets/images/storyboard-kallyne.png)
 
@@ -79,9 +75,9 @@ Na figura 7, apresenta-se um storyboard no qual o usuário deseja recuperar seu 
 
 ### **Busca por uma página específica**
 
-Na figura 8, apresenta-se um storyboard no qual o usuário navega na aplicação buscando por uma página específica (página de contests) e enfrenta alguns problemas como ser redirecionado para páginas fora do domínio do Online Judge.
+Na figura 7, apresenta-se um storyboard no qual o usuário navega na aplicação buscando por uma página específica (página de contests) e enfrenta alguns problemas como ser redirecionado para páginas fora do domínio do Online Judge.
 
-<center>Figura 8 - Busca por uma página específica
+<center>Figura 7 - Busca por uma página específica
 
 ![](../../../assets/images/storyboard_henrique.jpeg)
 
@@ -96,3 +92,4 @@ Na figura 8, apresenta-se um storyboard no qual o usuário navega na aplicação
 | Versão | Data       | Descrição                           | Autor(es)                                                                                         | Revisor(es)                                     |
 | ------ | ---------- | ----------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | 1.0    | 29/10/2023 | Criação e desenvolvimento da página | [Pablo Guilherme](https://github.com/PabloGJBS), [Suzane Duarte](https://github.com/suzaneduarte) | [Luana Torres](https://github.com/luanatorress) |
+| 1.1    | 04/12/2023 | Correções do artefato | [Pablo Guilherme](https://github.com/PabloGJBS) | [Ester Lino](https://github.com/esteerlino) |
