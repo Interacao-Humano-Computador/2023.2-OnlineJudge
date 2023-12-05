@@ -44,11 +44,11 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para Analise de Ta
 
 | ID  |                                                         Questão                                                         | Resposta da inspeção em dupla | Respostas da inspeção individual | Observações |
 | :-: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------: | :------------------------------: | :---------: |
-|  1  | Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?  |                               |                                  |             |
-|  2  |        O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?         |                               |                                  |             |
-|  3  |         A análise de tarefas com o método HTA apresenta os componentes corretos objetivo, operação e relações?          |                               |                                  |             |
-|  4  | Possui a tabela HTA da tarefa descrevendo a tarefa, descrição, recomendações e problemas com os componentes teorizados? |                               |                                  |             |
-|  5  |                            As tabelas apresentam as entradas, ações, feedbacks e os planos?                             |                               |                                  |             |
+|  1  | Cada integrante da equipe do projeto especificou ao menos uma tarefa/funcionalidade do sistema na Análise das Tarefas?  |   SIM       |       SIM            |             |
+|  2  |        O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real?         |  SIM      |   SIM    |             |
+|  3  |         A análise de tarefas com o método HTA apresenta os componentes corretos objetivo, operação e relações?          |   SIM   |   SIM   |             |
+|  4  | Possui a tabela HTA da tarefa descrevendo a tarefa, descrição, recomendações e problemas com os componentes teorizados? |   SIM   |  SIM   |             |
+|  5  |                            As tabelas apresentam as entradas, ações, feedbacks e os planos?                             |   SIM     |   SIM      |             |
 
 Fonte:[Luana Torres](https://github.com/luanatorress).
 
@@ -58,13 +58,31 @@ Fonte:[Luana Torres](https://github.com/luanatorress).
 
 A seguir encontra-se um vídeo da inspeção realizada em dupla:
 
+<center>
+
+[Link para o video da inspeção em dupla](https://www.youtube.com/watch?v=1oPrc895l7A)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1oPrc895l7A?si=3ZHNjNLt5rLdTZx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Um vídeo de uma inspeção individual
 
 A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefato:
 
+[Link para o video da inspeção individual](https://youtu.be/gBbjViHHHlQ?si=g4-Hc53DOl0EpAYI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gBbjViHHHlQ?si=g4-Hc53DOl0EpAYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Problemas Encontrados e Sugestões de melhorias
 
+Através da checklist é possível concluir que não foram encontrados problemas ou necessidade de melhorias no artefato verificado.
+
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Como apresentado, não foram necessárias correções. Devido a este fato, não foi necessário fazer o vídeo de correção.
 
 ## Referências bibliográficas
 
@@ -83,3 +101,4 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 | Versão |    Data    |     Descrição     |                   Responsáveis                   |                   Revisor                   |
 | :----: | :--------: | :---------------: | :----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 04/12/2023 | Criação da página |  [Luana Torres](https://github.com/luanatorress) | [Ester Lino](https://github.com/esteerlino) |
+|  1.1   | 04/12/2023 | Finalização |  [Luana Torres](https://github.com/luanatorress) | [Ester Lino](https://github.com/esteerlino) |

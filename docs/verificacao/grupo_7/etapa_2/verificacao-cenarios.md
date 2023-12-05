@@ -45,15 +45,15 @@ _Tabela 2_ - Checklist para Análise de Cenários
 
 | ID  | Questão                                                                                                                | Resposta da inspeção em dupla | Respostas da inspeção individual | Comentário |
 | :-: | :--------------------------------------------------------------------------------------------------------------------- | :------: | :--------: | :--------: |
-|  1  | Existe o artefato Cenários? |          |            |            |
-|  2  | Os Cenários possuem um título? |         |            |            |
-|  3  | Os Cenários possuem atores? |          |          |            |
-|  4  | Esses atores são as Personas definidas no projeto? |       |         |            |
-|  5  | Os cenários possuem ambiente ou contexto? |        |            |            |
-|  6  | Os Cenários possuem objetivos que dirigem as tarefas que ele realiza? |        |            |            |
-|  7  | Os Cenários possuem tarefas? |         |            |            |
-|  8  | Os Cenários possuem as ações dos atores? |         |            |            |
-|  9  | Há ambiente, planejamento, ações, eventos, avaliação? |         |            |            |
+|  1  | Existe o artefato Cenários? |     SIM     |      SIM      |            |
+|  2  | Os Cenários possuem um título? |    SIM     |      SIM      |            |
+|  3  | Os Cenários possuem atores? |     SIM     |     SIM     |            |
+|  4  | Esses atores são as Personas definidas no projeto? |    SIM   |    SIM     |            |
+|  5  | Os cenários possuem ambiente ou contexto? |    SIM    |     SIM       |            |
+|  6  | Os Cenários possuem objetivos que dirigem as tarefas que ele realiza? |    SIM    |      SIM      |            |
+|  7  | Os Cenários possuem tarefas? |    SIM     |     SIM       |            |
+|  8  | Os Cenários possuem as ações dos atores? |    SIM     |     SIM       |            |
+|  9  | Há ambiente, planejamento, ações, eventos, avaliação? |    SIM     |     SIM       |            |
 
 
 Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
@@ -64,16 +64,33 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 A seguir encontra-se um vídeo da inspeção realizada em dupla:
 
+<center>
+
+[Link para o video da inspeção em dupla](https://www.youtube.com/watch?v=dMJBpuaDBCQ)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dMJBpuaDBCQ?si=PGYXMpRmULWV6QO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Um vídeo de uma inspeção individual
 
 A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefato:
 
+<center>
+
+[Link para o video da inspeção individual](https://youtu.be/K5rVimY1esQ?si=ifKtbxfwEdR_W238)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K5rVimY1esQ?si=ifKtbxfwEdR_W238" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Problemas Encontrados e Sugestões de melhorias
 
-
+Através da checklist é possível concluir que não foram encontrados problemas ou necessidade de melhorias no artefato verificado.
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
 
+Como apresentado, não foram necessárias correções. Devido a este fato, não foi necessário fazer o vídeo de correção.
 
 ## Referências bibliográficas
 
@@ -92,3 +109,4 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 04/12/2023 | Criação da página |  [Luana Torres](https://github.com/luanatorress)     | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 04/12/2023 | Finalização |  [Luana Torres](https://github.com/luanatorress)     | [Suzane Duarte](https://github.com/suzaneduarte) |

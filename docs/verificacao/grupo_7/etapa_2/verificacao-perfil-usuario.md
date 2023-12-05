@@ -46,16 +46,16 @@ A Tabela 2 apresenta o checklist referente aos itens exigidos para Perfil de Usu
 
 | ID  |        Questão       | Resposta da inspeção em dupla | Respostas da inspeção individual |     Comentário     |
 | :-: | :-------------------:| :--------------: |  :--------------: |  :----------------: |
-|  1  | O Perfil de Usuário possui dados demográficos (idade, sexo, status socioeconômico)? |        |     INCOMPLETO      |     Não possui status socioeconomico       |
+|  1  | O Perfil de Usuário possui dados demográficos (idade, sexo, status socioeconômico)? |   INCOMPLETO      |     INCOMPLETO      |     Não possui status socioeconomico       |
 |  2  | O Perfil de Usuário possui ocupação? |    SIM      |     SIM       |            |
 |  3  | O Perfil de Usuário possui grau de instrução? |     SIM    |    SIM    |            |
 |  4  | O Perfil de Usuário identifica como o usuário gosta de aprender (com ou sem ajuda)? |    NÃO    |    NÃO    |            |
-|  5  | O Perfil de Usuário possui experiência com o produto ou similares ao avaliado? |    NÃO    |     SIM     |            |
+|  5  | O Perfil de Usuário possui experiência com o produto ou similares ao avaliado? |    SIM   |     SIM     |            |
 |  6  | O Perfil de Usuário possui tecnologia disponível (dispositivos)? |   SIM     |    SIM    |            |
 |  7 | O Perfil de Usuário possui domínio tecnológico (tecnofóbico ou tecnófilo)? |     SIM    |      SIM      |            |
-|  8  | O Perfil de Usuário possui os objetivos do mesmo? |        |    NÃO        |            |
+|  8  | O Perfil de Usuário possui os objetivos do mesmo? |    NÃO    |    NÃO        |            |
 |  9  | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários? |    SIM     |    SIM     |            |
-|  10  | O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema: idade, experiência; atitudes (tecnófilos, tecnófobos); e tarefas primárias? |    SIM     |     SIM       |            |
+|  10  | O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema: idade, experiência; atitudes (tecnófilos, tecnófobos) e tarefas primárias? |    SIM     |     SIM       |            |
 
 Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
@@ -65,15 +65,44 @@ Fonte: [Luana Torres](https://github.com/luanatorress), 2023.
 
 A seguir encontra-se um vídeo da inspeção realizada em dupla:
 
+<center>
+
+[Link para o video da inspeção em dupla](https://www.youtube.com/watch?v=FDOg8g2ajE8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FDOg8g2ajE8?si=q14HcDMPi9Znnb7r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
 ## Um vídeo de uma inspeção individual
 
 A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefato:
 
+<center>
+
+[Link para o video da inspeção em dupla](https://youtu.be/xEONE1-6p-I?si=71GNU3TbsM1ksXQr)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xEONE1-6p-I?si=71GNU3TbsM1ksXQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 ## Problemas Encontrados e Sugestões de melhorias
 
+- Adicionar status socioeconomico de perfil de usuário;
+- Adicionar como o usuário gosta de aprender;
+- Adicionar objetivos ao artefato.
 
 
 ## Um vídeo para a correção do artefato com a pessoa que fez o artefato e com a pessoa que fez a inspeção
+
+Foi feito um vídeo com o produtor do artefato. O vídeo esta demonstrado a seguir:
+
+<center>
+
+[Link para o video de correção](https://www.youtube.com/watch?v=Umz3sjcrUgk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Umz3sjcrUgk?si=Gzb1SepJtFa48qG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
 
 
 ## Referências bibliográficas
@@ -93,3 +122,5 @@ A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefa
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 04/12/2023 | Criação da página |  [Luana Torres](https://github.com/luanatorress)     | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.1   | 04/12/2023 | Completando checklist |  [Luana Torres](https://github.com/luanatorress)     | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.2   | 04/12/2023 | Finalização |  [Luana Torres](https://github.com/luanatorress)     | [Suzane Duarte](https://github.com/suzaneduarte) |
