@@ -1,4 +1,4 @@
-# **Apresentação 07**
+# **Apresentação 06**
 
 Nessa página consta o vídeo de apresentação do conteúdo entregue na Etapa 7 do projeto da disciplina de Interação Humano-Computador pelo grupo 07, avaliador do site OnlineJudge.
 
