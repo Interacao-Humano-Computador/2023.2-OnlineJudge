@@ -10,7 +10,14 @@
 
 ### Tabela da Kallyne
 
-### Tabela do Pablo
+### Tabela de Avaliações dos protótipos (Pablo)
+
+**Tabela 4**: Avaliações dos protótipos
+
+| Entrevistador(es) | Protótipo Avaliado |Método| Número de Participantes |Resultados|
+|---------------|--------------------|-------------------------|---|---|
+||Protótipo de papel|||
+||Protótipo de alta fidelidade|||
 
 ### Tabela Henrique
 
