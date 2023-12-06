@@ -109,4 +109,4 @@ Fonte: [Eric Camargo](https://github.com/Ericcs10), 2023.
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Eric Camrgo](https://github.com/ericcs10) | |
+|  1.0   | 03/12/2023 | Criação da página |  [Eric Camrgo](https://github.com/ericcs10) | [Luana Torres](https://github.com/luanatorress) |
