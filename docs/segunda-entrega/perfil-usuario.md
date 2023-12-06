@@ -4,6 +4,10 @@
 
 Definir o perfil de usuário é uma etapa essencial no desenvolvimento do projeto, visto que possibilita compreender quem são os indivíduos que utilizam o sistema. Segundo Barbosa e Silva, esse perfil descreve as características dos usuários, possibilitando entender quais são os objetivos que o sistema deve atender ao ser projetado. Essa abordagem auxilia no entendimento das necessidades, preferências e requisitos dos usuários, contribuindo para o desenvolvimento de um sistema mais eficaz e voltado para atender às suas demandas. <a id="anchor_1" href="#REF1">1</a>.
 
+## Objetivo
+
+O artefato presente busca, através do uso de metodologias específicas de pesquisa, estudar o público-alvo da plataforma avaliada para que seja definido os atributos do perfil, ou dos perfis, de usuário que devem ser considerados em todas as propostas, sugestões e decisões que serão levantadas no desenvolvimento do projeto.
+
 ## Metodologia
 
 Para a elaboração do perfil de usuário foram utilizadas duas técnicas: questionário e entrevista. O questionário foi elaborado no Google Forms e possuía 15 questões que incluiam dados demográficos e informações sobre a experiência do usuário ao utilizar o site. O formulário coletou respostas durante os dias 13/10/2023 e 15/10/2023. No artefato de Aspectos Éticos é apresentado o Termo de Consentimento. A entrevista, conduzida pela integrante [Kallyne Macedo](https://github.com/kalipassos), foi realizada, em momentos distintos através da ferramenta de vídeo-chamada da plataforma WhatsApp, com três estudantes universitários de Engenharia de Software na Universidade de Brasília (UnB), do sexo masculino, identificados como E1, E2 e E3 (Entrevistado 1, 2 e 3) e contava com 6 perguntas sobre a experiência com sites de juiz online e com o Online Judge.
@@ -235,3 +239,4 @@ Após a coleta e os estudos dos dados obtidos com o questionário e as entrevist
 | :----: | :--------: | :------------------------------------------: | :---------------------------: | :-----------: |
 |  1.0   | 15/10/2023 | Inicialização da página de perfil de usuário | [Ester Lino](https://github.com/esteerlino) | [Luana Torres](https://github.com/luanatorress) |
 | 1.1    | 16/10/2023 | Entrevistas e conclusão | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino) |
+| 1.2    | 06/12/2023 | Correção pós verificação | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino) |

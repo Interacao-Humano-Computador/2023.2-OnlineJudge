@@ -34,7 +34,7 @@ O objetivo da avaliação é encontrar, através do registro de suas percepçõe
 
 ## E - Explorar perguntas a serem respondidas com a avaliação
 
-A partir do apresentado por Barbosa e Silva [1] no capítulo 11 como perguntas indicadas para a avaliação da Interação Humano-Computador em decorrência dos objetivos a serem alcançados, foram definidas como questões a serem respondidas com a avaliação:
+A partir do apresentado por Barbosa e Silva [1] no capítulo 11 como perguntas indicadas para a avaliação da Interação Humano-Computador em decorrência dos objetivos a serem alcançados e considerando as tarefas "Submeter um problema", "Procurar um problema", "Contatar Colaboradores", "Editar Conta", "Visualizar minhas submissões", "Acessar o Contest System" e "Recuperação de Login", foram definidas como questões a serem respondidas com a avaliação:
 <br>
 
 <center><b>Tabela 2:</b> Questões a serem respondidas com a avaliação<br>
@@ -75,7 +75,11 @@ O planejamento de uma avaliação envolve questões práticas. Abaixo estão des
 
 ### Recrutamento
 
-Para o recrutamento de pessoas a serem entrevistadas, será analisado o [perfil de usuário] e [personas] definidos para escolher dentro destes critérios. O número de entrevistados será de 7 usuários para que assim, cada integrante da equipe, composta por 7 pessoas, possa ter a oportunidade de avaliar um usuário.
+Para o recrutamento de pessoas a serem entrevistadas, será analisado o perfil de usuário e as personas definidas para escolher dentro destes critérios. Dumas e Redish (1999)<a id="anchor_2" href="#REF2">2</a> relatam que uma avaliação de IHC em geral envolve de cinco a 12 usuários. Nielsen (2000)<a id="anchor_3" href="#REF3">3</a>, por sua vez, afirma que bastam cinco usuários para encontrarmos a maioria dos problemas na interface (85%, segundo o seu experimento), alcançando uma boa relação custo–benefício. Caso seja necessário obter resultados estatisticamente significativos, a amostra de usuários deve ser suficientemente grande e representativa. Entretanto, o tempo e outros recursos necessários para a coleta e análise de dados de muitos usuários pode inviabilizar uma abordagem estatística. Por isso, uma avaliação de IHC com frequência pretende apenas obter indícios sobre a qualidade de uso do sistema e sobre como aumentá-la.
+
+Baseado nisso e também na necessidade de que cada membro do grupo faça uma avaliação, e, por consequência uma entrevista, estaremos recrutando sete (7) entrevistados que se encaixem em nosso perfil de usuário. Para realização das entrevistas, o recrutamento será realizado de forma presencial na Universidade de Brasília (UnB), Campus Gama (FGA).
+
+Baseado nisso e também na necessidade de que cada membro do grupo faça uma avaliação, e, por consequência uma entrevista, estaremos recrutando sete (7) entrevistados que se encaixem em nosso perfil de usuário. Para realização das entrevistas, o recrutamento será realizado de forma presencial na Universidade de Brasília (UnB), Campus Gama (FGA).
 
 ### Custos
 
@@ -145,6 +149,10 @@ Gravado na plataforma Teams.
 
 > <a id="REF1" href="#anchor_1">1. </a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br> > <a id="REF2" href="#anchor_2">2. </a>JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homem-computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.<br>
 
+> <a id="REF2" href="#anchor_2">2.</a>Dumas, J.S. & Redish, J.C. A Practical Guide to Usability Testing, edição revisada. Exeter, UK: Intellect, 1999.<br>
+
+> <a id="REF3" href="#anchor_3">3.</a>Nielsen, J. Why You Only Need to Test with 5 Users, Alertbox. Disponível em http://www.useit.com/alertbox/20000319.html, 2000.<br>
+
 ## Histórico de versões
 
 | Versão | Data       | Descrição                                     | Autor(es)                                       | Revisor(es)                                     |
@@ -153,3 +161,4 @@ Gravado na plataforma Teams.
 | 1.1    | 29/10/2023 | Continuação do Framework                      | [Luana Torres](https://github.com/luanatorres)  | [Kallyne Macedo](https://github.com/kalipassos) |
 | 1.2    | 29/10/2023 | Etapa de explorar perguntas e escolher método | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino)     |
 | 1.3    | 30/10/2023 | Adição do teste piloto                        | [Kallyne Macedo](https://github.com/kalipassos) | [Luana Torres](https://github.com/luanatorres)  |
+| 1.4    | 06/12/2023 | Correção pós verificação                       | [Kallyne Macedo](https://github.com/kalipassos) | [Ester Lino](https://github.com/esteerlino)     |
