@@ -53,6 +53,7 @@ Fonte: [Ester Lino](https://github.com/esteerlino)
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 > DE MELO, Arthur. Entrega Final: Técnicas Utilizadas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/entrega-final/tecnicas-utilizadas/>>. Acesso em: 12 de novembro 2023.
 
 ## Histórico de versão
