@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse artefato refere-se à entrega final da disciplina de Interação Humano-Computador. Portanto, a seguir será apresentado todas as técnicas utilizadas para elaboração dos artefatos ao longo da disciplina.
+Esse artefato se refer à entrega final do grupo 7 da disciplina Interação Humano Computador e nele estão contidas as técnicas utilizadas para elaboração dos artefatos ao longo da disciplina.
 
 ### Técnicas
 
@@ -30,9 +30,11 @@ A tabela 1 a seguir explicita as técnicas, quem as utilizou e em quais artefato
 
 </center>
 
-## Bibliografia
+## Conclusão
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+A maior parte das técnicas utilizadas no projeto foram executadas por todos os integrantes do grupo, o que garantiu a todos uma experiência real de como lidar com cada técnica empregada.
+
+## Bibliografia
 
 > DE MELO, Arthur. Entrega Final: Técnicas Utilizadas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/entrega-final/tecnicas-utilizadas/>>. Acesso em: 12 de novembro 2023.
 
@@ -43,3 +45,4 @@ A tabela 1 a seguir explicita as técnicas, quem as utilizou e em quais artefato
 |  1.0   | 06/12/2023 | Criação da página | [Pablo Guilherme](https://github.com/PabloGJBS) | [Ester Lino](https://github.com/esteerlino) |
 |  1.1   | 06/12/2023 | Tabela com as técnicas utilizadas | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS)|
 |  1.2   | 06/12/2023 | Alterações após revisão da página | [Suzane Duarte](https://github.com/suzaneduarte) | [Ester Lino](https://github.com/esteerlino) |
+|  1.3   | 06/12/2023 | Finalização da página | [Ester Lino](https://github.com/esteerlino) | [Suzane Duarte](https://github.com/suzaneduarte) |
