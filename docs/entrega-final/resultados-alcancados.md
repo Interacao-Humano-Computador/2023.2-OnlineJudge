@@ -2,25 +2,28 @@
 
 ## Introdução
 
-As tecnologias de informação e comunicação (TICs) oferecem maneiras eficientes de processar e trocar informações com diversos objetivos. Elas permitem criar sistemas computacionais embutidos nos mais diferentes dispositivos eletrônicos, que combinam poder computacional e meios de comunicação (telefonia, rádio, TV, Internet etc.). Diante disso, o desenvolvedor de TICs deve estar ciente de que o resultado do
-seu trabalho vai modifi car a vida de muitas pessoas (inclusive a sua própria) de forma
-previsível e imprevisível. Sempre que possível, devemos tentar prever essas modifi cações e encaminhá-las da melhor forma possível. Para os casos em que não é possível
-prever os efeitos das novas tecnologias, é importante que o desenvolvedor também
-crie salvaguardas para os usuários, por exemplo, fornecendo maneiras fáceis de desfazer ações e maneiras alternativas de realizar as coisas sem depender da tecnologia
-desenvolvida. Quem desenvolve tecnologia precisa sempre se perguntar: o que acontece se o usuário errar, a tecnologia falhar ou permanecer indisponível por algum
-tempo? As salvaguardas serão desenvolvidas de acordo com as respostas a perguntas
-como essa
-
+Após finalizadas as entregas de todos os artefato solicitados durante o semestre, foi possível realizar um levantamento dos resultados alcançados com a execução deste projeto. Fundamentando-se nisso, a seguir iremos apresentar as principais conclusões obtidas sobre tais resultados.
 
 ## Objetivos do projeto 
 
+De acordo com Barbosa e Silva<a id="anchor_1" href="#REF1">¹</a>, embora IHC seja uma área de cunho bastante prático, muitos dos métodos, modelos e técnicas utilizados se baseiam em teorias, em particular teorias de base psicológica (principalmente cognitiva), etnográfica e semiótica. Conhecer essas teorias é fundamental, não apenas para melhor entender os métodos, modelos e técnicas apresentados na literatura de IHC, mas também para saber quando utilizá-los e identificar a necessidade de adaptá-los em projetos de design particulares, seja em domínios complexos ou envolvendo tecnologias inovadoras. A partir disso, é possível inferir que este projeto teve como objetivo principal contribuir na aquisição de conhecimento e experiência prática dos integrantes do Grupo 7, de forma que através das atividades propostas durante o semestre seja possível que os estudantes tenham aparato suficiente para aplicar tais conhecimentos em outros projetos futuros. 
+
 ## Resultados Alcançados
+
+
 
 ## Facilidades encontradas 
 
+
+
 ## Desafios encontrados 
 
+
+
 ## Conslusão 
+
+
+
 
 # Bibliografia
 
