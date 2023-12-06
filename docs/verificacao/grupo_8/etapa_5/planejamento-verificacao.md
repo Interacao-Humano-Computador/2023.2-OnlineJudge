@@ -168,6 +168,6 @@ Fonte: [Pablo Guilherme](https://github.com/PabloGJBS), 2023.
 
 | Versão | Data       | Descrição                                                | Autor(es)                                       | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 14/11/2023 | Criação da página de Planejamento de verificação Etapa 5 | [Pablo Guilherme](https://github.com/PabloGJBS) | - |
- `1.1`  | 14/11/2023 | Adicionando checklist da | [Pablo Guilherme](https://github.com/PabloGJBS) | - |
-  `1.2`  | 15/11/2023 | Adicionando os checklists que faltam | [Henrique Torres](https://github.com/henriqtorresl) | - |
+| `1.0`  | 14/11/2023 | Criação da página de Planejamento de verificação Etapa 5 | [Pablo Guilherme](https://github.com/PabloGJBS) | [Luana Torres](https://github.com/luanatorress) |
+ `1.1`  | 14/11/2023 | Adicionando checklists | [Pablo Guilherme](https://github.com/PabloGJBS) | [Kallyne Macedo](https://github.com/kalipassos) |
+  `1.2`  | 15/11/2023 | Adicionando os checklists que faltaram | [Henrique Torres](https://github.com/henriqtorresl) | [Suzane Duarte](https://github.com/suzaneduarte) |
