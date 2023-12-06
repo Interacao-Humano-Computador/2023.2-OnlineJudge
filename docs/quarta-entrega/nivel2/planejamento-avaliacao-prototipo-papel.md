@@ -67,19 +67,21 @@ Apesar de serem realizadas presencialmente, as entrevistas deverão ser gravadas
 
 ### Prazos
 
+A tabela 2 apresenta o Cronograma Planejado Executadopela equipe para realizar as entrevistas.
+
 <center>
 
-**Tabela 2** - Cronograma Planejado.
+**Tabela 2** - Cronograma Planejado e Executado.
 
 | Entrevistadores | Entrevistado | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| Pedro Miguel | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
-| [Pablo Guilherme](https://github.com/PabloGJBS) |  Arthur Marmo| 13:40 | 13:55 |  21/11/2023 | Universidade de Brasília |
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | Isadora Maciel |- | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
-|[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| Ingrid Alves | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
-|[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | - | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| - | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | -  | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
+| [Eric Camargo](https://github.com/ericcs10) | Gabriel Esteves | 15:10 | 15:19 | 22/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
+| [Ester Lino](https://github.com/esteerlino) | Pedro Miguel | 10:00 | 10:10 | 22/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
+| [Henrique Torres](https://github.com/heriqtorresl) | João Pedro Gomes | 14:00 | 14:10 | 22/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
+|  [Kallyne Macedo](https://github.com/kalipassos) | Júlia Gabriela | 10:15 | 10:19 | 21/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
+| [Luana Torres](https://github.com/luanatorress)  | Caio Mesquita | 09:50 | 10:00 | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
+| [Pablo Guilherme](https://github.com/PabloGJBS)  | Arthur Marmo | 13:40 | 13:55 | 21/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
+| [Suzane Duarte](https://github.com/suzaneduarte) | Letícia Picanço  | 13:00 | 13:15 | 21/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
 
 Fonte: [Ester Lino](https://github.com/esteerlino), [Pablo Guilherme](https://github.com/PabloGJBS).
 
@@ -137,3 +139,4 @@ A seguir está disponível o vídeo do Teste de Piloto, realizado di 10/11/2023 
 | ------ | ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1.0    | 06/11/2023 | Criação da página            | [Ester Lino](https://github.com/esteerlino) , [Pablo Guilherme](https://github.com/PabloGJBS) | [Eric Camargo](https://github.com/ericcs10) |
 | 1.1    | 13/11/2023 | Inclusão do Teste Piloto            | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+| 1.2    | 06/12/2023 | Correção da tabela do Cronograma Planejado e Executado | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |
