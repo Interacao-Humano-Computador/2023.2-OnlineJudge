@@ -145,7 +145,13 @@ nav:
               - Verificação do relato dos resultados do protótipo de papel: verificacao/grupo_7/etapa_7/verificacao-relato-dos-resultados-do-prototipo-de-papel.md
               - Verificação do relato dos resultados do protótipo de alta fidelidade: verificacao/grupo_7/etapa_7/verificacao-relato-resultados-prototipo-alta-fidelidade.md
           - Etapa 8:
-              - Verificação do relato dos resultados do protótipo de alta fidelidade: verificacao/grupo_7/etapa_8/verificacao-relato-dos-resultados-prototipo-de-alta.md
+              - Verificação do relato dos resultados do protótipo de alta fidelidade: verificacao/grupo_7/etapa_8/verificacao-relato-dos-resultados-prototipo-de-alta.md   
+  - Entrega final:
+      - Ciclo de vida: entrega-final/ciclo-de-vida.md
+
+
+
+
 theme:
   name: material
   features:
