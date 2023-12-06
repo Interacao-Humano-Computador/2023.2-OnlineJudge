@@ -453,7 +453,7 @@ _Tabela 13_ - Cronograma da avaliação do prototipo de papel.
 
 |                   Entrevistador                    | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |             Local              |
 | :------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :----------------------------: |
-| [Henrique Torres](https://github.com/heriqtorresl) | Henrique Torres |       14:00       |     14:10      | 22/11/2023 | Universidade de Brasília - FGA |
+| [Henrique Torres](https://github.com/heriqtorresl) | João Pedro Gomes |       14:00       |     14:10      | 22/11/2023 | Universidade de Brasília - FGA |
 
 Fonte: [Henrique Torres](https://github.com/heriqtorresl)
 
@@ -520,3 +520,4 @@ O usuário entrevistado não sugeriu nenhuma melhoria ao protótipo de papel.
 | 1.3    | 22/11/2023 | Adicionando entrevista 6 | [Kallyne Macedo](https://github.com/kalipassos)  | [Eric Camargo](https://github.com/ericcs10)         |
 | 1.4    | 22/11/2023 | Adicionando entrevista 5 | [Ester Lino](https://github.com/esteerlino)      | [Eric Camargo](https://github.com/ericcs10)         |
 | 1.5    | 22/11/2023 | Adicionando entrevista 1 | [Suzane Duarte](https://github.com/suzaneduarte) | [Henrique Torres](https://github.com/henriqtorresl) |
+| 1.6    | 06/12/2023 | Correção na entrevista 7 | [Ester Lino](https://github.com/esteerlino) | [Henrique Torres](https://github.com/henriqtorresl) |
