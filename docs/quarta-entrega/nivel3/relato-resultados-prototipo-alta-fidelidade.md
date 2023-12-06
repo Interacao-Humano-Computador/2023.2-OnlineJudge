@@ -526,10 +526,6 @@ Fonte: [Kallyne Macedo](https://github.com/kalipassos).
 
 </center>
 
-[Link da gravação da entrevista](https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 #### 6.6 Análise e interpretação dos dados coletados
 
 A partir dos dados coletados, é possível observar que o protótipo de alta fidelidade é fácil e intuitivo. Além de tudo, ele cumpre sua função de avaliar a eficácia do design. A partir das respostas obtidas, observa-se que o design foi eficiente e que não houveram dificuldades no entendimento e realização das tarefas.
@@ -627,6 +623,10 @@ O usuário sentiu facilidade e conforto ao navegar no protótipo de alta fidelid
 
 O usuário entrevistado não sugeriu nenhuma melhoria.
 
+[Link da gravação da entrevista](https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3yngOK0G_A?si=xiplmCu94Z77qpbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -643,3 +643,4 @@ O usuário entrevistado não sugeriu nenhuma melhoria.
 | 1.5    | 29/11/2023 | Adicionando Avaliação 1        | [Suzane Duarte](https://github.com/suzaneduarte)    | [Henrique Torres](https://github.com/henriqtorresl)          |
 | 1.6    | 29/11/2023 | Adicionando Avaliação 6        | [Kallyne Macedo](https://github.com/kalipassos)     | [Suzane Duarte](https://github.com/suzaneduarte)             |
 | 2.0    | 29/11/2023 | Realizando ajustes no artefato | [Suzane Duarte](https://github.com/suzaneduarte)    | [Kallyne Macedo](https://github.com/kalipassos) |
+| 2.1    | 06/12/2023 | Correção pós verificação       | [Kallyne Macedo](https://github.com/kalipassos)     | [Suzane Duarte](https://github.com/suzaneduarte)             |
