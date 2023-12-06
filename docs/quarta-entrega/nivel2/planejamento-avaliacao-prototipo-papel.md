@@ -74,7 +74,7 @@ Apesar de serem realizadas presencialmente, as entrevistas deverão ser gravadas
 | Entrevistadores | Entrevistado | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 | [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| Pedro Miguel | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
-| [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | Sofia Victória | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
+| [Pablo Guilherme](https://github.com/PabloGJBS) |  Arthur Marmo| 13:40 | 13:55 |  21/11/2023 | Universidade de Brasília |
 | [Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | Isadora Maciel |- | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |
 |[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl)| Ingrid Alves | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams)|
 |[Eric Camargo](https://github.com/ericcs10) e [Henrique Torres](https://github.com/henriqtorresl) | - | - | - | 14/11/2023 | Faculdade do Gama (gravação pelo Microsoft Teams) |

@@ -37,12 +37,17 @@ Fonte: [Ester Lino](https://github.com/esteerlino)
 
 ### Tabela de Avaliações dos protótipos (Pablo)
 
+<center>
 **Tabela 4**: Avaliações dos protótipos
 
-| Entrevistador(es) | Protótipo Avaliado |Método| Número de Participantes |Resultados|
+| Protótipo Avaliado | Entrevistadores |Método| Número de Entrevistados |Resultados|
 |---------------|--------------------|-------------------------|---|---|
-||Protótipo de papel|||
-||Protótipo de alta fidelidade|||
+|Protótipo de papel|[Eric Camargo](https://github.com/ericcs10)<br> [Ester Lino](https://github.com/esteerlino)<br>  [Henrique Landin](https://github.com/henriqtorresl)<br> [Kallyne Macedo](https://github.com/kalipassos)<br>  [Luana Torres](https://github.com/luanatorress)<br>  [Pablo Guilherme](https://github.com/PabloGJBS)<br>  [Suzane Duarte](https://github.com/suzaneduarte)|Entrevista|7|[Relato dos resultados protótipo de papel](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel2/relato-dos-resultados-do-protótipo-de-papel/#12-metodo-de-avaliacao-empregado)|
+|Protótipo de alta fidelidade|[Eric Camargo](https://github.com/ericcs10)<br> [Ester Lino](https://github.com/esteerlino)<br>  [Henrique Landin](https://github.com/henriqtorresl)<br> [Kallyne Macedo](https://github.com/kalipassos)<br>  [Luana Torres](https://github.com/luanatorress)<br>  [Pablo Guilherme](https://github.com/PabloGJBS)<br>  [Suzane Duarte](https://github.com/suzaneduarte)|Teste de usabilidade|7|[Relato dos resultados protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.2-OnlineJudge/quarta-entrega/nivel3/relato-resultados-prototipo-alta-fidelidade/)|
+
+**Fonte**: [Pablo Guilherme](https://github.com/PabloGJBS)
+
+</center>
 
 ### Tabela Henrique
 
@@ -61,4 +66,5 @@ Fonte: [Ester Lino](https://github.com/esteerlino)
 | Versão |    Data    |                  Descrição                   |         Responsáveis          |    Revisor    |
 | :----: | :--------: | :------------------------------------------: | :---------------------------: | :-----------: |
 |  1.0   | 06/12/2023 | Criação da página | [Pablo Guilherme](https://github.com/PabloGJBS) | [Ester Lino](https://github.com/esteerlino) |
-|  1.1   | 06/12/2023 | Tabela com as técnicas utilizadas | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+|  1.1   | 06/12/2023 | Tabela com as técnicas utilizadas | [Ester Lino](https://github.com/esteerlino) | [Pablo Guilherme](https://github.com/PabloGJBS)|
+|  1.2   | 06/12/2023 | Tabela de avalição dos protótipos | [Pablo Guilherme](https://github.com/PabloGJBS) | [Ester Lino](https://github.com/esteerlino) |
