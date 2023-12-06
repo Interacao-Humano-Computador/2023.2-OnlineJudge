@@ -46,4 +46,4 @@ Arthur de Melo, Douglas Alves, Gabriel Campello, Geovanna Maciel, Matheus Henriq
 
 | Versão | Data       | Descrição                                                                | Autor(es)                                                                                        | Revisor(es)                                     |
 | ------ | ---------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| 1.0    | 30/10/2023 | Criação da página de Relato dos resultados e adicionando o conteúdo dela |[Eric Camargo](https://github.com/Ericcs10) | [Pablo Guilherme](https://github.com/PabloGJBS) |
+| 1.0    | 06/12/2023 | Criação da página de Relato dos resultados e adicionando o conteúdo dela |[Eric Camargo](https://github.com/Ericcs10) | [Pablo Guilherme](https://github.com/PabloGJBS) |
