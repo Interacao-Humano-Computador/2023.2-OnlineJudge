@@ -38,15 +38,27 @@ Foi possível identificar que as dificuldades do grupo ao longo deste projeto fo
 
 A partir do principal objetivo mencionado acima, é possível definir a partir dos tópicos apresentados a seguir que os resultados alcançados com a execução do projeto foram: 
 
-- Uma maior compreensão dos princípios teóricos vistos em sala de aula, de modo que os estudantes conseguiram de fato aplicá-los na prática. Sendo assim, foi possível adquirir uma base sólida de tais aprendizados;  
+- Uma maior compreensão dos princípios teóricos vistos em sala de aula, de modo que os estudantes conseguiram de fato aplicá-los na prática. Sendo assim, foi possível adquirir uma base sólida sobre tais aprendizados e compreender como os fundamentos teóricos influenciam métodos e modelos utilizados ao longo do projeto e avaliações realizadas; 
 
 - Foram realizados testes rigorosos nos protótipos, obtendo resultados positivos que validaram sua funcionalidade e eficácia. De forma que as atividades realizadas, como por exemplo as entrevistas, auxiliaram no diagnostico de problemas de forma a gerar uma proposta viável e abrangente para as atualizações necessárias no site;
 
 - Apresentação de um protótipo altamente funcional que não apenas atendeu, mas superou as expectativas do grupo, fornecendo uma proposta robusta e eficaz para possíveis alterações de melhoria no site; 
 
+- Compreensão dos benefícios proporcionados por incorporar práticas de IHC no desenvolvimento de sistemas computacionais interativos e de avaliar a qualidade de uso de um sistema interativo; 
+
+- Os estudantes conseguiram identificar maneiras de integrar atividades de Interação Humano-Computador (IHC) e Engenharia de Software, incorporando, inclusive, métodos ágeis no desenvolvimento de software;
+
+- Discussões significativas durante o desenvolvimento dos artefatos, como de que forma as representações utilizadas para organizar o espaço de problema (personas, cenários..) permitiram registrar as informações elicitadas durante o levantamento e a análise de objetivos e necessidades dos usuários;
+
+- Possibilidade para comparar diferentes métodos de avaliação de acordo com artefatos avaliados e, consequentemente, de qual tipo de resultado é produzido.
+
 ## Conslusão 
 
-Portanto, após conclusão das entregas e uma análise aprofundada dos resultados alcançados possível concluir que inspirados por princípios fundamentais da disciplina de Interação Humano-Computador, o grupo conseguiu capacitar seus membros para aplicar tais conhecimentos em projetos futuros. Em síntese, o projeto não apenas alcançou seus objetivos estabelecidos previamente, mas também proporcionou aprendizados valiosos, destacando a importância da colaboração, adaptação e compreensão prática dos princípios discutidos em IHC.
+Portanto, após finalizar as entregas e realizar uma análise aprofundada dos resultados alcançados foi possível concluir que inspirados por princípios fundamentais da disciplina de Interação Humano-Computador, o grupo conseguiu capacitar seus membros para aplicar os conhecimentos adquiridos. Isto, é os resultados obtidos na execução do projeto refletem uma significativa compreensão e aplicação prática dos princípios teóricos abordados em sala de aula. Os estudantes adquiriram uma base sólida, destacando a influência dos fundamentos teóricos nos métodos e modelos utilizados, além de compreenderem os benefícios da incorporação de práticas de Interação Humano-Computador (IHC) no desenvolvimento de sistemas interativos. 
+
+Além disso, os diversos testes realizados nos protótipos geraram resultados positivos, validando a funcionalidade e eficácia do projeto, e culminando na apresentação de um protótipo altamente funcional que superou as expectativas do grupo. A integração bem-sucedida das atividades de IHC e a disciplina dos estudantes envolvidos demonstra um resulado extremamente positivo. 
+
+Em síntese, o projeto não apenas alcançou seus objetivos estabelecidos previamente, mas também proporcionou aprendizados valiosos, destacando a importância da colaboração, adaptação e compreensão prática dos princípios discutidos em IHC.
 
 
 # Bibliografia
