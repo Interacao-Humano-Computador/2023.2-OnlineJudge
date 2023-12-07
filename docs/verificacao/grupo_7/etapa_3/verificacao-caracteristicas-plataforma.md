@@ -91,5 +91,5 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 
 | Versão |    Data    |         Descrição         |                  Responsáveis                   |                     Revisor                      |
 | :----: | :--------: | :-----------------------: | :---------------------------------------------: | :----------------------------------------------: |
-|  1.0   | 03/12/2023 |     Criação da página     |  [Pablo Guilherme](https://github.com/PabloJBS) |   [esteerlino](https://github.com/esteerlino)    |
+|  1.0   | 03/12/2023 |     Criação da página     |  [Pablo Guilherme](https://github.com/PabloJBS) |   [Ester Lino](https://github.com/esteerlino)    |
 |  1.1   | 04/12/2023 | Preenchimento das tabelas | [Pablo Guilherme](https://github.com/PabloJBS)  | [Suzane Duarte](https://github.com/suzaneduarte) |

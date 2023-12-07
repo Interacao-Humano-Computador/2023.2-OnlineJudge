@@ -89,5 +89,5 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
-|  1.0   | 03/12/2023 | Criação da página |  [Eric Camrgo](https://github.com/ericcs10) | |
+|  1.0   | 03/12/2023 | Criação da página |  [Eric Camrgo](https://github.com/ericcs10) | [Luana Torres](https://github.com/luanatorress) |
 |  1.1   | 03/12/2023 | Adicionando o checklist |  [Henrique Torres](https://github.com/henriqtorresl) | [Luana Torres](https://github.com/luanatorress) |
