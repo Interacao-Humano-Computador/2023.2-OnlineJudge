@@ -90,4 +90,4 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 03/12/2023 | Criação da página |  [Pablo Guilherme](https://github.com/PabloJBS) | [esteerlino](https://github.com/esteerlino) |
-|  1.1   | 03/12/2023 | Adicionando o checklist |  [Henrique Torres](https://github.com/henriqtorresl) |  |
+|  1.1   | 03/12/2023 | Adicionando o checklist |  [Henrique Torres](https://github.com/henriqtorresl) |[Luana Torres](https://github.com/luanatorress)  |

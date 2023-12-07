@@ -63,10 +63,6 @@ Fonte: [Luana Torres](https://github.com/luanatorress) e [Ester Lino](https://gi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e46ZgJlzYus?si=NsoPWM0bnvOsdA2h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Um vídeo de uma inspeção individual
-
-A seguir é apresentado o vídeo realizado pelo Avaliador Principal deste artefato:
-
 ## Problemas Encontrados e Sugestões de melhorias
 
 Após realizar a inspeção individual deste artefato foi possível identificar que não há nenhuma sugestão de melhoria para ser realizado nessa etapa.
@@ -84,3 +80,4 @@ Não foi necessário realizar nenhum vídeo para a correção do artefato, uma v
 | Versão |    Data    |                 Descrição                  |                   Responsáveis                    |                   Revisor                   |
 | :----: | :--------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
 |  1.0   | 04/12/2023 | Criação da página |  [Luana Torres](https://github.com/luanatorress)     | [Suzane Duarte](https://github.com/suzaneduarte) |
+|  1.2   | 04/12/2023 | Inclusão do vídeo de inspeção em dupla |  [Ester Lino](https://github.com/esteerlino) e [Luana Torres](https://github.com/luanatorress)     | [Suzane Duarte](https://github.com/suzaneduarte) |
